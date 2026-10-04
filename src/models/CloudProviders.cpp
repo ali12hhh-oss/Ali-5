@@ -367,7 +367,10 @@ std::shared_ptr<Transcript> speechToText(const QString &key, const QString &mode
                                QStringLiteral("form-data; name=\"file\"; filename=\"audio.flac\""));
             filePart.setHeader(QNetworkRequest::ContentTypeHeader, QStringLiteral("audio/flac"));
             auto *file = new QFile(audioPath, multi);
-            file->open(QIODevice::ReadOnly);
+            if (!file->open(QIODevice::ReadOnly)) {
+                file->deleteLater();
+                return nullptr;
+            }
             filePart.setBodyDevice(file);
             multi->append(filePart);
             QNetworkReply *reply = nam.post(elevenRequest(QStringLiteral("/v1/speech-to-text"), key, 60 * 60 * 1000), multi);
