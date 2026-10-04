@@ -84,6 +84,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Restore executable permissions
+        run: chmod +x third_party/*.sh scripts/*.sh
+
       - name: Install flatpak tooling
         timeout-minutes: 10
         env:
@@ -165,6 +168,9 @@ jobs:
     timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
+
+      - name: Restore executable permissions
+        run: chmod +x third_party/*.sh scripts/*.sh
 
       # cmake is deliberately not installed from apt: the runner image already carries a newer one
       # on PATH and apt's would only add ambiguity.
@@ -402,6 +408,9 @@ jobs:
     timeout-minutes: 180
     steps:
       - uses: actions/checkout@v4
+
+      - name: Restore executable permissions
+        run: chmod +x third_party/*.sh scripts/*.sh
 
       - name: Install Qt
         uses: jurplel/install-qt-action@v4
@@ -670,6 +679,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Restore executable permissions
+        run: chmod +x third_party/*.sh scripts/*.sh
+
       # Homebrew, not install-qt-action: its Qt links the same FFmpeg Drift does, so unlike the
       # other jobs there is no second libavcodec in the process to keep ABI-compatible.
       - name: Install dependencies
@@ -824,6 +836,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Restore executable permissions
+        run: chmod +x third_party/*.sh scripts/*.sh
+
       # makepkg refuses to run as root, and archlinux:base-devel's default
       # user is root — create an unprivileged builder with passwordless sudo
       # (needed for makepkg -s to pacman-install PKGBUILD's own depends).
@@ -912,6 +927,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+
+      - name: Restore executable permissions
+        run: chmod +x third_party/*.sh scripts/*.sh
 
       - name: Free disk space
         run: |
