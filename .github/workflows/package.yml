@@ -1055,7 +1055,8 @@ jobs:
           if [ -z "${DRIFT_ANDROID_VERSION_CODE}" ]; then
             unset DRIFT_ANDROID_VERSION_CODE
           fi
-          ./scripts/build.sh "$ABI" Release
+          chmod +x scripts/*.sh third_party/*.sh
+          bash ./scripts/build.sh "$ABI" Release
           ccache -s
 
       - name: Save ccache
