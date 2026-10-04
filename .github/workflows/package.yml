@@ -1103,8 +1103,8 @@ jobs:
           fi
           "$BT/zipalign" -p -f 4 "$APK" "$RUNNER_TEMP/aligned.apk"
           "$BT/apksigner" sign \
-            --ks "$KS" --ks-pass env:KEYSTORE_PASSWORD --key-pass env:KEYSTORE_PASSWORD \
-            --ks-key-alias "$KEY_ALIAS" \
+            --ks "$KS" --ks-pass pass:"$SIGN_PASSWORD" --key-pass pass:"$SIGN_PASSWORD" \
+            --ks-key-alias "$SIGN_ALIAS" \
             --out "$OUT" "$RUNNER_TEMP/aligned.apk"
           "$BT/apksigner" verify --print-certs "$OUT"
           rm -f "$KS"
