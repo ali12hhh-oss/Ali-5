@@ -116,6 +116,7 @@ public class Haptics
     // QAndroidApplication::context() resolves to, and that is only guaranteed to be a Context —
     // typing the parameter as Activity would make an unexpected one a crash inside getWindow()
     // instead of a route that quietly falls through to the vibrator.
+    @SuppressWarnings("deprecation")
     public static void perform(Context context, int intent)
     {
         if (context == null)
