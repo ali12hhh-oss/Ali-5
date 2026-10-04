@@ -350,7 +350,7 @@ std::shared_ptr<Transcript> speechToText(const QString &key, const QString &mode
                                          const ProgressFn &uploadProgress, CloudError *error)
 {
     const Response r = run(
-        [&](QNetworkAccessManager &nam) {
+        [&](QNetworkAccessManager &nam) -> QNetworkReply * {
             auto *multi = new QHttpMultiPart(QHttpMultiPart::FormDataType);
             multi->append(textPart(QStringLiteral("model_id"), model));
             multi->append(textPart(QStringLiteral("timestamps_granularity"), QStringLiteral("word")));
