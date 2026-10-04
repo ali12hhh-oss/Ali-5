@@ -151,6 +151,9 @@ jobs:
           path: third_party/prebuilt/skia/linux-x64
           key: v2-skia-tests-linux-x64-${{ hashFiles('third_party/build-skia.sh') }}
 
+      - name: Restore executable permissions
+        run: chmod +x third_party/*.sh scripts/*.sh
+
       - name: Build Skia
         if: steps.skia-cache.outputs.cache-hit != 'true'
         run: |
