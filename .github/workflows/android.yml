@@ -94,6 +94,9 @@ jobs:
           path: third_party/prebuilt
           key: v2-android-deps-${{ env.ABI }}-${{ env.NDK_VERSION }}-${{ hashFiles('third_party/build-android.sh', 'third_party/build-skia.sh') }}
 
+      - name: Restore executable permissions
+        run: chmod +x third_party/*.sh scripts/*.sh
+
       - name: Build native dependencies
         if: steps.deps-cache.outputs.cache-hit != 'true'
         run: |
