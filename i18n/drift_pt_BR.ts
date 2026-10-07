@@ -3577,7 +3577,7 @@
     </message>
     <message>
         <source>This clip is already being enhanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Este clipe já está sendo aprimorado</translation>
     </message>
     <message>
         <source>%1 (enhanced %2x)</source>
