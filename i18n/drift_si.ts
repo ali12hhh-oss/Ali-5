@@ -21,15 +21,15 @@
     </message>
     <message>
         <source>Could not open that file.</source>
-        <translation type="unfinished"></translation>
+        <translation>එම ගොනුව විවෘත කළ නොහැක.</translation>
     </message>
     <message>
         <source>Could not read that file.</source>
-        <translation type="unfinished"></translation>
+        <translation>එම ගොනුව කියවිය නොහැක.</translation>
     </message>
     <message>
         <source>This is not a Drift effect file (%1).</source>
-        <translation type="unfinished"></translation>
+        <translation>මෙය Drift ප්‍රයෝග ගොනුවක් නොවේ (%1).</translation>
     </message>
 </context>
 <context>
@@ -56,39 +56,39 @@
     </message>
     <message>
         <source>Import Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>ප්‍රයෝගය ආයාත කරන්න</translation>
     </message>
     <message>
         <source>Drift effect (*.driftfx)</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift ප්‍රයෝගය (*.driftfx)</translation>
     </message>
     <message>
         <source>Install this transition?</source>
-        <translation type="unfinished"></translation>
+        <translation>මෙම සංක්‍රමණය ස්ථාපනය කරන්නද?</translation>
     </message>
     <message>
         <source>Install this effect?</source>
-        <translation type="unfinished"></translation>
+        <translation>මෙම ප්‍රයෝගය ස්ථාපනය කරන්නද?</translation>
     </message>
     <message>
         <source>“%1” by %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%2 විසින් “%1”</translation>
     </message>
     <message>
         <source>“%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1”</translation>
     </message>
     <message>
         <source>%1 was made by a user, not the Drift team, and nothing has checked it. Only install files you trust.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 නිර්මාණය කර ඇත්තේ Drift කණ්ඩායම නොව පරිශීලකයෙකු වන අතර එය පරීක්ෂා කර නැත. ඔබ විශ්වාස කරන ගොනු පමණක් ස්ථාපනය කරන්න.</translation>
     </message>
     <message>
         <source>Could not install “%1”: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1” ස්ථාපනය කළ නොහැක: %2</translation>
     </message>
     <message>
         <source>Installed “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1” ස්ථාපනය කරන ලදී</translation>
     </message>
     <message>
         <source>All</source>
@@ -124,7 +124,7 @@
     </message>
     <message>
         <source>Import effect file…</source>
-        <translation type="unfinished"></translation>
+        <translation>ප්‍රයෝග ගොනුව ආයාත කරන්න…</translation>
     </message>
     <message>
         <source>Checking for extras…</source>
@@ -180,7 +180,7 @@
     </message>
     <message>
         <source>Requires Drift %1 or newer</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift %1 හෝ නව අනුවාදයක් අවශ්‍යයි</translation>
     </message>
     <message>
         <source>%1 download</source>
@@ -3529,11 +3529,11 @@
     </message>
     <message>
         <source>Rendering…</source>
-        <translation type="unfinished"></translation>
+        <translation>Render කරමින්…</translation>
     </message>
     <message>
         <source>Render Trimmed Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>කපාගත් පිටපත Render කරන්න</translation>
     </message>
     <message>
         <source>Transform selection together</source>
@@ -3569,11 +3569,11 @@
     </message>
     <message>
         <source>Select a video clip to enhance</source>
-        <translation type="unfinished"></translation>
+        <translation>වැඩිදියුණු කළ යුතු වීඩියෝ ක්ලිප් එක තෝරන්න</translation>
     </message>
     <message>
         <source>Choose a model to enhance with</source>
-        <translation type="unfinished"></translation>
+        <translation>වැඩිදියුණු කිරීමට ආකෘතියක් තෝරන්න</translation>
     </message>
     <message>
         <source>This clip is already being enhanced</source>
@@ -3589,15 +3589,15 @@
     </message>
     <message>
         <source>Enhance Video</source>
-        <translation type="unfinished"></translation>
+        <translation>වීඩියෝව වැඩිදියුණු කරන්න</translation>
     </message>
     <message>
         <source>Enhanced video added to the media bin</source>
-        <translation type="unfinished"></translation>
+        <translation>වැඩිදියුණු කළ වීඩියෝව මාධ්‍ය බඳුනට එක් කරන ලදී</translation>
     </message>
     <message>
         <source>Enhancing video…</source>
-        <translation type="unfinished"></translation>
+        <translation>වීඩියෝව වැඩිදියුණු කරමින්…</translation>
     </message>
     <message>
         <source>This build of Drift has no video stabilization support</source>
