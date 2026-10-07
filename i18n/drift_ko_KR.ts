@@ -21,15 +21,15 @@
     </message>
     <message>
         <source>Could not open that file.</source>
-        <translation type="unfinished"></translation>
+        <translation>파일을 열 수 없습니다.</translation>
     </message>
     <message>
         <source>Could not read that file.</source>
-        <translation type="unfinished"></translation>
+        <translation>파일을 읽을 수 없습니다.</translation>
     </message>
     <message>
         <source>This is not a Drift effect file (%1).</source>
-        <translation type="unfinished"></translation>
+        <translation>이 파일은 Drift 효과 파일(%1)이 아닙니다.</translation>
     </message>
 </context>
 <context>
@@ -56,39 +56,39 @@
     </message>
     <message>
         <source>Import Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>효과 가져오기</translation>
     </message>
     <message>
         <source>Drift effect (*.driftfx)</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift 효과 (*.driftfx)</translation>
     </message>
     <message>
         <source>Install this transition?</source>
-        <translation type="unfinished"></translation>
+        <translation>이 전환을 설치하시겠습니까?</translation>
     </message>
     <message>
         <source>Install this effect?</source>
-        <translation type="unfinished"></translation>
+        <translation>이 효과를 설치하시겠습니까?</translation>
     </message>
     <message>
         <source>“%1” by %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%2의 “%1”</translation>
     </message>
     <message>
         <source>“%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1”</translation>
     </message>
     <message>
         <source>%1 was made by a user, not the Drift team, and nothing has checked it. Only install files you trust.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1은(는) Drift 팀이 아닌 사용자가 만들었으며 검증되지 않았습니다. 신뢰할 수 있는 파일만 설치하세요.</translation>
     </message>
     <message>
         <source>Could not install “%1”: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1”을(를) 설치할 수 없습니다: %2</translation>
     </message>
     <message>
         <source>Installed “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1” 설치됨</translation>
     </message>
     <message>
         <source>All</source>
@@ -124,7 +124,7 @@
     </message>
     <message>
         <source>Import effect file…</source>
-        <translation type="unfinished"></translation>
+        <translation>효과 파일 가져오기…</translation>
     </message>
     <message>
         <source>Checking for extras…</source>
@@ -180,7 +180,7 @@
     </message>
     <message>
         <source>Requires Drift %1 or newer</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift %1 이상이 필요합니다</translation>
     </message>
     <message>
         <source>%1 download</source>
@@ -3522,11 +3522,11 @@
     </message>
     <message>
         <source>Rendering…</source>
-        <translation type="unfinished"></translation>
+        <translation>렌더링 중…</translation>
     </message>
     <message>
         <source>Render Trimmed Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>잘라낸 복사본 렌더링</translation>
     </message>
     <message>
         <source>Transform selection together</source>
@@ -3562,11 +3562,11 @@
     </message>
     <message>
         <source>Select a video clip to enhance</source>
-        <translation type="unfinished"></translation>
+        <translation>향상할 동영상 클립을 선택하세요</translation>
     </message>
     <message>
         <source>Choose a model to enhance with</source>
-        <translation type="unfinished"></translation>
+        <translation>향상에 사용할 모델을 선택하세요</translation>
     </message>
     <message>
         <source>This clip is already being enhanced</source>
@@ -3582,15 +3582,15 @@
     </message>
     <message>
         <source>Enhance Video</source>
-        <translation type="unfinished"></translation>
+        <translation>동영상 향상</translation>
     </message>
     <message>
         <source>Enhanced video added to the media bin</source>
-        <translation type="unfinished"></translation>
+        <translation>향상된 동영상이 미디어 보관함에 추가되었습니다</translation>
     </message>
     <message>
         <source>Enhancing video…</source>
-        <translation type="unfinished"></translation>
+        <translation>동영상 향상 중…</translation>
     </message>
     <message>
         <source>This build of Drift has no video stabilization support</source>
