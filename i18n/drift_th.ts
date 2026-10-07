@@ -46,6 +46,6 @@
 </context>
 <context>
     <name>AppController</name>
-    <message><source>System default</source><translation>إعداد النظام الافتراضي</translation></message>
+    <message><source>System default</source><translation>ค่าเริ่มต้นของระบบ</translation></message>
 </context>
 </TS>
