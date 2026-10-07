@@ -21,15 +21,15 @@
     </message>
     <message>
         <source>Could not open that file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabuksan ang file na iyon.</translation>
     </message>
     <message>
         <source>Could not read that file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabasa ang file na iyon.</translation>
     </message>
     <message>
         <source>This is not a Drift effect file (%1).</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ito Drift effect file (%1).</translation>
     </message>
 </context>
 <context>
@@ -56,39 +56,39 @@
     </message>
     <message>
         <source>Import Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-import ng Effect</translation>
     </message>
     <message>
         <source>Drift effect (*.driftfx)</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift effect (*.driftfx)</translation>
     </message>
     <message>
         <source>Install this transition?</source>
-        <translation type="unfinished"></translation>
+        <translation>I-install ang transition na ito?</translation>
     </message>
     <message>
         <source>Install this effect?</source>
-        <translation type="unfinished"></translation>
+        <translation>I-install ang effect na ito?</translation>
     </message>
     <message>
         <source>“%1” by %2</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1” ni %2</translation>
     </message>
     <message>
         <source>“%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1”</translation>
     </message>
     <message>
         <source>%1 was made by a user, not the Drift team, and nothing has checked it. Only install files you trust.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang %1 ay ginawa ng isang user, hindi ng Drift team, at hindi ito nasuri. Mag-install lamang ng mga file na pinagkakatiwalaan mo.</translation>
     </message>
     <message>
         <source>Could not install “%1”: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-install ang “%1”: %2</translation>
     </message>
     <message>
         <source>Installed “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-install ang “%1”</translation>
     </message>
     <message>
         <source>All</source>
@@ -124,7 +124,7 @@
     </message>
     <message>
         <source>Import effect file…</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-import ng effect file…</translation>
     </message>
     <message>
         <source>Checking for extras…</source>
@@ -180,7 +180,7 @@
     </message>
     <message>
         <source>Requires Drift %1 or newer</source>
-        <translation type="unfinished"></translation>
+        <translation>Kailangan ang Drift %1 o mas bago</translation>
     </message>
     <message>
         <source>%1 download</source>
@@ -3533,11 +3533,11 @@
     </message>
     <message>
         <source>Rendering…</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagre-render…</translation>
     </message>
     <message>
         <source>Render Trimmed Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>I-render ang Trimmed Copy</translation>
     </message>
     <message>
         <source>Transform selection together</source>
@@ -3573,11 +3573,11 @@
     </message>
     <message>
         <source>Select a video clip to enhance</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng video clip na pag-iigihin</translation>
     </message>
     <message>
         <source>Choose a model to enhance with</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng modelong gagamitin sa pag-iigi</translation>
     </message>
     <message>
         <source>This clip is already being enhanced</source>
@@ -3593,15 +3593,15 @@
     </message>
     <message>
         <source>Enhance Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagandahin ang Video</translation>
     </message>
     <message>
         <source>Enhanced video added to the media bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Naidagdag ang pinahusay na video sa media bin</translation>
     </message>
     <message>
         <source>Enhancing video…</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinapahusay ang video…</translation>
     </message>
     <message>
         <source>This build of Drift has no video stabilization support</source>
