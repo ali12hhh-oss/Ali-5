@@ -3570,7 +3570,7 @@
     </message>
     <message>
         <source>This clip is already being enhanced</source>
-        <translation type="unfinished"></translation>
+        <translation>此片段正在增强中</translation>
     </message>
     <message>
         <source>%1 (enhanced %2x)</source>
@@ -3594,11 +3594,11 @@
     </message>
     <message>
         <source>This build of Drift has no video stabilization support</source>
-        <translation type="unfinished"></translation>
+        <translation>此版本的 Drift 不支持视频防抖</translation>
     </message>
     <message>
         <source>Stabilization rendering failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>防抖渲染失败。</translation>
     </message>
     <message>
         <source>Stabilization rendering failed: %1</source>
@@ -3606,7 +3606,7 @@
     </message>
     <message>
         <source>Stabilization analysis failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>防抖分析失败。</translation>
     </message>
     <message>
         <source>Stabilization analysis failed: %1</source>
