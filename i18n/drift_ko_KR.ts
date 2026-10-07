@@ -3570,7 +3570,7 @@
     </message>
     <message>
         <source>This clip is already being enhanced</source>
-        <translation type="unfinished"></translation>
+        <translation>이 클립은 이미 향상 중입니다</translation>
     </message>
     <message>
         <source>%1 (enhanced %2x)</source>
