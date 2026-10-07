@@ -21,15 +21,15 @@
     </message>
     <message>
         <source>Could not open that file.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo abrir ese archivo.</translation>
     </message>
     <message>
         <source>Could not read that file.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo leer ese archivo.</translation>
     </message>
     <message>
         <source>This is not a Drift effect file (%1).</source>
-        <translation type="unfinished"></translation>
+        <translation>Este no es un archivo de efectos de Drift (%1).</translation>
     </message>
 </context>
 <context>
@@ -56,39 +56,39 @@
     </message>
     <message>
         <source>Import Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar efecto</translation>
     </message>
     <message>
         <source>Drift effect (*.driftfx)</source>
-        <translation type="unfinished"></translation>
+        <translation>Efecto de Drift (*.driftfx)</translation>
     </message>
     <message>
         <source>Install this transition?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Instalar esta transición?</translation>
     </message>
     <message>
         <source>Install this effect?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Instalar este efecto?</translation>
     </message>
     <message>
         <source>“%1” by %2</source>
-        <translation type="unfinished"></translation>
+        <translation>«%1» de %2</translation>
     </message>
     <message>
         <source>“%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>«%1»</translation>
     </message>
     <message>
         <source>%1 was made by a user, not the Drift team, and nothing has checked it. Only install files you trust.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 fue creado por un usuario, no por el equipo de Drift, y no ha sido verificado. Instala solo archivos de confianza.</translation>
     </message>
     <message>
         <source>Could not install “%1”: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo instalar «%1»: %2</translation>
     </message>
     <message>
         <source>Installed “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>«%1» instalado</translation>
     </message>
     <message>
         <source>All</source>
@@ -124,7 +124,7 @@
     </message>
     <message>
         <source>Import effect file…</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar archivo de efecto…</translation>
     </message>
     <message>
         <source>Checking for extras…</source>
@@ -180,7 +180,7 @@
     </message>
     <message>
         <source>Requires Drift %1 or newer</source>
-        <translation type="unfinished"></translation>
+        <translation>Requiere Drift %1 o posterior</translation>
     </message>
     <message>
         <source>%1 download</source>
@@ -3537,11 +3537,11 @@
     </message>
     <message>
         <source>Rendering…</source>
-        <translation type="unfinished"></translation>
+        <translation>Renderizando…</translation>
     </message>
     <message>
         <source>Render Trimmed Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Renderizar copia recortada</translation>
     </message>
     <message>
         <source>Transform selection together</source>
@@ -3577,11 +3577,11 @@
     </message>
     <message>
         <source>Select a video clip to enhance</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona un clip de video para mejorarlo</translation>
     </message>
     <message>
         <source>Choose a model to enhance with</source>
-        <translation type="unfinished"></translation>
+        <translation>Elige un modelo para mejorarlo</translation>
     </message>
     <message>
         <source>This clip is already being enhanced</source>
@@ -3597,15 +3597,15 @@
     </message>
     <message>
         <source>Enhance Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Mejorar video</translation>
     </message>
     <message>
         <source>Enhanced video added to the media bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Video mejorado añadido a la biblioteca multimedia</translation>
     </message>
     <message>
         <source>Enhancing video…</source>
-        <translation type="unfinished"></translation>
+        <translation>Mejorando video…</translation>
     </message>
     <message>
         <source>This build of Drift has no video stabilization support</source>
