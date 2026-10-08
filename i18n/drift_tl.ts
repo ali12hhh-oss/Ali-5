@@ -927,9 +927,9 @@
     </message>
     <message numerus="yes">
         <source>%n coin(s)</source>
-        <translation>
-            <numerusform>%n barya</numerusform>
-            <numerusform>%n mga barya</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -2601,22 +2601,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Could not create a proxy for %1: %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your graphics driver is too old for the preview, which needs OpenGL 3.3. See Help → Debug info.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your graphics driver only provides %1; the preview needs OpenGL 3.3. See Help → Debug info.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>GPU preview rendering is unavailable on this machine. See Help → Debug info.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Media and referenced clips removed</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2632,11 +2616,23 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Media rotated</source>
+        <source>Your graphics driver is too old for the preview, which needs OpenGL 3.3. See Help → Debug info.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Folder moved</source>
+        <source>Could not create a proxy for %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your graphics driver only provides %1; the preview needs OpenGL 3.3. See Help → Debug info.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GPU preview rendering is unavailable on this machine. See Help → Debug info.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Media rotated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4131,10 +4127,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Track renamed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Move track</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4586,6 +4578,14 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Folder moved</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Track renamed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Orientation changed</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4818,14 +4818,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Import</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Import video, audio or image files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>More import options</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4839,6 +4831,14 @@
     </message>
     <message>
         <source>Collect Media to Folder…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import video, audio or image files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6481,7 +6481,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Face effects follow one clip&apos;s faces. Add this to a clip rather than to an adjustment layer.</source>
+        <source>These effects follow a face, so the clip has to be scanned before they do anything.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6489,7 +6489,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>These effects follow a face, so the clip has to be scanned before they do anything.</source>
+        <source>Face effects follow one clip&apos;s faces. Add this to a clip rather than to an adjustment layer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8386,11 +8386,11 @@
 <context>
     <name>MasksInspector</name>
     <message>
-        <source>Shape</source>
+        <source>None</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>None</source>
+        <source>Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12265,8 +12265,8 @@ If playback stutters, try another.</source>
     <message numerus="yes">
         <source>%n coin(s)</source>
         <translation type="unfinished">
-            <numerusform>%n barya</numerusform>
-            <numerusform>%n mga barya</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -13972,18 +13972,6 @@ If playback stutters, try another.</source>
 <context>
     <name>TrackHeaderColumn</name>
     <message>
-        <source>Rename track</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rename</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Track name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delete this track?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14095,7 +14083,35 @@ If playback stutters, try another.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clips show: %1 (click to change)</source>
+        <source>Covers…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select covered clips</source>
+        <translation type="unfinished">Piliin ang mga sakop na clip</translation>
+    </message>
+    <message>
+        <source>Add transform layer above</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Track height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Short</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tall</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Taller</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll over the header to fine-tune</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14143,48 +14159,32 @@ If playback stutters, try another.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Rename…</source>
-        <translation type="unfinished">Palitan ang pangalan…</translation>
-    </message>
-    <message>
-        <source>Covers…</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Select covered clips</source>
-        <translation type="unfinished">Piliin ang mga sakop na clip</translation>
-    </message>
-    <message>
-        <source>Add transform layer above</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Track height</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Short</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Tall</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Taller</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Scroll over the header to fine-tune</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Taller row</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shorter row</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename track</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Track name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clips show: %1 (click to change)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename…</source>
+        <translation type="unfinished">Palitan ang pangalan…</translation>
     </message>
 </context>
 <context>
