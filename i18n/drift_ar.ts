@@ -3333,7 +3333,7 @@
     </message>
     <message>
         <source>%1 (trimmed)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (مقصوص)</translation>
     </message>
     <message>
         <source>Rendering…</source>
@@ -3501,11 +3501,11 @@
     </message>
     <message>
         <source>%1 (enhanced %2x)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (محسّن %2x)</translation>
     </message>
     <message>
         <source>%1 (enhanced)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (محسّن)</translation>
     </message>
     <message>
         <source>Enhance Video</source>
@@ -5915,14 +5915,7 @@
     </message>
     <message numerus="yes">
         <source>%n style(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>%n نمط</translation>
     </message>
     <message>
         <source>%1 s</source>
@@ -6650,7 +6643,7 @@
     </message>
     <message>
         <source>This clip was scanned before the face mesh was supported. Re-detect faces to enable 3D Face Mesh and Face Retouch.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم فحص هذا المقطع قبل دعم شبكة الوجه. أعد اكتشاف الوجوه لتفعيل شبكة الوجه ثلاثية الأبعاد وتنقيح الوجه.</translation>
     </message>
     <message>
         <source>Depth</source>
@@ -7074,27 +7067,27 @@
     </message>
     <message>
         <source>variants must be a list</source>
-        <translation type="unfinished"></translation>
+        <translation>يجب أن تكون المتغيرات قائمة</translation>
     </message>
     <message>
         <source>a variant must be an object</source>
-        <translation type="unfinished"></translation>
+        <translation>يجب أن يكون المتغير كائنًا</translation>
     </message>
     <message>
         <source>invalid variant id “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>معرّف المتغير غير صالح «%1»</translation>
     </message>
     <message>
         <source>a variant must name a .glb model in the prop folder</source>
-        <translation type="unfinished"></translation>
+        <translation>يجب أن يحدد المتغير نموذج ‎.glb في مجلد العناصر</translation>
     </message>
     <message>
         <source>a variant thumbnail must be a file in the prop folder</source>
-        <translation type="unfinished"></translation>
+        <translation>يجب أن تكون صورة مصغرة للمتغير ملفًا في مجلد العناصر</translation>
     </message>
     <message>
         <source>a variant names the same file twice</source>
-        <translation type="unfinished"></translation>
+        <translation>يشير المتغير إلى الملف نفسه مرتين</translation>
     </message>
     <message>
         <source>Could not open %1</source>
@@ -8041,15 +8034,15 @@
     <name>Main</name>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ملف</translation>
     </message>
     <message>
         <source>&amp;New Project</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;مشروع جديد</translation>
     </message>
     <message>
         <source>&amp;Open Project…</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;فتح مشروع…</translation>
     </message>
     <message>
         <source>&amp;Save Project</source>
