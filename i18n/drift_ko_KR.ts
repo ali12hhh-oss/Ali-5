@@ -6517,7 +6517,7 @@
     </message>
     <message>
         <source>This clip was scanned before the face mesh was supported. Re-detect faces to enable 3D Face Mesh and Face Retouch.</source>
-        <translation type="unfinished"></translation>
+        <translation>효과 템플릿<\/translation>
     </message>
     <message>
         <source>Move to a time, set a value, then click the diamond to add a keyframe. With Auto keyframes on, dragging a slider also creates them.</source>
@@ -6929,27 +6929,27 @@
     </message>
     <message>
         <source>variants must be a list</source>
-        <translation type="unfinished"></translation>
+        <translation>클립에 적용할 수 있도록 저장된 효과 묶음<\/translation>
     </message>
     <message>
         <source>a variant must be an object</source>
-        <translation type="unfinished"></translation>
+        <translation>장면<\/translation>
     </message>
     <message>
         <source>invalid variant id “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>이 편집의 여러 구간으로 이동<\/translation>
     </message>
     <message>
         <source>a variant must name a .glb model in the prop folder</source>
-        <translation type="unfinished"></translation>
+        <translation>마스크<\/translation>
     </message>
     <message>
         <source>a variant thumbnail must be a file in the prop folder</source>
-        <translation type="unfinished"></translation>
+        <translation>선택한 클립에서 모양이나 피사체 분리<\/translation>
     </message>
     <message>
         <source>a variant names the same file twice</source>
-        <translation type="unfinished"></translation>
+        <translation>레이어 변형<\/translation>
     </message>
     <message>
         <source>Could not open %1</source>
@@ -8051,19 +8051,19 @@
     </message>
     <message>
         <source>&amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>여러 트랙을 하나처럼 이동, 크기 조절 또는 기울이기<\/translation>
     </message>
     <message>
         <source>Landscape Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>클립을 탭해 편집<\/translation>
     </message>
     <message>
         <source>Portrait Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>길이<\/translation>
     </message>
     <message>
         <source>Auto Workspace (Follow Canvas)</source>
-        <translation type="unfinished"></translation>
+        <translation>곡선<\/translation>
     </message>
     <message>
         <source>Downloads</source>
@@ -8075,23 +8075,23 @@
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>바꾸기<\/translation>
     </message>
     <message>
         <source>Keyboard Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>삭제<\/translation>
     </message>
     <message>
         <source>Extras…</source>
-        <translation type="unfinished"></translation>
+        <translation>분할<\/translation>
     </message>
     <message>
         <source>Check for Updates…</source>
-        <translation type="unfinished"></translation>
+        <translation>변형<\/translation>
     </message>
     <message>
         <source>Debug Info…</source>
-        <translation type="unfinished"></translation>
+        <translation>함께 변형<\/translation>
     </message>
     <message>
         <source>Still opening a project — try again in a moment.</source>
@@ -8631,7 +8631,7 @@
     </message>
     <message>
         <source>Trim, crop and upscale…</source>
-        <translation type="unfinished"></translation>
+        <translation>페이드<\/translation>
     </message>
     <message>
         <source>Replace media…</source>
@@ -8867,27 +8867,27 @@
     </message>
     <message>
         <source>Upscale this video?</source>
-        <translation type="unfinished"></translation>
+        <translation>속도<\/translation>
     </message>
     <message>
         <source>%1p</source>
-        <translation type="unfinished"></translation>
+        <translation>복제<\/translation>
     </message>
     <message>
         <source>Length %1</source>
-        <translation type="unfinished"></translation>
+        <translation>더 보기<\/translation>
     </message>
     <message>
         <source>This video is under 700 pixels on its shorter side. Upscaling it with an AI model can make it look sharper.</source>
-        <translation type="unfinished"></translation>
+        <translation>맞춤<\/translation>
     </message>
     <message>
         <source>This resolution is already good for most projects. You can still upscale it.</source>
-        <translation type="unfinished"></translation>
+        <translation>분석 중…<\/translation>
     </message>
     <message>
         <source>Done keeps the original video and stores this range and framing. Upscale renders them as a new video in the media bin, then opens it in the Enhance window.</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오만<\/translation>
     </message>
     <message>
         <source>Saving…</source>
@@ -8895,7 +8895,7 @@
     </message>
     <message>
         <source>Choose the part and framing to keep, then Next.</source>
-        <translation type="unfinished"></translation>
+        <translation>현재 시간에 클립이 없습니다<\/translation>
     </message>
     <message>
         <source>Save writes a new file over this item in the bin.</source>
@@ -8927,7 +8927,7 @@
     </message>
     <message>
         <source>Upscale…</source>
-        <translation type="unfinished"></translation>
+        <translation>GPU 미리보기를 사용할 수 없습니다<\/translation>
     </message>
     <message>
         <source>Save</source>
@@ -8935,7 +8935,7 @@
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>화질: %1<\/translation>
     </message>
     <message>
         <source>Done</source>
@@ -9758,11 +9758,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Set Drift to High performance in Windows Settings &gt; Display &gt; Graphics, then restart Drift.</source>
-        <translation type="unfinished"></translation>
+        <translation>안내선<\/translation>
     </message>
     <message>
         <source>Open graphics settings</source>
-        <translation type="unfinished"></translation>
+        <translation>위치 이동<\/translation>
     </message>
 </context>
 <context>
@@ -10322,7 +10322,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Loading the models…</source>
-        <translation type="unfinished"></translation>
+        <translation>1초 뒤로<\/translation>
     </message>
     <message>
         <source>%1 s</source>
@@ -10334,19 +10334,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 h %2 min</source>
-        <translation type="unfinished"></translation>
+        <translation>이전 프레임<\/translation>
     </message>
     <message>
         <source>Enhancing… %1% — about %2 left</source>
-        <translation type="unfinished"></translation>
+        <translation>일시정지<\/translation>
     </message>
     <message>
         <source>Enhancing… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>재생<\/translation>
     </message>
     <message>
         <source>Enhancing this frame… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>다음 프레임<\/translation>
     </message>
     <message>
         <source>Scanning frame %1 of %2…</source>
@@ -10532,7 +10532,7 @@ If playback stutters, try another.</source>
     <name>RestoreWindow</name>
     <message>
         <source>under a second</source>
-        <translation type="unfinished"></translation>
+        <translation>1초 앞으로<\/translation>
     </message>
     <message>
         <source>%1 s</source>
@@ -10544,11 +10544,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 h %2 min</source>
-        <translation type="unfinished"></translation>
+        <translation>보기 및 재생 설정<\/translation>
     </message>
     <message>
         <source>%1 s per frame</source>
-        <translation type="unfinished"></translation>
+        <translation>전체 화면 미리보기 종료<\/translation>
     </message>
     <message>
         <source>Enhance video</source>
