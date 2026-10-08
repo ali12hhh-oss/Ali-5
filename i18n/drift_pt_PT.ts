@@ -3,66 +3,66 @@
 <TS version="2.1" language="pt_PT" sourcelanguage="en">
 <context>
     <name>AddonManager</name>
-    <message>
+    
         <source>Automatic (recommended)</source>
         <translation>Automático (recomendado)</translation>
     </message>
-    <message>
+    
         <source>This computer</source>
         <translation>Este computador</translation>
     </message>
-    <message>
+    
         <source>NVIDIA graphics (faster)</source>
         <translation>Placa de vídeo NVIDIA (mais rápido)</translation>
     </message>
-    <message>
+    
         <source>Graphics card (faster)</source>
         <translation>Placa de vídeo (mais rápido)</translation>
     </message>
-    <message>
+    
         <source>Could not open that file.</source>
         <translation>Não foi possível abrir o ficheiro.</translation>
     </message>
-    <message>
+    
         <source>Could not read that file.</source>
         <translation>Não foi possível ler o ficheiro.</translation>
     </message>
-    <message>
+    
         <source>This is not a Drift effect file (%1).</source>
         <translation>Este não é um ficheiro de efeitos do Drift (%1).</translation>
     </message>
 </context>
 <context>
     <name>AddonManagerDialog</name>
-    <message>
+    
         <source>Extras</source>
         <translation>Extras</translation>
     </message>
-    <message>
+    
         <source>Close</source>
         <translation>Fechar</translation>
     </message>
-    <message>
+    
         <source>Remove this pack?</source>
         <translation>Remover este pacote?</translation>
     </message>
-    <message>
+    
         <source>Remove</source>
         <translation>Remover</translation>
     </message>
-    <message>
+    
         <source>“%1” and its downloaded data will be deleted. You can install it again later.</source>
         <translation>“%1” e os dados transferidos serão excluídos. Você pode instalar de novo mais tarde.</translation>
     </message>
-    <message>
+    
         <source>Import Effect</source>
         <translation>Importar efeito</translation>
     </message>
-    <message>
+    
         <source>Drift effect (*.driftfx)</source>
         <translation>Efeito Drift (*.driftfx)</translation>
     </message>
-    <message>
+    
         <source>Install this transition?</source>
         <translation>Instalar esta transição?</translation>
     </message>
@@ -3525,7 +3525,7 @@
     </message>
     <message>
         <source>%1 (trimmed)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (cortado)</translation>
     </message>
     <message>
         <source>Rendering…</source>
@@ -3581,11 +3581,11 @@
     </message>
     <message>
         <source>%1 (enhanced %2x)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (melhorado %2x)</translation>
     </message>
     <message>
         <source>%1 (enhanced)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (melhorado)</translation>
     </message>
     <message>
         <source>Enhance Video</source>
@@ -3929,7 +3929,7 @@
     </message>
     <message>
         <source>That style shares its folder with other styles</source>
-        <translation type="unfinished"></translation>
+        <translation>Esse estilo partilha a pasta com outros estilos</translation>
     </message>
     <message>
         <source>Could not delete the face prop</source>
@@ -6638,7 +6638,7 @@
     </message>
     <message>
         <source>Face %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Rosto %1</translation>
     </message>
     <message>
         <source>Anything in “%1” nearer than Distance passes in front of this layer.</source>
@@ -7921,43 +7921,43 @@
     <name>Main</name>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ficheiro</translation>
     </message>
     <message>
         <source>&amp;New Project</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Novo projeto</translation>
     </message>
     <message>
         <source>&amp;Open Project…</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Abrir projeto…</translation>
     </message>
     <message>
         <source>&amp;Save Project</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Guardar projeto</translation>
     </message>
     <message>
         <source>Save Project &amp;As…</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar projeto &amp;como…</translation>
     </message>
     <message>
         <source>Save Project &amp;JSON…</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar projeto em &amp;JSON…</translation>
     </message>
     <message>
         <source>Open Project JSON…</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir JSON do projeto…</translation>
     </message>
     <message>
         <source>&amp;Export Video…</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Exportar vídeo…</translation>
     </message>
     <message>
         <source>&amp;Package Project…</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Empacotar projeto…</translation>
     </message>
     <message>
         <source>&amp;Close Project</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fechar projeto</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
