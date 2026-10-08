@@ -408,7 +408,7 @@
     </message>
     <message>
         <source>Media</source>
-        <translation type="unfinished"></translation>
+        <translation>สื่อ</translation>
     </message>
     <message>
         <source>Video, photos and audio from this device</source>
@@ -424,7 +424,7 @@
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อความ</translation>
     </message>
     <message>
         <source>A title or caption you type</source>
@@ -440,7 +440,7 @@
     </message>
     <message>
         <source>Stickers</source>
-        <translation type="unfinished"></translation>
+        <translation>สติกเกอร์</translation>
     </message>
     <message>
         <source>Emoji and sticker graphics</source>
@@ -495,7 +495,7 @@
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์</translation>
     </message>
     <message>
         <source>Audio FX</source>
@@ -503,7 +503,7 @@
     </message>
     <message>
         <source>Transitions</source>
-        <translation type="unfinished"></translation>
+        <translation>ทรานซิชัน</translation>
     </message>
     <message>
         <source>Tap a clip to edit it</source>
@@ -592,15 +592,15 @@
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>รีเซ็ต</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>นำไปใช้</translation>
     </message>
 </context>
 <context>
@@ -670,7 +670,7 @@
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
 </context>
 <context>
@@ -681,7 +681,7 @@
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
     <message>
         <source>Linear</source>
@@ -720,7 +720,7 @@
     <name>AndroidHomeNav</name>
     <message>
         <source>Projects</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรเจกต์</translation>
     </message>
     <message>
         <source>Market</source>
@@ -767,7 +767,7 @@
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
 </context>
 <context>
@@ -942,7 +942,7 @@
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>การตั้งค่า</translation>
     </message>
     <message>
         <source>Extras</source>
@@ -965,7 +965,7 @@
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึก</translation>
     </message>
     <message>
         <source>Audio only — trim it below</source>
@@ -1029,7 +1029,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -1216,7 +1216,7 @@
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์</translation>
     </message>
     <message>
         <source>Copy effects</source>
@@ -1304,7 +1304,7 @@
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>เสียง</translation>
     </message>
     <message>
         <source>Separate audio</source>
@@ -1316,7 +1316,7 @@
     </message>
     <message>
         <source>Timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>ไทม์ไลน์</translation>
     </message>
     <message>
         <source>Snapping</source>
@@ -1498,7 +1498,7 @@
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออก</translation>
     </message>
     <message>
         <source>Render the finished video</source>
@@ -1506,7 +1506,7 @@
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึก</translation>
     </message>
     <message>
         <source>Keep this project on the device</source>
@@ -1514,7 +1514,7 @@
     </message>
     <message>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกเป็น</translation>
     </message>
     <message>
         <source>Keep the original and carry on in a copy</source>
@@ -1581,7 +1581,7 @@
     </message>
     <message>
         <source>New project</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรเจกต์ใหม่</translation>
     </message>
     <message>
         <source>Choose a canvas, start empty</source>
@@ -1746,7 +1746,7 @@
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
     <message>
         <source>Add new track</source>
@@ -1801,15 +1801,15 @@
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>เลิกทำ</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำซ้ำ</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออก</translation>
     </message>
     <message>
         <source>Show export progress</source>
@@ -1862,11 +1862,11 @@
     </message>
     <message>
         <source>Zoom in</source>
-        <translation type="unfinished"></translation>
+        <translation>ซูมเข้า</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation type="unfinished"></translation>
+        <translation>ซูมออก</translation>
     </message>
     <message>
         <source>Pop</source>
@@ -1985,11 +1985,11 @@
     </message>
     <message>
         <source>New project</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรเจกต์ใหม่</translation>
     </message>
     <message>
         <source>Open project</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดโปรเจกต์</translation>
     </message>
     <message>
         <source>Save project</source>
@@ -2005,11 +2005,11 @@
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>เลิกทำ</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำซ้ำ</translation>
     </message>
     <message>
         <source>Copy selection</source>
@@ -2229,7 +2229,7 @@
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
     <message>
         <source>Getting speech recognition ready…</source>
@@ -2741,11 +2741,11 @@
     </message>
     <message>
         <source>Zoom in</source>
-        <translation type="unfinished"></translation>
+        <translation>ซูมเข้า</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation type="unfinished"></translation>
+        <translation>ซูมออก</translation>
     </message>
     <message>
         <source>The graphics card choice takes effect after you restart Drift.</source>
@@ -3005,7 +3005,7 @@
     </message>
     <message>
         <source>Frame rate</source>
-        <translation type="unfinished"></translation>
+        <translation>อัตราเฟรม</translation>
     </message>
     <message>
         <source>Project setup</source>
@@ -4144,7 +4144,7 @@
     </message>
     <message>
         <source>Add track</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มแทร็ก</translation>
     </message>
     <message>
         <source>Track added</source>
@@ -4627,7 +4627,7 @@
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>นำออก</translation>
     </message>
     <message>
         <source>“%1” will be removed from this project. The file on disk is not deleted.</source>
@@ -4702,7 +4702,7 @@
     </message>
     <message>
         <source>Media</source>
-        <translation type="unfinished"></translation>
+        <translation>สื่อ</translation>
     </message>
     <message>
         <source>“%1” is used by 1 clip on the timeline. Removing this media will also remove that clip and any transitions connected to it. The file on disk is not deleted.</source>
@@ -4755,7 +4755,7 @@
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อความ</translation>
     </message>
     <message>
         <source>Subtitles</source>
@@ -4763,7 +4763,7 @@
     </message>
     <message>
         <source>Stickers</source>
-        <translation type="unfinished"></translation>
+        <translation>สติกเกอร์</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -4779,7 +4779,7 @@
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์</translation>
     </message>
     <message>
         <source>Templates</source>
@@ -4787,7 +4787,7 @@
     </message>
     <message>
         <source>Transitions</source>
-        <translation type="unfinished"></translation>
+        <translation>ทรานซิชัน</translation>
     </message>
     <message>
         <source>Audio FX</source>
@@ -5029,7 +5029,7 @@
     <name>AudioInspector</name>
     <message>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>ระดับเสียง</translation>
     </message>
     <message>
         <source>Recommended caption length</source>
@@ -5168,11 +5168,11 @@
     </message>
     <message>
         <source>Unmute</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดเสียง</translation>
     </message>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดเสียง</translation>
     </message>
     <message>
         <source>Unsolo</source>
@@ -5290,7 +5290,7 @@
     <name>BinBreadcrumb</name>
     <message>
         <source>Media</source>
-        <translation type="unfinished"></translation>
+        <translation>สื่อ</translation>
     </message>
 </context>
 <context>
@@ -5383,7 +5383,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>Move</source>
@@ -5444,7 +5444,7 @@
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>รีเซ็ต</translation>
     </message>
     <message>
         <source>Reset crop to the full video size</source>
@@ -5452,7 +5452,7 @@
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>นำไปใช้</translation>
     </message>
 </context>
 <context>
@@ -5678,7 +5678,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
 </context>
 <context>
@@ -5800,7 +5800,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
 </context>
 <context>
@@ -5872,7 +5872,7 @@
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>รีเซ็ต</translation>
     </message>
     <message>
         <source>%1 s</source>
@@ -5966,7 +5966,7 @@
     <name>DriftAssetsHome</name>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>นำไปใช้</translation>
     </message>
     <message>
         <source>Add</source>
@@ -6061,7 +6061,7 @@
     </message>
     <message>
         <source>Projects</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรเจกต์</translation>
     </message>
     <message>
         <source>All changes saved</source>
@@ -6081,7 +6081,7 @@
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึก</translation>
     </message>
     <message>
         <source>Save project (%1)</source>
@@ -6104,7 +6104,7 @@
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>วิดีโอ</translation>
     </message>
     <message>
         <source>Video size and layout</source>
@@ -6112,7 +6112,7 @@
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>การตั้งค่า</translation>
     </message>
     <message>
         <source>Workspace, theme, language and more</source>
@@ -6176,7 +6176,7 @@
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออก</translation>
     </message>
     <message>
         <source>Export already in progress</source>
@@ -6502,7 +6502,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>Download face detection (about 5 MB)</source>
@@ -6688,7 +6688,7 @@
     <name>ExportDialog</name>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออก</translation>
     </message>
     <message>
         <source>96 kbps</source>
@@ -6744,11 +6744,11 @@
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>วิดีโอ</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>เสียง</translation>
     </message>
     <message>
         <source>GIF</source>
@@ -6780,7 +6780,7 @@
     </message>
     <message>
         <source>Frame rate</source>
-        <translation type="unfinished"></translation>
+        <translation>อัตราเฟรม</translation>
     </message>
     <message>
         <source>fps</source>
@@ -6883,7 +6883,7 @@
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออก</translation>
     </message>
     <message>
         <source>Cancel export</source>
@@ -7144,11 +7144,11 @@
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>นำไปใช้</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
 </context>
 <context>
@@ -7196,11 +7196,11 @@
     <name>GeneralInspector</name>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>วิดีโอ</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>เสียง</translation>
     </message>
     <message>
         <source>Image</source>
@@ -7208,7 +7208,7 @@
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อความ</translation>
     </message>
     <message>
         <source>Subtitle</source>
@@ -7434,7 +7434,7 @@
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
 </context>
 <context>
@@ -7524,7 +7524,7 @@
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>ความทึบ</translation>
     </message>
     <message>
         <source>Show guides</source>
@@ -7622,7 +7622,7 @@
     </message>
     <message>
         <source>Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>การหมุน</translation>
     </message>
     <message>
         <source>Tilt X</source>
@@ -7642,11 +7642,11 @@
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>ความทึบ</translation>
     </message>
     <message>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>ระดับเสียง</translation>
     </message>
     <message>
         <source>Mask X</source>
@@ -7775,7 +7775,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>Decide later</source>
@@ -8314,7 +8314,7 @@
     <name>MarketSearchField</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -8459,7 +8459,7 @@
     </message>
     <message>
         <source>Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>การหมุน</translation>
     </message>
     <message>
         <source>Feather</source>
@@ -8553,7 +8553,7 @@
     </message>
     <message>
         <source>Import media</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าสื่อ</translation>
     </message>
     <message>
         <source>Import folder</source>
@@ -8565,11 +8565,11 @@
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>วิดีโอ</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>เสียง</translation>
     </message>
     <message>
         <source>Images</source>
@@ -8858,7 +8858,7 @@
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวอย่าง</translation>
     </message>
     <message>
         <source>Play the clip and drag the ends to keep only the part you want. Save replaces this item in the media bin.</source>
@@ -8902,7 +8902,7 @@
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>รีเซ็ต</translation>
     </message>
     <message>
         <source>Upscale this video?</source>
@@ -8954,7 +8954,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>Close</source>
@@ -8970,7 +8970,7 @@
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึก</translation>
     </message>
     <message>
         <source>Next</source>
@@ -8978,7 +8978,7 @@
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -9277,7 +9277,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>Save as separate tracks</source>
@@ -9292,7 +9292,7 @@
     <name>NameDialog</name>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึก</translation>
     </message>
     <message>
         <source>Name</source>
@@ -9307,15 +9307,15 @@
     <name>NewTrackMenu</name>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>วิดีโอ</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>เสียง</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อความ</translation>
     </message>
     <message>
         <source>Subtitle</source>
@@ -9350,7 +9350,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>Copying your media into one file so it opens on any computer.</source>
@@ -9429,7 +9429,7 @@
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>ขนาด</translation>
     </message>
     <message>
         <source>Angle</source>
@@ -9452,7 +9452,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>Clip</source>
@@ -9521,7 +9521,7 @@
     </message>
     <message>
         <source>Transitions</source>
-        <translation type="unfinished"></translation>
+        <translation>ทรานซิชัน</translation>
     </message>
     <message numerus="yes">
         <source>Transitions (%n transition(s))</source>
@@ -9790,7 +9790,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>Launching Drift with prime-run (or DRI_PRIME=1) puts OpenGL on the same card as the decoder.</source>
@@ -9959,7 +9959,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึก</translation>
     </message>
     <message>
         <source>Title</source>
@@ -10014,7 +10014,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>อัตราส่วนภาพ</translation>
     </message>
     <message>
         <source>Match clip</source>
@@ -10042,7 +10042,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>รีเซ็ต</translation>
     </message>
     <message>
         <source>Restore the size suggested by your first clip</source>
@@ -10057,7 +10057,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อความ</translation>
     </message>
     <message>
         <source>Shape</source>
@@ -10089,7 +10089,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>เสียง</translation>
     </message>
     <message>
         <source>Speed</source>
@@ -10105,7 +10105,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์</translation>
     </message>
     <message>
         <source>Audio FX</source>
@@ -10779,7 +10779,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>Reverse</source>
@@ -10849,7 +10849,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>Most active first</source>
@@ -10980,7 +10980,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>Each moment is processed, so longer clips take longer.</source>
@@ -10991,18 +10991,18 @@ If playback stutters, try another.</source>
     <name>SettingsDialog</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>การตั้งค่า</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
 </context>
 <context>
     <name>SettingsPane</name>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวอย่าง</translation>
     </message>
     <message>
         <source>Show guides</source>
@@ -11014,7 +11014,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>พื้นหลัง</translation>
     </message>
     <message>
         <source>Solid color</source>
@@ -11266,7 +11266,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึก</translation>
     </message>
     <message>
         <source>Test</source>
@@ -11441,7 +11441,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>ความทึบ</translation>
     </message>
     <message>
         <source>Blend</source>
@@ -11907,7 +11907,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>รีเซ็ต</translation>
     </message>
     <message>
         <source>Applied as a copy on a new track — the original clip is left alone.</source>
@@ -11915,11 +11915,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>นำไปใช้</translation>
     </message>
 </context>
 <context>
@@ -12076,7 +12076,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>นำออก</translation>
     </message>
     <message>
         <source>Stabilizing…</source>
@@ -12084,7 +12084,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
 </context>
 <context>
@@ -12193,7 +12193,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Filters</source>
-        <translation type="unfinished"></translation>
+        <translation>ฟิลเตอร์</translation>
     </message>
     <message>
         <source>Get from %1</source>
@@ -12374,7 +12374,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออก</translation>
     </message>
     <message>
         <source>Save captions as a .srt file</source>
@@ -12457,7 +12457,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>Working…</source>
@@ -12528,7 +12528,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>Stop creating captions</source>
@@ -12928,7 +12928,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>พื้นหลัง</translation>
     </message>
     <message>
         <source>Draw a filled box behind the text</source>
@@ -12960,7 +12960,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อความ</translation>
     </message>
     <message>
         <source>Type your text…</source>
@@ -12968,7 +12968,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>นำไปใช้</translation>
     </message>
     <message>
         <source>Apply the text to this clip</source>
@@ -13190,7 +13190,7 @@ If playback stutters, try another.</source>
     <name>TextParamSlots</name>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>รีเซ็ต</translation>
     </message>
     <message>
         <source>Text for this slot</source>
@@ -13217,7 +13217,7 @@ If playback stutters, try another.</source>
     <name>TextStyle</name>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>ความทึบ</translation>
     </message>
     <message>
         <source>Offset X</source>
@@ -13397,7 +13397,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
 </context>
 <context>
@@ -13753,11 +13753,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>เลิกทำ</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำซ้ำ</translation>
     </message>
     <message>
         <source>Delete clip</source>
@@ -13865,7 +13865,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation type="unfinished"></translation>
+        <translation>ซูมออก</translation>
     </message>
     <message>
         <source>Timeline zoom</source>
@@ -13881,7 +13881,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation type="unfinished"></translation>
+        <translation>ซูมเข้า</translation>
     </message>
     <message>
         <source>Fit timeline in view</source>
@@ -13896,7 +13896,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึก</translation>
     </message>
     <message>
         <source>Drag items to reorder them. Items above the divider are toolbar buttons; the rest are in the More menu.</source>
@@ -14036,11 +14036,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>เสียง</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อความ</translation>
     </message>
     <message>
         <source>Subtitle</source>
@@ -14120,7 +14120,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>วิดีโอ</translation>
     </message>
     <message>
         <source>Drag the header to reorder this track</source>
@@ -14191,7 +14191,7 @@ If playback stutters, try another.</source>
     <name>TransformInspector</name>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>ความทึบ</translation>
     </message>
     <message>
         <source>Width</source>
@@ -14263,7 +14263,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>ขนาด</translation>
     </message>
     <message>
         <source>Edit width and height separately</source>
@@ -14378,11 +14378,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>เสียง</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อความ</translation>
     </message>
     <message>
         <source>Subtitle</source>
@@ -14398,7 +14398,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>วิดีโอ</translation>
     </message>
     <message>
         <source>Everything below</source>
@@ -14668,11 +14668,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึก</translation>
     </message>
 </context>
 <context>
@@ -14912,7 +14912,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>ความทึบ</translation>
     </message>
     <message>
         <source>Visible</source>
@@ -14967,7 +14967,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>ความทึบ</translation>
     </message>
     <message>
         <source>Visible</source>
@@ -15036,7 +15036,7 @@ If playback stutters, try another.</source>
     <name>VideoSizeDialog</name>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>วิดีโอ</translation>
     </message>
     <message>
         <source>Close</source>
@@ -15130,7 +15130,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>พื้นหลัง</translation>
     </message>
     <message>
         <source>Curve</source>
