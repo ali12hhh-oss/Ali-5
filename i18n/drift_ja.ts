@@ -3,46 +3,46 @@
 <TS version="2.1" language="ja_JP" sourcelanguage="en_US">
 <context>
     <name>AddonManager</name>
-    <message>
+    
         <source>Automatic (recommended)</source>
         <translation>自動 (推奨)</translation>
     </message>
-    <message>
+    
         <source>This computer</source>
         <translation>このコンピューター</translation>
     </message>
-    <message>
+    
         <source>NVIDIA graphics (faster)</source>
         <translation>NVIDIA グラフィックス (高速)</translation>
     </message>
-    <message>
+    
         <source>Graphics card (faster)</source>
         <translation>グラフィックスカード (高速)</translation>
     </message>
-    <message>
+    
         <source>Could not open that file.</source>
         <translation>そのファイルを開けませんでした。</translation>
     </message>
-    <message>
+    
         <source>Could not read that file.</source>
         <translation>そのファイルを読み取れませんでした。</translation>
     </message>
-    <message>
+    
         <source>This is not a Drift effect file (%1).</source>
         <translation>これは Drift エフェクトファイルではありません (%1)。</translation>
     </message>
 </context>
 <context>
     <name>AddonManagerDialog</name>
-    <message>
+    
         <source>Extras</source>
         <translation>拡張機能</translation>
     </message>
-    <message>
+    
         <source>Close</source>
         <translation>閉じる</translation>
     </message>
-    <message>
+    
         <source>Remove this pack?</source>
         <translation>このパックを削除しますか?</translation>
     </message>
@@ -7891,43 +7891,43 @@
     <name>Main</name>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイル(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;New Project</source>
-        <translation type="unfinished"></translation>
+        <translation>新規プロジェクト(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Open Project…</source>
-        <translation type="unfinished"></translation>
+        <translation>プロジェクトを開く…</translation>
     </message>
     <message>
         <source>&amp;Save Project</source>
-        <translation type="unfinished"></translation>
+        <translation>プロジェクトを保存(&amp;S)</translation>
     </message>
     <message>
         <source>Save Project &amp;As…</source>
-        <translation type="unfinished"></translation>
+        <translation>プロジェクトに名前を付けて保存…</translation>
     </message>
     <message>
         <source>Save Project &amp;JSON…</source>
-        <translation type="unfinished"></translation>
+        <translation>プロジェクトを JSON で保存…</translation>
     </message>
     <message>
         <source>Open Project JSON…</source>
-        <translation type="unfinished"></translation>
+        <translation>プロジェクト JSON を開く…</translation>
     </message>
     <message>
         <source>&amp;Export Video…</source>
-        <translation type="unfinished"></translation>
+        <translation>動画を書き出す(&amp;E)…</translation>
     </message>
     <message>
         <source>&amp;Package Project…</source>
-        <translation type="unfinished"></translation>
+        <translation>プロジェクトをパッケージ化(&amp;P)…</translation>
     </message>
     <message>
         <source>&amp;Close Project</source>
-        <translation type="unfinished"></translation>
+        <translation>プロジェクトを閉じる(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
