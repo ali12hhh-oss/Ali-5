@@ -1396,113 +1396,113 @@
     </message>
     <message>
         <source>Taller layers</source>
-        <translation type="unfinished"></translation>
+        <translation>Mas matataas na layer<\/translation>
     </message>
     <message>
         <source>Analyzing…</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinusuri…<\/translation>
     </message>
 </context>
 <context>
     <name>AndroidPreview</name>
     <message>
         <source>Audio only</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio lang<\/translation>
     </message>
     <message>
         <source>No clip at the current time</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang clip sa kasalukuyang oras<\/translation>
     </message>
     <message>
         <source>GPU preview unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi available ang GPU preview<\/translation>
     </message>
     <message>
         <source>Full</source>
-        <translation type="unfinished"></translation>
+        <translation>Buong laki<\/translation>
     </message>
     <message>
         <source>Half</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalahati<\/translation>
     </message>
     <message>
         <source>Quarter</source>
-        <translation type="unfinished"></translation>
+        <translation>Sangkapat<\/translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Awtomatiko<\/translation>
     </message>
     <message>
         <source>Quality: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalidad: %1<\/translation>
     </message>
     <message>
         <source>Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga gabay<\/translation>
     </message>
     <message>
         <source>Seek</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumunta sa oras<\/translation>
     </message>
     <message>
         <source>Back 1 second</source>
-        <translation type="unfinished"></translation>
+        <translation>Bumalik nang 1 segundo<\/translation>
     </message>
     <message>
         <source>Previous frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Nakaraang frame<\/translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>I-pause<\/translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>I-play<\/translation>
     </message>
     <message>
         <source>Next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Susunod na frame<\/translation>
     </message>
     <message>
         <source>Loop work area on — tap to turn off</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-on ang pag-loop ng work area — i-tap para i-off<\/translation>
     </message>
     <message>
         <source>Loop work area off — tap to turn on</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-off ang pag-loop ng work area — i-tap para i-on<\/translation>
     </message>
     <message>
         <source>Forward 1 second</source>
-        <translation type="unfinished"></translation>
+        <translation>Sumulong nang 1 segundo<\/translation>
     </message>
     <message>
         <source>View and playback settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga setting ng view at playback<\/translation>
     </message>
     <message>
         <source>Exit fullscreen preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumabas sa fullscreen preview<\/translation>
     </message>
     <message>
         <source>Fullscreen preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga template ng effect<\/translation>
     </message>
 </context>
 <context>
     <name>AndroidProjectSheet</name>
     <message>
         <source>Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga eksena<\/translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga mask<\/translation>
     </message>
     <message>
         <source>Render the finished video</source>
-        <translation type="unfinished"></translation>
+        <translation>Tagal<\/translation>
     </message>
     <message>
         <source>Save</source>
@@ -1510,23 +1510,23 @@
     </message>
     <message>
         <source>Keep this project on the device</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan<\/translation>
     </message>
     <message>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanggalin<\/translation>
     </message>
     <message>
         <source>Keep the original and carry on in a copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Hatiin<\/translation>
     </message>
     <message>
         <source>Share a copy</source>
-        <translation type="unfinished"></translation>
+        <translation>I-transform<\/translation>
     </message>
     <message>
         <source>One file with the media packed inside</source>
-        <translation type="unfinished"></translation>
+        <translation>Fade<\/translation>
     </message>
     <message>
         <source>Canvas &amp; layout</source>
@@ -1534,19 +1534,19 @@
     </message>
     <message>
         <source>Video size, aspect and frame rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilis<\/translation>
     </message>
     <message>
         <source>Crop video size</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumawa ng kopya<\/translation>
     </message>
     <message>
         <source>Drag the preview edges to change what’s included</source>
-        <translation type="unfinished"></translation>
+        <translation>Higit pa<\/translation>
     </message>
     <message>
         <source>Project properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Iangkop<\/translation>
     </message>
     <message>
         <source>Name, resolution and timebase</source>
