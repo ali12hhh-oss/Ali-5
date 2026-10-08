@@ -8081,19 +8081,19 @@
     </message>
     <message>
         <source>&amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelos de efeitos<\/translation>
     </message>
     <message>
         <source>Landscape Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Conjuntos de efeitos salvos para aplicar a um clipe<\/translation>
     </message>
     <message>
         <source>Portrait Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Cenas<\/translation>
     </message>
     <message>
         <source>Auto Workspace (Follow Canvas)</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegue entre as seções desta edição<\/translation>
     </message>
     <message>
         <source>Downloads</source>
@@ -8105,23 +8105,23 @@
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Máscaras<\/translation>
     </message>
     <message>
         <source>Keyboard Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Recorte uma forma ou um objeto do clipe selecionado<\/translation>
     </message>
     <message>
         <source>Extras…</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformar camada<\/translation>
     </message>
     <message>
         <source>Check for Updates…</source>
-        <translation type="unfinished"></translation>
+        <translation>Mova, redimensione ou incline várias faixas como uma só<\/translation>
     </message>
     <message>
         <source>Debug Info…</source>
-        <translation type="unfinished"></translation>
+        <translation>Toque em um clipe para editá-lo<\/translation>
     </message>
     <message>
         <source>Still opening a project — try again in a moment.</source>
@@ -8661,7 +8661,7 @@
     </message>
     <message>
         <source>Trim, crop and upscale…</source>
-        <translation type="unfinished"></translation>
+        <translation>Duração<\/translation>
     </message>
     <message>
         <source>Replace media…</source>
@@ -8906,27 +8906,27 @@
     </message>
     <message>
         <source>Upscale this video?</source>
-        <translation type="unfinished"></translation>
+        <translation>Curva<\/translation>
     </message>
     <message>
         <source>%1p</source>
-        <translation type="unfinished"></translation>
+        <translation>Substituir<\/translation>
     </message>
     <message>
         <source>Length %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir<\/translation>
     </message>
     <message>
         <source>This video is under 700 pixels on its shorter side. Upscaling it with an AI model can make it look sharper.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dividir<\/translation>
     </message>
     <message>
         <source>This resolution is already good for most projects. You can still upscale it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformar<\/translation>
     </message>
     <message>
         <source>Done keeps the original video and stores this range and framing. Upscale renders them as a new video in the media bin, then opens it in the Enhance window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformar em conjunto<\/translation>
     </message>
     <message>
         <source>Saving…</source>
@@ -8934,7 +8934,7 @@
     </message>
     <message>
         <source>Choose the part and framing to keep, then Next.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esmaecer<\/translation>
     </message>
     <message>
         <source>Save writes a new file over this item in the bin.</source>
@@ -8966,7 +8966,7 @@
     </message>
     <message>
         <source>Upscale…</source>
-        <translation type="unfinished"></translation>
+        <translation>Velocidade<\/translation>
     </message>
     <message>
         <source>Save</source>
@@ -8974,11 +8974,11 @@
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicar<\/translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Mais<\/translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -9808,11 +9808,11 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message>
         <source>Set Drift to High performance in Windows Settings &gt; Display &gt; Graphics, then restart Drift.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar<\/translation>
     </message>
     <message>
         <source>Open graphics settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Analisando…<\/translation>
     </message>
 </context>
 <context>
@@ -10372,7 +10372,7 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message>
         <source>Loading the models…</source>
-        <translation type="unfinished"></translation>
+        <translation>Somente áudio<\/translation>
     </message>
     <message>
         <source>%1 s</source>
@@ -10384,19 +10384,19 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message>
         <source>%1 h %2 min</source>
-        <translation type="unfinished"></translation>
+        <translation>Não há clipe no momento atual<\/translation>
     </message>
     <message>
         <source>Enhancing… %1% — about %2 left</source>
-        <translation type="unfinished"></translation>
+        <translation>A prévia por GPU não está disponível<\/translation>
     </message>
     <message>
         <source>Enhancing… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Qualidade: %1<\/translation>
     </message>
     <message>
         <source>Enhancing this frame… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Guias<\/translation>
     </message>
     <message>
         <source>Scanning frame %1 of %2…</source>
@@ -10583,15 +10583,15 @@ Se a reprodução travar, experimente outro.</translation>
     <name>RestoreWindow</name>
     <message>
         <source>Enhance video</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir para a posição<\/translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Voltar 1 segundo<\/translation>
     </message>
     <message>
         <source>%1 (custom, experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Quadro anterior<\/translation>
     </message>
     <message>
         <source>Original</source>
@@ -10599,15 +10599,15 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message>
         <source>Enhanced — out of date, preview again</source>
-        <translation type="unfinished"></translation>
+        <translation>Pausar<\/translation>
     </message>
     <message>
         <source>Enhanced %1 × %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproduzir<\/translation>
     </message>
     <message>
         <source>Loading this frame…</source>
-        <translation type="unfinished"></translation>
+        <translation>Próximo quadro<\/translation>
     </message>
     <message>
         <source>Working…</source>
@@ -10615,7 +10615,7 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message>
         <source>Choose models, then Preview to compare this frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Avançar 1 segundo<\/translation>
     </message>
     <message>
         <source>Frame</source>
@@ -10631,11 +10631,11 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message>
         <source>Preview one frame, then enhance the whole video. The result is added to the media bin. Enhancing is slow — minutes per second of video without a GPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurações de visualização e reprodução<\/translation>
     </message>
     <message>
         <source>Preview one frame, then enhance the part of the clip used on the timeline. The result is added to the media bin. Enhancing is slow — minutes per second of video without a GPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sair da prévia em tela cheia<\/translation>
     </message>
     <message>
         <source>Remove compression</source>
