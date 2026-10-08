@@ -456,35 +456,35 @@
     </message>
     <message>
         <source>Effect templates</source>
-        <translation>เทมเพลตเอฟเฟกต์<\/translation>
+        <translation>เทมเพลตเอฟเฟกต์</translation>
     </message>
     <message>
         <source>Saved stacks of effects to drop on a clip</source>
-        <translation>ชุดเอฟเฟกต์ที่บันทึกไว้เพื่อเพิ่มลงในคลิป<\/translation>
+        <translation>ชุดเอฟเฟกต์ที่บันทึกไว้เพื่อเพิ่มลงในคลิป</translation>
     </message>
     <message>
         <source>Scenes</source>
-        <translation>ฉาก<\/translation>
+        <translation>ฉาก</translation>
     </message>
     <message>
         <source>Jump between the sections of this edit</source>
-        <translation>ข้ามไปยังส่วนต่าง ๆ ของงานตัดต่อนี้<\/translation>
+        <translation>ข้ามไปยังส่วนต่าง ๆ ของงานตัดต่อนี้</translation>
     </message>
     <message>
         <source>Masks</source>
-        <translation>มาสก์<\/translation>
+        <translation>มาสก์</translation>
     </message>
     <message>
         <source>Cut a shape or a subject out of the selected clip</source>
-        <translation>แยกรูปร่างหรือวัตถุออกจากคลิปที่เลือก<\/translation>
+        <translation>แยกรูปร่างหรือวัตถุออกจากคลิปที่เลือก</translation>
     </message>
     <message>
         <source>Transform layer</source>
-        <translation>แปลงเลเยอร์<\/translation>
+        <translation>แปลงเลเยอร์</translation>
     </message>
     <message>
         <source>Move, scale or tilt several tracks as one</source>
-        <translation>ย้าย ปรับขนาด หรือเอียงหลายแทร็กพร้อมกัน<\/translation>
+        <translation>ย้าย ปรับขนาด หรือเอียงหลายแทร็กพร้อมกัน</translation>
     </message>
 </context>
 <context>
@@ -507,7 +507,7 @@
     </message>
     <message>
         <source>Tap a clip to edit it</source>
-        <translation>แตะคลิปเพื่อแก้ไข<\/translation>
+        <translation>แตะคลิปเพื่อแก้ไข</translation>
     </message>
     <message>
         <source>Add to timeline</source>
@@ -529,51 +529,51 @@
     <name>AndroidClipToolbar</name>
     <message>
         <source>Duration</source>
-        <translation>ระยะเวลา<\/translation>
+        <translation>ระยะเวลา</translation>
     </message>
     <message>
         <source>Curve</source>
-        <translation>เส้นโค้ง<\/translation>
+        <translation>เส้นโค้ง</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation>แทนที่<\/translation>
+        <translation>แทนที่</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>ลบ<\/translation>
+        <translation>ลบ</translation>
     </message>
     <message>
         <source>Split</source>
-        <translation>แยก<\/translation>
+        <translation>แยก</translation>
     </message>
     <message>
         <source>Transform</source>
-        <translation>แปลง<\/translation>
+        <translation>แปลง</translation>
     </message>
     <message>
         <source>Transform together</source>
-        <translation>แปลงพร้อมกัน<\/translation>
+        <translation>แปลงพร้อมกัน</translation>
     </message>
     <message>
         <source>Fade</source>
-        <translation>เฟด<\/translation>
+        <translation>เฟด</translation>
     </message>
     <message>
         <source>Speed</source>
-        <translation>ความเร็ว<\/translation>
+        <translation>ความเร็ว</translation>
     </message>
     <message>
         <source>Duplicate</source>
-        <translation>ทำสำเนา<\/translation>
+        <translation>ทำสำเนา</translation>
     </message>
     <message>
         <source>More</source>
-        <translation>เพิ่มเติม<\/translation>
+        <translation>เพิ่มเติม</translation>
     </message>
     <message>
         <source>Fit</source>
-        <translation>พอดีหน้าจอ<\/translation>
+        <translation>พอดีหน้าจอ</translation>
     </message>
     <message>
         <source>Move the playhead over the clip to split it</source>
@@ -1400,22 +1400,22 @@
     </message>
     <message>
         <source>Analyzing…</source>
-        <translation>กำลังวิเคราะห์…<\/translation>
+        <translation>กำลังวิเคราะห์…</translation>
     </message>
 </context>
 <context>
     <name>AndroidPreview</name>
     <message>
         <source>Audio only</source>
-        <translation>เฉพาะเสียง<\/translation>
+        <translation>เฉพาะเสียง</translation>
     </message>
     <message>
         <source>No clip at the current time</source>
-        <translation>ไม่มีคลิปในเวลาปัจจุบัน<\/translation>
+        <translation>ไม่มีคลิปในเวลาปัจจุบัน</translation>
     </message>
     <message>
         <source>GPU preview unavailable</source>
-        <translation>ไม่สามารถใช้ตัวอย่าง GPU ได้<\/translation>
+        <translation>ไม่สามารถใช้ตัวอย่าง GPU ได้</translation>
     </message>
     <message>
         <source>Full</source>
@@ -1435,35 +1435,35 @@
     </message>
     <message>
         <source>Quality: %1</source>
-        <translation>คุณภาพ: %1<\/translation>
+        <translation>คุณภาพ: %1</translation>
     </message>
     <message>
         <source>Guides</source>
-        <translation>เส้นช่วย<\/translation>
+        <translation>เส้นช่วย</translation>
     </message>
     <message>
         <source>Seek</source>
-        <translation>เลื่อนไปยังตำแหน่ง<\/translation>
+        <translation>เลื่อนไปยังตำแหน่ง</translation>
     </message>
     <message>
         <source>Back 1 second</source>
-        <translation>ย้อนกลับ 1 วินาที<\/translation>
+        <translation>ย้อนกลับ 1 วินาที</translation>
     </message>
     <message>
         <source>Previous frame</source>
-        <translation>เฟรมก่อนหน้า<\/translation>
+        <translation>เฟรมก่อนหน้า</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation>หยุดชั่วคราว<\/translation>
+        <translation>หยุดชั่วคราว</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation>เล่น<\/translation>
+        <translation>เล่น</translation>
     </message>
     <message>
         <source>Next frame</source>
-        <translation>เฟรมถัดไป<\/translation>
+        <translation>เฟรมถัดไป</translation>
     </message>
     <message>
         <source>Loop work area on — tap to turn off</source>
@@ -1475,15 +1475,15 @@
     </message>
     <message>
         <source>Forward 1 second</source>
-        <translation>ไปข้างหน้า 1 วินาที<\/translation>
+        <translation>ไปข้างหน้า 1 วินาที</translation>
     </message>
     <message>
         <source>View and playback settings</source>
-        <translation>การตั้งค่ามุมมองและการเล่น<\/translation>
+        <translation>การตั้งค่ามุมมองและการเล่น</translation>
     </message>
     <message>
         <source>Exit fullscreen preview</source>
-        <translation>ออกจากตัวอย่างแบบเต็มหน้าจอ<\/translation>
+        <translation>ออกจากตัวอย่างแบบเต็มหน้าจอ</translation>
     </message>
     <message>
         <source>Fullscreen preview</source>
