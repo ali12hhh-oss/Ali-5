@@ -3,66 +3,66 @@
 <TS version="2.1" language="ko_KR" sourcelanguage="en">
 <context>
     <name>AddonManager</name>
-    <message>
+    
         <source>Automatic (recommended)</source>
         <translation>자동(권장)</translation>
     </message>
-    <message>
+    
         <source>This computer</source>
         <translation>이 컴퓨터</translation>
     </message>
-    <message>
+    
         <source>NVIDIA graphics (faster)</source>
         <translation>NVIDIA 그래픽(더 빠름)</translation>
     </message>
-    <message>
+    
         <source>Graphics card (faster)</source>
         <translation>그래픽 카드(더 빠름)</translation>
     </message>
-    <message>
+    
         <source>Could not open that file.</source>
         <translation>파일을 열 수 없습니다.</translation>
     </message>
-    <message>
+    
         <source>Could not read that file.</source>
         <translation>파일을 읽을 수 없습니다.</translation>
     </message>
-    <message>
+    
         <source>This is not a Drift effect file (%1).</source>
         <translation>이 파일은 Drift 효과 파일(%1)이 아닙니다.</translation>
     </message>
 </context>
 <context>
     <name>AddonManagerDialog</name>
-    <message>
+    
         <source>Extras</source>
         <translation>추가 기능</translation>
     </message>
-    <message>
+    
         <source>Close</source>
         <translation>닫기</translation>
     </message>
-    <message>
+    
         <source>Remove this pack?</source>
         <translation>이 팩을 제거하시겠습니까?</translation>
     </message>
-    <message>
+    
         <source>Remove</source>
         <translation>제거</translation>
     </message>
-    <message>
+    
         <source>“%1” and its downloaded data will be deleted. You can install it again later.</source>
         <translation>“%1”과(와) 다운로드된 데이터가 삭제됩니다. 나중에 다시 설치할 수 있습니다.</translation>
     </message>
-    <message>
+    
         <source>Import Effect</source>
         <translation>효과 가져오기</translation>
     </message>
-    <message>
+    
         <source>Drift effect (*.driftfx)</source>
         <translation>Drift 효과 (*.driftfx)</translation>
     </message>
-    <message>
+    
         <source>Install this transition?</source>
         <translation>이 전환을 설치하시겠습니까?</translation>
     </message>
@@ -3518,7 +3518,7 @@
     </message>
     <message>
         <source>%1 (trimmed)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (잘림)</translation>
     </message>
     <message>
         <source>Rendering…</source>
@@ -3574,11 +3574,11 @@
     </message>
     <message>
         <source>%1 (enhanced %2x)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2배 향상)</translation>
     </message>
     <message>
         <source>%1 (enhanced)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (향상됨)</translation>
     </message>
     <message>
         <source>Enhance Video</source>
@@ -3918,7 +3918,7 @@
     </message>
     <message>
         <source>That style shares its folder with other styles</source>
-        <translation type="unfinished"></translation>
+        <translation>이 스타일은 다른 스타일과 폴더를 공유합니다</translation>
     </message>
     <message>
         <source>Could not delete the face prop</source>
@@ -6609,7 +6609,7 @@
     </message>
     <message>
         <source>Face %1</source>
-        <translation type="unfinished"></translation>
+        <translation>얼굴 %1</translation>
     </message>
     <message>
         <source>Anything in “%1” nearer than Distance passes in front of this layer.</source>
@@ -7891,43 +7891,43 @@
     <name>Main</name>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>파일(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;New Project</source>
-        <translation type="unfinished"></translation>
+        <translation>새 프로젝트(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Open Project…</source>
-        <translation type="unfinished"></translation>
+        <translation>프로젝트 열기…</translation>
     </message>
     <message>
         <source>&amp;Save Project</source>
-        <translation type="unfinished"></translation>
+        <translation>프로젝트 저장(&amp;S)</translation>
     </message>
     <message>
         <source>Save Project &amp;As…</source>
-        <translation type="unfinished"></translation>
+        <translation>프로젝트 다른 이름으로 저장…</translation>
     </message>
     <message>
         <source>Save Project &amp;JSON…</source>
-        <translation type="unfinished"></translation>
+        <translation>프로젝트를 JSON으로 저장…</translation>
     </message>
     <message>
         <source>Open Project JSON…</source>
-        <translation type="unfinished"></translation>
+        <translation>프로젝트 JSON 열기…</translation>
     </message>
     <message>
         <source>&amp;Export Video…</source>
-        <translation type="unfinished"></translation>
+        <translation>동영상 내보내기(&amp;E)…</translation>
     </message>
     <message>
         <source>&amp;Package Project…</source>
-        <translation type="unfinished"></translation>
+        <translation>프로젝트 패키지(&amp;P)…</translation>
     </message>
     <message>
         <source>&amp;Close Project</source>
-        <translation type="unfinished"></translation>
+        <translation>프로젝트 닫기(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
