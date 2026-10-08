@@ -3,19 +3,19 @@
 <TS version="2.1" language="es" sourcelanguage="en">
 <context>
     <name>AddonManager</name>
-    <message>
+    
         <source>Automatic (recommended)</source>
         <translation>Automático (recomendado)</translation>
     </message>
-    <message>
+    
         <source>This computer</source>
         <translation>Este equipo</translation>
     </message>
-    <message>
+    
         <source>NVIDIA graphics (faster)</source>
         <translation>Gráficos NVIDIA (más rápido)</translation>
     </message>
-    <message>
+    
         <source>Graphics card (faster)</source>
         <translation>Tarjeta gráfica (más rápida)</translation>
     </message>
@@ -3577,7 +3577,7 @@
     </message>
     <message>
         <source>This clip is already being enhanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Este clip ya se está mejorando</translation>
     </message>
     <message>
         <source>%1 (enhanced %2x)</source>
@@ -3929,7 +3929,7 @@
     </message>
     <message>
         <source>That style shares its folder with other styles</source>
-        <translation type="unfinished"></translation>
+        <translation>Ese estilo comparte su carpeta con otros estilos</translation>
     </message>
     <message>
         <source>Could not delete the face prop</source>
@@ -6638,7 +6638,7 @@
     </message>
     <message>
         <source>Face %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Rostro %1</translation>
     </message>
     <message>
         <source>Anything in “%1” nearer than Distance passes in front of this layer.</source>
@@ -7945,7 +7945,7 @@
     </message>
     <message>
         <source>Open Project JSON…</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir JSON del proyecto…</translation>
     </message>
     <message>
         <source>&amp;Export Video…</source>
