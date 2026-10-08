@@ -3,19 +3,19 @@
 <TS version="2.1" language="ar" sourcelanguage="en">
 <context>
     <name>AddonManager</name>
-    
+    <message>
         <source>Automatic (recommended)</source>
         <translation>تلقائي (موصى به)</translation>
     </message>
-    
+    <message>
         <source>This computer</source>
         <translation>هذا الكمبيوتر</translation>
     </message>
-    
+    <message>
         <source>NVIDIA graphics (faster)</source>
         <translation>رسومات NVIDIA (أسرع)</translation>
     </message>
-    
+    <message>
         <source>Graphics card (faster)</source>
         <translation>بطاقة الرسومات (أسرع)</translation>
     </message>
@@ -281,24 +281,12 @@
 <context>
     <name>AgentAccessControls</name>
     <message>
-        <source>Let Cursor or Claude edit this project for you — add clips, change the timeline, and check how it looks. Only programs on this device. Off by default each time you open Drift, unless you turn on “Start agent on startup” below; turn it off here when you finish. The key stays the same between sessions, so a setup you pasted once keeps working.</source>
-        <translation>اسمح لـ Cursor أو Claude بتعديل هذا المشروع نيابةً عنك — إضافة مقاطع، وتغيير المخطط الزمني، والتحقق من مظهره. البرامج الموجودة على هذا الجهاز فقط. يكون معطلاً افتراضيًا في كل مرة تفتح فيها Drift، ما لم تُفعّل “تشغيل الوكيل عند بدء التشغيل” أدناه؛ أوقفه هنا عند الانتهاء. يظل المفتاح كما هو بين الجلسات، لذا فإن الإعداد الذي لصقته مرة واحدة سيستمر في العمل.</translation>
-    </message>
-    <message>
         <source>Allow for this session</source>
         <translation>السماح لهذه الجلسة</translation>
     </message>
     <message>
         <source>Let an assistant on this device edit this project until you turn it off or quit.</source>
         <translation>اسمح لمساعد على هذا الجهاز بتعديل هذا المشروع حتى توقفه أو تخرج.</translation>
-    </message>
-    <message>
-        <source>Start agent on startup</source>
-        <translation>تشغيل الوكيل عند بدء التشغيل</translation>
-    </message>
-    <message>
-        <source>Skip the manual toggle next time you open Drift. Turning access off resets this.</source>
-        <translation>تجاوز التبديل اليدوي في المرة القادمة التي تفتح فيها Drift. يؤدي إيقاف تشغيل الوصول إلى إعادة تعيين هذا.</translation>
     </message>
     <message>
         <source>Turn this on, then copy the setup for Cursor or Claude and paste it into that app.</source>
@@ -387,6 +375,18 @@
     <message>
         <source>Copied one-time setup</source>
         <translation>تم نسخ الإعداد لمرة واحدة</translation>
+    </message>
+    <message>
+        <source>Start agent on startup</source>
+        <translation>تشغيل الوكيل عند بدء التشغيل</translation>
+    </message>
+    <message>
+        <source>Skip the manual toggle next time you open Drift. Turning access off resets this.</source>
+        <translation>تجاوز التبديل اليدوي في المرة القادمة التي تفتح فيها Drift. يؤدي إيقاف تشغيل الوصول إلى إعادة تعيين هذا.</translation>
+    </message>
+    <message>
+        <source>Let Cursor or Claude edit this project for you — add clips, change the timeline, and check how it looks. Only programs on this device. Off by default each time you open Drift, unless you turn on “Start agent on startup” below; turn it off here when you finish. The key stays the same between sessions, so a setup you pasted once keeps working.</source>
+        <translation>اسمح لـ Cursor أو Claude بتعديل هذا المشروع نيابةً عنك — إضافة مقاطع، وتغيير المخطط الزمني، والتحقق من مظهره. البرامج الموجودة على هذا الجهاز فقط. يكون معطلاً افتراضيًا في كل مرة تفتح فيها Drift، ما لم تُفعّل “تشغيل الوكيل عند بدء التشغيل” أدناه؛ أوقفه هنا عند الانتهاء. يظل المفتاح كما هو بين الجلسات، لذا فإن الإعداد الذي لصقته مرة واحدة سيستمر في العمل.</translation>
     </message>
 </context>
 <context>
@@ -927,13 +927,9 @@
     </message>
     <message numerus="yes">
         <source>%n coin(s)</source>
-        <translation>
-            <numerusform>%n عملة</numerusform>
-            <numerusform>%n عملة</numerusform>
-            <numerusform>%n عملتان</numerusform>
-            <numerusform>%n عملات</numerusform>
-            <numerusform>%n عملةً</numerusform>
-            <numerusform>%n عملة</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -1735,13 +1731,9 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s)</source>
-        <translation>
-            <numerusform>%n مقطع</numerusform>
-            <numerusform>%n مقطع</numerusform>
-            <numerusform>%n مقطعان</numerusform>
-            <numerusform>%n مقاطع</numerusform>
-            <numerusform>%n مقطعًا</numerusform>
-            <numerusform>%n مقطع</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -1777,16 +1769,16 @@
         <translation>حذف</translation>
     </message>
     <message>
-        <source>Close gap</source>
-        <translation>إغلاق الفراغ</translation>
-    </message>
-    <message>
         <source>PAUSED </source>
         <translation>متوقف مؤقتًا </translation>
     </message>
     <message>
         <source>REC </source>
         <translation>تسجيل </translation>
+    </message>
+    <message>
+        <source>Close gap</source>
+        <translation>إغلاق الفراغ</translation>
     </message>
     <message>
         <source>New track</source>
@@ -1828,13 +1820,9 @@
     <name>AndroidTransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>
-            <numerusform>%1 · %n مقطع</numerusform>
-            <numerusform>%1 · %n مقطع</numerusform>
-            <numerusform>%1 · %n مقطعان</numerusform>
-            <numerusform>%1 · %n مقاطع</numerusform>
-            <numerusform>%1 · %n مقطعًا</numerusform>
-            <numerusform>%1 · %n مقطع</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -1978,6 +1966,10 @@
     <message>
         <source>That file is already in this project.</source>
         <translation>ذلك الملف موجود بالفعل في هذا المشروع.</translation>
+    </message>
+    <message>
+        <source>Converting %1 to an edit-friendly format…</source>
+        <translation>جارٍ تحويل %1 إلى تنسيق مناسب للتحرير…</translation>
     </message>
     <message>
         <source>That media is no longer in this project.</source>
@@ -2465,13 +2457,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n subtitles</source>
-        <translation>
-            <numerusform>تم استيراد %n ترجمة</numerusform>
-            <numerusform>تم استيراد %n ترجمة</numerusform>
-            <numerusform>تم استيراد %n ترجمتان</numerusform>
-            <numerusform>تم استيراد %n ترجمات</numerusform>
-            <numerusform>تم استيراد %n ترجمةً</numerusform>
-            <numerusform>تم استيراد %n ترجمة</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -2496,13 +2484,9 @@
     </message>
     <message numerus="yes">
         <source>Multicam ready: %n camera(s) lined up at the start. Drag a clip to adjust its sync, then pick a shot.</source>
-        <translation>
-            <numerusform>الكاميرات المتعددة جاهزة: %n كاميرا مصطفة في البداية. اسحب مقطعًا لضبط مزامنته، ثم اختر لقطة.</numerusform>
-            <numerusform>الكاميرات المتعددة جاهزة: %n كاميرا مصطفة في البداية. اسحب مقطعًا لضبط مزامنته، ثم اختر لقطة.</numerusform>
-            <numerusform>الكاميرات المتعددة جاهزة: %n كاميرتان مصطفتان في البداية. اسحب مقطعًا لضبط مزامنته، ثم اختر لقطة.</numerusform>
-            <numerusform>الكاميرات المتعددة جاهزة: %n كاميرات مصطفة في البداية. اسحب مقطعًا لضبط مزامنته، ثم اختر لقطة.</numerusform>
-            <numerusform>الكاميرات المتعددة جاهزة: %n كاميرا مصطفة في البداية. اسحب مقطعًا لضبط مزامنته، ثم اختر لقطة.</numerusform>
-            <numerusform>الكاميرات المتعددة جاهزة: %n كاميرا مصطفة في البداية. اسحب مقطعًا لضبط مزامنته، ثم اختر لقطة.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -2595,13 +2579,9 @@
     </message>
     <message numerus="yes">
         <source>Found %n scene(s)</source>
-        <translation>
-            <numerusform>تم العثور على %n مشهد</numerusform>
-            <numerusform>تم العثور على %n مشهد</numerusform>
-            <numerusform>تم العثور على %n مشهدين</numerusform>
-            <numerusform>تم العثور على %n مشاهد</numerusform>
-            <numerusform>تم العثور على %n مشهدًا</numerusform>
-            <numerusform>تم العثور على %n مشهد</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -2626,13 +2606,9 @@
     </message>
     <message numerus="yes">
         <source>%n media items and referenced clips removed</source>
-        <translation>
-            <numerusform>تمت إزالة %n عنصر وسائط والمقاطع المشار إليها</numerusform>
-            <numerusform>تمت إزالة %n عنصر وسائط والمقاطع المشار إليها</numerusform>
-            <numerusform>تمت إزالة %n عنصري وسائط والمقاطع المشار إليها</numerusform>
-            <numerusform>تمت إزالة %n عناصر وسائط والمقاطع المشار إليها</numerusform>
-            <numerusform>تمت إزالة %n عنصرًا من عناصر الوسائط والمقاطع المشار إليها</numerusform>
-            <numerusform>تمت إزالة %n عنصر وسائط والمقاطع المشار إليها</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -2642,6 +2618,10 @@
     <message>
         <source>Your graphics driver is too old for the preview, which needs OpenGL 3.3. See Help → Debug info.</source>
         <translation>برنامج تشغيل الرسومات لديك قديم جدًا للمعاينة، والتي تتطلب OpenGL 3.3. راجع تعليمات ← معلومات تصحيح الأخطاء.</translation>
+    </message>
+    <message>
+        <source>Could not create a proxy for %1: %2</source>
+        <translation>تعذر إنشاء ملف وكيل لـ %1: %2</translation>
     </message>
     <message>
         <source>Your graphics driver only provides %1; the preview needs OpenGL 3.3. See Help → Debug info.</source>
@@ -2674,6 +2654,10 @@
     <message>
         <source>Saving…</source>
         <translation>جارٍ الحفظ…</translation>
+    </message>
+    <message>
+        <source>Converting…</source>
+        <translation>جارٍ التحويل…</translation>
     </message>
     <message>
         <source>Saving media…</source>
@@ -2720,6 +2704,22 @@
         <translation>التقدم إطارًا واحدًا</translation>
     </message>
     <message>
+        <source>Jump back 1 second</source>
+        <translation>القفز للخلف ثانية واحدة</translation>
+    </message>
+    <message>
+        <source>Jump forward 1 second</source>
+        <translation>القفز للأمام ثانية واحدة</translation>
+    </message>
+    <message>
+        <source>Jump back 10 seconds</source>
+        <translation>القفز للخلف 10 ثوانٍ</translation>
+    </message>
+    <message>
+        <source>Jump forward 10 seconds</source>
+        <translation>القفز للأمام 10 ثوانٍ</translation>
+    </message>
+    <message>
         <source>Go to start of timeline</source>
         <translation>الانتقال إلى بداية المخطط الزمني</translation>
     </message>
@@ -2752,8 +2752,68 @@
         <translation>يسري اختيار بطاقة الرسومات بعد إعادة تشغيل Drift.</translation>
     </message>
     <message>
+        <source>No audio track available for recording</source>
+        <translation>لا يتوفر أي مسار صوت للتسجيل</translation>
+    </message>
+    <message>
+        <source>Failed to create audio recording file</source>
+        <translation>فشل إنشاء ملف تسجيل الصوت</translation>
+    </message>
+    <message>
+        <source>Failed to start audio recording</source>
+        <translation>فشل بدء تسجيل الصوت</translation>
+    </message>
+    <message>
+        <source>Recording audio…</source>
+        <translation>جارٍ تسجيل الصوت…</translation>
+    </message>
+    <message>
+        <source>Audio recording cancelled (too short)</source>
+        <translation>تم إلغاء تسجيل الصوت (قصير جدًا)</translation>
+    </message>
+    <message>
+        <source>Voiceover %1</source>
+        <translation>تعليق صوتي %1</translation>
+    </message>
+    <message>
+        <source>Record audio</source>
+        <translation>تسجيل الصوت</translation>
+    </message>
+    <message>
+        <source>Recorded voiceover</source>
+        <translation>تعليق صوتي مسجل</translation>
+    </message>
+    <message>
+        <source>Voiceover recorded</source>
+        <translation>تم تسجيل التعليق الصوتي</translation>
+    </message>
+    <message>
+        <source>Recording cancelled</source>
+        <translation>تم إلغاء التسجيل</translation>
+    </message>
+    <message>
         <source>Clips moved</source>
         <translation>تم نقل المقاطع</translation>
+    </message>
+    <message>
+        <source>Select video or audio clips to create captions</source>
+        <translation>حدد مقاطع فيديو أو صوت لإنشاء التسميات التوضيحية</translation>
+    </message>
+    <message>
+        <source>The caption range is empty</source>
+        <translation>نطاق التسميات التوضيحية فارغ</translation>
+    </message>
+    <message>
+        <source>No video or audio clips in that range</source>
+        <translation>لا توجد مقاطع فيديو أو صوت في ذلك النطاق</translation>
+    </message>
+    <message>
+        <source>One of these clips has no sound</source>
+        <translation>أحد هذه المقاطع لا يحتوي على صوت</translation>
+    </message>
+    <message>
+        <source>These clips overlap in time — caption them separately</source>
+        <translation>تتداخل هذه المقاطع في الوقت — أنشئ تسميات توضيحية لها بشكل منفصل</translation>
     </message>
     <message>
         <source>Transition curve</source>
@@ -2774,6 +2834,38 @@
     <message>
         <source>Custom transition curve applied</source>
         <translation>تم تطبيق منحنى الانتقال المخصص</translation>
+    </message>
+    <message>
+        <source>Select a video or image clip to estimate depth for</source>
+        <translation>حدد مقطع فيديو أو صورة لتقدير العمق له</translation>
+    </message>
+    <message>
+        <source>Clip has no video to estimate depth for</source>
+        <translation>لا يحتوي المقطع على فيديو لتقدير العمق له</translation>
+    </message>
+    <message>
+        <source>Depth estimation needs the Depth addon</source>
+        <translation>يتطلب تقدير العمق إضافة العمق</translation>
+    </message>
+    <message>
+        <source>Depth is already being estimated for this clip</source>
+        <translation>يجري تقدير العمق لهذا المقطع بالفعل</translation>
+    </message>
+    <message>
+        <source>Estimating depth…</source>
+        <translation>جارٍ تقدير العمق…</translation>
+    </message>
+    <message>
+        <source>Clip no longer exists</source>
+        <translation>لم يعد المقطع موجودًا</translation>
+    </message>
+    <message>
+        <source>Estimate Depth</source>
+        <translation>تقدير العمق</translation>
+    </message>
+    <message>
+        <source>Clear Depth</source>
+        <translation>مسح العمق</translation>
     </message>
     <message>
         <source>Building keyframes…</source>
@@ -3168,8 +3260,52 @@
         <translation>تم دمج المقاطع</translation>
     </message>
     <message>
+        <source>Subtitles merged</source>
+        <translation>تم دمج الترجمة</translation>
+    </message>
+    <message>
         <source>Audio separated</source>
         <translation>تم فصل الصوت</translation>
+    </message>
+    <message>
+        <source>Composite %1</source>
+        <translation>مقطع مركب %1</translation>
+    </message>
+    <message>
+        <source>Composite created</source>
+        <translation>تم إنشاء المقطع المركب</translation>
+    </message>
+    <message>
+        <source>Composite</source>
+        <translation>مقطع مركب</translation>
+    </message>
+    <message>
+        <source>Flattening composite…</source>
+        <translation>جارٍ تسطيح المقطع المركب…</translation>
+    </message>
+    <message>
+        <source>Flattening was cancelled</source>
+        <translation>تم إلغاء التسطيح</translation>
+    </message>
+    <message>
+        <source>Could not flatten the composite: %1</source>
+        <translation>تعذر تسطيح المقطع المركب: %1</translation>
+    </message>
+    <message>
+        <source>The composite clip was removed before flattening finished</source>
+        <translation>تمت إزالة المقطع المركب قبل اكتمال التسطيح</translation>
+    </message>
+    <message>
+        <source>The composite clip was trimmed while flattening; try again</source>
+        <translation>تم قص المقطع المركب أثناء التسطيح؛ أعد المحاولة</translation>
+    </message>
+    <message>
+        <source>%1 (flattened)</source>
+        <translation>%1 (مسطح)</translation>
+    </message>
+    <message>
+        <source>Composite flattened</source>
+        <translation>تم تسطيح المقطع المركب</translation>
     </message>
     <message>
         <source>All audio tracks separated</source>
@@ -3214,6 +3350,22 @@
     <message>
         <source>Shape style updated</source>
         <translation>تم تحديث نمط الشكل</translation>
+    </message>
+    <message>
+        <source>3D model added</source>
+        <translation>تمت إضافة نموذج 3D</translation>
+    </message>
+    <message>
+        <source>3D model replaced</source>
+        <translation>تم استبدال نموذج 3D</translation>
+    </message>
+    <message>
+        <source>3D model options</source>
+        <translation>خيارات نموذج 3D</translation>
+    </message>
+    <message>
+        <source>3D model options updated</source>
+        <translation>تم تحديث خيارات نموذج 3D</translation>
     </message>
     <message>
         <source>Animation</source>
@@ -3296,6 +3448,10 @@
         <translation>تمت إزالة نقطة القناع</translation>
     </message>
     <message>
+        <source>That transition has no sound; audio tracks take crossfade or dip</source>
+        <translation>لا يحتوي ذلك الانتقال على صوت؛ تقبل مسارات الصوت التلاشي المتقاطع أو الهبوط</translation>
+    </message>
+    <message>
         <source>Replace transition</source>
         <translation>استبدال الانتقال</translation>
     </message>
@@ -3304,12 +3460,48 @@
         <translation>تم تحديث الانتقال</translation>
     </message>
     <message>
-        <source>Add transition</source>
-        <translation>إضافة انتقال</translation>
+        <source>Track solo</source>
+        <translation>عزل المسار</translation>
     </message>
     <message>
-        <source>Could not create a proxy for %1: %2</source>
-        <translation>تعذر إنشاء ملف وكيل لـ %1: %2</translation>
+        <source>Track soloed</source>
+        <translation>تم عزل المسار</translation>
+    </message>
+    <message>
+        <source>Track unsoloed</source>
+        <translation>تم إلغاء عزل المسار</translation>
+    </message>
+    <message>
+        <source>Track volume</source>
+        <translation>مستوى صوت المسار</translation>
+    </message>
+    <message>
+        <source>Track volume changed</source>
+        <translation>تم تغيير مستوى صوت المسار</translation>
+    </message>
+    <message>
+        <source>Track pan</source>
+        <translation>توزيع صوت المسار</translation>
+    </message>
+    <message>
+        <source>Track pan changed</source>
+        <translation>تم تغيير توزيع صوت المسار</translation>
+    </message>
+    <message>
+        <source>Keep ranges</source>
+        <translation>الاحتفاظ بالنطاقات</translation>
+    </message>
+    <message>
+        <source>Assemble</source>
+        <translation>تجميع</translation>
+    </message>
+    <message>
+        <source>Cut words</source>
+        <translation>قطع الكلمات</translation>
+    </message>
+    <message>
+        <source>Add transition</source>
+        <translation>إضافة انتقال</translation>
     </message>
     <message>
         <source>Effect</source>
@@ -3344,36 +3536,12 @@
         <translation>تصيير نسخة مقصوصة</translation>
     </message>
     <message>
-        <source>Converting…</source>
-        <translation>جارٍ التحويل…</translation>
-    </message>
-    <message>
-        <source>Converting %1 to an edit-friendly format…</source>
-        <translation>جارٍ تحويل %1 إلى تنسيق مناسب للتحرير…</translation>
-    </message>
-    <message>
         <source>Transform selection together</source>
         <translation>تحويل التحديد معًا</translation>
     </message>
     <message>
         <source>Select transform layer</source>
         <translation>تحديد طبقة التحويل</translation>
-    </message>
-    <message>
-        <source>Jump back 1 second</source>
-        <translation>القفز للخلف ثانية واحدة</translation>
-    </message>
-    <message>
-        <source>Jump forward 1 second</source>
-        <translation>القفز للأمام ثانية واحدة</translation>
-    </message>
-    <message>
-        <source>Jump back 10 seconds</source>
-        <translation>القفز للخلف 10 ثوانٍ</translation>
-    </message>
-    <message>
-        <source>Jump forward 10 seconds</source>
-        <translation>القفز للأمام 10 ثوانٍ</translation>
     </message>
     <message>
         <source>3D gizmo: move</source>
@@ -3398,94 +3566,6 @@
     <message>
         <source>%1 copy</source>
         <translation>نسخة من %1</translation>
-    </message>
-    <message>
-        <source>No audio track available for recording</source>
-        <translation>لا يتوفر أي مسار صوت للتسجيل</translation>
-    </message>
-    <message>
-        <source>Failed to create audio recording file</source>
-        <translation>فشل إنشاء ملف تسجيل الصوت</translation>
-    </message>
-    <message>
-        <source>Failed to start audio recording</source>
-        <translation>فشل بدء تسجيل الصوت</translation>
-    </message>
-    <message>
-        <source>Recording audio…</source>
-        <translation>جارٍ تسجيل الصوت…</translation>
-    </message>
-    <message>
-        <source>Audio recording cancelled (too short)</source>
-        <translation>تم إلغاء تسجيل الصوت (قصير جدًا)</translation>
-    </message>
-    <message>
-        <source>Voiceover %1</source>
-        <translation>تعليق صوتي %1</translation>
-    </message>
-    <message>
-        <source>Record audio</source>
-        <translation>تسجيل الصوت</translation>
-    </message>
-    <message>
-        <source>Recorded voiceover</source>
-        <translation>تعليق صوتي مسجل</translation>
-    </message>
-    <message>
-        <source>Voiceover recorded</source>
-        <translation>تم تسجيل التعليق الصوتي</translation>
-    </message>
-    <message>
-        <source>Recording cancelled</source>
-        <translation>تم إلغاء التسجيل</translation>
-    </message>
-    <message>
-        <source>Select video or audio clips to create captions</source>
-        <translation>حدد مقاطع فيديو أو صوت لإنشاء التسميات التوضيحية</translation>
-    </message>
-    <message>
-        <source>The caption range is empty</source>
-        <translation>نطاق التسميات التوضيحية فارغ</translation>
-    </message>
-    <message>
-        <source>No video or audio clips in that range</source>
-        <translation>لا توجد مقاطع فيديو أو صوت في ذلك النطاق</translation>
-    </message>
-    <message>
-        <source>One of these clips has no sound</source>
-        <translation>أحد هذه المقاطع لا يحتوي على صوت</translation>
-    </message>
-    <message>
-        <source>These clips overlap in time — caption them separately</source>
-        <translation>تتداخل هذه المقاطع في الوقت — أنشئ تسميات توضيحية لها بشكل منفصل</translation>
-    </message>
-    <message>
-        <source>Select a video or image clip to estimate depth for</source>
-        <translation>حدد مقطع فيديو أو صورة لتقدير العمق له</translation>
-    </message>
-    <message>
-        <source>Clip has no video to estimate depth for</source>
-        <translation>لا يحتوي المقطع على فيديو لتقدير العمق له</translation>
-    </message>
-    <message>
-        <source>Depth estimation needs the Depth addon</source>
-        <translation>يتطلب تقدير العمق إضافة العمق</translation>
-    </message>
-    <message>
-        <source>Depth is already being estimated for this clip</source>
-        <translation>يجري تقدير العمق لهذا المقطع بالفعل</translation>
-    </message>
-    <message>
-        <source>Estimating depth…</source>
-        <translation>جارٍ تقدير العمق…</translation>
-    </message>
-    <message>
-        <source>Clip no longer exists</source>
-        <translation>لم يعد المقطع موجودًا</translation>
-    </message>
-    <message>
-        <source>Estimate Depth</source>
-        <translation>تقدير العمق</translation>
     </message>
     <message>
         <source>Select a video clip to enhance</source>
@@ -3518,10 +3598,6 @@
     <message>
         <source>Enhancing video…</source>
         <translation>جارٍ تحسين الفيديو…</translation>
-    </message>
-    <message>
-        <source>Clear Depth</source>
-        <translation>مسح العمق</translation>
     </message>
     <message>
         <source>This build of Drift has no video stabilization support</source>
@@ -3616,35 +3692,19 @@
         <translation>المقطع مسطح</translation>
     </message>
     <message>
-        <source>Subtitles merged</source>
-        <translation>تم دمج الترجمة</translation>
-    </message>
-    <message>
         <source>Subtitles converted to text</source>
         <translation>تم تحويل الترجمة إلى نص</translation>
     </message>
     <message numerus="yes">
         <source>Created %n text clips</source>
-        <translation>
-            <numerusform>تم إنشاء %n مقطع نصي</numerusform>
-            <numerusform>تم إنشاء %n مقطع نصي</numerusform>
-            <numerusform>تم إنشاء %n مقطعين نصيين</numerusform>
-            <numerusform>تم إنشاء %n مقاطع نصية</numerusform>
-            <numerusform>تم إنشاء %n مقطعًا نصيًا</numerusform>
-            <numerusform>تم إنشاء %n مقطع نصي</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Text converted to subtitles</source>
         <translation>تم تحويل النص إلى ترجمة</translation>
-    </message>
-    <message>
-        <source>Composite %1</source>
-        <translation>مقطع مركب %1</translation>
-    </message>
-    <message>
-        <source>Composite created</source>
-        <translation>تم إنشاء المقطع المركب</translation>
     </message>
     <message>
         <source>Add transform layer</source>
@@ -3672,66 +3732,10 @@
     </message>
     <message numerus="yes">
         <source>Transform layer now covers %n track(s)</source>
-        <translation>
-            <numerusform>تغطي طبقة التحويل الآن %n مسار</numerusform>
-            <numerusform>تغطي طبقة التحويل الآن %n مسار</numerusform>
-            <numerusform>تغطي طبقة التحويل الآن %n مسارين</numerusform>
-            <numerusform>تغطي طبقة التحويل الآن %n مسارات</numerusform>
-            <numerusform>تغطي طبقة التحويل الآن %n مسارًا</numerusform>
-            <numerusform>تغطي طبقة التحويل الآن %n مسار</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
-    </message>
-    <message>
-        <source>Composite</source>
-        <translation>مقطع مركب</translation>
-    </message>
-    <message>
-        <source>Flattening composite…</source>
-        <translation>جارٍ تسطيح المقطع المركب…</translation>
-    </message>
-    <message>
-        <source>Flattening was cancelled</source>
-        <translation>تم إلغاء التسطيح</translation>
-    </message>
-    <message>
-        <source>Could not flatten the composite: %1</source>
-        <translation>تعذر تسطيح المقطع المركب: %1</translation>
-    </message>
-    <message>
-        <source>The composite clip was removed before flattening finished</source>
-        <translation>تمت إزالة المقطع المركب قبل اكتمال التسطيح</translation>
-    </message>
-    <message>
-        <source>The composite clip was trimmed while flattening; try again</source>
-        <translation>تم قص المقطع المركب أثناء التسطيح؛ أعد المحاولة</translation>
-    </message>
-    <message>
-        <source>%1 (flattened)</source>
-        <translation>%1 (مسطح)</translation>
-    </message>
-    <message>
-        <source>Composite flattened</source>
-        <translation>تم تسطيح المقطع المركب</translation>
-    </message>
-    <message>
-        <source>3D model added</source>
-        <translation>تمت إضافة نموذج 3D</translation>
-    </message>
-    <message>
-        <source>3D model replaced</source>
-        <translation>تم استبدال نموذج 3D</translation>
-    </message>
-    <message>
-        <source>3D model options</source>
-        <translation>خيارات نموذج 3D</translation>
-    </message>
-    <message>
-        <source>3D model options updated</source>
-        <translation>تم تحديث خيارات نموذج 3D</translation>
-    </message>
-    <message>
-        <source>That transition has no sound; audio tracks take crossfade or dip</source>
-        <translation>لا يحتوي ذلك الانتقال على صوت؛ تقبل مسارات الصوت التلاشي المتقاطع أو الهبوط</translation>
     </message>
     <message>
         <source>Transition added</source>
@@ -3907,24 +3911,16 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s)</source>
-        <translation>
-            <numerusform>تم استيراد %n عنصر للوجه</numerusform>
-            <numerusform>تم استيراد %n عنصر للوجه</numerusform>
-            <numerusform>تم استيراد %n عنصرين للوجه</numerusform>
-            <numerusform>تم استيراد %n عناصر للوجه</numerusform>
-            <numerusform>تم استيراد %n عنصرًا للوجه</numerusform>
-            <numerusform>تم استيراد %n عنصر للوجه</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s); %1 skipped: %2</source>
-        <translation>
-            <numerusform>تم استيراد %n عنصر للوجه؛ تم تخطي %1: %2</numerusform>
-            <numerusform>تم استيراد %n عنصر للوجه؛ تم تخطي %1: %2</numerusform>
-            <numerusform>تم استيراد %n عنصرين للوجه؛ تم تخطي %1: %2</numerusform>
-            <numerusform>تم استيراد %n عناصر للوجه؛ تم تخطي %1: %2</numerusform>
-            <numerusform>تم استيراد %n عنصرًا للوجه؛ تم تخطي %1: %2</numerusform>
-            <numerusform>تم استيراد %n عنصر للوجه؛ تم تخطي %1: %2</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4045,13 +4041,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted attributes onto %n clip(s)</source>
-        <translation>
-            <numerusform>تم لصق الخصائص على %n مقطع</numerusform>
-            <numerusform>تم لصق الخصائص على %n مقطع</numerusform>
-            <numerusform>تم لصق الخصائص على %n مقطعين</numerusform>
-            <numerusform>تم لصق الخصائص على %n مقاطع</numerusform>
-            <numerusform>تم لصق الخصائص على %n مقطعًا</numerusform>
-            <numerusform>تم لصق الخصائص على %n مقطع</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4135,34 +4127,6 @@
         <translation>تم إظهار المسار</translation>
     </message>
     <message>
-        <source>Track solo</source>
-        <translation>عزل المسار</translation>
-    </message>
-    <message>
-        <source>Track soloed</source>
-        <translation>تم عزل المسار</translation>
-    </message>
-    <message>
-        <source>Track unsoloed</source>
-        <translation>تم إلغاء عزل المسار</translation>
-    </message>
-    <message>
-        <source>Track volume</source>
-        <translation>مستوى صوت المسار</translation>
-    </message>
-    <message>
-        <source>Track volume changed</source>
-        <translation>تم تغيير مستوى صوت المسار</translation>
-    </message>
-    <message>
-        <source>Track pan</source>
-        <translation>توزيع صوت المسار</translation>
-    </message>
-    <message>
-        <source>Track pan changed</source>
-        <translation>تم تغيير توزيع صوت المسار</translation>
-    </message>
-    <message>
         <source>Move track</source>
         <translation>نقل المسار</translation>
     </message>
@@ -4244,13 +4208,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted %n clips</source>
-        <translation>
-            <numerusform>تم لصق %n مقطع</numerusform>
-            <numerusform>تم لصق %n مقطع</numerusform>
-            <numerusform>تم لصق %n مقطعين</numerusform>
-            <numerusform>تم لصق %n مقاطع</numerusform>
-            <numerusform>تم لصق %n مقطعًا</numerusform>
-            <numerusform>تم لصق %n مقطع</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4351,13 +4311,9 @@
     </message>
     <message numerus="yes">
         <source>Media collected, but %n original(s) couldn’t be deleted</source>
-        <translation>
-            <numerusform>تم تجميع الوسائط، ولكن تعذر حذف %n ملف أصلي</numerusform>
-            <numerusform>تم تجميع الوسائط، ولكن تعذر حذف %n ملف أصلي</numerusform>
-            <numerusform>تم تجميع الوسائط، ولكن تعذر حذف %n ملفين أصليين</numerusform>
-            <numerusform>تم تجميع الوسائط، ولكن تعذر حذف %n ملفات أصلية</numerusform>
-            <numerusform>تم تجميع الوسائط، ولكن تعذر حذف %n ملفًا أصليًا</numerusform>
-            <numerusform>تم تجميع الوسائط، ولكن تعذر حذف %n ملف أصلي</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4411,18 +4367,6 @@
     <message>
         <source>Edit layer</source>
         <translation>تعديل الطبقة</translation>
-    </message>
-    <message>
-        <source>Keep ranges</source>
-        <translation>الاحتفاظ بالنطاقات</translation>
-    </message>
-    <message>
-        <source>Assemble</source>
-        <translation>تجميع</translation>
-    </message>
-    <message>
-        <source>Cut words</source>
-        <translation>قطع الكلمات</translation>
     </message>
     <message>
         <source>Layer added</source>
@@ -4502,13 +4446,9 @@
     </message>
     <message numerus="yes">
         <source>Applied to %n caption clip(s)</source>
-        <translation>
-            <numerusform>تم التطبيق على %n مقطع للتسميات التوضيحية</numerusform>
-            <numerusform>تم التطبيق على %n مقطع للتسميات التوضيحية</numerusform>
-            <numerusform>تم التطبيق على %n مقطعين للتسميات التوضيحية</numerusform>
-            <numerusform>تم التطبيق على %n مقاطع للتسميات التوضيحية</numerusform>
-            <numerusform>تم التطبيق على %n مقطعًا للتسميات التوضيحية</numerusform>
-            <numerusform>تم التطبيق على %n مقطع للتسميات التوضيحية</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4621,24 +4561,16 @@
     </message>
     <message numerus="yes">
         <source>%n items removed</source>
-        <translation>
-            <numerusform>تمت إزالة %n عنصر</numerusform>
-            <numerusform>تمت إزالة %n عنصر</numerusform>
-            <numerusform>تمت إزالة %n عنصرين</numerusform>
-            <numerusform>تمت إزالة %n عناصر</numerusform>
-            <numerusform>تمت إزالة %n عنصرًا</numerusform>
-            <numerusform>تمت إزالة %n عنصر</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n items moved</source>
-        <translation>
-            <numerusform>تم نقل %n عنصر</numerusform>
-            <numerusform>تم نقل %n عنصر</numerusform>
-            <numerusform>تم نقل %n عنصرين</numerusform>
-            <numerusform>تم نقل %n عناصر</numerusform>
-            <numerusform>تم نقل %n عنصرًا</numerusform>
-            <numerusform>تم نقل %n عنصر</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4747,18 +4679,18 @@
     </message>
     <message numerus="yes">
         <source>Replaced with “%1”. %n clips were shortened to fit the new file.</source>
-        <translation>
-            <numerusform>تم الاستبدال بـ “%1”. تم تقصير %n مقطع لملاءمة الملف الجديد.</numerusform>
-            <numerusform>تم الاستبدال بـ “%1”. تم تقصير %n مقطع لملاءمة الملف الجديد.</numerusform>
-            <numerusform>تم الاستبدال بـ “%1”. تم تقصير %n مقطعين لملاءمة الملف الجديد.</numerusform>
-            <numerusform>تم الاستبدال بـ “%1”. تم تقصير %n مقاطع لملاءمة الملف الجديد.</numerusform>
-            <numerusform>تم الاستبدال بـ “%1”. تم تقصير %n مقطعًا لملاءمة الملف الجديد.</numerusform>
-            <numerusform>تم الاستبدال بـ “%1”. تم تقصير %n مقطع لملاءمة الملف الجديد.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Replaced with “%1”.</source>
         <translation>تم الاستبدال بـ “%1”.</translation>
+    </message>
+    <message>
+        <source>“%1” is now in an edit-friendly format.</source>
+        <translation>أصبح “%1” الآن بتنسيق مناسب للتحرير.</translation>
     </message>
     <message>
         <source>Saved “%1”. Drag it onto the timeline.</source>
@@ -4786,40 +4718,24 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders — as many as one folder import takes. Import the remaining subfolders separately.</source>
-        <translation>
-            <numerusform>تم استيراد %n ملف في %1 من المجلدات — وهو أقصى ما تستوعبه عملية استيراد مجلد واحدة. استورد المجلدات الفرعية المتبقية بشكل منفصل.</numerusform>
-            <numerusform>تم استيراد %n ملف في %1 من المجلدات — وهو أقصى ما تستوعبه عملية استيراد مجلد واحدة. استورد المجلدات الفرعية المتبقية بشكل منفصل.</numerusform>
-            <numerusform>تم استيراد %n ملفين في %1 من المجلدات — وهو أقصى ما تستوعبه عملية استيراد مجلد واحدة. استورد المجلدات الفرعية المتبقية بشكل منفصل.</numerusform>
-            <numerusform>تم استيراد %n ملفات في %1 من المجلدات — وهو أقصى ما تستوعبه عملية استيراد مجلد واحدة. استورد المجلدات الفرعية المتبقية بشكل منفصل.</numerusform>
-            <numerusform>تم استيراد %n ملفًا في %1 من المجلدات — وهو أقصى ما تستوعبه عملية استيراد مجلد واحدة. استورد المجلدات الفرعية المتبقية بشكل منفصل.</numerusform>
-            <numerusform>تم استيراد %n ملف في %1 من المجلدات — وهو أقصى ما تستوعبه عملية استيراد مجلد واحدة. استورد المجلدات الفرعية المتبقية بشكل منفصل.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</source>
-        <translation>
-            <numerusform>تم استيراد %n ملف في %1 من المجلدات. تم تخطي %2 من الملفات — لا يتعرف Drift على تنسيقها. اسحبها إلى حاوية الوسائط للمحاولة على أي حال.</numerusform>
-            <numerusform>تم استيراد %n ملف في %1 من المجلدات. تم تخطي %2 من الملفات — لا يتعرف Drift على تنسيقها. اسحبها إلى حاوية الوسائط للمحاولة على أي حال.</numerusform>
-            <numerusform>تم استيراد %n ملفين في %1 من المجلدات. تم تخطي %2 من الملفات — لا يتعرف Drift على تنسيقها. اسحبها إلى حاوية الوسائط للمحاولة على أي حال.</numerusform>
-            <numerusform>تم استيراد %n ملفات في %1 من المجلدات. تم تخطي %2 من الملفات — لا يتعرف Drift على تنسيقها. اسحبها إلى حاوية الوسائط للمحاولة على أي حال.</numerusform>
-            <numerusform>تم استيراد %n ملفًا في %1 من المجلدات. تم تخطي %2 من الملفات — لا يتعرف Drift على تنسيقها. اسحبها إلى حاوية الوسائط للمحاولة على أي حال.</numerusform>
-            <numerusform>تم استيراد %n ملف في %1 من المجلدات. تم تخطي %2 من الملفات — لا يتعرف Drift على تنسيقها. اسحبها إلى حاوية الوسائط للمحاولة على أي حال.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders.</source>
-        <translation>
-            <numerusform>تم استيراد %n ملف في %1 من المجلدات.</numerusform>
-            <numerusform>تم استيراد %n ملف في %1 من المجلدات.</numerusform>
-            <numerusform>تم استيراد %n ملفين في %1 من المجلدات.</numerusform>
-            <numerusform>تم استيراد %n ملفات في %1 من المجلدات.</numerusform>
-            <numerusform>تم استيراد %n ملفًا في %1 من المجلدات.</numerusform>
-            <numerusform>تم استيراد %n ملف في %1 من المجلدات.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
-    </message>
-    <message>
-        <source>“%1” is now in an edit-friendly format.</source>
-        <translation>أصبح “%1” الآن بتنسيق مناسب للتحرير.</translation>
     </message>
     <message>
         <source>All Files (*)</source>
@@ -4955,13 +4871,9 @@
     </message>
     <message numerus="yes">
         <source>%n items</source>
-        <translation>
-            <numerusform>%n عنصر</numerusform>
-            <numerusform>%n عنصر</numerusform>
-            <numerusform>%n عنصران</numerusform>
-            <numerusform>%n عناصر</numerusform>
-            <numerusform>%n عنصرًا</numerusform>
-            <numerusform>%n عنصر</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4970,13 +4882,9 @@
     </message>
     <message numerus="yes">
         <source>Removed %n items.</source>
-        <translation>
-            <numerusform>تمت إزالة %n عنصر.</numerusform>
-            <numerusform>تمت إزالة %n عنصر.</numerusform>
-            <numerusform>تمت إزالة %n عنصرين.</numerusform>
-            <numerusform>تمت إزالة %n عناصر.</numerusform>
-            <numerusform>تمت إزالة %n عنصرًا.</numerusform>
-            <numerusform>تمت إزالة %n عنصر.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -5219,28 +5127,44 @@
 <context>
     <name>AudioMixerStrip</name>
     <message>
-        <source>C</source>
-        <translation>C</translation>
+        <source>Audio Mixer</source>
+        <translation>مازج الصوت</translation>
     </message>
     <message>
-        <source>L%1</source>
-        <translation>L%1</translation>
+        <source>Paused</source>
+        <translation>متوقف مؤقتًا</translation>
     </message>
     <message>
-        <source>R%1</source>
-        <translation>R%1</translation>
+        <source>Recording</source>
+        <translation>جارٍ التسجيل</translation>
     </message>
     <message>
-        <source> (recording)</source>
-        <translation> (تسجيل)</translation>
+        <source>Microphone: %1 (click to switch)</source>
+        <translation>الميكروفون: %1 (انقر للتبديل)</translation>
     </message>
     <message>
-        <source>Unmute master</source>
-        <translation>إلغاء كتم الرئيسي</translation>
+        <source>Close audio mixer</source>
+        <translation>إغلاق مازج الصوت</translation>
     </message>
     <message>
-        <source>Mute master</source>
-        <translation>كتم الرئيسي</translation>
+        <source>Resume recording</source>
+        <translation>استئناف التسجيل</translation>
+    </message>
+    <message>
+        <source>Pause recording</source>
+        <translation>إيقاف التسجيل مؤقتًا</translation>
+    </message>
+    <message>
+        <source>Done — save recording to track</source>
+        <translation>تم — حفظ التسجيل في المسار</translation>
+    </message>
+    <message>
+        <source>Discard — cancel recording</source>
+        <translation>تجاهل — إلغاء التسجيل</translation>
+    </message>
+    <message>
+        <source>Default Mic</source>
+        <translation>الميكروفون الافتراضي</translation>
     </message>
     <message>
         <source>Unmute</source>
@@ -5303,56 +5227,40 @@
         <translation> — اسحب مع Shift للضبط الدقيق، وانقر نقرًا مزدوجًا للضبط على 0 dB</translation>
     </message>
     <message>
-        <source>Audio Mixer</source>
-        <translation>مازج الصوت</translation>
-    </message>
-    <message>
-        <source>Close audio mixer</source>
-        <translation>إغلاق مازج الصوت</translation>
-    </message>
-    <message>
-        <source>Paused</source>
-        <translation>متوقف مؤقتًا</translation>
-    </message>
-    <message>
-        <source>Recording</source>
-        <translation>جارٍ التسجيل</translation>
-    </message>
-    <message>
-        <source>Resume recording</source>
-        <translation>استئناف التسجيل</translation>
-    </message>
-    <message>
-        <source>Pause recording</source>
-        <translation>إيقاف التسجيل مؤقتًا</translation>
-    </message>
-    <message>
-        <source>Done — save recording to track</source>
-        <translation>تم — حفظ التسجيل في المسار</translation>
-    </message>
-    <message>
-        <source>Discard — cancel recording</source>
-        <translation>تجاهل — إلغاء التسجيل</translation>
-    </message>
-    <message>
-        <source>Default Mic</source>
-        <translation>الميكروفون الافتراضي</translation>
-    </message>
-    <message>
-        <source>Microphone: %1 (click to switch)</source>
-        <translation>الميكروفون: %1 (انقر للتبديل)</translation>
-    </message>
-    <message>
         <source>Add audio track</source>
         <translation>إضافة مسار صوت</translation>
+    </message>
+    <message>
+        <source>Drag to resize — double-click to fit</source>
+        <translation>اسحب لتغيير الحجم — انقر نقرًا مزدوجًا للملاءمة</translation>
     </message>
     <message>
         <source>Master</source>
         <translation>الرئيسي</translation>
     </message>
     <message>
-        <source>Drag to resize — double-click to fit</source>
-        <translation>اسحب لتغيير الحجم — انقر نقرًا مزدوجًا للملاءمة</translation>
+        <source>Unmute master</source>
+        <translation>إلغاء كتم الرئيسي</translation>
+    </message>
+    <message>
+        <source>C</source>
+        <translation>C</translation>
+    </message>
+    <message>
+        <source>L%1</source>
+        <translation>L%1</translation>
+    </message>
+    <message>
+        <source>R%1</source>
+        <translation>R%1</translation>
+    </message>
+    <message>
+        <source> (recording)</source>
+        <translation> (تسجيل)</translation>
+    </message>
+    <message>
+        <source>Mute master</source>
+        <translation>كتم الرئيسي</translation>
     </message>
 </context>
 <context>
@@ -5820,24 +5728,16 @@
     </message>
     <message numerus="yes">
         <source>%n second(s) left</source>
-        <translation>
-            <numerusform>تبقت %n ثانية</numerusform>
-            <numerusform>تبقت %n ثانية</numerusform>
-            <numerusform>تبقت %n ثانيتان</numerusform>
-            <numerusform>تبقت %n ثوانٍ</numerusform>
-            <numerusform>تبقت %n ثانية</numerusform>
-            <numerusform>تبقت %n ثانية</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) left</source>
-        <translation>
-            <numerusform>تبقت %n دقيقة</numerusform>
-            <numerusform>تبقت %n دقيقة</numerusform>
-            <numerusform>تبقت %n دقيقتان</numerusform>
-            <numerusform>تبقت %n دقائق</numerusform>
-            <numerusform>تبقت %n دقيقة</numerusform>
-            <numerusform>تبقت %n دقيقة</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -5869,13 +5769,9 @@
     </message>
     <message numerus="yes">
         <source>%n active</source>
-        <translation>
-            <numerusform>%n نشط</numerusform>
-            <numerusform>%n نشط</numerusform>
-            <numerusform>%n نشطان</numerusform>
-            <numerusform>%n نشطة</numerusform>
-            <numerusform>%n نشطًا</numerusform>
-            <numerusform>%n نشط</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -5915,7 +5811,10 @@
     </message>
     <message numerus="yes">
         <source>%n style(s)</source>
-        <translation>%n نمط</translation>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
     </message>
     <message>
         <source>%1 s</source>
@@ -5923,13 +5822,9 @@
     </message>
     <message numerus="yes">
         <source>%n colour(s)</source>
-        <translation>
-            <numerusform>%n لون</numerusform>
-            <numerusform>%n لون</numerusform>
-            <numerusform>%n لونان</numerusform>
-            <numerusform>%n ألوان</numerusform>
-            <numerusform>%n لونًا</numerusform>
-            <numerusform>%n لون</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -6198,13 +6093,9 @@
     </message>
     <message numerus="yes">
         <source>Downloads — %n running</source>
-        <translation>
-            <numerusform>التنزيلات — %n قيد التشغيل</numerusform>
-            <numerusform>التنزيلات — %n قيد التشغيل</numerusform>
-            <numerusform>التنزيلات — %n قيد التشغيل</numerusform>
-            <numerusform>التنزيلات — %n قيد التشغيل</numerusform>
-            <numerusform>التنزيلات — %n قيد التشغيل</numerusform>
-            <numerusform>التنزيلات — %n قيد التشغيل</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -6594,6 +6485,10 @@
         <translation>تتبع هذه التأثيرات الوجه، لذا يجب فحص المقطع قبل أن تعمل.</translation>
     </message>
     <message>
+        <source>Download depth estimation (about 160 MB)</source>
+        <translation>تنزيل تقدير العمق (حوالي 160 MB)</translation>
+    </message>
+    <message>
         <source>Face effects follow one clip&apos;s faces. Add this to a clip rather than to an adjustment layer.</source>
         <translation>تتبع تأثيرات الوجه وجوه مقطع واحد. أضف هذا إلى مقطع بدلاً من طبقة ضبط.</translation>
     </message>
@@ -6618,6 +6513,18 @@
         <translation>ثبّت محرك الذكاء الاصطناعي أولاً</translation>
     </message>
     <message>
+        <source>Depth</source>
+        <translation>العمق</translation>
+    </message>
+    <message>
+        <source>Depth effects follow one clip&apos;s depth. Add this to a clip rather than to an adjustment layer.</source>
+        <translation>تتبع تأثيرات العمق عمق مقطع واحد. أضف هذا إلى مقطع بدلاً من طبقة ضبط.</translation>
+    </message>
+    <message>
+        <source>These effects need the clip&apos;s depth, so it has to be estimated first. It runs in the background and takes roughly half a second per frame.</source>
+        <translation>تحتاج هذه التأثيرات إلى عمق المقطع، لذا يجب تقديره أولاً. يعمل هذا في الخلفية ويستغرق حوالي نصف ثانية لكل إطار.</translation>
+    </message>
+    <message>
         <source>High quality</source>
         <translation>جودة عالية</translation>
     </message>
@@ -6638,24 +6545,8 @@
         <translation>مسح العمق</translation>
     </message>
     <message>
-        <source>Download depth estimation (about 160 MB)</source>
-        <translation>تنزيل تقدير العمق (حوالي 160 MB)</translation>
-    </message>
-    <message>
         <source>This clip was scanned before the face mesh was supported. Re-detect faces to enable 3D Face Mesh and Face Retouch.</source>
         <translation>تم فحص هذا المقطع قبل دعم شبكة الوجه. أعد اكتشاف الوجوه لتفعيل شبكة الوجه ثلاثية الأبعاد وتنقيح الوجه.</translation>
-    </message>
-    <message>
-        <source>Depth</source>
-        <translation>العمق</translation>
-    </message>
-    <message>
-        <source>Depth effects follow one clip&apos;s depth. Add this to a clip rather than to an adjustment layer.</source>
-        <translation>تتبع تأثيرات العمق عمق مقطع واحد. أضف هذا إلى مقطع بدلاً من طبقة ضبط.</translation>
-    </message>
-    <message>
-        <source>These effects need the clip&apos;s depth, so it has to be estimated first. It runs in the background and takes roughly half a second per frame.</source>
-        <translation>تحتاج هذه التأثيرات إلى عمق المقطع، لذا يجب تقديره أولاً. يعمل هذا في الخلفية ويستغرق حوالي نصف ثانية لكل إطار.</translation>
     </message>
     <message>
         <source>Move to a time, set a value, then click the diamond to add a keyframe. With Auto keyframes on, dragging a slider also creates them.</source>
@@ -7133,14 +7024,6 @@
 <context>
     <name>FacePropPicker</name>
     <message>
-        <source>Import Face Props</source>
-        <translation>استيراد إكسسوارات الوجه</translation>
-    </message>
-    <message>
-        <source>Zip archives (*.zip)</source>
-        <translation>أرشيفات Zip (*.zip)</translation>
-    </message>
-    <message>
         <source>Prop</source>
         <translation>ملحق</translation>
     </message>
@@ -7151,6 +7034,14 @@
     <message>
         <source>Import face props from a .zip</source>
         <translation>استيراد ملحقات الوجه من ملف .zip</translation>
+    </message>
+    <message>
+        <source>Import Face Props</source>
+        <translation>استيراد إكسسوارات الوجه</translation>
+    </message>
+    <message>
+        <source>Zip archives (*.zip)</source>
+        <translation>أرشيفات Zip (*.zip)</translation>
     </message>
     <message>
         <source>Import zip…</source>
@@ -7823,13 +7714,9 @@
     </message>
     <message numerus="yes">
         <source>%n keyframes</source>
-        <translation>
-            <numerusform>%n إطار مفتاحي</numerusform>
-            <numerusform>%n إطار مفتاحي</numerusform>
-            <numerusform>%n إطاران مفتاحيان</numerusform>
-            <numerusform>%n إطارات مفتاحية</numerusform>
-            <numerusform>%n إطارًا مفتاحيًا</numerusform>
-            <numerusform>%n إطار مفتاحي</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8782,13 +8669,9 @@
     </message>
     <message numerus="yes">
         <source>Create %n proxies</source>
-        <translation>
-            <numerusform>إنشاء %n ملف وكيل</numerusform>
-            <numerusform>إنشاء %n ملف وكيل</numerusform>
-            <numerusform>إنشاء %n ملفان وكيلان</numerusform>
-            <numerusform>إنشاء %n ملفات وكيل</numerusform>
-            <numerusform>إنشاء %n ملفًا وكيلاً</numerusform>
-            <numerusform>إنشاء %n ملف وكيل</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8797,22 +8680,14 @@
     </message>
     <message numerus="yes">
         <source>Remove %n proxies</source>
-        <translation>
-            <numerusform>إزالة %n ملف وكيل</numerusform>
-            <numerusform>إزالة %n ملف وكيل</numerusform>
-            <numerusform>إزالة %n ملفان وكيلان</numerusform>
-            <numerusform>إزالة %n ملفات وكيل</numerusform>
-            <numerusform>إزالة %n ملفًا وكيلاً</numerusform>
-            <numerusform>إزالة %n ملف وكيل</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Remove proxy</source>
         <translation>إزالة ملف وكيل</translation>
-    </message>
-    <message>
-        <source>Convert to edit-friendly format</source>
-        <translation>التحويل إلى تنسيق مناسب للتحرير</translation>
     </message>
     <message>
         <source>Export image…</source>
@@ -8864,13 +8739,9 @@
     </message>
     <message numerus="yes">
         <source>Add %n items to timeline</source>
-        <translation>
-            <numerusform>إضافة %n عنصر إلى المخطط الزمني</numerusform>
-            <numerusform>إضافة %n عنصر إلى المخطط الزمني</numerusform>
-            <numerusform>إضافة %n عنصران إلى المخطط الزمني</numerusform>
-            <numerusform>إضافة %n عناصر إلى المخطط الزمني</numerusform>
-            <numerusform>إضافة %n عنصرًا إلى المخطط الزمني</numerusform>
-            <numerusform>إضافة %n عنصر إلى المخطط الزمني</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8879,24 +8750,20 @@
     </message>
     <message numerus="yes">
         <source>Move %n items to folder…</source>
-        <translation>
-            <numerusform>نقل %n عنصر إلى المجلد…</numerusform>
-            <numerusform>نقل %n عنصر إلى المجلد…</numerusform>
-            <numerusform>نقل %n عنصران إلى المجلد…</numerusform>
-            <numerusform>نقل %n عناصر إلى المجلد…</numerusform>
-            <numerusform>نقل %n عنصرًا إلى المجلد…</numerusform>
-            <numerusform>نقل %n عنصر إلى المجلد…</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
+    </message>
+    <message>
+        <source>Convert to edit-friendly format</source>
+        <translation>التحويل إلى تنسيق مناسب للتحرير</translation>
     </message>
     <message numerus="yes">
         <source>Remove %n items from project</source>
-        <translation>
-            <numerusform>إزالة %n عنصر من المشروع</numerusform>
-            <numerusform>إزالة %n عنصر من المشروع</numerusform>
-            <numerusform>إزالة %n عنصران من المشروع</numerusform>
-            <numerusform>إزالة %n عناصر من المشروع</numerusform>
-            <numerusform>إزالة %n عنصرًا من المشروع</numerusform>
-            <numerusform>إزالة %n عنصر من المشروع</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -8936,13 +8803,9 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) may play back slowly. A proxy makes previewing smoother; export still uses the original.</source>
-        <translation>
-            <numerusform>قد يتم تشغيل %n مقطع ببطء. ملف الوكيل يجعل المعاينة أكثر سلاسة؛ لا يزال التصدير يستخدم الملف الأصلي.</numerusform>
-            <numerusform>قد يتم تشغيل %n مقطع ببطء. ملف الوكيل يجعل المعاينة أكثر سلاسة؛ لا يزال التصدير يستخدم الملف الأصلي.</numerusform>
-            <numerusform>قد يتم تشغيل %n مقطعان ببطء. ملف الوكيل يجعل المعاينة أكثر سلاسة؛ لا يزال التصدير يستخدم الملف الأصلي.</numerusform>
-            <numerusform>قد يتم تشغيل %n مقاطع ببطء. ملف الوكيل يجعل المعاينة أكثر سلاسة؛ لا يزال التصدير يستخدم الملف الأصلي.</numerusform>
-            <numerusform>قد يتم تشغيل %n مقطعًا ببطء. ملف الوكيل يجعل المعاينة أكثر سلاسة؛ لا يزال التصدير يستخدم الملف الأصلي.</numerusform>
-            <numerusform>قد يتم تشغيل %n مقطع ببطء. ملف الوكيل يجعل المعاينة أكثر سلاسة؛ لا يزال التصدير يستخدم الملف الأصلي.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8951,13 +8814,9 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) have a variable frame rate, which can drift out of sync with audio. Convert them to an edit-friendly format to fix it.</source>
-        <translation>
-            <numerusform>يحتوي %n مقطع على معدل إطارات متغير، مما قد يؤدي إلى فقدان التزامن مع الصوت. حولها إلى تنسيق مناسب للتحرير لإصلاح ذلك.</numerusform>
-            <numerusform>يحتوي %n مقطع على معدل إطارات متغير، مما قد يؤدي إلى فقدان التزامن مع الصوت. حولها إلى تنسيق مناسب للتحرير لإصلاح ذلك.</numerusform>
-            <numerusform>يحتوي %n مقطعان على معدل إطارات متغير، مما قد يؤدي إلى فقدان التزامن مع الصوت. حولها إلى تنسيق مناسب للتحرير لإصلاح ذلك.</numerusform>
-            <numerusform>يحتوي %n مقاطع على معدل إطارات متغير، مما قد يؤدي إلى فقدان التزامن مع الصوت. حولها إلى تنسيق مناسب للتحرير لإصلاح ذلك.</numerusform>
-            <numerusform>يحتوي %n مقطعًا على معدل إطارات متغير، مما قد يؤدي إلى فقدان التزامن مع الصوت. حولها إلى تنسيق مناسب للتحرير لإصلاح ذلك.</numerusform>
-            <numerusform>يحتوي %n مقطع على معدل إطارات متغير، مما قد يؤدي إلى فقدان التزامن مع الصوت. حولها إلى تنسيق مناسب للتحرير لإصلاح ذلك.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8974,13 +8833,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files.</source>
-        <translation>
-            <numerusform>تم استيراد %n ملف.</numerusform>
-            <numerusform>تم استيراد %n ملف.</numerusform>
-            <numerusform>تم استيراد %n ملفان.</numerusform>
-            <numerusform>تم استيراد %n ملفات.</numerusform>
-            <numerusform>تم استيراد %n ملفًا.</numerusform>
-            <numerusform>تم استيراد %n ملف.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8989,13 +8844,9 @@
     </message>
     <message numerus="yes">
         <source>Could not import any of the %n selected files.</source>
-        <translation>
-            <numerusform>تعذر استيراد أي من الـ %n ملف المحددة.</numerusform>
-            <numerusform>تعذر استيراد أي من الـ %n ملف المحدد.</numerusform>
-            <numerusform>تعذر استيراد أي من الـ %n ملفان المحددان.</numerusform>
-            <numerusform>تعذر استيراد أي من الـ %n ملفات المحددة.</numerusform>
-            <numerusform>تعذر استيراد أي من الـ %n ملفًا المحدد.</numerusform>
-            <numerusform>تعذر استيراد أي من الـ %n ملف المحددة.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -9189,13 +9040,9 @@
     </message>
     <message numerus="yes">
         <source>%n animation(s)</source>
-        <translation>
-            <numerusform>%n حركة</numerusform>
-            <numerusform>%n حركة</numerusform>
-            <numerusform>%n حركتان</numerusform>
-            <numerusform>%n حركات</numerusform>
-            <numerusform>%n حركةً</numerusform>
-            <numerusform>%n حركة</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -9613,13 +9460,9 @@
     </message>
     <message numerus="yes">
         <source>Pasting from “%1” onto %n selected clip(s):</source>
-        <translation>
-            <numerusform>اللصق من “%1” على %n مقطع محدد:</numerusform>
-            <numerusform>اللصق من “%1” على %n مقطع محدد:</numerusform>
-            <numerusform>اللصق من “%1” على %n مقطعين محددين:</numerusform>
-            <numerusform>اللصق من “%1” على %n مقاطع محددة:</numerusform>
-            <numerusform>اللصق من “%1” على %n مقطعًا محددًا:</numerusform>
-            <numerusform>اللصق من “%1” على %n مقطع محدد:</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -9648,13 +9491,9 @@
     </message>
     <message numerus="yes">
         <source>Video Effects (%n effect(s))</source>
-        <translation>
-            <numerusform>تأثيرات الفيديو (%n تأثير)</numerusform>
-            <numerusform>تأثيرات الفيديو (%n تأثير)</numerusform>
-            <numerusform>تأثيرات الفيديو (%n تأثيران)</numerusform>
-            <numerusform>تأثيرات الفيديو (%n تأثيرات)</numerusform>
-            <numerusform>تأثيرات الفيديو (%n تأثيرًا)</numerusform>
-            <numerusform>تأثيرات الفيديو (%n تأثير)</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -9671,13 +9510,9 @@
     </message>
     <message numerus="yes">
         <source>Audio Effects (%n effect(s))</source>
-        <translation>
-            <numerusform>تأثيرات الصوت (%n تأثير)</numerusform>
-            <numerusform>تأثيرات الصوت (%n تأثير)</numerusform>
-            <numerusform>تأثيرات الصوت (%n تأثيران)</numerusform>
-            <numerusform>تأثيرات الصوت (%n تأثيرات)</numerusform>
-            <numerusform>تأثيرات الصوت (%n تأثيرًا)</numerusform>
-            <numerusform>تأثيرات الصوت (%n تأثير)</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -9690,13 +9525,9 @@
     </message>
     <message numerus="yes">
         <source>Transitions (%n transition(s))</source>
-        <translation>
-            <numerusform>الانتقالات (%n انتقال)</numerusform>
-            <numerusform>الانتقالات (%n انتقال)</numerusform>
-            <numerusform>الانتقالات (%n انتقالان)</numerusform>
-            <numerusform>الانتقالات (%n انتقالات)</numerusform>
-            <numerusform>الانتقالات (%n انتقالاً)</numerusform>
-            <numerusform>الانتقالات (%n انتقال)</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -9805,12 +9636,12 @@
 <context>
     <name>PreviewPanel</name>
     <message>
-        <source>PAUSED %1s</source>
-        <translation>متوقف مؤقتًا %1s</translation>
-    </message>
-    <message>
         <source>REC %1s</source>
         <translation>تسجيل %1s</translation>
+    </message>
+    <message>
+        <source>PAUSED %1s</source>
+        <translation>متوقف مؤقتًا %1s</translation>
     </message>
     <message>
         <source>Nothing to preview yet</source>
@@ -12363,13 +12194,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>Filters — %n applied</source>
-        <translation>
-            <numerusform>الفلاتر — %n مطبق</numerusform>
-            <numerusform>الفلاتر — %n مطبق</numerusform>
-            <numerusform>الفلاتر — %n مطبقان</numerusform>
-            <numerusform>الفلاتر — %n مطبقة</numerusform>
-            <numerusform>الفلاتر — %n مطبقًا</numerusform>
-            <numerusform>الفلاتر — %n مطبق</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -12445,13 +12272,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>%n coin(s)</source>
-        <translation>
-            <numerusform>%n عملة</numerusform>
-            <numerusform>%n عملة</numerusform>
-            <numerusform>%n عملتان</numerusform>
-            <numerusform>%n عملات</numerusform>
-            <numerusform>%n عملةً</numerusform>
-            <numerusform>%n عملة</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -12513,13 +12336,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>%n captions</source>
-        <translation>
-            <numerusform>%n تسمية توضيحية</numerusform>
-            <numerusform>%n تسمية توضيحية</numerusform>
-            <numerusform>%n تسميتان توضيحيتان</numerusform>
-            <numerusform>%n تسميات توضيحية</numerusform>
-            <numerusform>%n تسميةً توضيحيةً</numerusform>
-            <numerusform>%n تسمية توضيحية</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -13993,10 +13812,6 @@ If playback stutters, try another.</source>
         <translation>إضافة طبقة تحويل — تحرك مسارات المقاطع المحددة كوحدة واحدة</translation>
     </message>
     <message>
-        <source>Customize toolbar…</source>
-        <translation>تخصيص شريط الأدوات…</translation>
-    </message>
-    <message>
         <source>Main</source>
         <translation>الرئيسي</translation>
     </message>
@@ -14039,6 +13854,10 @@ If playback stutters, try another.</source>
     <message>
         <source>Add adjustment layer</source>
         <translation>إضافة طبقة ضبط</translation>
+    </message>
+    <message>
+        <source>Customize toolbar…</source>
+        <translation>تخصيص شريط الأدوات…</translation>
     </message>
     <message>
         <source>Toggle snapping</source>
@@ -14170,13 +13989,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>This removes the track and its %n clips. You can undo afterwards.</source>
-        <translation>
-            <numerusform>سيؤدي هذا إلى إزالة المسار و%n مقطع فيه. يمكنك التراجع بعد ذلك.</numerusform>
-            <numerusform>سيؤدي هذا إلى إزالة المسار و%n مقطع فيه. يمكنك التراجع بعد ذلك.</numerusform>
-            <numerusform>سيؤدي هذا إلى إزالة المسار و%n مقطعان فيه. يمكنك التراجع بعد ذلك.</numerusform>
-            <numerusform>سيؤدي هذا إلى إزالة المسار و%n مقاطع فيه. يمكنك التراجع بعد ذلك.</numerusform>
-            <numerusform>سيؤدي هذا إلى إزالة المسار و%n مقطعًا فيه. يمكنك التراجع بعد ذلك.</numerusform>
-            <numerusform>سيؤدي هذا إلى إزالة المسار و%n مقطع فيه. يمكنك التراجع بعد ذلك.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -14256,6 +14071,18 @@ If playback stutters, try another.</source>
         <translation>من %1 إلى %2</translation>
     </message>
     <message>
+        <source>Stop recording</source>
+        <translation>إيقاف التسجيل</translation>
+    </message>
+    <message>
+        <source>Record voiceover</source>
+        <translation>تسجيل تعليق صوتي</translation>
+    </message>
+    <message>
+        <source>Record voiceover (mic)</source>
+        <translation>تسجيل تعليق صوتي (الميكروفون)</translation>
+    </message>
+    <message>
         <source>Turn transform on</source>
         <translation>تفعيل التحويل</translation>
     </message>
@@ -14308,24 +14135,12 @@ If playback stutters, try another.</source>
         <translation>اسحب رأس المسار لإعادة ترتيب هذا المسار</translation>
     </message>
     <message>
-        <source>Stop recording</source>
-        <translation>إيقاف التسجيل</translation>
-    </message>
-    <message>
-        <source>Record voiceover</source>
-        <translation>تسجيل تعليق صوتي</translation>
-    </message>
-    <message>
         <source>Paused — click to finish recording</source>
         <translation>متوقف مؤقتًا — انقر لإنهاء التسجيل</translation>
     </message>
     <message>
         <source>Recording — click to finish recording</source>
         <translation>قيد التسجيل — انقر لإنهاء التسجيل</translation>
-    </message>
-    <message>
-        <source>Record voiceover (mic)</source>
-        <translation>تسجيل تعليق صوتي (الميكروفون)</translation>
     </message>
     <message>
         <source>Unmute track</source>
@@ -14631,13 +14446,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>+%n more</source>
-        <translation>
-            <numerusform>+%n إضافي</numerusform>
-            <numerusform>+%n إضافي</numerusform>
-            <numerusform>+%n إضافيان</numerusform>
-            <numerusform>+%n إضافية</numerusform>
-            <numerusform>+%n إضافيًا</numerusform>
-            <numerusform>+%n إضافي</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -14645,13 +14456,9 @@ If playback stutters, try another.</source>
     <name>TransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>
-            <numerusform>%1 · %n مقطع</numerusform>
-            <numerusform>%1 · %n مقطع</numerusform>
-            <numerusform>%1 · %n مقطعان</numerusform>
-            <numerusform>%1 · %n مقاطع</numerusform>
-            <numerusform>%1 · %n مقطعًا</numerusform>
-            <numerusform>%1 · %n مقطع</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -14671,13 +14478,9 @@ If playback stutters, try another.</source>
     <name>TransformSpanBracket</name>
     <message numerus="yes">
         <source>%n track(s)</source>
-        <translation>
-            <numerusform>%n مسار</numerusform>
-            <numerusform>%n مسار</numerusform>
-            <numerusform>%n مساران</numerusform>
-            <numerusform>%n مسارات</numerusform>
-            <numerusform>%n مسارًا</numerusform>
-            <numerusform>%n مسار</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -14686,13 +14489,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>Covers %n track(s)</source>
-        <translation>
-            <numerusform>يغطي %n مسار</numerusform>
-            <numerusform>يغطي %n مسار</numerusform>
-            <numerusform>يغطي %n مسارين</numerusform>
-            <numerusform>يغطي %n مسارات</numerusform>
-            <numerusform>يغطي %n مسارًا</numerusform>
-            <numerusform>يغطي %n مسار</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
