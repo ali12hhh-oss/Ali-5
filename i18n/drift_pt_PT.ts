@@ -6546,7 +6546,7 @@
     </message>
     <message>
         <source>This clip was scanned before the face mesh was supported. Re-detect faces to enable 3D Face Mesh and Face Retouch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este clipe foi analisado antes do suporte à malha facial. Detete os rostos novamente para ativar a Malha Facial 3D e o Retoque Facial.</translation>
     </message>
     <message>
         <source>Move to a time, set a value, then click the diamond to add a keyframe. With Auto keyframes on, dragging a slider also creates them.</source>
@@ -6958,27 +6958,27 @@
     </message>
     <message>
         <source>variants must be a list</source>
-        <translation type="unfinished"></translation>
+        <translation>as variantes têm de ser uma lista</translation>
     </message>
     <message>
         <source>a variant must be an object</source>
-        <translation type="unfinished"></translation>
+        <translation>uma variante tem de ser um objeto</translation>
     </message>
     <message>
         <source>invalid variant id “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>ID de variante inválido “%1”</translation>
     </message>
     <message>
         <source>a variant must name a .glb model in the prop folder</source>
-        <translation type="unfinished"></translation>
+        <translation>uma variante tem de indicar um modelo .glb na pasta de props</translation>
     </message>
     <message>
         <source>a variant thumbnail must be a file in the prop folder</source>
-        <translation type="unfinished"></translation>
+        <translation>a miniatura de uma variante tem de ser um ficheiro na pasta de props</translation>
     </message>
     <message>
         <source>a variant names the same file twice</source>
-        <translation type="unfinished"></translation>
+        <translation>uma variante referencia o mesmo ficheiro duas vezes</translation>
     </message>
     <message>
         <source>Could not open %1</source>
@@ -7961,123 +7961,123 @@
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Desfazer(&amp;U)</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Refazer(&amp;R)</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>Cortar(&amp;T)</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Colar(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar(&amp;D)</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar tudo(&amp;A)</translation>
     </message>
     <message>
         <source>Clear Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar seleção</translation>
     </message>
     <message>
         <source>Split Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Dividir clipe</translation>
     </message>
     <message>
         <source>Duplicate Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicar clipe</translation>
     </message>
     <message>
         <source>Copy Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar efeitos</translation>
     </message>
     <message>
         <source>Paste Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Colar efeitos</translation>
     </message>
     <message>
         <source>Paste Attributes…</source>
-        <translation type="unfinished"></translation>
+        <translation>Colar atributos…</translation>
     </message>
     <message>
         <source>Preferences…</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferências…</translation>
     </message>
     <message>
         <source>&amp;Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>Reprodução(&amp;P)</translation>
     </message>
     <message>
         <source>Play / Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproduzir / Pausar</translation>
     </message>
     <message>
         <source>Step Back One Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Retroceder um fotograma</translation>
     </message>
     <message>
         <source>Step Forward One Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Avançar um fotograma</translation>
     </message>
     <message>
         <source>Previous Cut Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponto de corte anterior</translation>
     </message>
     <message>
         <source>Next Cut Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Próximo ponto de corte</translation>
     </message>
     <message>
         <source>Go to Start of Timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir para o início da linha do tempo</translation>
     </message>
     <message>
         <source>Toggle Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar marcador</translation>
     </message>
     <message>
         <source>Next Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcador seguinte</translation>
     </message>
     <message>
         <source>Previous Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcador anterior</translation>
     </message>
     <message>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista(&amp;V)</translation>
     </message>
     <message>
         <source>Zoom &amp;In</source>
-        <translation type="unfinished"></translation>
+        <translation>Ampliar(&amp;I)</translation>
     </message>
     <message>
         <source>Zoom &amp;Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Reduzir(&amp;O)</translation>
     </message>
     <message>
         <source>Toggle Fullscreen Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar pré-visualização em ecrã inteiro</translation>
     </message>
     <message>
         <source>Toggle Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar guias</translation>
     </message>
     <message>
         <source>&amp;Window</source>
