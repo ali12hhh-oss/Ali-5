@@ -3,74 +3,74 @@
 <TS version="2.1" language="zh_Hans" sourcelanguage="en">
 <context>
     <name>AddonManager</name>
-    <message>
+    
         <source>Automatic (recommended)</source>
         <translation>自动（推荐）</translation>
     </message>
-    <message>
+    
         <source>This computer</source>
         <translation>此电脑</translation>
     </message>
-    <message>
+    
         <source>NVIDIA graphics (faster)</source>
         <translation>英伟达显卡（快速）</translation>
     </message>
-    <message>
+    
         <source>Graphics card (faster)</source>
         <translation>显卡（快速）</translation>
     </message>
-    <message>
+    
         <source>Could not open that file.</source>
         <translation>无法打开该文件。</translation>
     </message>
-    <message>
+    
         <source>Could not read that file.</source>
         <translation>无法读取该文件。</translation>
     </message>
-    <message>
+    
         <source>This is not a Drift effect file (%1).</source>
         <translation>这不是 Drift 效果文件 (%1)。</translation>
     </message>
 </context>
 <context>
     <name>AddonManagerDialog</name>
-    <message>
+    
         <source>Extras</source>
         <translation>附加项</translation>
     </message>
-    <message>
+    
         <source>Close</source>
         <translation>关闭</translation>
     </message>
-    <message>
+    
         <source>Remove this pack?</source>
         <translation>要移除这个包吗？</translation>
     </message>
-    <message>
+    
         <source>Remove</source>
         <translation>移除</translation>
     </message>
-    <message>
+    
         <source>“%1” and its downloaded data will be deleted. You can install it again later.</source>
         <translation>“%1” 和它下载的数据将被删除。你可以稍后再重新安装。</translation>
     </message>
-    <message>
+    
         <source>Import Effect</source>
         <translation>导入效果</translation>
     </message>
-    <message>
+    
         <source>Drift effect (*.driftfx)</source>
         <translation>Drift 效果 (*.driftfx)</translation>
     </message>
-    <message>
+    
         <source>Install this transition?</source>
         <translation>要安装此转场吗？</translation>
     </message>
-    <message>
+    
         <source>Install this effect?</source>
         <translation>要安装此效果吗？</translation>
     </message>
-    <message>
+    
         <source>“%1” by %2</source>
         <translation>“%1”，作者：%2</translation>
     </message>
@@ -1915,7 +1915,7 @@
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>样式</translation>
     </message>
     <message>
         <source>Pick how the clip enters and leaves. Fade is one option — same style controls as slide or zoom.</source>
@@ -3518,7 +3518,7 @@
     </message>
     <message>
         <source>%1 (trimmed)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1（已裁剪）</translation>
     </message>
     <message>
         <source>Rendering…</source>
@@ -3570,15 +3570,15 @@
     </message>
     <message>
         <source>This clip is already being enhanced</source>
-        <translation>此片段正在增强中</translation>
+        <translation>此片段正在处理中</translation>
     </message>
     <message>
         <source>%1 (enhanced %2x)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1（已增强 %2 倍）</translation>
     </message>
     <message>
         <source>%1 (enhanced)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1（已增强）</translation>
     </message>
     <message>
         <source>Enhance Video</source>
@@ -3918,7 +3918,7 @@
     </message>
     <message>
         <source>That style shares its folder with other styles</source>
-        <translation type="unfinished"></translation>
+        <translation>此样式与其他样式共用同一文件夹</translation>
     </message>
     <message>
         <source>Could not delete the face prop</source>
@@ -6609,7 +6609,7 @@
     </message>
     <message>
         <source>Face %1</source>
-        <translation type="unfinished"></translation>
+        <translation>人脸 %1</translation>
     </message>
     <message>
         <source>Anything in “%1” nearer than Distance passes in front of this layer.</source>
@@ -7891,43 +7891,43 @@
     <name>Main</name>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>文件(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;New Project</source>
-        <translation type="unfinished"></translation>
+        <translation>新建项目(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Open Project…</source>
-        <translation type="unfinished"></translation>
+        <translation>打开项目…</translation>
     </message>
     <message>
         <source>&amp;Save Project</source>
-        <translation type="unfinished"></translation>
+        <translation>保存项目(&amp;S)</translation>
     </message>
     <message>
         <source>Save Project &amp;As…</source>
-        <translation type="unfinished"></translation>
+        <translation>项目另存为…</translation>
     </message>
     <message>
         <source>Save Project &amp;JSON…</source>
-        <translation type="unfinished"></translation>
+        <translation>将项目保存为 JSON…</translation>
     </message>
     <message>
         <source>Open Project JSON…</source>
-        <translation type="unfinished"></translation>
+        <translation>打开项目 JSON…</translation>
     </message>
     <message>
         <source>&amp;Export Video…</source>
-        <translation type="unfinished"></translation>
+        <translation>导出视频(&amp;E)…</translation>
     </message>
     <message>
         <source>&amp;Package Project…</source>
-        <translation type="unfinished"></translation>
+        <translation>打包项目(&amp;P)…</translation>
     </message>
     <message>
         <source>&amp;Close Project</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭项目(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
