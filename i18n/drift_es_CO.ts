@@ -3533,7 +3533,7 @@
     </message>
     <message>
         <source>%1 (trimmed)</source>
-        <translation>Plantillas de efectos<\/translation>
+        <translation>Plantillas de efectos</translation>
     </message>
     <message>
         <source>Rendering…</source>
@@ -3585,15 +3585,15 @@
     </message>
     <message>
         <source>This clip is already being enhanced</source>
-        <translation>Conjuntos de efectos guardados para aplicar a un clip<\/translation>
+        <translation>Conjuntos de efectos guardados para aplicar a un clip</translation>
     </message>
     <message>
         <source>%1 (enhanced %2x)</source>
-        <translation>Escenas<\/translation>
+        <translation>Escenas</translation>
     </message>
     <message>
         <source>%1 (enhanced)</source>
-        <translation>Salta entre las secciones de esta edición<\/translation>
+        <translation>Salta entre las secciones de esta edición</translation>
     </message>
     <message>
         <source>Enhance Video</source>
@@ -3937,7 +3937,7 @@
     </message>
     <message>
         <source>That style shares its folder with other styles</source>
-        <translation>Máscaras<\/translation>
+        <translation>Máscaras</translation>
     </message>
     <message>
         <source>Could not delete the face prop</source>
@@ -6546,7 +6546,7 @@
     </message>
     <message>
         <source>This clip was scanned before the face mesh was supported. Re-detect faces to enable 3D Face Mesh and Face Retouch.</source>
-        <translation>Recorta una forma o un sujeto del clip seleccionado<\/translation>
+        <translation>Recorta una forma o un sujeto del clip seleccionado</translation>
     </message>
     <message>
         <source>Move to a time, set a value, then click the diamond to add a keyframe. With Auto keyframes on, dragging a slider also creates them.</source>
@@ -6638,7 +6638,7 @@
     </message>
     <message>
         <source>Face %1</source>
-        <translation>Transformar capa<\/translation>
+        <translation>Transformar capa</translation>
     </message>
     <message>
         <source>Anything in “%1” nearer than Distance passes in front of this layer.</source>
@@ -6958,27 +6958,27 @@
     </message>
     <message>
         <source>variants must be a list</source>
-        <translation>Mueve, escala o inclina varias pistas como una sola<\/translation>
+        <translation>Mueve, escala o inclina varias pistas como una sola</translation>
     </message>
     <message>
         <source>a variant must be an object</source>
-        <translation>Toca un clip para editarlo<\/translation>
+        <translation>Toca un clip para editarlo</translation>
     </message>
     <message>
         <source>invalid variant id “%1”</source>
-        <translation>Duración<\/translation>
+        <translation>Duración</translation>
     </message>
     <message>
         <source>a variant must name a .glb model in the prop folder</source>
-        <translation>Curva<\/translation>
+        <translation>Curva</translation>
     </message>
     <message>
         <source>a variant thumbnail must be a file in the prop folder</source>
-        <translation>Reemplazar<\/translation>
+        <translation>Reemplazar</translation>
     </message>
     <message>
         <source>a variant names the same file twice</source>
-        <translation>Eliminar<\/translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <source>Could not open %1</source>
@@ -7921,95 +7921,95 @@
     <name>Main</name>
     <message>
         <source>&amp;File</source>
-        <translation>Dividir<\/translation>
+        <translation>Dividir</translation>
     </message>
     <message>
         <source>&amp;New Project</source>
-        <translation>Transformar<\/translation>
+        <translation>Transformar</translation>
     </message>
     <message>
         <source>&amp;Open Project…</source>
-        <translation>Transformar en conjunto<\/translation>
+        <translation>Transformar en conjunto</translation>
     </message>
     <message>
         <source>&amp;Save Project</source>
-        <translation>Fundido<\/translation>
+        <translation>Fundido</translation>
     </message>
     <message>
         <source>Save Project &amp;As…</source>
-        <translation>Velocidad<\/translation>
+        <translation>Velocidad</translation>
     </message>
     <message>
         <source>Save Project &amp;JSON…</source>
-        <translation>Duplicar<\/translation>
+        <translation>Duplicar</translation>
     </message>
     <message>
         <source>Open Project JSON…</source>
-        <translation>Más<\/translation>
+        <translation>Más</translation>
     </message>
     <message>
         <source>&amp;Export Video…</source>
-        <translation>Ajustar<\/translation>
+        <translation>Ajustar</translation>
     </message>
     <message>
         <source>&amp;Package Project…</source>
-        <translation>Analizando…<\/translation>
+        <translation>Analizando…</translation>
     </message>
     <message>
         <source>&amp;Close Project</source>
-        <translation>Solo audio<\/translation>
+        <translation>Solo audio</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>No hay ningún clip en el momento actual<\/translation>
+        <translation>No hay ningún clip en el momento actual</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation>La vista previa por GPU no está disponible<\/translation>
+        <translation>La vista previa por GPU no está disponible</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation>Calidad: %1<\/translation>
+        <translation>Calidad: %1</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation>Guías<\/translation>
+        <translation>Guías</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>Buscar posición<\/translation>
+        <translation>Buscar posición</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation>Retroceder 1 segundo<\/translation>
+        <translation>Retroceder 1 segundo</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>Fotograma anterior<\/translation>
+        <translation>Fotograma anterior</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation>Pausar<\/translation>
+        <translation>Pausar</translation>
     </message>
     <message>
         <source>Clear Selection</source>
-        <translation>Reproducir<\/translation>
+        <translation>Reproducir</translation>
     </message>
     <message>
         <source>Split Clip</source>
-        <translation>Fotograma siguiente<\/translation>
+        <translation>Fotograma siguiente</translation>
     </message>
     <message>
         <source>Duplicate Clip</source>
-        <translation>Avanzar 1 segundo<\/translation>
+        <translation>Avanzar 1 segundo</translation>
     </message>
     <message>
         <source>Copy Effects</source>
-        <translation>Ajustes de vista y reproducción<\/translation>
+        <translation>Ajustes de vista y reproducción</translation>
     </message>
     <message>
         <source>Paste Effects</source>
-        <translation>Salir de la vista previa a pantalla completa<\/translation>
+        <translation>Salir de la vista previa a pantalla completa</translation>
     </message>
     <message>
         <source>Paste Attributes…</source>
