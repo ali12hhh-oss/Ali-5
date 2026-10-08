@@ -3,66 +3,66 @@
 <TS version="2.1" language="ko_KR" sourcelanguage="en">
 <context>
     <name>AddonManager</name>
-    
+    <message>
         <source>Automatic (recommended)</source>
         <translation>자동(권장)</translation>
     </message>
-    
+    <message>
         <source>This computer</source>
         <translation>이 컴퓨터</translation>
     </message>
-    
+    <message>
         <source>NVIDIA graphics (faster)</source>
         <translation>NVIDIA 그래픽(더 빠름)</translation>
     </message>
-    
+    <message>
         <source>Graphics card (faster)</source>
         <translation>그래픽 카드(더 빠름)</translation>
     </message>
-    
+    <message>
         <source>Could not open that file.</source>
         <translation>파일을 열 수 없습니다.</translation>
     </message>
-    
+    <message>
         <source>Could not read that file.</source>
         <translation>파일을 읽을 수 없습니다.</translation>
     </message>
-    
+    <message>
         <source>This is not a Drift effect file (%1).</source>
         <translation>이 파일은 Drift 효과 파일(%1)이 아닙니다.</translation>
     </message>
 </context>
 <context>
     <name>AddonManagerDialog</name>
-    
+    <message>
         <source>Extras</source>
         <translation>추가 기능</translation>
     </message>
-    
+    <message>
         <source>Close</source>
         <translation>닫기</translation>
     </message>
-    
+    <message>
         <source>Remove this pack?</source>
         <translation>이 팩을 제거하시겠습니까?</translation>
     </message>
-    
+    <message>
         <source>Remove</source>
         <translation>제거</translation>
     </message>
-    
+    <message>
         <source>“%1” and its downloaded data will be deleted. You can install it again later.</source>
         <translation>“%1”과(와) 다운로드된 데이터가 삭제됩니다. 나중에 다시 설치할 수 있습니다.</translation>
     </message>
-    
+    <message>
         <source>Import Effect</source>
         <translation>효과 가져오기</translation>
     </message>
-    
+    <message>
         <source>Drift effect (*.driftfx)</source>
         <translation>Drift 효과 (*.driftfx)</translation>
     </message>
-    
+    <message>
         <source>Install this transition?</source>
         <translation>이 전환을 설치하시겠습니까?</translation>
     </message>
@@ -927,8 +927,9 @@
     </message>
     <message numerus="yes">
         <source>%n coin(s)</source>
-        <translation>
-            <numerusform>코인 %n개</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -1730,8 +1731,9 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s)</source>
-        <translation>
-            <numerusform>클립 %n개</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -1818,8 +1820,9 @@
     <name>AndroidTransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>
-            <numerusform>%1 · 클립 %n개</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -2454,8 +2457,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n subtitles</source>
-        <translation>
-            <numerusform>자막 %n개를 가져왔습니다</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -2480,8 +2484,9 @@
     </message>
     <message numerus="yes">
         <source>Multicam ready: %n camera(s) lined up at the start. Drag a clip to adjust its sync, then pick a shot.</source>
-        <translation>
-            <numerusform>멀티캠 준비 완료: 시작 위치에 카메라 %n대가 정렬되었습니다. 클립을 드래그해 동기화를 조정한 다음 샷을 선택하세요.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -2574,8 +2579,9 @@
     </message>
     <message numerus="yes">
         <source>Found %n scene(s)</source>
-        <translation>
-            <numerusform>장면 %n개를 찾았습니다</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -2600,8 +2606,9 @@
     </message>
     <message numerus="yes">
         <source>%n media items and referenced clips removed</source>
-        <translation>
-            <numerusform>미디어 항목 %n개와 참조된 클립이 제거됨</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -3690,8 +3697,9 @@
     </message>
     <message numerus="yes">
         <source>Created %n text clips</source>
-        <translation>
-            <numerusform>텍스트 클립 %n개 생성됨</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -3724,8 +3732,9 @@
     </message>
     <message numerus="yes">
         <source>Transform layer now covers %n track(s)</source>
-        <translation>
-            <numerusform>변환 레이어가 이제 트랙 %n개를 포함합니다</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -3902,14 +3911,16 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s)</source>
-        <translation>
-            <numerusform>얼굴 소품 %n개를 가져왔습니다</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s); %1 skipped: %2</source>
-        <translation>
-            <numerusform>얼굴 소품 %n개를 가져왔습니다. %1개 건너뜀: %2</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4030,8 +4041,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted attributes onto %n clip(s)</source>
-        <translation>
-            <numerusform>클립 %n개에 속성을 붙여넣음</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4196,8 +4208,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted %n clips</source>
-        <translation>
-            <numerusform>클립 %n개를 붙여넣음</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4298,8 +4311,9 @@
     </message>
     <message numerus="yes">
         <source>Media collected, but %n original(s) couldn’t be deleted</source>
-        <translation>
-            <numerusform>미디어가 수집되었지만 원본 %n개를 삭제하지 못했습니다</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4432,8 +4446,9 @@
     </message>
     <message numerus="yes">
         <source>Applied to %n caption clip(s)</source>
-        <translation>
-            <numerusform>캡션 클립 %n개에 적용됨</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4546,14 +4561,16 @@
     </message>
     <message numerus="yes">
         <source>%n items removed</source>
-        <translation>
-            <numerusform>항목 %n개 제거됨</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n items moved</source>
-        <translation>
-            <numerusform>항목 %n개 이동됨</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4662,8 +4679,9 @@
     </message>
     <message numerus="yes">
         <source>Replaced with “%1”. %n clips were shortened to fit the new file.</source>
-        <translation>
-            <numerusform>“%1”로 교체했습니다. 새 파일에 맞추기 위해 클립 %n개의 길이가 줄었습니다.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4700,20 +4718,23 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders — as many as one folder import takes. Import the remaining subfolders separately.</source>
-        <translation>
-            <numerusform>폴더 가져오기 1회에 허용되는 최대 범위만큼 %1개 폴더에 파일 %n개를 가져왔습니다. 나머지 하위 폴더는 별도로 가져오세요.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</source>
-        <translation>
-            <numerusform>%1개 폴더에 파일 %n개를 가져왔습니다. %2개 파일은 건너뛰었습니다 — Drift가 해당 형식을 인식하지 못합니다. 그래도 가져오려면 미디어 라이브러리로 드래그하세요.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders.</source>
-        <translation>
-            <numerusform>%1개 폴더에 파일 %n개를 가져왔습니다.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4850,8 +4871,9 @@
     </message>
     <message numerus="yes">
         <source>%n items</source>
-        <translation>
-            <numerusform>항목 %n개</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4860,8 +4882,9 @@
     </message>
     <message numerus="yes">
         <source>Removed %n items.</source>
-        <translation>
-            <numerusform>항목 %n개를 제거했습니다.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -5705,14 +5728,16 @@
     </message>
     <message numerus="yes">
         <source>%n second(s) left</source>
-        <translation>
-            <numerusform>남은 시간 %n초</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) left</source>
-        <translation>
-            <numerusform>남은 시간 %n분</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -5744,8 +5769,9 @@
     </message>
     <message numerus="yes">
         <source>%n active</source>
-        <translation>
-            <numerusform>활성 %n개</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -5787,6 +5813,7 @@
         <source>%n style(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -5795,8 +5822,9 @@
     </message>
     <message numerus="yes">
         <source>%n colour(s)</source>
-        <translation>
-            <numerusform>색상 %n개</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -6065,8 +6093,9 @@
     </message>
     <message numerus="yes">
         <source>Downloads — %n running</source>
-        <translation>
-            <numerusform>다운로드 — %n개 실행 중</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -7685,8 +7714,9 @@
     </message>
     <message numerus="yes">
         <source>%n keyframes</source>
-        <translation>
-            <numerusform>키프레임 %n개</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8639,8 +8669,9 @@
     </message>
     <message numerus="yes">
         <source>Create %n proxies</source>
-        <translation>
-            <numerusform>프록시 %n개 생성</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8649,8 +8680,9 @@
     </message>
     <message numerus="yes">
         <source>Remove %n proxies</source>
-        <translation>
-            <numerusform>프록시 %n개 제거</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8707,8 +8739,9 @@
     </message>
     <message numerus="yes">
         <source>Add %n items to timeline</source>
-        <translation>
-            <numerusform>타임라인에 항목 %n개 추가</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8717,8 +8750,9 @@
     </message>
     <message numerus="yes">
         <source>Move %n items to folder…</source>
-        <translation>
-            <numerusform>항목 %n개를 폴더로 이동…</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8727,8 +8761,9 @@
     </message>
     <message numerus="yes">
         <source>Remove %n items from project</source>
-        <translation>
-            <numerusform>프로젝트에서 항목 %n개 제거</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -8768,8 +8803,9 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) may play back slowly. A proxy makes previewing smoother; export still uses the original.</source>
-        <translation>
-            <numerusform>클립 %n개는 재생이 느릴 수 있습니다. 프록시를 사용하면 미리보기가 더 부드러워지며, 내보낼 때는 원본을 사용합니다.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8778,8 +8814,9 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) have a variable frame rate, which can drift out of sync with audio. Convert them to an edit-friendly format to fix it.</source>
-        <translation>
-            <numerusform>클립 %n개는 가변 프레임 속도여서 오디오와 동기화가 어긋날 수 있습니다. 편집하기 좋은 형식으로 변환하면 해결됩니다.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8796,8 +8833,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files.</source>
-        <translation>
-            <numerusform>파일 %n개를 가져왔습니다.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8806,8 +8844,9 @@
     </message>
     <message numerus="yes">
         <source>Could not import any of the %n selected files.</source>
-        <translation>
-            <numerusform>선택한 파일 %n개를 하나도 가져올 수 없습니다.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -9001,8 +9040,9 @@
     </message>
     <message numerus="yes">
         <source>%n animation(s)</source>
-        <translation>
-            <numerusform>애니메이션 %n개</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -9420,8 +9460,9 @@
     </message>
     <message numerus="yes">
         <source>Pasting from “%1” onto %n selected clip(s):</source>
-        <translation>
-            <numerusform>“%1”에서 선택한 클립 %n개로 붙여넣는 중:</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -9450,8 +9491,9 @@
     </message>
     <message numerus="yes">
         <source>Video Effects (%n effect(s))</source>
-        <translation>
-            <numerusform>동영상 효과(효과 %n개)</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -9468,8 +9510,9 @@
     </message>
     <message numerus="yes">
         <source>Audio Effects (%n effect(s))</source>
-        <translation>
-            <numerusform>오디오 효과(효과 %n개)</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -9482,8 +9525,9 @@
     </message>
     <message numerus="yes">
         <source>Transitions (%n transition(s))</source>
-        <translation>
-            <numerusform>전환(전환 %n개)</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -10531,40 +10575,12 @@ If playback stutters, try another.</source>
 <context>
     <name>RestoreWindow</name>
     <message>
-        <source>under a second</source>
-        <translation>1초 앞으로</translation>
-    </message>
-    <message>
-        <source>%1 s</source>
-        <translation type="unfinished">%1초</translation>
-    </message>
-    <message>
-        <source>%1 min</source>
-        <translation type="unfinished">%1분</translation>
-    </message>
-    <message>
-        <source>%1 h %2 min</source>
-        <translation>보기 및 재생 설정</translation>
-    </message>
-    <message>
-        <source>%1 s per frame</source>
-        <translation>전체 화면 미리보기 종료</translation>
-    </message>
-    <message>
         <source>Enhance video</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>None</source>
         <translation type="unfinished">없음</translation>
-    </message>
-    <message>
-        <source>No upscaling</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Keep the original size.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 (custom, experimental)</source>
@@ -10643,18 +10659,6 @@ If playback stutters, try another.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Stop</source>
-        <translation type="unfinished">중지</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished">닫기</translation>
-    </message>
-    <message>
-        <source>Enhance clip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Anime and drawings</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10683,7 +10687,39 @@ If playback stutters, try another.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Get models (openmodeldb.info)</source>
+        <source>Refresh model list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enhance clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>under a second</source>
+        <translation>1초 앞으로</translation>
+    </message>
+    <message>
+        <source>%1 s</source>
+        <translation type="unfinished">%1초</translation>
+    </message>
+    <message>
+        <source>%1 min</source>
+        <translation type="unfinished">%1분</translation>
+    </message>
+    <message>
+        <source>%1 h %2 min</source>
+        <translation>보기 및 재생 설정</translation>
+    </message>
+    <message>
+        <source>%1 s per frame</source>
+        <translation>전체 화면 미리보기 종료</translation>
+    </message>
+    <message>
+        <source>No upscaling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep the original size.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10691,12 +10727,20 @@ If playback stutters, try another.</source>
         <translation type="unfinished">먼저 AI 엔진을 설치하세요</translation>
     </message>
     <message>
+        <source>Get models (openmodeldb.info)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Open custom models folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Refresh model list</source>
-        <translation type="unfinished"></translation>
+        <source>Stop</source>
+        <translation type="unfinished">중지</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">닫기</translation>
     </message>
 </context>
 <context>
@@ -12142,8 +12186,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>Filters — %n applied</source>
-        <translation>
-            <numerusform>필터 — %n개 적용됨</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -12219,8 +12264,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>%n coin(s)</source>
-        <translation>
-            <numerusform>코인 %n개</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -12282,8 +12328,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>%n captions</source>
-        <translation>
-            <numerusform>캡션 %n개</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -13934,8 +13981,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>This removes the track and its %n clips. You can undo afterwards.</source>
-        <translation>
-            <numerusform>이 작업은 트랙과 그 안의 클립 %n개를 제거합니다. 이후 실행 취소할 수 있습니다.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -14390,8 +14438,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>+%n more</source>
-        <translation>
-            <numerusform>+%n개 더</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -14399,8 +14448,9 @@ If playback stutters, try another.</source>
     <name>TransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>
-            <numerusform>%1 · 클립 %n개</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -14420,8 +14470,9 @@ If playback stutters, try another.</source>
     <name>TransformSpanBracket</name>
     <message numerus="yes">
         <source>%n track(s)</source>
-        <translation>
-            <numerusform>트랙 %n개</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -14430,8 +14481,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>Covers %n track(s)</source>
-        <translation>
-            <numerusform>트랙 %n개 포함</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
