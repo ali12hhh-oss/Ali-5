@@ -456,35 +456,35 @@
     </message>
     <message>
         <source>Effect templates</source>
-        <translation type="unfinished"></translation>
+        <translation>效果模板<\/translation>
     </message>
     <message>
         <source>Saved stacks of effects to drop on a clip</source>
-        <translation type="unfinished"></translation>
+        <translation>可添加到片段的已保存效果组合<\/translation>
     </message>
     <message>
         <source>Scenes</source>
-        <translation type="unfinished"></translation>
+        <translation>场景<\/translation>
     </message>
     <message>
         <source>Jump between the sections of this edit</source>
-        <translation type="unfinished"></translation>
+        <translation>在本次剪辑的不同部分之间跳转<\/translation>
     </message>
     <message>
         <source>Masks</source>
-        <translation type="unfinished"></translation>
+        <translation>蒙版<\/translation>
     </message>
     <message>
         <source>Cut a shape or a subject out of the selected clip</source>
-        <translation type="unfinished"></translation>
+        <translation>从所选片段中抠出形状或主体<\/translation>
     </message>
     <message>
         <source>Transform layer</source>
-        <translation type="unfinished"></translation>
+        <translation>变换图层<\/translation>
     </message>
     <message>
         <source>Move, scale or tilt several tracks as one</source>
-        <translation type="unfinished"></translation>
+        <translation>将多个轨道作为整体移动、缩放或倾斜<\/translation>
     </message>
 </context>
 <context>
@@ -507,7 +507,7 @@
     </message>
     <message>
         <source>Tap a clip to edit it</source>
-        <translation type="unfinished"></translation>
+        <translation>点按片段进行编辑<\/translation>
     </message>
     <message>
         <source>Add to timeline</source>
@@ -529,51 +529,51 @@
     <name>AndroidClipToolbar</name>
     <message>
         <source>Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>时长<\/translation>
     </message>
     <message>
         <source>Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>曲线<\/translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>替换<\/translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>删除<\/translation>
     </message>
     <message>
         <source>Split</source>
-        <translation type="unfinished"></translation>
+        <translation>分割<\/translation>
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>变换<\/translation>
     </message>
     <message>
         <source>Transform together</source>
-        <translation type="unfinished"></translation>
+        <translation>整体变换<\/translation>
     </message>
     <message>
         <source>Fade</source>
-        <translation type="unfinished"></translation>
+        <translation>淡入淡出<\/translation>
     </message>
     <message>
         <source>Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>速度<\/translation>
     </message>
     <message>
         <source>Duplicate</source>
-        <translation type="unfinished"></translation>
+        <translation>复制<\/translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>更多<\/translation>
     </message>
     <message>
         <source>Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>适应<\/translation>
     </message>
     <message>
         <source>Move the playhead over the clip to split it</source>
@@ -1399,22 +1399,22 @@
     </message>
     <message>
         <source>Analyzing…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在分析…<\/translation>
     </message>
 </context>
 <context>
     <name>AndroidPreview</name>
     <message>
         <source>Audio only</source>
-        <translation type="unfinished"></translation>
+        <translation>仅音频<\/translation>
     </message>
     <message>
         <source>No clip at the current time</source>
-        <translation type="unfinished"></translation>
+        <translation>当前时间没有片段<\/translation>
     </message>
     <message>
         <source>GPU preview unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>GPU 预览不可用<\/translation>
     </message>
     <message>
         <source>Full</source>
@@ -1434,35 +1434,35 @@
     </message>
     <message>
         <source>Quality: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>画质：%1<\/translation>
     </message>
     <message>
         <source>Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>参考线<\/translation>
     </message>
     <message>
         <source>Seek</source>
-        <translation type="unfinished"></translation>
+        <translation>定位<\/translation>
     </message>
     <message>
         <source>Back 1 second</source>
-        <translation type="unfinished"></translation>
+        <translation>后退 1 秒<\/translation>
     </message>
     <message>
         <source>Previous frame</source>
-        <translation type="unfinished"></translation>
+        <translation>上一帧<\/translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>暂停<\/translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>播放<\/translation>
     </message>
     <message>
         <source>Next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>下一帧<\/translation>
     </message>
     <message>
         <source>Loop work area on — tap to turn off</source>
@@ -1474,15 +1474,15 @@
     </message>
     <message>
         <source>Forward 1 second</source>
-        <translation type="unfinished"></translation>
+        <translation>前进 1 秒<\/translation>
     </message>
     <message>
         <source>View and playback settings</source>
-        <translation type="unfinished"></translation>
+        <translation>查看与播放设置<\/translation>
     </message>
     <message>
         <source>Exit fullscreen preview</source>
-        <translation type="unfinished"></translation>
+        <translation>退出全屏预览<\/translation>
     </message>
     <message>
         <source>Fullscreen preview</source>
