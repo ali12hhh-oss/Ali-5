@@ -927,10 +927,9 @@
     </message>
     <message numerus="yes">
         <source>%n coin(s)</source>
-        <translation>
-            <numerusform>%n moneta</numerusform>
-            <numerusform>%n monety</numerusform>
-            <numerusform>%n monet</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -1732,10 +1731,9 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s)</source>
-        <translation>
-            <numerusform>%n klip</numerusform>
-            <numerusform>%n klipy</numerusform>
-            <numerusform>%n klipów</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -1822,10 +1820,9 @@
     <name>AndroidTransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>
-            <numerusform>%1 · %n klip</numerusform>
-            <numerusform>%1 · %n klipy</numerusform>
-            <numerusform>%1 · %n klipów</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -2460,10 +2457,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n subtitles</source>
-        <translation>
-            <numerusform>Zaimportowano %n napisy</numerusform>
-            <numerusform>Zaimportowano %n napisy</numerusform>
-            <numerusform>Zaimportowano %n napisów</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -2488,10 +2484,9 @@
     </message>
     <message numerus="yes">
         <source>Multicam ready: %n camera(s) lined up at the start. Drag a clip to adjust its sync, then pick a shot.</source>
-        <translation>
-            <numerusform>Multicam gotowa: na początku ustawiono %n kamerę. Przeciągnij klip, aby skorygować synchronizację, a następnie wybierz ujęcie.</numerusform>
-            <numerusform>Multicam gotowy: na początku ustawiono %n kamery. Przeciągnij klipy, aby skorygować synchronizację, a następnie wybierz ujęcie.</numerusform>
-            <numerusform>Multicam gotowy: na początku ustawiono %n kamer. Przeciągnij klipy, aby skorygować synchronizację, a następnie wybierz ujęcie.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -2584,10 +2579,9 @@
     </message>
     <message numerus="yes">
         <source>Found %n scene(s)</source>
-        <translation>
-            <numerusform>Znaleziono %n scenę</numerusform>
-            <numerusform>Znaleziono %n sceny</numerusform>
-            <numerusform>Znaleziono %n scen</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -2612,10 +2606,9 @@
     </message>
     <message numerus="yes">
         <source>%n media items and referenced clips removed</source>
-        <translation>
-            <numerusform>Usunięto %n element multimedialny i powiązany klip</numerusform>
-            <numerusform>Usunięto %n elementy multimedialne i powiązanych klipy</numerusform>
-            <numerusform>Usunięto %n elementów multimedialnych i powiązanych klipów</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -3704,10 +3697,9 @@
     </message>
     <message numerus="yes">
         <source>Created %n text clips</source>
-        <translation>
-            <numerusform>Utworzono %n klip tekstowy</numerusform>
-            <numerusform>Utworzono %n klipy tekstowe</numerusform>
-            <numerusform>Utworzono %n klipów tekstowych</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -3740,10 +3732,9 @@
     </message>
     <message numerus="yes">
         <source>Transform layer now covers %n track(s)</source>
-        <translation>
-            <numerusform>Warstwa przekształcenia obejmuje teraz %n ścieżkę</numerusform>
-            <numerusform>Warstwa przekształcenia obejmuje teraz %n ścieżki</numerusform>
-            <numerusform>Warstwa przekształcenia obejmuje teraz %n ścieżek</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -3920,18 +3911,16 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s)</source>
-        <translation>
-            <numerusform>Zaimportowano %n element twarzy</numerusform>
-            <numerusform>Zaimportowano %n elementy twarzy</numerusform>
-            <numerusform>Zaimportowano %n elementów twarzy</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s); %1 skipped: %2</source>
-        <translation>
-            <numerusform>Zaimportowano %n element twarzy; pominięto %1: %2</numerusform>
-            <numerusform>Zaimportowano %n elementy twarzy; pominięto %1: %2</numerusform>
-            <numerusform>Zaimportowano %n elementów twarzy; pominięto %1: %2</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4052,10 +4041,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted attributes onto %n clip(s)</source>
-        <translation>
-            <numerusform>Wklejono atrybut do %n klipu</numerusform>
-            <numerusform>Wklejono atrybuty do %n klipy</numerusform>
-            <numerusform>Wklejono atrybuty do %n klipów</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4220,10 +4208,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted %n clips</source>
-        <translation>
-            <numerusform>Wklejono %n klip</numerusform>
-            <numerusform>Wklejono %n klipy</numerusform>
-            <numerusform>Wklejono %n klipów</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4324,9 +4311,8 @@
     </message>
     <message numerus="yes">
         <source>Media collected, but %n original(s) couldn’t be deleted</source>
-        <translation>
-            <numerusform>Media collected, but %n original couldn’t be deleted</numerusform>
-            <numerusform>Media collected, but %n originals couldn’t be deleted</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -4460,9 +4446,8 @@
     </message>
     <message numerus="yes">
         <source>Applied to %n caption clip(s)</source>
-        <translation>
-            <numerusform>Applied to %n caption clip</numerusform>
-            <numerusform>Applied to %n caption clips</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -4576,17 +4561,15 @@
     </message>
     <message numerus="yes">
         <source>%n items removed</source>
-        <translation>
-            <numerusform>%n items removed</numerusform>
-            <numerusform>%n items removed</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n items moved</source>
-        <translation>
-            <numerusform>%n items moved</numerusform>
-            <numerusform>%n items moved</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -4696,9 +4679,8 @@
     </message>
     <message numerus="yes">
         <source>Replaced with “%1”. %n clips were shortened to fit the new file.</source>
-        <translation>
-            <numerusform>Replaced with “%1”. %n clips were shortened to fit the new file.</numerusform>
-            <numerusform>Replaced with “%1”. %n clips were shortened to fit the new file.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -4736,25 +4718,22 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders — as many as one folder import takes. Import the remaining subfolders separately.</source>
-        <translation>
-            <numerusform>Imported %n files into %1 folders — as many as one folder import takes. Import the remaining subfolders separately.</numerusform>
-            <numerusform>Imported %n files into %1 folders — as many as one folder import takes. Import the remaining subfolders separately.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</source>
-        <translation>
-            <numerusform>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</numerusform>
-            <numerusform>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders.</source>
-        <translation>
-            <numerusform>Imported %n files into %1 folders.</numerusform>
-            <numerusform>Imported %n files into %1 folders.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -4892,9 +4871,8 @@
     </message>
     <message numerus="yes">
         <source>%n items</source>
-        <translation>
-            <numerusform>%n items</numerusform>
-            <numerusform>%n items</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -4904,9 +4882,8 @@
     </message>
     <message numerus="yes">
         <source>Removed %n items.</source>
-        <translation>
-            <numerusform>Removed %n items.</numerusform>
-            <numerusform>Removed %n items.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -5751,17 +5728,15 @@
     </message>
     <message numerus="yes">
         <source>%n second(s) left</source>
-        <translation>
-            <numerusform>%n second left</numerusform>
-            <numerusform>%n seconds left</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) left</source>
-        <translation>
-            <numerusform>%n minute left</numerusform>
-            <numerusform>%n minutes left</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -5794,9 +5769,8 @@
     </message>
     <message numerus="yes">
         <source>%n active</source>
-        <translation>
-            <numerusform>%n active</numerusform>
-            <numerusform>%n active</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -5837,9 +5811,8 @@
     </message>
     <message numerus="yes">
         <source>%n style(s)</source>
-        <translation>
-            <numerusform>%n style</numerusform>
-            <numerusform>%n styles</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -5849,9 +5822,8 @@
     </message>
     <message numerus="yes">
         <source>%n colour(s)</source>
-        <translation>
-            <numerusform>%n colour</numerusform>
-            <numerusform>%n colours</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -6121,9 +6093,8 @@
     </message>
     <message numerus="yes">
         <source>Downloads — %n running</source>
-        <translation>
-            <numerusform>Downloads — %n running</numerusform>
-            <numerusform>Downloads — %n running</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -7743,10 +7714,9 @@
     </message>
     <message numerus="yes">
         <source>%n keyframes</source>
-        <translation>
-            <numerusform>% klatka kluczowa</numerusform>
-            <numerusform>% klatki kluczowe</numerusform>
-            <numerusform>% klatek kluczowych</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8699,9 +8669,8 @@
     </message>
     <message numerus="yes">
         <source>Create %n proxies</source>
-        <translation>
-            <numerusform>Create %n proxies</numerusform>
-            <numerusform>Create %n proxies</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -8711,9 +8680,8 @@
     </message>
     <message numerus="yes">
         <source>Remove %n proxies</source>
-        <translation>
-            <numerusform>Remove %n proxies</numerusform>
-            <numerusform>Remove %n proxies</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -8771,9 +8739,8 @@
     </message>
     <message numerus="yes">
         <source>Add %n items to timeline</source>
-        <translation>
-            <numerusform>Add %n items to timeline</numerusform>
-            <numerusform>Add %n items to timeline</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -8783,9 +8750,8 @@
     </message>
     <message numerus="yes">
         <source>Move %n items to folder…</source>
-        <translation>
-            <numerusform>Move %n items to folder…</numerusform>
-            <numerusform>Move %n items to folder…</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -8795,9 +8761,8 @@
     </message>
     <message numerus="yes">
         <source>Remove %n items from project</source>
-        <translation>
-            <numerusform>Remove %n items from project</numerusform>
-            <numerusform>Remove %n items from project</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -8838,9 +8803,8 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) may play back slowly. A proxy makes previewing smoother; export still uses the original.</source>
-        <translation>
-            <numerusform>%n clip may play back slowly. A proxy makes previewing smoother; export still uses the original.</numerusform>
-            <numerusform>%n clips may play back slowly. A proxy makes previewing smoother; export still uses the original.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -8850,9 +8814,8 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) have a variable frame rate, which can drift out of sync with audio. Convert them to an edit-friendly format to fix it.</source>
-        <translation>
-            <numerusform>%n clip have a variable frame rate, which can drift out of sync with audio. Convert them to an edit-friendly format to fix it.</numerusform>
-            <numerusform>%n clips have a variable frame rate, which can drift out of sync with audio. Convert them to an edit-friendly format to fix it.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -8870,9 +8833,8 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files.</source>
-        <translation>
-            <numerusform>Imported %n files.</numerusform>
-            <numerusform>Imported %n files.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -8882,9 +8844,8 @@
     </message>
     <message numerus="yes">
         <source>Could not import any of the %n selected files.</source>
-        <translation>
-            <numerusform>Could not import any of the %n selected files.</numerusform>
-            <numerusform>Could not import any of the %n selected files.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -9079,9 +9040,8 @@
     </message>
     <message numerus="yes">
         <source>%n animation(s)</source>
-        <translation>
-            <numerusform>%n animation</numerusform>
-            <numerusform>%n animations</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -9500,9 +9460,8 @@
     </message>
     <message numerus="yes">
         <source>Pasting from “%1” onto %n selected clip(s):</source>
-        <translation>
-            <numerusform>Pasting from “%1” onto %n selected clip:</numerusform>
-            <numerusform>Pasting from “%1” onto %n selected clips:</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -9532,9 +9491,8 @@
     </message>
     <message numerus="yes">
         <source>Video Effects (%n effect(s))</source>
-        <translation>
-            <numerusform>Video Effects (%n effect)</numerusform>
-            <numerusform>Video Effects (%n effects)</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -9552,9 +9510,8 @@
     </message>
     <message numerus="yes">
         <source>Audio Effects (%n effect(s))</source>
-        <translation>
-            <numerusform>Audio Effects (%n effect)</numerusform>
-            <numerusform>Audio Effects (%n effects)</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -9568,9 +9525,8 @@
     </message>
     <message numerus="yes">
         <source>Transitions (%n transition(s))</source>
-        <translation>
-            <numerusform>Transitions (%n transition)</numerusform>
-            <numerusform>Transitions (%n transitions)</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -12238,9 +12194,8 @@ Jeśli odtwarzanie się zacina, spróbuj innego.</translation>
     </message>
     <message numerus="yes">
         <source>Filters — %n applied</source>
-        <translation>
-            <numerusform>Filters — %n applied</numerusform>
-            <numerusform>Filters — %n applied</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -12317,9 +12272,8 @@ Jeśli odtwarzanie się zacina, spróbuj innego.</translation>
     </message>
     <message numerus="yes">
         <source>%n coin(s)</source>
-        <translation>
-            <numerusform>%n coin</numerusform>
-            <numerusform>%n coins</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -12382,9 +12336,8 @@ Jeśli odtwarzanie się zacina, spróbuj innego.</translation>
     </message>
     <message numerus="yes">
         <source>%n captions</source>
-        <translation>
-            <numerusform>%n captions</numerusform>
-            <numerusform>%n captions</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -14036,9 +13989,8 @@ Jeśli odtwarzanie się zacina, spróbuj innego.</translation>
     </message>
     <message numerus="yes">
         <source>This removes the track and its %n clips. You can undo afterwards.</source>
-        <translation>
-            <numerusform>This removes the track and its %n clips. You can undo afterwards.</numerusform>
-            <numerusform>This removes the track and its %n clips. You can undo afterwards.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -14494,9 +14446,8 @@ Jeśli odtwarzanie się zacina, spróbuj innego.</translation>
     </message>
     <message numerus="yes">
         <source>+%n more</source>
-        <translation>
-            <numerusform>+%n more</numerusform>
-            <numerusform>+%n more</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -14505,9 +14456,8 @@ Jeśli odtwarzanie się zacina, spróbuj innego.</translation>
     <name>TransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>
-            <numerusform>%1 · %n clip</numerusform>
-            <numerusform>%1 · %n clips</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -14528,9 +14478,8 @@ Jeśli odtwarzanie się zacina, spróbuj innego.</translation>
     <name>TransformSpanBracket</name>
     <message numerus="yes">
         <source>%n track(s)</source>
-        <translation>
-            <numerusform>%n track</numerusform>
-            <numerusform>%n tracks</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -14540,9 +14489,8 @@ Jeśli odtwarzanie się zacina, spróbuj innego.</translation>
     </message>
     <message numerus="yes">
         <source>Covers %n track(s)</source>
-        <translation>
-            <numerusform>Covers %n track</numerusform>
-            <numerusform>Covers %n tracks</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
