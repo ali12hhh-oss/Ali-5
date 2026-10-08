@@ -3525,7 +3525,7 @@
     </message>
     <message>
         <source>%1 (trimmed)</source>
-        <translation type="unfinished"></translation>
+        <translation>ප්‍රයෝග සැකිලි<\/translation>
     </message>
     <message>
         <source>Rendering…</source>
@@ -3577,15 +3577,15 @@
     </message>
     <message>
         <source>This clip is already being enhanced</source>
-        <translation type="unfinished"></translation>
+        <translation>ක්ලිප් එකකට එක් කළ හැකි ලෙස සුරැකි ප්‍රයෝග කට්ටල<\/translation>
     </message>
     <message>
         <source>%1 (enhanced %2x)</source>
-        <translation type="unfinished"></translation>
+        <translation>දර්ශන<\/translation>
     </message>
     <message>
         <source>%1 (enhanced)</source>
-        <translation type="unfinished"></translation>
+        <translation>මෙම සංස්කරණයේ කොටස් අතර මාරු වන්න<\/translation>
     </message>
     <message>
         <source>Enhance Video</source>
@@ -3929,7 +3929,7 @@
     </message>
     <message>
         <source>That style shares its folder with other styles</source>
-        <translation type="unfinished"></translation>
+        <translation>මාස්ක්<\/translation>
     </message>
     <message>
         <source>Could not delete the face prop</source>
@@ -6546,7 +6546,7 @@
     </message>
     <message>
         <source>This clip was scanned before the face mesh was supported. Re-detect faces to enable 3D Face Mesh and Face Retouch.</source>
-        <translation type="unfinished"></translation>
+        <translation>තෝරාගත් ක්ලිප් එකෙන් හැඩයක් හෝ විෂයයක් වෙන් කරගන්න<\/translation>
     </message>
     <message>
         <source>Move to a time, set a value, then click the diamond to add a keyframe. With Auto keyframes on, dragging a slider also creates them.</source>
@@ -6638,7 +6638,7 @@
     </message>
     <message>
         <source>Face %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ස්තරය පරිවර්තනය කරන්න<\/translation>
     </message>
     <message>
         <source>Anything in “%1” nearer than Distance passes in front of this layer.</source>
@@ -6958,27 +6958,27 @@
     </message>
     <message>
         <source>variants must be a list</source>
-        <translation type="unfinished"></translation>
+        <translation>ට්‍රැක් කිහිපයක් එකක් ලෙස ගෙනයන්න, ප්‍රමාණය වෙනස් කරන්න හෝ ඇල කරන්න<\/translation>
     </message>
     <message>
         <source>a variant must be an object</source>
-        <translation type="unfinished"></translation>
+        <translation>සංස්කරණය කිරීමට ක්ලිප් එක තට්ටු කරන්න<\/translation>
     </message>
     <message>
         <source>invalid variant id “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>කාලසීමාව<\/translation>
     </message>
     <message>
         <source>a variant must name a .glb model in the prop folder</source>
-        <translation type="unfinished"></translation>
+        <translation>වක්‍රය<\/translation>
     </message>
     <message>
         <source>a variant thumbnail must be a file in the prop folder</source>
-        <translation type="unfinished"></translation>
+        <translation>ප්‍රතිස්ථාපනය කරන්න<\/translation>
     </message>
     <message>
         <source>a variant names the same file twice</source>
-        <translation type="unfinished"></translation>
+        <translation>මකන්න<\/translation>
     </message>
     <message>
         <source>Could not open %1</source>
@@ -7921,95 +7921,95 @@
     <name>Main</name>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>බෙදන්න<\/translation>
     </message>
     <message>
         <source>&amp;New Project</source>
-        <translation type="unfinished"></translation>
+        <translation>පරිවර්තනය කරන්න<\/translation>
     </message>
     <message>
         <source>&amp;Open Project…</source>
-        <translation type="unfinished"></translation>
+        <translation>එකට පරිවර්තනය කරන්න<\/translation>
     </message>
     <message>
         <source>&amp;Save Project</source>
-        <translation type="unfinished"></translation>
+        <translation>මැකී යාම<\/translation>
     </message>
     <message>
         <source>Save Project &amp;As…</source>
-        <translation type="unfinished"></translation>
+        <translation>වේගය<\/translation>
     </message>
     <message>
         <source>Save Project &amp;JSON…</source>
-        <translation type="unfinished"></translation>
+        <translation>අනුපිටපතක් සාදන්න<\/translation>
     </message>
     <message>
         <source>Open Project JSON…</source>
-        <translation type="unfinished"></translation>
+        <translation>තවත්<\/translation>
     </message>
     <message>
         <source>&amp;Export Video…</source>
-        <translation type="unfinished"></translation>
+        <translation>ගැළපෙන්න<\/translation>
     </message>
     <message>
         <source>&amp;Package Project…</source>
-        <translation type="unfinished"></translation>
+        <translation>විශ්ලේෂණය කරමින්…<\/translation>
     </message>
     <message>
         <source>&amp;Close Project</source>
-        <translation type="unfinished"></translation>
+        <translation>ශ්‍රව්‍ය පමණක්<\/translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>වත්මන් වේලාවේ ක්ලිප් එකක් නැත<\/translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>GPU පෙරදසුන ලබා ගත නොහැක<\/translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>ගුණාත්මකභාවය: %1<\/translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>මඟපෙන්වීම්<\/translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>ස්ථානයට යන්න<\/translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>තත්පර 1ක් පසුපසට<\/translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>පෙර රාමුව<\/translation>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>විරාමය<\/translation>
     </message>
     <message>
         <source>Clear Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>ධාවනය කරන්න<\/translation>
     </message>
     <message>
         <source>Split Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ඊළඟ රාමුව<\/translation>
     </message>
     <message>
         <source>Duplicate Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>තත්පර 1ක් ඉදිරියට<\/translation>
     </message>
     <message>
         <source>Copy Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>දර්ශන සහ ධාවන සැකසුම්<\/translation>
     </message>
     <message>
         <source>Paste Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>පූර්ණ තිර පෙරදසුනෙන් පිටවන්න<\/translation>
     </message>
     <message>
         <source>Paste Attributes…</source>
