@@ -927,8 +927,9 @@
     </message>
     <message numerus="yes">
         <source>%n coin(s)</source>
-        <translation>
-            <numerusform>%n xu</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -987,10 +988,6 @@
         <translation>Cắt khung hình</translation>
     </message>
     <message>
-        <source>Rotate</source>
-        <translation>Xoay</translation>
-    </message>
-    <message>
         <source>Keeping %1 to %2  ·  %3s</source>
         <translation>Giữ %1 đến %2  ·  %3s</translation>
     </message>
@@ -1033,6 +1030,10 @@
     <message>
         <source>Cancel</source>
         <translation>Hủy bỏ</translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation>Xoay</translation>
     </message>
 </context>
 <context>
@@ -1730,8 +1731,9 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s)</source>
-        <translation>
-            <numerusform>%n clip</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -1818,8 +1820,9 @@
     <name>AndroidTransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>
-            <numerusform>%1 · %n clip</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -2454,8 +2457,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n subtitles</source>
-        <translation>
-            <numerusform>Đã nhập %n phụ đề</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -2480,8 +2484,9 @@
     </message>
     <message numerus="yes">
         <source>Multicam ready: %n camera(s) lined up at the start. Drag a clip to adjust its sync, then pick a shot.</source>
-        <translation>
-            <numerusform>Đa góc quay đã sẵn sàng: %n camera đã được xếp hàng khi bắt đầu. Kéo clip để điều chỉnh đồng bộ hóa, sau đó chọn một cảnh quay.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -2574,8 +2579,9 @@
     </message>
     <message numerus="yes">
         <source>Found %n scene(s)</source>
-        <translation>
-            <numerusform>Đã tìm thấy %n phân cảnh</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -2600,8 +2606,9 @@
     </message>
     <message numerus="yes">
         <source>%n media items and referenced clips removed</source>
-        <translation>
-            <numerusform>%n phương tiện và các clip được tham chiếu đã bị xóa</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -3249,14 +3256,6 @@
         <translation>Đã đặt chế độ xoay thành %1°</translation>
     </message>
     <message>
-        <source>Orientation changed</source>
-        <translation>Đã thay đổi định hướng</translation>
-    </message>
-    <message>
-        <source>Clip orientation set to %1°</source>
-        <translation>Hướng clip được đặt thành %1°</translation>
-    </message>
-    <message>
         <source>Clips merged</source>
         <translation>Đã hợp nhất các clip</translation>
     </message>
@@ -3698,8 +3697,9 @@
     </message>
     <message numerus="yes">
         <source>Created %n text clips</source>
-        <translation>
-            <numerusform>Đã tạo %n clip văn bản</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -3732,8 +3732,9 @@
     </message>
     <message numerus="yes">
         <source>Transform layer now covers %n track(s)</source>
-        <translation>
-            <numerusform>Lớp chuyển đổi hiện bao gồm %n track</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -3910,14 +3911,16 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s)</source>
-        <translation>
-            <numerusform>Đã nhập đạo cụ khuôn mặt %n</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s); %1 skipped: %2</source>
-        <translation>
-            <numerusform>Đã nhập đạo cụ khuôn mặt %n; %1 bị bỏ qua: %2</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4038,8 +4041,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted attributes onto %n clip(s)</source>
-        <translation>
-            <numerusform>Đã dán thuộc tính vào %n clip</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4204,8 +4208,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted %n clips</source>
-        <translation>
-            <numerusform>Đã dán %n clip</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4306,8 +4311,9 @@
     </message>
     <message numerus="yes">
         <source>Media collected, but %n original(s) couldn’t be deleted</source>
-        <translation>
-            <numerusform>Phương tiện đã được thu thập, nhưng không thể xóa bản gốc %n</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4347,36 +4353,36 @@
         <translation>Thêm lớp</translation>
     </message>
     <message>
-        <source>Layer added</source>
-        <translation>Đã thêm lớp</translation>
-    </message>
-    <message>
         <source>Remove layer</source>
         <translation>Xóa lớp</translation>
-    </message>
-    <message>
-        <source>Layer removed</source>
-        <translation>Đã xóa lớp</translation>
     </message>
     <message>
         <source>Duplicate layer</source>
         <translation>Nhân đôi lớp</translation>
     </message>
     <message>
-        <source>Layer duplicated</source>
-        <translation>Đã nhân đôi lớp</translation>
-    </message>
-    <message>
         <source>Reorder layers</source>
         <translation>Sắp xếp lại lớp</translation>
     </message>
     <message>
-        <source>Layer moved</source>
-        <translation>Đã di chuyển lớp</translation>
-    </message>
-    <message>
         <source>Edit layer</source>
         <translation>Chỉnh sửa lớp</translation>
+    </message>
+    <message>
+        <source>Layer added</source>
+        <translation>Đã thêm lớp</translation>
+    </message>
+    <message>
+        <source>Layer removed</source>
+        <translation>Đã xóa lớp</translation>
+    </message>
+    <message>
+        <source>Layer duplicated</source>
+        <translation>Đã nhân đôi lớp</translation>
+    </message>
+    <message>
+        <source>Layer moved</source>
+        <translation>Đã di chuyển lớp</translation>
     </message>
     <message>
         <source>Edit text animation</source>
@@ -4440,8 +4446,9 @@
     </message>
     <message numerus="yes">
         <source>Applied to %n caption clip(s)</source>
-        <translation>
-            <numerusform>Áp dụng cho %n clip phụ đề</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4554,14 +4561,16 @@
     </message>
     <message numerus="yes">
         <source>%n items removed</source>
-        <translation>
-            <numerusform>%n mục đã bị xóa</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n items moved</source>
-        <translation>
-            <numerusform>%n mục đã được di chuyển</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4575,6 +4584,14 @@
     <message>
         <source>Track renamed</source>
         <translation>Đã đổi tên track</translation>
+    </message>
+    <message>
+        <source>Orientation changed</source>
+        <translation>Đã thay đổi định hướng</translation>
+    </message>
+    <message>
+        <source>Clip orientation set to %1°</source>
+        <translation>Hướng clip được đặt thành %1°</translation>
     </message>
 </context>
 <context>
@@ -4662,8 +4679,9 @@
     </message>
     <message numerus="yes">
         <source>Replaced with “%1”. %n clips were shortened to fit the new file.</source>
-        <translation>
-            <numerusform>Được thay thế bằng “%1”. %n clip đã được rút ngắn để phù hợp với tệp mới.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4700,20 +4718,23 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders — as many as one folder import takes. Import the remaining subfolders separately.</source>
-        <translation>
-            <numerusform>Đã nhập %n tệp vào các thư mục %1 - đạt giới hạn cho mỗi lần nhập. Nhập riêng các thư mục con còn lại.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</source>
-        <translation>
-            <numerusform>Đã nhập %n tệp vào %1 thư mục. Đã bỏ qua %2 tệp — Drift không định dạng được các tệp này. Thử kéo thả chúng vào ngăn chứa để nhập lại.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders.</source>
-        <translation>
-            <numerusform>Đã nhập tệp %n vào thư mục %1.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4850,8 +4871,9 @@
     </message>
     <message numerus="yes">
         <source>%n items</source>
-        <translation>
-            <numerusform>%n mục</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4860,8 +4882,9 @@
     </message>
     <message numerus="yes">
         <source>Removed %n items.</source>
-        <translation>
-            <numerusform>Đã xóa %n mục.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -5705,14 +5728,16 @@
     </message>
     <message numerus="yes">
         <source>%n second(s) left</source>
-        <translation>
-            <numerusform>%n giây còn lại</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) left</source>
-        <translation>
-            <numerusform>%n phút còn lại</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -5744,8 +5769,9 @@
     </message>
     <message numerus="yes">
         <source>%n active</source>
-        <translation>
-            <numerusform>%n đang hoạt động</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -5785,8 +5811,9 @@
     </message>
     <message numerus="yes">
         <source>%n style(s)</source>
-        <translation>
-            <numerusform>%n kiểu</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -5795,8 +5822,9 @@
     </message>
     <message numerus="yes">
         <source>%n colour(s)</source>
-        <translation>
-            <numerusform>%n màu</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -6020,6 +6048,14 @@
         <translation>Tất cả tệp (*)</translation>
     </message>
     <message>
+        <source>Save Project As</source>
+        <translation>Lưu dự án dưới dạng</translation>
+    </message>
+    <message>
+        <source>%1 copy</source>
+        <translation>%1 sao chép</translation>
+    </message>
+    <message>
         <source>Save Shareable Copy</source>
         <translation>Lưu bản sao có thể chia sẻ</translation>
     </message>
@@ -6057,8 +6093,9 @@
     </message>
     <message numerus="yes">
         <source>Downloads — %n running</source>
-        <translation>
-            <numerusform>Tải xuống — %n đang chạy</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -6112,14 +6149,6 @@
     <message>
         <source>Recommended packs and updates</source>
         <translation>Gói và cập nhật được đề xuất</translation>
-    </message>
-    <message>
-        <source>Save Project As</source>
-        <translation>Lưu dự án dưới dạng</translation>
-    </message>
-    <message>
-        <source>%1 copy</source>
-        <translation>%1 sao chép</translation>
     </message>
     <message>
         <source>Extras</source>
@@ -7685,8 +7714,9 @@
     </message>
     <message numerus="yes">
         <source>%n keyframes</source>
-        <translation>
-            <numerusform>%n keyframe</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8639,8 +8669,9 @@
     </message>
     <message numerus="yes">
         <source>Create %n proxies</source>
-        <translation>
-            <numerusform>Tạo %n proxy</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8649,8 +8680,9 @@
     </message>
     <message numerus="yes">
         <source>Remove %n proxies</source>
-        <translation>
-            <numerusform>Xóa %n proxy</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8707,8 +8739,9 @@
     </message>
     <message numerus="yes">
         <source>Add %n items to timeline</source>
-        <translation>
-            <numerusform>Thêm %n mục vào dòng thời gian</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8717,8 +8750,9 @@
     </message>
     <message numerus="yes">
         <source>Move %n items to folder…</source>
-        <translation>
-            <numerusform>Di chuyển %n mục vào thư mục…</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8727,8 +8761,9 @@
     </message>
     <message numerus="yes">
         <source>Remove %n items from project</source>
-        <translation>
-            <numerusform>Xóa %n mục khỏi dự án</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -8768,8 +8803,9 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) may play back slowly. A proxy makes previewing smoother; export still uses the original.</source>
-        <translation>
-            <numerusform>%n clip có thể phát lại chậm. Proxy giúp việc xem trước mượt mà hơn; xuất vẫn sử dụng bản gốc.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8778,8 +8814,9 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) have a variable frame rate, which can drift out of sync with audio. Convert them to an edit-friendly format to fix it.</source>
-        <translation>
-            <numerusform>%n clip có tốc độ khung hình thay đổi, có thể không đồng bộ với âm thanh. Hãy chuyển đổi chúng sang định dạng dễ chỉnh sửa để khắc phục.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8796,8 +8833,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files.</source>
-        <translation>
-            <numerusform>Đã nhập %n tệp.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8806,8 +8844,9 @@
     </message>
     <message numerus="yes">
         <source>Could not import any of the %n selected files.</source>
-        <translation>
-            <numerusform>Không thể nhập bất kỳ tệp nào trong số %n tệp đã chọn.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -8848,10 +8887,6 @@
     <message>
         <source>Set Out</source>
         <translation>Đặt điểm ra</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation>Xoay</translation>
     </message>
     <message>
         <source>Original: %1×%2 • Frame: %3×%4</source>
@@ -8945,6 +8980,10 @@
         <source>Done</source>
         <translation>Hoàn tất</translation>
     </message>
+    <message>
+        <source>Rotate</source>
+        <translation>Xoay</translation>
+    </message>
 </context>
 <context>
     <name>MissingAddonsDialog</name>
@@ -9001,8 +9040,9 @@
     </message>
     <message numerus="yes">
         <source>%n animation(s)</source>
-        <translation>
-            <numerusform>%n hoạt ảnh</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -9420,8 +9460,9 @@
     </message>
     <message numerus="yes">
         <source>Pasting from “%1” onto %n selected clip(s):</source>
-        <translation>
-            <numerusform>Đang dán từ “%1” vào %n clip đã chọn:</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -9450,8 +9491,9 @@
     </message>
     <message numerus="yes">
         <source>Video Effects (%n effect(s))</source>
-        <translation>
-            <numerusform>Hiệu ứng Video (%n hiệu ứng)</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -9468,8 +9510,9 @@
     </message>
     <message numerus="yes">
         <source>Audio Effects (%n effect(s))</source>
-        <translation>
-            <numerusform>Hiệu ứng âm thanh (%n hiệu ứng)</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -9482,8 +9525,9 @@
     </message>
     <message numerus="yes">
         <source>Transitions (%n transition(s))</source>
-        <translation>
-            <numerusform>Chuyển cảnh (%n chuyển cảnh)</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -12150,8 +12194,9 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     </message>
     <message numerus="yes">
         <source>Filters — %n applied</source>
-        <translation>
-            <numerusform>Bộ lọc — %n đã được áp dụng</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -12227,8 +12272,9 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     </message>
     <message numerus="yes">
         <source>%n coin(s)</source>
-        <translation>
-            <numerusform>%n xu</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -12290,8 +12336,9 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     </message>
     <message numerus="yes">
         <source>%n captions</source>
-        <translation>
-            <numerusform>%n phụ đề</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -12620,24 +12667,20 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
 <context>
     <name>TextInspector</name>
     <message>
+        <source>Colour</source>
+        <translation>Màu</translation>
+    </message>
+    <message>
+        <source>Choose the gradient&apos;s first colour</source>
+        <translation>Chọn màu đầu tiên của dải màu chuyển sắc</translation>
+    </message>
+    <message>
+        <source>Edits the first gradient stop</source>
+        <translation>Chỉnh sửa điểm dừng chuyển sắc đầu tiên</translation>
+    </message>
+    <message>
         <source>Style</source>
         <translation>Kiểu</translation>
-    </message>
-    <message>
-        <source>Save style…</source>
-        <translation>Lưu kiểu…</translation>
-    </message>
-    <message>
-        <source>Save text style</source>
-        <translation>Lưu kiểu văn bản</translation>
-    </message>
-    <message>
-        <source>My style %1</source>
-        <translation>Kiểu của tôi %1</translation>
-    </message>
-    <message>
-        <source>Font</source>
-        <translation>Phông chữ</translation>
     </message>
     <message>
         <source>Aa</source>
@@ -12700,24 +12743,36 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
         <translation>Nảy</translation>
     </message>
     <message>
-        <source>Text</source>
-        <translation>Văn bản</translation>
+        <source>Save style…</source>
+        <translation>Lưu kiểu…</translation>
     </message>
     <message>
-        <source>Animate</source>
-        <translation>Hoạt ảnh</translation>
+        <source>Save text style</source>
+        <translation>Lưu kiểu văn bản</translation>
     </message>
     <message>
-        <source>Type your text…</source>
-        <translation>Nhập văn bản của bạn…</translation>
+        <source>My style %1</source>
+        <translation>Kiểu của tôi %1</translation>
     </message>
     <message>
-        <source>Apply</source>
-        <translation>Áp dụng</translation>
+        <source>Apply to all captions</source>
+        <translation>Áp dụng đến tất cả phụ đề</translation>
     </message>
     <message>
-        <source>Apply the text to this clip</source>
-        <translation>Áp dụng văn bản vào clip này</translation>
+        <source>Copy this style to every other caption on this track</source>
+        <translation>Sao chép kiểu này cho mọi phụ đề khác trên track này</translation>
+    </message>
+    <message>
+        <source>…every track</source>
+        <translation>…mỗi track</translation>
+    </message>
+    <message>
+        <source>Copy this style to every caption in the project</source>
+        <translation>Sao chép kiểu này cho mọi phụ đề trong dự án</translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation>Phông chữ</translation>
     </message>
     <message>
         <source>Weight</source>
@@ -12726,6 +12781,66 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     <message>
         <source>Size</source>
         <translation>Kích thước</translation>
+    </message>
+    <message>
+        <source>Stroke</source>
+        <translation>Nét</translation>
+    </message>
+    <message>
+        <source>Extrude</source>
+        <translation>Độ nổi</translation>
+    </message>
+    <message>
+        <source>Decorations</source>
+        <translation>Trang trí</translation>
+    </message>
+    <message>
+        <source>Boxes and rules drawn around the text rather than on it</source>
+        <translation>Hộp và đường kẻ được vẽ quanh chữ thay vì trên chữ</translation>
+    </message>
+    <message>
+        <source>Animate</source>
+        <translation>Hoạt ảnh</translation>
+    </message>
+    <message>
+        <source>Phase</source>
+        <translation>Giai đoạn</translation>
+    </message>
+    <message>
+        <source>Stagger</source>
+        <translation>So le</translation>
+    </message>
+    <message>
+        <source>Delay between one unit and the next along the cycle</source>
+        <translation>Độ trễ giữa một đơn vị và đơn vị kế tiếp trong chu kỳ</translation>
+    </message>
+    <message>
+        <source>Delay between one unit starting and the next</source>
+        <translation>Độ trễ giữa lúc một đơn vị bắt đầu và đơn vị kế tiếp</translation>
+    </message>
+    <message>
+        <source>Order</source>
+        <translation>Thứ tự</translation>
+    </message>
+    <message>
+        <source>Ease</source>
+        <translation>Làm mềm</translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation>Nâng cao</translation>
+    </message>
+    <message>
+        <source>Custom animator (set via MCP). Preset controls are disabled.</source>
+        <translation>Trình tạo hoạt ảnh tùy chỉnh (được thiết lập thông qua MCP). Các preset điều khiển đã bị vô hiệu hóa.</translation>
+    </message>
+    <message>
+        <source>Revert to preset</source>
+        <translation>Hoàn nguyên về preset</translation>
+    </message>
+    <message>
+        <source>Drop the custom animators and go back to picking presets</source>
+        <translation>Bỏ các hiệu ứng hoạt ảnh tùy chỉnh và quay lại chọn preset</translation>
     </message>
     <message>
         <source>Choose text colour</source>
@@ -12742,6 +12857,30 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     <message>
         <source>%1 has no italic face</source>
         <translation>%1 không có kiểu chữ nghiêng</translation>
+    </message>
+    <message>
+        <source>Adjust text look</source>
+        <translation>Điều chỉnh giao diện văn bản</translation>
+    </message>
+    <message>
+        <source>Layers</source>
+        <translation>Lớp</translation>
+    </message>
+    <message>
+        <source>Add layer</source>
+        <translation>Thêm lớp</translation>
+    </message>
+    <message>
+        <source>Add a fill, stroke, shadow, glow or extrude layer</source>
+        <translation>Thêm lớp tô, nét, bóng, phát sáng hoặc độ nổi</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation>Đầy</translation>
+    </message>
+    <message>
+        <source>Bend</source>
+        <translation>Uốn cong</translation>
     </message>
     <message>
         <source>Align left</source>
@@ -12774,6 +12913,10 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     <message>
         <source>Letter spacing</source>
         <translation>Khoảng cách chữ</translation>
+    </message>
+    <message>
+        <source>Wrapping</source>
+        <translation>Ngắt dòng</translation>
     </message>
     <message>
         <source>Word wrap</source>
@@ -12824,16 +12967,20 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
         <translation>Phát sáng</translation>
     </message>
     <message>
-        <source>Colour</source>
-        <translation>Màu</translation>
+        <source>Text</source>
+        <translation>Văn bản</translation>
     </message>
     <message>
-        <source>Choose the gradient&apos;s first colour</source>
-        <translation>Chọn màu đầu tiên của dải màu chuyển sắc</translation>
+        <source>Type your text…</source>
+        <translation>Nhập văn bản của bạn…</translation>
     </message>
     <message>
-        <source>Edits the first gradient stop</source>
-        <translation>Chỉnh sửa điểm dừng chuyển sắc đầu tiên</translation>
+        <source>Apply</source>
+        <translation>Áp dụng</translation>
+    </message>
+    <message>
+        <source>Apply the text to this clip</source>
+        <translation>Áp dụng văn bản vào clip này</translation>
     </message>
     <message>
         <source>Edit in Style</source>
@@ -12856,14 +13003,6 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
         <translation>Chiều cao dòng, khoảng cách chữ, xuống dòng và uốn cong</translation>
     </message>
     <message>
-        <source>Wrapping</source>
-        <translation>Ngắt dòng</translation>
-    </message>
-    <message>
-        <source>Bend</source>
-        <translation>Uốn cong</translation>
-    </message>
-    <message>
         <source>Preset</source>
         <translation>Preset</translation>
     </message>
@@ -12880,22 +13019,6 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
         <translation>Lưu kiểu định dạng văn bản này dưới dạng một preset có thể sử dụng lại</translation>
     </message>
     <message>
-        <source>Apply to all captions</source>
-        <translation>Áp dụng đến tất cả phụ đề</translation>
-    </message>
-    <message>
-        <source>Copy this style to every other caption on this track</source>
-        <translation>Sao chép kiểu này cho mọi phụ đề khác trên track này</translation>
-    </message>
-    <message>
-        <source>…every track</source>
-        <translation>…mỗi track</translation>
-    </message>
-    <message>
-        <source>Copy this style to every caption in the project</source>
-        <translation>Sao chép kiểu này cho mọi phụ đề trong dự án</translation>
-    </message>
-    <message>
         <source>Effect</source>
         <translation>Hiệu ứng</translation>
     </message>
@@ -12908,44 +13031,8 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
         <translation>Bóng, đường viền, neon… được xây dựng dưới dạng các lớp mà bạn có thể tinh chỉnh bên dưới.</translation>
     </message>
     <message>
-        <source>Adjust text look</source>
-        <translation>Điều chỉnh giao diện văn bản</translation>
-    </message>
-    <message>
-        <source>Layers</source>
-        <translation>Lớp</translation>
-    </message>
-    <message>
-        <source>Add layer</source>
-        <translation>Thêm lớp</translation>
-    </message>
-    <message>
-        <source>Add a fill, stroke, shadow, glow or extrude layer</source>
-        <translation>Thêm lớp tô, nét, bóng, phát sáng hoặc độ nổi</translation>
-    </message>
-    <message>
-        <source>Fill</source>
-        <translation>Đầy</translation>
-    </message>
-    <message>
-        <source>Stroke</source>
-        <translation>Nét</translation>
-    </message>
-    <message>
-        <source>Extrude</source>
-        <translation>Độ nổi</translation>
-    </message>
-    <message>
         <source>No layers. Pick an effect above or add a fill to start.</source>
         <translation>Chưa có lớp nào. Chọn một hiệu ứng ở trên hoặc thêm một lớp tô để bắt đầu.</translation>
-    </message>
-    <message>
-        <source>Decorations</source>
-        <translation>Trang trí</translation>
-    </message>
-    <message>
-        <source>Boxes and rules drawn around the text rather than on it</source>
-        <translation>Hộp và đường kẻ được vẽ quanh chữ thay vì trên chữ</translation>
     </message>
     <message>
         <source>Word highlight</source>
@@ -13046,46 +13133,6 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     <message>
         <source>Choose accent highlight colour</source>
         <translation>Chọn màu tô sáng nhấn</translation>
-    </message>
-    <message>
-        <source>Phase</source>
-        <translation>Giai đoạn</translation>
-    </message>
-    <message>
-        <source>Stagger</source>
-        <translation>So le</translation>
-    </message>
-    <message>
-        <source>Delay between one unit and the next along the cycle</source>
-        <translation>Độ trễ giữa một đơn vị và đơn vị kế tiếp trong chu kỳ</translation>
-    </message>
-    <message>
-        <source>Delay between one unit starting and the next</source>
-        <translation>Độ trễ giữa lúc một đơn vị bắt đầu và đơn vị kế tiếp</translation>
-    </message>
-    <message>
-        <source>Order</source>
-        <translation>Thứ tự</translation>
-    </message>
-    <message>
-        <source>Ease</source>
-        <translation>Làm mềm</translation>
-    </message>
-    <message>
-        <source>Advanced</source>
-        <translation>Nâng cao</translation>
-    </message>
-    <message>
-        <source>Custom animator (set via MCP). Preset controls are disabled.</source>
-        <translation>Trình tạo hoạt ảnh tùy chỉnh (được thiết lập thông qua MCP). Các preset điều khiển đã bị vô hiệu hóa.</translation>
-    </message>
-    <message>
-        <source>Revert to preset</source>
-        <translation>Hoàn nguyên về preset</translation>
-    </message>
-    <message>
-        <source>Drop the custom animators and go back to picking presets</source>
-        <translation>Bỏ các hiệu ứng hoạt ảnh tùy chỉnh và quay lại chọn preset</translation>
     </message>
     <message>
         <source>In</source>
@@ -13942,8 +13989,9 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     </message>
     <message numerus="yes">
         <source>This removes the track and its %n clips. You can undo afterwards.</source>
-        <translation>
-            <numerusform>Thao tác này sẽ xóa track và các clip %n của nó. Bạn có thể hoàn tác sau đó.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -14150,10 +14198,6 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
 <context>
     <name>TransformInspector</name>
     <message>
-        <source>Transform</source>
-        <translation>Chuyển đổi</translation>
-    </message>
-    <message>
         <source>Opacity</source>
         <translation>Độ mờ</translation>
     </message>
@@ -14250,10 +14294,6 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
         <translation>Xoay 90°</translation>
     </message>
     <message>
-        <source>3D layer</source>
-        <translation>Lớp 3D</translation>
-    </message>
-    <message>
         <source>Tilt the whole group as one flat card</source>
         <translation>Nghiêng cả nhóm dưới dạng một thẻ phẳng</translation>
     </message>
@@ -14302,14 +14342,6 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
         <translation>Gizmo bám theo cạnh và mặt của chính clip, dù nó được xoay thế nào</translation>
     </message>
     <message>
-        <source>Fix orientation</source>
-        <translation>Sửa hướng</translation>
-    </message>
-    <message>
-        <source>Corrects the source&apos;s own rotation losslessly — unlike Angle above, this changes decoding, not just the on-screen box.</source>
-        <translation>Sửa xoay của chính nguồn mà không mất dữ liệu — khác với Angle ở trên, thao tác này thay đổi việc giải mã, không chỉ khung hiển thị trên màn hình.</translation>
-    </message>
-    <message>
         <source>Flip</source>
         <translation>Lật</translation>
     </message>
@@ -14328,6 +14360,22 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     <message>
         <source>Reset position</source>
         <translation>Đặt lại vị trí</translation>
+    </message>
+    <message>
+        <source>Fix orientation</source>
+        <translation>Sửa hướng</translation>
+    </message>
+    <message>
+        <source>Transform</source>
+        <translation>Chuyển đổi</translation>
+    </message>
+    <message>
+        <source>3D layer</source>
+        <translation>Lớp 3D</translation>
+    </message>
+    <message>
+        <source>Corrects the source&apos;s own rotation losslessly — unlike Angle above, this changes decoding, not just the on-screen box.</source>
+        <translation>Sửa xoay của chính nguồn mà không mất dữ liệu — khác với Angle ở trên, thao tác này thay đổi việc giải mã, không chỉ khung hiển thị trên màn hình.</translation>
     </message>
 </context>
 <context>
@@ -14398,8 +14446,9 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     </message>
     <message numerus="yes">
         <source>+%n more</source>
-        <translation>
-            <numerusform>+%1 mục nữa</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -14407,8 +14456,9 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     <name>TransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>
-            <numerusform>%1 · %n clip</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -14428,8 +14478,9 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     <name>TransformSpanBracket</name>
     <message numerus="yes">
         <source>%n track(s)</source>
-        <translation>
-            <numerusform>%n track</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -14438,8 +14489,9 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     </message>
     <message numerus="yes">
         <source>Covers %n track(s)</source>
-        <translation>
-            <numerusform>Lớp phủ %n track</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
