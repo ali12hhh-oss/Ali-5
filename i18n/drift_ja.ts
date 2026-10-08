@@ -7931,123 +7931,123 @@
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>編集(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>元に戻す(&amp;U)</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>やり直す(&amp;R)</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>切り取り(&amp;T)</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>コピー(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>貼り付け(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>削除(&amp;D)</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>すべて選択(&amp;A)</translation>
     </message>
     <message>
         <source>Clear Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>選択を解除</translation>
     </message>
     <message>
         <source>Split Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>クリップを分割</translation>
     </message>
     <message>
         <source>Duplicate Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>クリップを複製</translation>
     </message>
     <message>
         <source>Copy Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>エフェクトをコピー</translation>
     </message>
     <message>
         <source>Paste Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>エフェクトを貼り付け</translation>
     </message>
     <message>
         <source>Paste Attributes…</source>
-        <translation type="unfinished"></translation>
+        <translation>属性を貼り付け…</translation>
     </message>
     <message>
         <source>Preferences…</source>
-        <translation type="unfinished"></translation>
+        <translation>環境設定…</translation>
     </message>
     <message>
         <source>&amp;Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>再生(&amp;P)</translation>
     </message>
     <message>
         <source>Play / Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>再生 / 一時停止</translation>
     </message>
     <message>
         <source>Step Back One Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>1フレーム戻る</translation>
     </message>
     <message>
         <source>Step Forward One Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>1フレーム進む</translation>
     </message>
     <message>
         <source>Previous Cut Point</source>
-        <translation type="unfinished"></translation>
+        <translation>前のカットポイント</translation>
     </message>
     <message>
         <source>Next Cut Point</source>
-        <translation type="unfinished"></translation>
+        <translation>次のカットポイント</translation>
     </message>
     <message>
         <source>Go to Start of Timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>タイムラインの先頭へ移動</translation>
     </message>
     <message>
         <source>Toggle Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>ブックマークを切り替え</translation>
     </message>
     <message>
         <source>Next Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>次のブックマーク</translation>
     </message>
     <message>
         <source>Previous Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>前のブックマーク</translation>
     </message>
     <message>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>表示(&amp;V)</translation>
     </message>
     <message>
         <source>Zoom &amp;In</source>
-        <translation type="unfinished"></translation>
+        <translation>拡大(&amp;I)</translation>
     </message>
     <message>
         <source>Zoom &amp;Out</source>
-        <translation type="unfinished"></translation>
+        <translation>縮小(&amp;O)</translation>
     </message>
     <message>
         <source>Toggle Fullscreen Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>全画面プレビューを切り替え</translation>
     </message>
     <message>
         <source>Toggle Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>ガイドを切り替え</translation>
     </message>
     <message>
         <source>&amp;Window</source>
