@@ -7891,63 +7891,63 @@
     <name>Main</name>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tệp</translation>
     </message>
     <message>
         <source>&amp;New Project</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dự án mới</translation>
     </message>
     <message>
         <source>&amp;Open Project…</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mở dự án…</translation>
     </message>
     <message>
         <source>&amp;Save Project</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lưu dự án</translation>
     </message>
     <message>
         <source>Save Project &amp;As…</source>
-        <translation type="unfinished"></translation>
+        <translation>Lưu dự án &amp;thành…</translation>
     </message>
     <message>
         <source>Save Project &amp;JSON…</source>
-        <translation type="unfinished"></translation>
+        <translation>Lưu dự án dưới dạng &amp;JSON…</translation>
     </message>
     <message>
         <source>Open Project JSON…</source>
-        <translation type="unfinished"></translation>
+        <translation>Mở JSON dự án…</translation>
     </message>
     <message>
         <source>&amp;Export Video…</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Xuất video…</translation>
     </message>
     <message>
         <source>&amp;Package Project…</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Đóng gói dự án…</translation>
     </message>
     <message>
         <source>&amp;Close Project</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Đóng dự án</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Chỉnh sửa</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hoàn tác</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Làm lại</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>Cắ&amp;t</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sao chép</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
