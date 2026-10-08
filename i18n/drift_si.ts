@@ -927,9 +927,9 @@
     </message>
     <message numerus="yes">
         <source>%n coin(s)</source>
-        <translation>
-            <numerusform>%n කාසි</numerusform>
-            <numerusform>%n කාසි</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -1731,9 +1731,9 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s)</source>
-        <translation>
-            <numerusform>ක්ලිප් %nක්</numerusform>
-            <numerusform>ක්ලිප් %nක්</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -1820,9 +1820,9 @@
     <name>AndroidTransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>
-            <numerusform>%1 · %n ක්ලිපය</numerusform>
-            <numerusform>%1 · %n ක්ලිප්</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -2457,9 +2457,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n subtitles</source>
-        <translation>
-            <numerusform>උපසිරැසි %nක් ආයාත කරන ලදී</numerusform>
-            <numerusform>උපසිරැසි %nක් ආයාත කරන ලදී</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -2484,9 +2484,9 @@
     </message>
     <message numerus="yes">
         <source>Multicam ready: %n camera(s) lined up at the start. Drag a clip to adjust its sync, then pick a shot.</source>
-        <translation>
-            <numerusform>බහු කැමරාව සූදානම්: %n කැමරාව ආරම්භයේ පෙළගස්වා ඇත. එහි සමමුහුර්තකරණය සකස් කිරීමට ක්ලිප් එකක් ඇදගෙන යන්න, ඉන්පසු ඡායාරූපයක් තෝරන්න.</numerusform>
-            <numerusform>බහු කැමරාව සූදානම්: %n කැමරා ආරම්භයේ පෙළගස්වා ඇත. එහි සමමුහුර්තකරණය සකස් කිරීමට ක්ලිප් එකක් ඇදගෙන යන්න, ඉන්පසු ඡායාරූපයක් තෝරන්න.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -2579,9 +2579,9 @@
     </message>
     <message numerus="yes">
         <source>Found %n scene(s)</source>
-        <translation>
-            <numerusform>දර්ශන %nක් හමු විය</numerusform>
-            <numerusform>දර්ශන %nක් හමු විය</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -2606,9 +2606,9 @@
     </message>
     <message numerus="yes">
         <source>%n media items and referenced clips removed</source>
-        <translation>
-            <numerusform>මාධ්‍ය අයිතම %nක් සහ යොමු කළ ක්ලිප් ඉවත් කරන ලදී</numerusform>
-            <numerusform>මාධ්‍ය අයිතම %nක් සහ යොමු කළ ක්ලිප් ඉවත් කරන ලදී</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -3697,9 +3697,9 @@
     </message>
     <message numerus="yes">
         <source>Created %n text clips</source>
-        <translation>
-            <numerusform>පෙළ ක්ලිප් %nක් සාදන ලදී</numerusform>
-            <numerusform>පෙළ ක්ලිප් %nක් සාදන ලදී</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -3732,9 +3732,9 @@
     </message>
     <message numerus="yes">
         <source>Transform layer now covers %n track(s)</source>
-        <translation>
-            <numerusform>පරිවර්තන ස්තරය දැන් %n ට්‍රැකයක් ආවරණය කරයි</numerusform>
-            <numerusform>පරිවර්තන ස්තරය දැන් ට්‍රැක් %nක් ආවරණය කරයි</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -3911,16 +3911,16 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s)</source>
-        <translation>
-            <numerusform>%n Face prop එකක් ආයාත කරන ලදී</numerusform>
-            <numerusform>Face props %nක් ආයාත කරන ලදී</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s); %1 skipped: %2</source>
-        <translation>
-            <numerusform>%n Face prop එකක් ආයාත කරන ලදී; %1ක් මඟහැරිණි: %2</numerusform>
-            <numerusform>Face props %nක් ආයාත කරන ලදී; %1ක් මඟහැරිණි: %2</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4041,9 +4041,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted attributes onto %n clip(s)</source>
-        <translation>
-            <numerusform>ක්ලිප් %nක් මතට ගුණාංග අලවන ලදී</numerusform>
-            <numerusform>ක්ලිප් %nක් මතට ගුණාංග අලවන ලදී</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4208,9 +4208,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted %n clips</source>
-        <translation>
-            <numerusform>ක්ලිප් %nක් අලවන ලදී</numerusform>
-            <numerusform>ක්ලිප් %nක් අලවන ලදී</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4311,9 +4311,9 @@
     </message>
     <message numerus="yes">
         <source>Media collected, but %n original(s) couldn’t be deleted</source>
-        <translation>
-            <numerusform>මාධ්‍ය එක්රැස් කරන ලදී, නමුත් %n මුල් පිටපතක් මැකීමට නොහැකි විය</numerusform>
-            <numerusform>මාධ්‍ය එක්රැස් කරන ලදී, නමුත් මුල් පිටපත් %nක් මැකීමට නොහැකි විය</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4446,9 +4446,9 @@
     </message>
     <message numerus="yes">
         <source>Applied to %n caption clip(s)</source>
-        <translation>
-            <numerusform>උපසිරැසි ක්ලිප් %nකට යොදන ලදී</numerusform>
-            <numerusform>උපසිරැසි ක්ලිප් %nකට යොදන ලදී</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4561,16 +4561,16 @@
     </message>
     <message numerus="yes">
         <source>%n items removed</source>
-        <translation>
-            <numerusform>අයිතම %n ක් ඉවත් කරන ලදී</numerusform>
-            <numerusform>අයිතම %n ක් ඉවත් කරන ලදී</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n items moved</source>
-        <translation>
-            <numerusform>අයිතම %n ක් ගෙන යන ලදී</numerusform>
-            <numerusform>අයිතම %n ක් ගෙන යන ලදී</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4679,9 +4679,9 @@
     </message>
     <message numerus="yes">
         <source>Replaced with “%1”. %n clips were shortened to fit the new file.</source>
-        <translation>
-            <numerusform>“%1” සමඟ ප්‍රතිස්ථාපනය විය. නව ගොනුවට සරිලන සේ ක්ලිප් %nක් කෙටි කරන ලදී.</numerusform>
-            <numerusform>“%1” සමඟ ප්‍රතිස්ථාපනය විය. නව ගොනුවට සරිලන සේ ක්ලිප් %nක් කෙටි කරන ලදී.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4718,23 +4718,23 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders — as many as one folder import takes. Import the remaining subfolders separately.</source>
-        <translation>
-            <numerusform>ගොනු %nක් ෆෝල්ඩර %1කට ආයාත කරන ලදී — එක් ෆෝල්ඩර ආයාතයකින් ගත හැක්කේ එපමණකි. ඉතිරි උපෆෝල්ඩර වෙන වෙනම ආයාත කරන්න.</numerusform>
-            <numerusform>ගොනු %nක් ෆෝල්ඩර %1කට ආයාත කරන ලදී — එක් ෆෝල්ඩර ආයාතයකින් ගත හැක්කේ එපමණකි. ඉතිරි උපෆෝල්ඩර වෙන වෙනම ආයාත කරන්න.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</source>
-        <translation>
-            <numerusform>ගොනු %nක් ෆෝල්ඩර %1කට ආයාත කරන ලදී. ගොනු %2ක් මඟහරින ලදී — Drift ඒවායේ ආකෘතිය හඳුනා නොගනී. කෙසේ හෝ උත්සාහ කිරීමට ඒවා බඳුන වෙත අදින්න.</numerusform>
-            <numerusform>ගොනු %nක් ෆෝල්ඩර %1කට ආයාත කරන ලදී. ගොනු %2ක් මඟහරින ලදී — Drift ඒවායේ ආකෘතිය හඳුනා නොගනී. කෙසේ හෝ උත්සාහ කිරීමට ඒවා බඳුන වෙත අදින්න.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders.</source>
-        <translation>
-            <numerusform>ගොනු %nක් ෆෝල්ඩර %1කට ආයාත කරන ලදී.</numerusform>
-            <numerusform>ගොනු %nක් ෆෝල්ඩර %1කට ආයාත කරන ලදී.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4871,9 +4871,9 @@
     </message>
     <message numerus="yes">
         <source>%n items</source>
-        <translation>
-            <numerusform>අයිතම %n ක්</numerusform>
-            <numerusform>අයිතම %n ක්</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4882,9 +4882,9 @@
     </message>
     <message numerus="yes">
         <source>Removed %n items.</source>
-        <translation>
-            <numerusform>අයිතම %n ක් ඉවත් කරන ලදී.</numerusform>
-            <numerusform>අයිතම %n ක් ඉවත් කරන ලදී.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -5728,16 +5728,16 @@
     </message>
     <message numerus="yes">
         <source>%n second(s) left</source>
-        <translation>
-            <numerusform>තත්පර %nක් ඉතිරිව ඇත</numerusform>
-            <numerusform>තත්පර %nක් ඉතිරිව ඇත</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) left</source>
-        <translation>
-            <numerusform>මිනිත්තු %nක් ඉතිරිව ඇත</numerusform>
-            <numerusform>මිනිත්තු %nක් ඉතිරිව ඇත</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -5769,9 +5769,9 @@
     </message>
     <message numerus="yes">
         <source>%n active</source>
-        <translation>
-            <numerusform>%nක් සක්‍රීයයි</numerusform>
-            <numerusform>%nක් සක්‍රීයයි</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -5822,9 +5822,9 @@
     </message>
     <message numerus="yes">
         <source>%n colour(s)</source>
-        <translation>
-            <numerusform>%n වර්ණයක්</numerusform>
-            <numerusform>වර්ණ %nක්</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -6093,9 +6093,9 @@
     </message>
     <message numerus="yes">
         <source>Downloads — %n running</source>
-        <translation>
-            <numerusform>බාගැනීම් — %nක් ක්‍රියාත්මකයි</numerusform>
-            <numerusform>බාගැනීම් — %nක් ක්‍රියාත්මකයි</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -7714,9 +7714,9 @@
     </message>
     <message numerus="yes">
         <source>%n keyframes</source>
-        <translation>
-            <numerusform>කීෆ්‍රේම %nක්</numerusform>
-            <numerusform>කීෆ්‍රේම %nක්</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8669,9 +8669,9 @@
     </message>
     <message numerus="yes">
         <source>Create %n proxies</source>
-        <translation>
-            <numerusform>ප්‍රොක්සි %nක් සාදන්න</numerusform>
-            <numerusform>ප්‍රොක්සි %nක් සාදන්න</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8680,9 +8680,9 @@
     </message>
     <message numerus="yes">
         <source>Remove %n proxies</source>
-        <translation>
-            <numerusform>ප්‍රොක්සි %nක් ඉවත් කරන්න</numerusform>
-            <numerusform>ප්‍රොක්සි %nක් ඉවත් කරන්න</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8739,9 +8739,9 @@
     </message>
     <message numerus="yes">
         <source>Add %n items to timeline</source>
-        <translation>
-            <numerusform>අයිතම %n ක් කාලරේඛාවට එක් කරන්න</numerusform>
-            <numerusform>අයිතම %n ක් කාලරේඛාවට එක් කරන්න</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8750,9 +8750,9 @@
     </message>
     <message numerus="yes">
         <source>Move %n items to folder…</source>
-        <translation>
-            <numerusform>අයිතම %n ක් ෆෝල්ඩරයට ගෙන යන්න…</numerusform>
-            <numerusform>අයිතම %n ක් ෆෝල්ඩරයට ගෙන යන්න…</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8761,9 +8761,9 @@
     </message>
     <message numerus="yes">
         <source>Remove %n items from project</source>
-        <translation>
-            <numerusform>අයිතම %n ක් ව්‍යාපෘතියෙන් ඉවත් කරන්න</numerusform>
-            <numerusform>අයිතම %n ක් ව්‍යාපෘතියෙන් ඉවත් කරන්න</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -8803,9 +8803,9 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) may play back slowly. A proxy makes previewing smoother; export still uses the original.</source>
-        <translation>
-            <numerusform>ක්ලිප් %nක් සෙමින් ධාවනය විය හැක. ප්‍රොක්සි මඟින් පෙරදසුන වඩාත් සුමට කරයි; නිර්යාත කිරීමේදී තවමත් මුල් ගොනුව භාවිත වේ.</numerusform>
-            <numerusform>ක්ලිප් %nක් සෙමින් ධාවනය විය හැක. ප්‍රොක්සි මඟින් පෙරදසුන වඩාත් සුමට කරයි; නිර්යාත කිරීමේදී තවමත් මුල් ගොනුව භාවිත වේ.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8814,9 +8814,9 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) have a variable frame rate, which can drift out of sync with audio. Convert them to an edit-friendly format to fix it.</source>
-        <translation>
-            <numerusform>ක්ලිප් %nක විචල්‍ය රාමු අනුපාතයක් ඇත, එමඟින් ශ්‍රව්‍ය සමඟ නොගැලපී පැවතිය හැක. එය විසඳීමට ඒවා සංස්කරණයට පහසු ආකෘතියකට පරිවර්තනය කරන්න.</numerusform>
-            <numerusform>ක්ලිප් %nක විචල්‍ය රාමු අනුපාතයක් ඇත, එමඟින් ශ්‍රව්‍ය සමඟ නොගැලපී පැවතිය හැක. එය විසඳීමට ඒවා සංස්කරණයට පහසු ආකෘතියකට පරිවර්තනය කරන්න.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8833,9 +8833,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files.</source>
-        <translation>
-            <numerusform>ගොනු %nක් ආයාත කරන ලදී.</numerusform>
-            <numerusform>ගොනු %nක් ආයාත කරන ලදී.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8844,9 +8844,9 @@
     </message>
     <message numerus="yes">
         <source>Could not import any of the %n selected files.</source>
-        <translation>
-            <numerusform>තෝරාගත් ගොනු %nන් කිසිවක් ආයාත කිරීමට නොහැකි විය.</numerusform>
-            <numerusform>තෝරාගත් ගොනු %nන් කිසිවක් ආයාත කිරීමට නොහැකි විය.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -9040,9 +9040,9 @@
     </message>
     <message numerus="yes">
         <source>%n animation(s)</source>
-        <translation>
-            <numerusform>සජීවිකරණ %nක්</numerusform>
-            <numerusform>සජීවිකරණ %nක්</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -9460,9 +9460,9 @@
     </message>
     <message numerus="yes">
         <source>Pasting from “%1” onto %n selected clip(s):</source>
-        <translation>
-            <numerusform>“%1” වෙතින් තෝරාගත් ක්ලිප් %nක් මතට අලවමින්:</numerusform>
-            <numerusform>“%1” වෙතින් තෝරාගත් ක්ලිප් %nක් මතට අලවමින්:</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -9491,9 +9491,9 @@
     </message>
     <message numerus="yes">
         <source>Video Effects (%n effect(s))</source>
-        <translation>
-            <numerusform>වීඩියෝ ප්‍රයෝග (ප්‍රයෝග %nක්)</numerusform>
-            <numerusform>වීඩියෝ ප්‍රයෝග (ප්‍රයෝග %nක්)</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -9510,9 +9510,9 @@
     </message>
     <message numerus="yes">
         <source>Audio Effects (%n effect(s))</source>
-        <translation>
-            <numerusform>ශ්‍රව්‍ය ප්‍රයෝග (ප්‍රයෝග %nක්)</numerusform>
-            <numerusform>ශ්‍රව්‍ය ප්‍රයෝග (ප්‍රයෝග %nක්)</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -9525,9 +9525,9 @@
     </message>
     <message numerus="yes">
         <source>Transitions (%n transition(s))</source>
-        <translation>
-            <numerusform>සංක්‍රාන්ති (සංක්‍රාන්ති %nක්)</numerusform>
-            <numerusform>සංක්‍රාන්ති (සංක්‍රාන්ති %nක්)</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -12194,9 +12194,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>Filters — %n applied</source>
-        <translation>
-            <numerusform>පෙරහන් — %nක් යොදා ඇත</numerusform>
-            <numerusform>පෙරහන් — %nක් යොදා ඇත</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -12272,9 +12272,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>%n coin(s)</source>
-        <translation>
-            <numerusform>%n කාසි</numerusform>
-            <numerusform>%n කාසි</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -12336,9 +12336,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>%n captions</source>
-        <translation>
-            <numerusform>උපසිරැසි %nක්</numerusform>
-            <numerusform>උපසිරැසි %nක්</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -13989,9 +13989,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>This removes the track and its %n clips. You can undo afterwards.</source>
-        <translation>
-            <numerusform>මෙමඟින් ට්‍රැකය සහ එහි ඇති ක්ලිප් %n ඉවත් කෙරේ. පසුව ඔබට එය අහෝසි කළ හැක.</numerusform>
-            <numerusform>මෙමඟින් ට්‍රැකය සහ එහි ඇති ක්ලිප් %n ඉවත් කෙරේ. පසුව ඔබට එය අහෝසි කළ හැක.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -14446,9 +14446,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>+%n more</source>
-        <translation>
-            <numerusform>+තවත් %nක්</numerusform>
-            <numerusform>+තවත් %nක්</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -14456,9 +14456,9 @@ If playback stutters, try another.</source>
     <name>TransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>
-            <numerusform>%1 · ක්ලිප් %nක්</numerusform>
-            <numerusform>%1 · ක්ලිප් %nක්</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -14478,9 +14478,9 @@ If playback stutters, try another.</source>
     <name>TransformSpanBracket</name>
     <message numerus="yes">
         <source>%n track(s)</source>
-        <translation>
-            <numerusform>ට්‍රැක් %nක්</numerusform>
-            <numerusform>ට්‍රැක් %nක්</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -14489,9 +14489,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>Covers %n track(s)</source>
-        <translation>
-            <numerusform>ට්‍රැක් %nක් ආවරණය කරයි</numerusform>
-            <numerusform>ට්‍රැක් %nක් ආවරණය කරයි</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
