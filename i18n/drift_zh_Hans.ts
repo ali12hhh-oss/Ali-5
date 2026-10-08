@@ -282,107 +282,107 @@
     <name>AgentAccessControls</name>
     <message>
         <source>Allow for this session</source>
-        <translation type="unfinished"></translation>
+        <translation>允许本次会话使用</translation>
     </message>
     <message>
         <source>Let an assistant on this device edit this project until you turn it off or quit.</source>
-        <translation type="unfinished"></translation>
+        <translation>允许此设备上的助手编辑此项目，直到你关闭此权限或退出应用。</translation>
     </message>
     <message>
         <source>Turn this on, then copy the setup for Cursor or Claude and paste it into that app.</source>
-        <translation type="unfinished"></translation>
+        <translation>开启此项后，将 Cursor 或 Claude 的设置复制并粘贴到对应应用中。</translation>
     </message>
     <message>
         <source>Access is on</source>
-        <translation type="unfinished"></translation>
+        <translation>访问权限已开启</translation>
     </message>
     <message>
         <source>Listening on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>正在监听 %1</translation>
     </message>
     <message>
         <source>New key</source>
-        <translation type="unfinished"></translation>
+        <translation>新建密钥</translation>
     </message>
     <message>
         <source>Replace the key. Every assistant set up with the old one stops working until you copy the setup again.</source>
-        <translation type="unfinished"></translation>
+        <translation>替换密钥。使用旧密钥配置的所有助手都会停止工作，直到你重新复制设置。</translation>
     </message>
     <message>
         <source>New key made — copy the setup again</source>
-        <translation type="unfinished"></translation>
+        <translation>新密钥已创建 — 请重新复制设置</translation>
     </message>
     <message>
         <source>Copy the setup for the assistant you use. You only need one.</source>
-        <translation type="unfinished"></translation>
+        <translation>复制你使用的助手设置。只需要复制一个。</translation>
     </message>
     <message>
         <source>Copy for Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>复制到 Cursor</translation>
     </message>
     <message>
         <source>Copy a setup snippet to paste into Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>复制可粘贴到 Cursor 的设置片段</translation>
     </message>
     <message>
         <source>Copied for Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>已复制到 Cursor</translation>
     </message>
     <message>
         <source>Copy for Claude</source>
-        <translation type="unfinished"></translation>
+        <translation>复制到 Claude</translation>
     </message>
     <message>
         <source>Copy a command to paste into Claude Code</source>
-        <translation type="unfinished"></translation>
+        <translation>复制可粘贴到 Claude Code 的命令</translation>
     </message>
     <message>
         <source>Copied for Claude</source>
-        <translation type="unfinished"></translation>
+        <translation>已复制到 Claude</translation>
     </message>
     <message>
         <source>Paste that into the assistant. To help it use this editor, copy the how-to next and paste it into the chat.</source>
-        <translation type="unfinished"></translation>
+        <translation>将其粘贴到助手中。为了帮助助手使用此编辑器，再复制下面的使用说明并粘贴到聊天中。</translation>
     </message>
     <message>
         <source>Copy a how-to for the agent</source>
-        <translation type="unfinished"></translation>
+        <translation>复制代理使用说明</translation>
     </message>
     <message>
         <source>A short list of what the agent can do here — paste it into the chat</source>
-        <translation type="unfinished"></translation>
+        <translation>简要列出代理在这里可以执行的操作 — 将其粘贴到聊天中</translation>
     </message>
     <message>
         <source>Copied how-to</source>
-        <translation type="unfinished"></translation>
+        <translation>使用说明已复制</translation>
     </message>
     <message>
         <source>More options</source>
-        <translation type="unfinished"></translation>
+        <translation>更多选项</translation>
     </message>
     <message>
         <source>For a different assistant, copy a one-time setup. The address and key are already in the Cursor and Claude copies above.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果使用其他助手，请复制一次性设置。地址和密钥已包含在上面的 Cursor 和 Claude 设置中。</translation>
     </message>
     <message>
         <source>Copy one-time setup</source>
-        <translation type="unfinished"></translation>
+        <translation>复制一次性设置</translation>
     </message>
     <message>
         <source>Add this once to the assistant’s config. Access still has to be turned on here.</source>
-        <translation type="unfinished"></translation>
+        <translation>将此设置添加到助手配置一次即可。仍需在此处开启访问权限。</translation>
     </message>
     <message>
         <source>Copied one-time setup</source>
-        <translation type="unfinished"></translation>
+        <translation>一次性设置已复制</translation>
     </message>
     <message>
         <source>Start agent on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>启动时启动代理</translation>
     </message>
     <message>
         <source>Skip the manual toggle next time you open Drift. Turning access off resets this.</source>
-        <translation type="unfinished"></translation>
+        <translation>下次打开 Drift 时无需手动开启。关闭访问权限会重置此设置。</translation>
     </message>
     <message>
         <source>Let Cursor or Claude edit this project for you — add clips, change the timeline, and check how it looks. Only programs on this device. Off by default each time you open Drift, unless you turn on “Start agent on startup” below; turn it off here when you finish. The key stays the same between sessions, so a setup you pasted once keeps working.</source>
@@ -393,7 +393,7 @@
     <name>AgentAccessDialog</name>
     <message>
         <source>Agent access</source>
-        <translation type="unfinished"></translation>
+        <translation>代理访问</translation>
     </message>
     <message>
         <source>Close</source>
@@ -416,11 +416,11 @@
     </message>
     <message>
         <source>Market</source>
-        <translation type="unfinished"></translation>
+        <translation>市场</translation>
     </message>
     <message>
         <source>Stock photos, video and audio</source>
-        <translation type="unfinished"></translation>
+        <translation>图库照片、视频和音频</translation>
     </message>
     <message>
         <source>Text</source>
