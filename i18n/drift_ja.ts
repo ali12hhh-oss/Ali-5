@@ -8051,19 +8051,19 @@
     </message>
     <message>
         <source>&amp;Window</source>
-        <translation>エフェクトテンプレート<\/translation>
+        <translation>エフェクトテンプレート</translation>
     </message>
     <message>
         <source>Landscape Workspace</source>
-        <translation>クリップに適用できる保存済みエフェクトセット<\/translation>
+        <translation>クリップに適用できる保存済みエフェクトセット</translation>
     </message>
     <message>
         <source>Portrait Workspace</source>
-        <translation>シーン<\/translation>
+        <translation>シーン</translation>
     </message>
     <message>
         <source>Auto Workspace (Follow Canvas)</source>
-        <translation>編集内の各セクションへ移動<\/translation>
+        <translation>編集内の各セクションへ移動</translation>
     </message>
     <message>
         <source>Downloads</source>
@@ -8075,23 +8075,23 @@
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>マスク<\/translation>
+        <translation>マスク</translation>
     </message>
     <message>
         <source>Keyboard Shortcuts</source>
-        <translation>選択したクリップから図形や被写体を切り抜く<\/translation>
+        <translation>選択したクリップから図形や被写体を切り抜く</translation>
     </message>
     <message>
         <source>Extras…</source>
-        <translation>レイヤーを変形<\/translation>
+        <translation>レイヤーを変形</translation>
     </message>
     <message>
         <source>Check for Updates…</source>
-        <translation>複数のトラックをまとめて移動・拡大縮小・傾斜<\/translation>
+        <translation>複数のトラックをまとめて移動・拡大縮小・傾斜</translation>
     </message>
     <message>
         <source>Debug Info…</source>
-        <translation>クリップをタップして編集<\/translation>
+        <translation>クリップをタップして編集</translation>
     </message>
     <message>
         <source>Still opening a project — try again in a moment.</source>
