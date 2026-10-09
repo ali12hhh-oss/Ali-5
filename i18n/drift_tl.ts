@@ -1506,7 +1506,7 @@
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">I-save</translation>
+        <translation>I-save</translation>
     </message>
     <message>
         <source>Keep this project on the device</source>
@@ -1597,7 +1597,7 @@
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan</translation>
     </message>
     <message>
         <source>Open a project from this device</source>
@@ -1605,46 +1605,46 @@
     </message>
     <message>
         <source>Nothing here yet — projects you save will show up in this list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala pa rito — lalabas sa listahang ito ang mga proyektong ise-save mo.</translation>
     </message>
     <message>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang pamagat</translation>
     </message>
     <message>
         <source>That project file is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nawawala ang file ng proyektong iyon.</translation>
     </message>
     <message>
         <source>Project actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga aksyon ng proyekto</translation>
     </message>
     <message>
         <source>Remove from recents</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin sa mga kamakailan</translation>
     </message>
 </context>
 <context>
     <name>AndroidShareTargetSheet</name>
     <message>
         <source>Add shared media</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng nakabahaging media</translation>
     </message>
     <message>
         <source>Add to this project</source>
-        <translation type="unfinished"></translation>
+        <translation>Idagdag sa proyektong ito</translation>
     </message>
     <message>
         <source>Import at the playhead and stay here</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-import sa playhead at manatili rito</translation>
     </message>
     <message>
         <source>New quick edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Bagong mabilisang pag-edit</translation>
     </message>
     <message>
         <source>Start a new project from this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumawa ng bagong proyekto mula sa clip na ito</translation>
     </message>
 </context>
 <context>
@@ -1793,11 +1793,11 @@
     </message>
     <message>
         <source>Project actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga aksyon ng proyekto</translation>
     </message>
     <message>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang pamagat</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -1842,7 +1842,7 @@
     </message>
     <message>
         <source>Fade</source>
-        <translation type="unfinished">Pagkupas</translation>
+        <translation>Fade</translation>
     </message>
     <message>
         <source>Slide up</source>
@@ -1886,19 +1886,19 @@
     </message>
     <message>
         <source>Linear</source>
-        <translation type="unfinished">Linyar</translation>
+        <translation>Linear</translation>
     </message>
     <message>
         <source>Smooth</source>
-        <translation type="unfinished">Makinis</translation>
+        <translation>Makinis</translation>
     </message>
     <message>
         <source>Natural</source>
-        <translation type="unfinished">Likas</translation>
+        <translation>Natural</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Pinasadya</translation>
+        <translation>Custom</translation>
     </message>
     <message>
         <source>Bezier</source>
@@ -3565,7 +3565,7 @@
     </message>
     <message>
         <source>%1 copy</source>
-        <translation type="unfinished">Kopya ng %1</translation>
+        <translation>Kopya ng %1</translation>
     </message>
     <message>
         <source>Select a video clip to enhance</source>
@@ -5818,7 +5818,7 @@
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished">%1 s</translation>
+        <translation>%1 segundo</translation>
     </message>
     <message numerus="yes">
         <source>%n colour(s)</source>
@@ -5876,7 +5876,7 @@
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished">%1 s</translation>
+        <translation>%1 segundo</translation>
     </message>
     <message>
         <source>room for your text</source>
@@ -6025,7 +6025,7 @@
     <name>EditorHeader</name>
     <message>
         <source>Drift project (*.drift)</source>
-        <translation type="unfinished"></translation>
+        <translation>Proyekto ng Drift (*.drift)</translation>
     </message>
     <message>
         <source>Save Project</source>
@@ -6053,7 +6053,7 @@
     </message>
     <message>
         <source>%1 copy</source>
-        <translation type="unfinished">Kopya ng %1</translation>
+        <translation>Kopya ng %1</translation>
     </message>
     <message>
         <source>Save Shareable Copy</source>
@@ -6081,7 +6081,7 @@
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">I-save</translation>
+        <translation>I-save</translation>
     </message>
     <message>
         <source>Save project (%1)</source>
@@ -6716,7 +6716,7 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Pinasadya</translation>
+        <translation>Custom</translation>
     </message>
     <message>
         <source>Custom…</source>
@@ -7112,11 +7112,11 @@
     </message>
     <message>
         <source>Linear</source>
-        <translation type="unfinished">Linyar</translation>
+        <translation>Linear</translation>
     </message>
     <message>
         <source>Smooth</source>
-        <translation type="unfinished">Makinis</translation>
+        <translation>Makinis</translation>
     </message>
     <message>
         <source>Ease</source>
@@ -7124,7 +7124,7 @@
     </message>
     <message>
         <source>Natural</source>
-        <translation type="unfinished">Likas</translation>
+        <translation>Natural</translation>
     </message>
     <message>
         <source>Ease In</source>
@@ -7155,7 +7155,7 @@
     <name>FileDialogs</name>
     <message>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang pamagat</translation>
     </message>
     <message>
         <source>Play</source>
@@ -7339,7 +7339,7 @@
     </message>
     <message>
         <source>Linear</source>
-        <translation type="unfinished">Linyar</translation>
+        <translation>Linear</translation>
     </message>
     <message>
         <source>Radial</source>
@@ -7894,7 +7894,7 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Pinasadya</translation>
+        <translation>Custom</translation>
     </message>
     <message>
         <source>Any size</source>
@@ -8731,7 +8731,7 @@
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -8970,7 +8970,7 @@
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">I-save</translation>
+        <translation>I-save</translation>
     </message>
     <message>
         <source>Next</source>
@@ -9292,7 +9292,7 @@
     <name>NameDialog</name>
     <message>
         <source>Save</source>
-        <translation type="unfinished">I-save</translation>
+        <translation>I-save</translation>
     </message>
     <message>
         <source>Name</source>
@@ -9959,7 +9959,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">I-save</translation>
+        <translation>I-save</translation>
     </message>
     <message>
         <source>Title</source>
@@ -10022,7 +10022,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Pinasadya</translation>
+        <translation>Custom</translation>
     </message>
     <message>
         <source>Width</source>
@@ -10370,7 +10370,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished">%1 s</translation>
+        <translation>%1 segundo</translation>
     </message>
     <message>
         <source>%1 min</source>
@@ -10485,7 +10485,7 @@ If playback stutters, try another.</source>
     <name>RecentProjectsPopup</name>
     <message>
         <source>Remove from recents</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin sa mga kamakailan</translation>
     </message>
     <message>
         <source>All changes saved</source>
@@ -10700,7 +10700,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished">%1 s</translation>
+        <translation>%1 segundo</translation>
     </message>
     <message>
         <source>%1 min</source>
@@ -10775,7 +10775,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished">%1 s</translation>
+        <translation>%1 segundo</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -11266,7 +11266,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">I-save</translation>
+        <translation>I-save</translation>
     </message>
     <message>
         <source>Test</source>
@@ -11899,7 +11899,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Smooth</source>
-        <translation type="unfinished">Makinis</translation>
+        <translation>Makinis</translation>
     </message>
     <message>
         <source>Delete point</source>
@@ -12100,7 +12100,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Remove from recents</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin sa mga kamakailan</translation>
     </message>
     <message>
         <source>Create polished videos fast</source>
@@ -12120,7 +12120,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Nothing here yet — projects you save will show up in this list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala pa rito — lalabas sa listahang ito ang mga proyektong ise-save mo.</translation>
     </message>
 </context>
 <context>
@@ -12716,11 +12716,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Linear</source>
-        <translation type="unfinished">Linyar</translation>
+        <translation>Linear</translation>
     </message>
     <message>
         <source>Smooth</source>
-        <translation type="unfinished">Makinis</translation>
+        <translation>Makinis</translation>
     </message>
     <message>
         <source>Snappy</source>
@@ -13171,7 +13171,7 @@ If playback stutters, try another.</source>
     <name>TextLookPicker</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Pinasadya</translation>
+        <translation>Custom</translation>
     </message>
     <message>
         <source>Aa</source>
@@ -13344,7 +13344,7 @@ If playback stutters, try another.</source>
     <name>TextStylePackPicker</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Pinasadya</translation>
+        <translation>Custom</translation>
     </message>
     <message>
         <source>Text preset</source>
@@ -13367,7 +13367,7 @@ If playback stutters, try another.</source>
     <name>TextStylePackThumb</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Pinasadya</translation>
+        <translation>Custom</translation>
     </message>
 </context>
 <context>
@@ -13896,7 +13896,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">I-save</translation>
+        <translation>I-save</translation>
     </message>
     <message>
         <source>Drag items to reorder them. Items above the divider are toolbar buttons; the rest are in the More menu.</source>
@@ -14554,23 +14554,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Curve</source>
-        <translation type="unfinished">Kurba</translation>
+        <translation>Kurba</translation>
     </message>
     <message>
         <source>Linear</source>
-        <translation type="unfinished">Linyar</translation>
+        <translation>Linear</translation>
     </message>
     <message>
         <source>Smooth</source>
-        <translation type="unfinished">Makinis</translation>
+        <translation>Makinis</translation>
     </message>
     <message>
         <source>Natural</source>
-        <translation type="unfinished">Likas</translation>
+        <translation>Natural</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Pinasadya</translation>
+        <translation>Custom</translation>
     </message>
     <message>
         <source>Bezier</source>
@@ -14672,7 +14672,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">I-save</translation>
+        <translation>I-save</translation>
     </message>
 </context>
 <context>
@@ -14985,7 +14985,7 @@ If playback stutters, try another.</source>
     <name>VideoSizeControls</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Pinasadya</translation>
+        <translation>Custom</translation>
     </message>
     <message>
         <source>Choose layout…</source>
@@ -15134,7 +15134,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Curve</source>
-        <translation type="unfinished">Kurba</translation>
+        <translation>Kurba</translation>
     </message>
     <message>
         <source>Gradient</source>
