@@ -1530,7 +1530,7 @@
     </message>
     <message>
         <source>Canvas &amp; layout</source>
-        <translation type="unfinished">Canvas at layout</translation>
+        <translation>Canvas at layout</translation>
     </message>
     <message>
         <source>Video size, aspect and frame rate</source>
@@ -1562,7 +1562,7 @@
     </message>
     <message>
         <source>App settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga setting ng app</translation>
     </message>
     <message>
         <source>Appearance, extras and agent access</source>
@@ -1573,7 +1573,7 @@
     <name>AndroidProjectsPage</name>
     <message>
         <source>Quick edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Mabilis na pag-edit</translation>
     </message>
     <message>
         <source>Pick a clip, start now</source>
@@ -1581,7 +1581,7 @@
     </message>
     <message>
         <source>New project</source>
-        <translation type="unfinished"></translation>
+        <translation>Bagong proyekto</translation>
     </message>
     <message>
         <source>Choose a canvas, start empty</source>
@@ -1593,7 +1593,7 @@
     </message>
     <message>
         <source>Recent projects</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga kamakailang proyekto</translation>
     </message>
     <message>
         <source>Open</source>
@@ -1601,7 +1601,7 @@
     </message>
     <message>
         <source>Open a project from this device</source>
-        <translation type="unfinished"></translation>
+        <translation>Magbukas ng proyekto mula sa device na ito</translation>
     </message>
     <message>
         <source>Nothing here yet — projects you save will show up in this list.</source>
@@ -1985,7 +1985,7 @@
     </message>
     <message>
         <source>New project</source>
-        <translation type="unfinished"></translation>
+        <translation>Bagong proyekto</translation>
     </message>
     <message>
         <source>Open project</source>
@@ -4751,7 +4751,7 @@
     </message>
     <message>
         <source>Market</source>
-        <translation type="unfinished">Pamilihan</translation>
+        <translation>Market</translation>
     </message>
     <message>
         <source>Text</source>
@@ -5765,7 +5765,7 @@
     <name>DownloadsWindow</name>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga download</translation>
     </message>
     <message numerus="yes">
         <source>%n active</source>
@@ -5784,7 +5784,7 @@
     </message>
     <message>
         <source>Clear finished</source>
-        <translation type="unfinished">Alisin ang mga natapos</translation>
+        <translation>I-clear ang mga natapos</translation>
     </message>
     <message>
         <source>Nothing downloaded yet</source>
@@ -5796,7 +5796,7 @@
     </message>
     <message>
         <source>Try again</source>
-        <translation type="unfinished"></translation>
+        <translation>Subukan muli</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5990,7 +5990,7 @@
     </message>
     <message>
         <source>Try again</source>
-        <translation type="unfinished"></translation>
+        <translation>Subukan muli</translation>
     </message>
     <message>
         <source>No assets here yet</source>
@@ -6029,7 +6029,7 @@
     </message>
     <message>
         <source>Save Project</source>
-        <translation type="unfinished">I-save ang Proyekto</translation>
+        <translation>I-save ang proyekto</translation>
     </message>
     <message>
         <source>Save Project JSON</source>
@@ -6049,7 +6049,7 @@
     </message>
     <message>
         <source>Save Project As</source>
-        <translation type="unfinished">I-save ang Proyekto Bilang</translation>
+        <translation>I-save ang proyekto bilang</translation>
     </message>
     <message>
         <source>%1 copy</source>
@@ -6057,7 +6057,7 @@
     </message>
     <message>
         <source>Save Shareable Copy</source>
-        <translation type="unfinished">I-save ang Maibabahaging Kopya</translation>
+        <translation>I-save ang kopyang maibabahagi</translation>
     </message>
     <message>
         <source>Projects</source>
@@ -6100,7 +6100,7 @@
     </message>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga download</translation>
     </message>
     <message>
         <source>Video</source>
@@ -7264,11 +7264,11 @@
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished">Lapad</translation>
+        <translation>Lapad</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished">Taas</translation>
+        <translation>Taas</translation>
     </message>
     <message>
         <source>Edit source frame…</source>
@@ -7614,11 +7614,11 @@
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished">Lapad</translation>
+        <translation>Lapad</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished">Taas</translation>
+        <translation>Taas</translation>
     </message>
     <message>
         <source>Rotation</source>
@@ -8097,7 +8097,7 @@
     </message>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga download</translation>
     </message>
     <message>
         <source>Multicam</source>
@@ -8361,7 +8361,7 @@
     </message>
     <message>
         <source>Try again</source>
-        <translation type="unfinished"></translation>
+        <translation>Subukan muli</translation>
     </message>
     <message>
         <source>Search</source>
@@ -8451,11 +8451,11 @@
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished">Lapad</translation>
+        <translation>Lapad</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished">Taas</translation>
+        <translation>Taas</translation>
     </message>
     <message>
         <source>Rotation</source>
@@ -10026,11 +10026,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished">Lapad</translation>
+        <translation>Lapad</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished">Taas</translation>
+        <translation>Taas</translation>
     </message>
     <message>
         <source>Frames per second</source>
@@ -11449,7 +11449,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished">Lapad</translation>
+        <translation>Lapad</translation>
     </message>
     <message>
         <source>Placement</source>
@@ -12217,7 +12217,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Try again</source>
-        <translation type="unfinished"></translation>
+        <translation>Subukan muli</translation>
     </message>
     <message>
         <source>No results for “%1”</source>
@@ -12302,7 +12302,7 @@ If playback stutters, try another.</source>
     <name>StockThumb</name>
     <message>
         <source>Cancel download</source>
-        <translation type="unfinished">Kanselahin ang pag-download</translation>
+        <translation>Kanselahin ang download</translation>
     </message>
     <message>
         <source>Retry</source>
@@ -12920,7 +12920,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished">Lapad</translation>
+        <translation>Lapad</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -13233,7 +13233,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished">Lapad</translation>
+        <translation>Lapad</translation>
     </message>
     <message>
         <source>Spread</source>
@@ -13626,7 +13626,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Your timeline is empty</source>
-        <translation type="unfinished">Walang laman ang iyong timeline</translation>
+        <translation>Walang laman ang timeline mo</translation>
     </message>
     <message>
         <source>Drag media here from the library, or add an empty track to start.</source>
@@ -14195,11 +14195,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished">Lapad</translation>
+        <translation>Lapad</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished">Taas</translation>
+        <translation>Taas</translation>
     </message>
     <message>
         <source>Angle</source>
@@ -15001,11 +15001,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished">Lapad</translation>
+        <translation>Lapad</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished">Taas</translation>
+        <translation>Taas</translation>
     </message>
     <message>
         <source>Frames per second</source>
