@@ -650,7 +650,7 @@
     </message>
     <message>
         <source>Open Project</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดโปรเจกต์</translation>
     </message>
     <message>
         <source>Your timeline is empty</source>
@@ -743,7 +743,7 @@
     </message>
     <message>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>เทมเพลต</translation>
     </message>
     <message>
         <source>Width</source>
@@ -755,7 +755,7 @@
     </message>
     <message>
         <source>Quality</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณภาพ</translation>
     </message>
     <message>
         <source>Frames per second</source>
@@ -1593,7 +1593,7 @@
     </message>
     <message>
         <source>Recent projects</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรเจกต์ล่าสุด</translation>
     </message>
     <message>
         <source>Open</source>
@@ -3589,7 +3589,7 @@
     </message>
     <message>
         <source>Enhance Video</source>
-        <translation type="unfinished"></translation>
+        <translation>ปรับปรุงวิดีโอ</translation>
     </message>
     <message>
         <source>Enhanced video added to the media bin</source>
@@ -7767,7 +7767,7 @@
     <name>LayoutChooserDialog</name>
     <message>
         <source>Choose your video layout</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกรูปแบบวิดีโอของคุณ</translation>
     </message>
     <message>
         <source>Continue</source>
@@ -7779,15 +7779,15 @@
     </message>
     <message>
         <source>Decide later</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัดสินใจภายหลัง</translation>
     </message>
     <message>
         <source>Pick a platform template and quality. This updates the project video size.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกเทมเพลตแพลตฟอร์มและคุณภาพ ซึ่งจะอัปเดตขนาดวิดีโอของโปรเจกต์</translation>
     </message>
     <message>
         <source>Pick a category, then a template and quality. You can change this anytime in Settings → Choose layout.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกหมวดหมู่ จากนั้นเลือกเทมเพลตและคุณภาพ คุณสามารถเปลี่ยนได้ทุกเมื่อใน การตั้งค่า → เลือกรูปแบบ</translation>
     </message>
     <message>
         <source>Template</source>
@@ -12108,7 +12108,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>New Project</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรเจกต์ใหม่</translation>
     </message>
     <message>
         <source>Open Project…</source>
