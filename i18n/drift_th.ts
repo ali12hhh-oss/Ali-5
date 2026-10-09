@@ -416,7 +416,7 @@
     </message>
     <message>
         <source>Market</source>
-        <translation type="unfinished"></translation>
+        <translation>ตลาด</translation>
     </message>
     <message>
         <source>Stock photos, video and audio</source>
@@ -607,23 +607,23 @@
     <name>AndroidDownloadsSheet</name>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลด</translation>
     </message>
     <message>
         <source>Nothing downloading right now.</source>
-        <translation type="unfinished"></translation>
+        <translation>ขณะนี้ไม่มีรายการดาวน์โหลด</translation>
     </message>
     <message>
         <source>Cancel download</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการดาวน์โหลด</translation>
     </message>
     <message>
         <source>Try again</source>
-        <translation type="unfinished"></translation>
+        <translation>ลองอีกครั้ง</translation>
     </message>
     <message>
         <source>Clear finished</source>
-        <translation type="unfinished"></translation>
+        <translation>ล้างรายการที่เสร็จแล้ว</translation>
     </message>
 </context>
 <context>
@@ -634,11 +634,11 @@
     </message>
     <message>
         <source>Save Project</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกโปรเจกต์</translation>
     </message>
     <message>
         <source>Save Project As</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกโปรเจกต์เป็น</translation>
     </message>
     <message>
         <source>%1 copy</source>
@@ -646,7 +646,7 @@
     </message>
     <message>
         <source>Save Shareable Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกสำเนาสำหรับแชร์</translation>
     </message>
     <message>
         <source>Open Project</source>
@@ -654,15 +654,15 @@
     </message>
     <message>
         <source>Your timeline is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>ไทม์ไลน์ของคุณว่างเปล่า</translation>
     </message>
     <message>
         <source>Import media or open the Media library to start editing.</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าสื่อหรือเปิดคลังสื่อเพื่อเริ่มตัดต่อ</translation>
     </message>
     <message>
         <source>Open Media</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดสื่อ</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -724,18 +724,18 @@
     </message>
     <message>
         <source>Market</source>
-        <translation type="unfinished"></translation>
+        <translation>ตลาด</translation>
     </message>
     <message>
         <source>Me</source>
-        <translation type="unfinished"></translation>
+        <translation>ฉัน</translation>
     </message>
 </context>
 <context>
     <name>AndroidLayoutSheet</name>
     <message>
         <source>Canvas &amp; layout</source>
-        <translation type="unfinished"></translation>
+        <translation>ผืนงานและเลย์เอาต์</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -747,11 +747,11 @@
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>ความกว้าง</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished"></translation>
+        <translation>ความสูง</translation>
     </message>
     <message>
         <source>Quality</source>
@@ -810,7 +810,7 @@
     </message>
     <message>
         <source>Try again</source>
-        <translation type="unfinished"></translation>
+        <translation>ลองอีกครั้ง</translation>
     </message>
     <message>
         <source>Pick another source</source>
@@ -837,7 +837,7 @@
     </message>
     <message>
         <source>Save Project</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกโปรเจกต์</translation>
     </message>
     <message>
         <source>Canvas set to %1×%2 at %3 fps from your first clip.</source>
@@ -912,18 +912,18 @@
     <name>AndroidMarket</name>
     <message>
         <source>Market</source>
-        <translation type="unfinished"></translation>
+        <translation>ตลาด</translation>
     </message>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลด</translation>
     </message>
 </context>
 <context>
     <name>AndroidMePage</name>
     <message>
         <source>Me</source>
-        <translation type="unfinished"></translation>
+        <translation>ฉัน</translation>
     </message>
     <message numerus="yes">
         <source>%n coin(s)</source>
@@ -1530,7 +1530,7 @@
     </message>
     <message>
         <source>Canvas &amp; layout</source>
-        <translation type="unfinished"></translation>
+        <translation>ผืนงานและเลย์เอาต์</translation>
     </message>
     <message>
         <source>Video size, aspect and frame rate</source>
@@ -1562,7 +1562,7 @@
     </message>
     <message>
         <source>App settings</source>
-        <translation type="unfinished"></translation>
+        <translation>การตั้งค่าแอป</translation>
     </message>
     <message>
         <source>Appearance, extras and agent access</source>
@@ -1573,7 +1573,7 @@
     <name>AndroidProjectsPage</name>
     <message>
         <source>Quick edit</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขด่วน</translation>
     </message>
     <message>
         <source>Pick a clip, start now</source>
@@ -1601,7 +1601,7 @@
     </message>
     <message>
         <source>Open a project from this device</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดโปรเจกต์จากอุปกรณ์นี้</translation>
     </message>
     <message>
         <source>Nothing here yet — projects you save will show up in this list.</source>
@@ -4751,7 +4751,7 @@
     </message>
     <message>
         <source>Market</source>
-        <translation type="unfinished"></translation>
+        <translation>ตลาด</translation>
     </message>
     <message>
         <source>Text</source>
@@ -5765,7 +5765,7 @@
     <name>DownloadsWindow</name>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลด</translation>
     </message>
     <message numerus="yes">
         <source>%n active</source>
@@ -5784,7 +5784,7 @@
     </message>
     <message>
         <source>Clear finished</source>
-        <translation type="unfinished"></translation>
+        <translation>ล้างรายการที่เสร็จแล้ว</translation>
     </message>
     <message>
         <source>Nothing downloaded yet</source>
@@ -5796,7 +5796,7 @@
     </message>
     <message>
         <source>Try again</source>
-        <translation type="unfinished"></translation>
+        <translation>ลองอีกครั้ง</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5990,7 +5990,7 @@
     </message>
     <message>
         <source>Try again</source>
-        <translation type="unfinished"></translation>
+        <translation>ลองอีกครั้ง</translation>
     </message>
     <message>
         <source>No assets here yet</source>
@@ -6029,7 +6029,7 @@
     </message>
     <message>
         <source>Save Project</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกโปรเจกต์</translation>
     </message>
     <message>
         <source>Save Project JSON</source>
@@ -6049,7 +6049,7 @@
     </message>
     <message>
         <source>Save Project As</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกโปรเจกต์เป็น</translation>
     </message>
     <message>
         <source>%1 copy</source>
@@ -6057,7 +6057,7 @@
     </message>
     <message>
         <source>Save Shareable Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกสำเนาสำหรับแชร์</translation>
     </message>
     <message>
         <source>Projects</source>
@@ -6100,7 +6100,7 @@
     </message>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลด</translation>
     </message>
     <message>
         <source>Video</source>
@@ -7264,11 +7264,11 @@
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>ความกว้าง</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished"></translation>
+        <translation>ความสูง</translation>
     </message>
     <message>
         <source>Edit source frame…</source>
@@ -7614,11 +7614,11 @@
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>ความกว้าง</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished"></translation>
+        <translation>ความสูง</translation>
     </message>
     <message>
         <source>Rotation</source>
@@ -8097,7 +8097,7 @@
     </message>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลด</translation>
     </message>
     <message>
         <source>Multicam</source>
@@ -8361,7 +8361,7 @@
     </message>
     <message>
         <source>Try again</source>
-        <translation type="unfinished"></translation>
+        <translation>ลองอีกครั้ง</translation>
     </message>
     <message>
         <source>Search</source>
@@ -8451,11 +8451,11 @@
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>ความกว้าง</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished"></translation>
+        <translation>ความสูง</translation>
     </message>
     <message>
         <source>Rotation</source>
@@ -10026,11 +10026,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>ความกว้าง</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished"></translation>
+        <translation>ความสูง</translation>
     </message>
     <message>
         <source>Frames per second</source>
@@ -11449,7 +11449,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>ความกว้าง</translation>
     </message>
     <message>
         <source>Placement</source>
@@ -12217,7 +12217,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Try again</source>
-        <translation type="unfinished"></translation>
+        <translation>ลองอีกครั้ง</translation>
     </message>
     <message>
         <source>No results for “%1”</source>
@@ -12302,7 +12302,7 @@ If playback stutters, try another.</source>
     <name>StockThumb</name>
     <message>
         <source>Cancel download</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการดาวน์โหลด</translation>
     </message>
     <message>
         <source>Retry</source>
@@ -12920,7 +12920,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>ความกว้าง</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -13233,7 +13233,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>ความกว้าง</translation>
     </message>
     <message>
         <source>Spread</source>
@@ -13626,7 +13626,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Your timeline is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>ไทม์ไลน์ของคุณว่างเปล่า</translation>
     </message>
     <message>
         <source>Drag media here from the library, or add an empty track to start.</source>
@@ -14195,11 +14195,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>ความกว้าง</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished"></translation>
+        <translation>ความสูง</translation>
     </message>
     <message>
         <source>Angle</source>
@@ -15001,11 +15001,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>ความกว้าง</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished"></translation>
+        <translation>ความสูง</translation>
     </message>
     <message>
         <source>Frames per second</source>
