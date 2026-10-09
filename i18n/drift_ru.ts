@@ -8097,7 +8097,7 @@
     </message>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished">Загрузки</translation>
+        <translation>Загрузки</translation>
     </message>
     <message>
         <source>Multicam</source>
