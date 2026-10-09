@@ -1671,7 +1671,7 @@
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang Pangalan</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1801,15 +1801,15 @@
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>I-undo</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Ulitin</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>I-export</translation>
     </message>
     <message>
         <source>Show export progress</source>
@@ -2005,11 +2005,11 @@
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>I-undo</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Ulitin</translation>
     </message>
     <message>
         <source>Copy selection</source>
@@ -4643,7 +4643,7 @@
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang Pangalan</translation>
     </message>
     <message>
         <source>Name</source>
@@ -4835,7 +4835,7 @@
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>I-import</translation>
     </message>
     <message>
         <source>Import video, audio or image files</source>
@@ -5329,7 +5329,7 @@
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Idagdag</translation>
     </message>
     <message>
         <source>Darken</source>
@@ -5662,11 +5662,11 @@
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihinto</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>I-play</translation>
     </message>
     <message>
         <source>Preview from</source>
@@ -5807,7 +5807,7 @@
     <name>DriftAssetCard</name>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Idagdag</translation>
     </message>
     <message numerus="yes">
         <source>%n style(s)</source>
@@ -5970,7 +5970,7 @@
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Idagdag</translation>
     </message>
     <message>
         <source>Added to Face props</source>
@@ -6176,7 +6176,7 @@
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>I-export</translation>
     </message>
     <message>
         <source>Export already in progress</source>
@@ -6677,7 +6677,7 @@
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Maghanap</translation>
     </message>
     <message>
         <source>No emoji match “%1”.</source>
@@ -6688,7 +6688,7 @@
     <name>ExportDialog</name>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>I-export</translation>
     </message>
     <message>
         <source>96 kbps</source>
@@ -6883,7 +6883,7 @@
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>I-export</translation>
     </message>
     <message>
         <source>Cancel export</source>
@@ -6903,7 +6903,7 @@
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>I-play</translation>
     </message>
     <message>
         <source>Share</source>
@@ -7029,7 +7029,7 @@
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>I-import</translation>
     </message>
     <message>
         <source>Import face props from a .zip</source>
@@ -7159,7 +7159,7 @@
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>I-play</translation>
     </message>
     <message>
         <source>Share</source>
@@ -7292,7 +7292,7 @@
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang Pangalan</translation>
     </message>
     <message>
         <source>Trim</source>
@@ -8365,7 +8365,7 @@
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Maghanap</translation>
     </message>
 </context>
 <context>
@@ -8423,7 +8423,7 @@
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Idagdag</translation>
     </message>
     <message>
         <source>Subtract</source>
@@ -8874,11 +8874,11 @@
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>I-pause</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>I-play</translation>
     </message>
     <message>
         <source>Set In</source>
@@ -9261,11 +9261,11 @@
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>I-pause</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>I-play</translation>
     </message>
     <message>
         <source>Next frame</source>
@@ -9700,11 +9700,11 @@
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>I-pause</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>I-play</translation>
     </message>
     <message>
         <source>Next frame</source>
@@ -10736,7 +10736,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihinto</translation>
     </message>
     <message>
         <source>Close</source>
@@ -11373,7 +11373,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Idagdag</translation>
     </message>
     <message>
         <source>Darken</source>
@@ -11871,11 +11871,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>I-pause</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>I-play</translation>
     </message>
     <message>
         <source>s / </source>
@@ -12245,7 +12245,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>I-pause</translation>
     </message>
     <message>
         <source>Play preview</source>
@@ -12354,7 +12354,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>I-import</translation>
     </message>
     <message>
         <source>Replace these captions from a .srt file</source>
@@ -12374,7 +12374,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>I-export</translation>
     </message>
     <message>
         <source>Save captions as a .srt file</source>
@@ -13654,7 +13654,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang Pangalan</translation>
     </message>
     <message>
         <source>Label</source>
@@ -13709,11 +13709,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>I-pause</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>I-play</translation>
     </message>
     <message>
         <source>Select — normal editing</source>
@@ -13753,11 +13753,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>I-undo</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Ulitin</translation>
     </message>
     <message>
         <source>Delete clip</source>
@@ -14172,7 +14172,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang Pangalan</translation>
     </message>
     <message>
         <source>Track name</source>
