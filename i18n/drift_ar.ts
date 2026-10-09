@@ -8097,7 +8097,7 @@
     </message>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished">التنزيلات</translation>
+        <translation>التنزيلات</translation>
     </message>
     <message>
         <source>Multicam</source>
