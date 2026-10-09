@@ -650,7 +650,7 @@
     </message>
     <message>
         <source>Open Project</source>
-        <translation type="unfinished"></translation>
+        <translation>打开项目</translation>
     </message>
     <message>
         <source>Your timeline is empty</source>
@@ -743,7 +743,7 @@
     </message>
     <message>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>模板</translation>
     </message>
     <message>
         <source>Width</source>
@@ -755,7 +755,7 @@
     </message>
     <message>
         <source>Quality</source>
-        <translation type="unfinished"></translation>
+        <translation>画质</translation>
     </message>
     <message>
         <source>Frames per second</source>
@@ -1593,7 +1593,7 @@
     </message>
     <message>
         <source>Recent projects</source>
-        <translation type="unfinished"></translation>
+        <translation>最近的项目</translation>
     </message>
     <message>
         <source>Open</source>
@@ -7744,7 +7744,7 @@
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>语言</translation>
     </message>
     <message>
         <source>Continue</source>
@@ -7767,7 +7767,7 @@
     <name>LayoutChooserDialog</name>
     <message>
         <source>Choose your video layout</source>
-        <translation type="unfinished"></translation>
+        <translation>选择视频布局</translation>
     </message>
     <message>
         <source>Continue</source>
@@ -7779,15 +7779,15 @@
     </message>
     <message>
         <source>Decide later</source>
-        <translation type="unfinished"></translation>
+        <translation>稍后决定</translation>
     </message>
     <message>
         <source>Pick a platform template and quality. This updates the project video size.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择平台模板和画质。这将更新项目的视频尺寸。</translation>
     </message>
     <message>
         <source>Pick a category, then a template and quality. You can change this anytime in Settings → Choose layout.</source>
-        <translation type="unfinished"></translation>
+        <translation>先选择类别，再选择模板和画质。你可以随时在“设置 → 选择布局”中更改。</translation>
     </message>
     <message>
         <source>Template</source>
@@ -12108,7 +12108,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>New Project</source>
-        <translation type="unfinished"></translation>
+        <translation>新建项目</translation>
     </message>
     <message>
         <source>Open Project…</source>
