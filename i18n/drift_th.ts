@@ -577,11 +577,11 @@
     </message>
     <message>
         <source>Move the playhead over the clip to split it</source>
-        <translation type="unfinished"></translation>
+        <translation>เลื่อนหัวอ่านไปไว้เหนือคลิปเพื่อตัดแยก</translation>
     </message>
     <message>
         <source>Tap a clip to edit</source>
-        <translation type="unfinished"></translation>
+        <translation>แตะคลิปเพื่อแก้ไข</translation>
     </message>
 </context>
 <context>
@@ -630,7 +630,7 @@
     <name>AndroidEditor</name>
     <message>
         <source>Drift project (*.drift)</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรเจกต์ Drift (*.drift)</translation>
     </message>
     <message>
         <source>Save Project</source>
@@ -642,7 +642,7 @@
     </message>
     <message>
         <source>%1 copy</source>
-        <translation type="unfinished"></translation>
+        <translation>สำเนา %1</translation>
     </message>
     <message>
         <source>Save Shareable Copy</source>
@@ -677,7 +677,7 @@
     <name>AndroidFadeSheet</name>
     <message>
         <source>Fade</source>
-        <translation type="unfinished"></translation>
+        <translation>เฟด</translation>
     </message>
     <message>
         <source>Done</source>
@@ -685,35 +685,35 @@
     </message>
     <message>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>เชิงเส้น</translation>
     </message>
     <message>
         <source>Smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>นุ่มนวล</translation>
     </message>
     <message>
         <source>Natural</source>
-        <translation type="unfinished"></translation>
+        <translation>ธรรมชาติ</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>กำหนดเอง</translation>
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 วินาที</translation>
     </message>
     <message>
         <source>Fade in</source>
-        <translation type="unfinished"></translation>
+        <translation>เฟดเข้า</translation>
     </message>
     <message>
         <source>Fade out</source>
-        <translation type="unfinished"></translation>
+        <translation>เฟดออก</translation>
     </message>
     <message>
         <source>Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>เส้นโค้ง</translation>
     </message>
 </context>
 <context>
@@ -739,7 +739,7 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>กำหนดเอง</translation>
     </message>
     <message>
         <source>Template</source>
@@ -833,7 +833,7 @@
     <name>AndroidMain</name>
     <message>
         <source>Drift project (*.drift)</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรเจกต์ Drift (*.drift)</translation>
     </message>
     <message>
         <source>Save Project</source>
@@ -1597,7 +1597,7 @@
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิด</translation>
     </message>
     <message>
         <source>Open a project from this device</source>
@@ -1605,46 +1605,46 @@
     </message>
     <message>
         <source>Nothing here yet — projects you save will show up in this list.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่มีรายการที่นี่ โปรเจกต์ที่บันทึกจะแสดงในรายการนี้</translation>
     </message>
     <message>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีชื่อ</translation>
     </message>
     <message>
         <source>That project file is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พบไฟล์โปรเจกต์นี้</translation>
     </message>
     <message>
         <source>Project actions</source>
-        <translation type="unfinished"></translation>
+        <translation>การดำเนินการกับโปรเจกต์</translation>
     </message>
     <message>
         <source>Remove from recents</source>
-        <translation type="unfinished"></translation>
+        <translation>นำออกจากรายการล่าสุด</translation>
     </message>
 </context>
 <context>
     <name>AndroidShareTargetSheet</name>
     <message>
         <source>Add shared media</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มสื่อที่แชร์</translation>
     </message>
     <message>
         <source>Add to this project</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มในโปรเจกต์นี้</translation>
     </message>
     <message>
         <source>Import at the playhead and stay here</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าที่ตำแหน่งหัวอ่านและอยู่ที่นี่ต่อ</translation>
     </message>
     <message>
         <source>New quick edit</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างการแก้ไขด่วนใหม่</translation>
     </message>
     <message>
         <source>Start a new project from this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างโปรเจกต์ใหม่จากคลิปนี้</translation>
     </message>
 </context>
 <context>
@@ -1793,11 +1793,11 @@
     </message>
     <message>
         <source>Project actions</source>
-        <translation type="unfinished"></translation>
+        <translation>การดำเนินการกับโปรเจกต์</translation>
     </message>
     <message>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีชื่อ</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -1842,7 +1842,7 @@
     </message>
     <message>
         <source>Fade</source>
-        <translation type="unfinished"></translation>
+        <translation>เฟด</translation>
     </message>
     <message>
         <source>Slide up</source>
@@ -1886,19 +1886,19 @@
     </message>
     <message>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>เชิงเส้น</translation>
     </message>
     <message>
         <source>Smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>นุ่มนวล</translation>
     </message>
     <message>
         <source>Natural</source>
-        <translation type="unfinished"></translation>
+        <translation>ธรรมชาติ</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>กำหนดเอง</translation>
     </message>
     <message>
         <source>Bezier</source>
@@ -3565,7 +3565,7 @@
     </message>
     <message>
         <source>%1 copy</source>
-        <translation type="unfinished"></translation>
+        <translation>สำเนา %1</translation>
     </message>
     <message>
         <source>Select a video clip to enhance</source>
@@ -5818,7 +5818,7 @@
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 วินาที</translation>
     </message>
     <message numerus="yes">
         <source>%n colour(s)</source>
@@ -5876,7 +5876,7 @@
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 วินาที</translation>
     </message>
     <message>
         <source>room for your text</source>
@@ -6025,7 +6025,7 @@
     <name>EditorHeader</name>
     <message>
         <source>Drift project (*.drift)</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรเจกต์ Drift (*.drift)</translation>
     </message>
     <message>
         <source>Save Project</source>
@@ -6053,7 +6053,7 @@
     </message>
     <message>
         <source>%1 copy</source>
-        <translation type="unfinished"></translation>
+        <translation>สำเนา %1</translation>
     </message>
     <message>
         <source>Save Shareable Copy</source>
@@ -6716,7 +6716,7 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>กำหนดเอง</translation>
     </message>
     <message>
         <source>Custom…</source>
@@ -7112,11 +7112,11 @@
     </message>
     <message>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>เชิงเส้น</translation>
     </message>
     <message>
         <source>Smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>นุ่มนวล</translation>
     </message>
     <message>
         <source>Ease</source>
@@ -7124,7 +7124,7 @@
     </message>
     <message>
         <source>Natural</source>
-        <translation type="unfinished"></translation>
+        <translation>ธรรมชาติ</translation>
     </message>
     <message>
         <source>Ease In</source>
@@ -7155,7 +7155,7 @@
     <name>FileDialogs</name>
     <message>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีชื่อ</translation>
     </message>
     <message>
         <source>Play</source>
@@ -7339,7 +7339,7 @@
     </message>
     <message>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>เชิงเส้น</translation>
     </message>
     <message>
         <source>Radial</source>
@@ -7894,7 +7894,7 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>กำหนดเอง</translation>
     </message>
     <message>
         <source>Any size</source>
@@ -8731,7 +8731,7 @@
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิด</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -10022,7 +10022,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>กำหนดเอง</translation>
     </message>
     <message>
         <source>Width</source>
@@ -10370,7 +10370,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 วินาที</translation>
     </message>
     <message>
         <source>%1 min</source>
@@ -10485,7 +10485,7 @@ If playback stutters, try another.</source>
     <name>RecentProjectsPopup</name>
     <message>
         <source>Remove from recents</source>
-        <translation type="unfinished"></translation>
+        <translation>นำออกจากรายการล่าสุด</translation>
     </message>
     <message>
         <source>All changes saved</source>
@@ -10700,7 +10700,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 วินาที</translation>
     </message>
     <message>
         <source>%1 min</source>
@@ -10775,7 +10775,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 วินาที</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -11899,7 +11899,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>นุ่มนวล</translation>
     </message>
     <message>
         <source>Delete point</source>
@@ -12100,7 +12100,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Remove from recents</source>
-        <translation type="unfinished"></translation>
+        <translation>นำออกจากรายการล่าสุด</translation>
     </message>
     <message>
         <source>Create polished videos fast</source>
@@ -12120,7 +12120,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Nothing here yet — projects you save will show up in this list.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่มีรายการที่นี่ โปรเจกต์ที่บันทึกจะแสดงในรายการนี้</translation>
     </message>
 </context>
 <context>
@@ -12716,11 +12716,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>เชิงเส้น</translation>
     </message>
     <message>
         <source>Smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>นุ่มนวล</translation>
     </message>
     <message>
         <source>Snappy</source>
@@ -13171,7 +13171,7 @@ If playback stutters, try another.</source>
     <name>TextLookPicker</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>กำหนดเอง</translation>
     </message>
     <message>
         <source>Aa</source>
@@ -13344,7 +13344,7 @@ If playback stutters, try another.</source>
     <name>TextStylePackPicker</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>กำหนดเอง</translation>
     </message>
     <message>
         <source>Text preset</source>
@@ -13367,7 +13367,7 @@ If playback stutters, try another.</source>
     <name>TextStylePackThumb</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>กำหนดเอง</translation>
     </message>
 </context>
 <context>
@@ -14554,23 +14554,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>เส้นโค้ง</translation>
     </message>
     <message>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>เชิงเส้น</translation>
     </message>
     <message>
         <source>Smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>นุ่มนวล</translation>
     </message>
     <message>
         <source>Natural</source>
-        <translation type="unfinished"></translation>
+        <translation>ธรรมชาติ</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>กำหนดเอง</translation>
     </message>
     <message>
         <source>Bezier</source>
@@ -14985,7 +14985,7 @@ If playback stutters, try another.</source>
     <name>VideoSizeControls</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>กำหนดเอง</translation>
     </message>
     <message>
         <source>Choose layout…</source>
@@ -15134,7 +15134,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>เส้นโค้ง</translation>
     </message>
     <message>
         <source>Gradient</source>
