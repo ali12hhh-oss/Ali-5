@@ -4967,15 +4967,15 @@
     </message>
     <message>
         <source>%1 (not installed)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1（未安装）</translation>
     </message>
     <message>
         <source>Move audio effect up</source>
-        <translation type="unfinished"></translation>
+        <translation>上移音频效果</translation>
     </message>
     <message>
         <source>Move audio effect down</source>
-        <translation type="unfinished"></translation>
+        <translation>下移音频效果</translation>
     </message>
     <message>
         <source>Disable audio effect</source>
@@ -4987,7 +4987,7 @@
     </message>
     <message>
         <source>Copy this audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>复制此音频效果</translation>
     </message>
     <message>
         <source>Remove audio effect</source>
@@ -4995,11 +4995,11 @@
     </message>
     <message>
         <source>On</source>
-        <translation type="unfinished"></translation>
+        <translation>开</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>关</translation>
     </message>
     <message>
         <source>Edit audio effect</source>
@@ -5014,15 +5014,15 @@
     </message>
     <message>
         <source>Recommended caption length</source>
-        <translation type="unfinished"></translation>
+        <translation>推荐字幕长度</translation>
     </message>
     <message>
         <source>1 word per caption</source>
-        <translation type="unfinished"></translation>
+        <translation>每条字幕 1 个词</translation>
     </message>
     <message>
         <source>%1 words per caption</source>
-        <translation type="unfinished"></translation>
+        <translation>每条字幕 %1 个词</translation>
     </message>
     <message>
         <source>No audio</source>
@@ -5030,23 +5030,23 @@
     </message>
     <message>
         <source>This clip has no audio track.</source>
-        <translation type="unfinished"></translation>
+        <translation>此片段没有音轨。</translation>
     </message>
     <message>
         <source>Pan</source>
-        <translation type="unfinished"></translation>
+        <translation>声像</translation>
     </message>
     <message>
         <source>C</source>
-        <translation type="unfinished"></translation>
+        <translation>C</translation>
     </message>
     <message>
         <source>L %1</source>
-        <translation type="unfinished"></translation>
+        <translation>左声道 %1</translation>
     </message>
     <message>
         <source>R %1</source>
-        <translation type="unfinished"></translation>
+        <translation>右声道 %1</translation>
     </message>
     <message>
         <source>Pan changed</source>
@@ -5054,27 +5054,27 @@
     </message>
     <message>
         <source>Centre</source>
-        <translation type="unfinished"></translation>
+        <translation>居中</translation>
     </message>
     <message>
         <source>Audio track</source>
-        <translation type="unfinished"></translation>
+        <translation>音轨</translation>
     </message>
     <message>
         <source>Extract all audio tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>提取所有音轨</translation>
     </message>
     <message>
         <source>Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>噪声</translation>
     </message>
     <message>
         <source>Remove noise…</source>
-        <translation type="unfinished"></translation>
+        <translation>降噪…</translation>
     </message>
     <message>
         <source>Download noise removal (about 9 MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>下载降噪组件（约 9 MB）</translation>
     </message>
     <message>
         <source>Install AI engine first</source>
@@ -5082,70 +5082,70 @@
     </message>
     <message>
         <source>Auto subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>自动字幕</translation>
     </message>
     <message>
         <source>Shorter captions are timed by splitting each phrase evenly, so they can drift slightly out of sync with the speech.</source>
-        <translation type="unfinished"></translation>
+        <translation>较短的字幕会将每个短语均匀拆分来安排时间，因此可能与语音略有不同步。</translation>
     </message>
     <message>
         <source>Creating captions… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>正在生成字幕… %1%</translation>
     </message>
     <message>
         <source>Create captions from speech</source>
-        <translation type="unfinished"></translation>
+        <translation>根据语音生成字幕</translation>
     </message>
     <message>
         <source>Several selected clips become one caption clip</source>
-        <translation type="unfinished"></translation>
+        <translation>多个选中的片段将合并为一个字幕片段</translation>
     </message>
     <message>
         <source>Download speech recognition (about 670 MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>下载语音识别组件（约 670 MB）</translation>
     </message>
 </context>
 <context>
     <name>AudioMixerStrip</name>
     <message>
         <source>Audio Mixer</source>
-        <translation type="unfinished"></translation>
+        <translation>音频混音器</translation>
     </message>
     <message>
         <source>Paused</source>
-        <translation type="unfinished"></translation>
+        <translation>已暂停</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>正在录音</translation>
     </message>
     <message>
         <source>Microphone: %1 (click to switch)</source>
-        <translation type="unfinished"></translation>
+        <translation>麦克风：%1（点击切换）</translation>
     </message>
     <message>
         <source>Close audio mixer</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭音频混音器</translation>
     </message>
     <message>
         <source>Resume recording</source>
-        <translation type="unfinished"></translation>
+        <translation>继续录音</translation>
     </message>
     <message>
         <source>Pause recording</source>
-        <translation type="unfinished"></translation>
+        <translation>暂停录音</translation>
     </message>
     <message>
         <source>Done — save recording to track</source>
-        <translation type="unfinished"></translation>
+        <translation>完成 — 将录音保存到音轨</translation>
     </message>
     <message>
         <source>Discard — cancel recording</source>
-        <translation type="unfinished"></translation>
+        <translation>放弃 — 取消录音</translation>
     </message>
     <message>
         <source>Default Mic</source>
-        <translation type="unfinished"></translation>
+        <translation>默认麦克风</translation>
     </message>
     <message>
         <source>Unmute</source>
@@ -5157,114 +5157,114 @@
     </message>
     <message>
         <source>Unsolo</source>
-        <translation type="unfinished"></translation>
+        <translation>取消独听</translation>
     </message>
     <message>
         <source>Solo</source>
-        <translation type="unfinished"></translation>
+        <translation>独听</translation>
     </message>
     <message>
         <source>Recording paused — click to finish</source>
-        <translation type="unfinished"></translation>
+        <translation>录音已暂停 — 点击完成</translation>
     </message>
     <message>
         <source>Recording — click to finish</source>
-        <translation type="unfinished"></translation>
+        <translation>正在录音 — 点击完成</translation>
     </message>
     <message>
         <source>Record voiceover on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>在 %1 上录制旁白</translation>
     </message>
     <message>
         <source>Pan %1 — drag to adjust, double-click to center</source>
-        <translation type="unfinished"></translation>
+        <translation>声像 %1 — 拖动调整，双击居中</translation>
     </message>
     <message>
         <source>Mic gain %1 dB (%2%) — scroll to adjust, double-click for 0 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>麦克风增益 %1 dB（%2%）— 滚动调整，双击设为 0 dB</translation>
     </message>
     <message>
         <source>%1 dB — scroll to adjust, double-click for 0 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 dB — 滚动调整，双击设为 0 dB</translation>
     </message>
     <message>
         <source>Master volume</source>
-        <translation type="unfinished"></translation>
+        <translation>主音量</translation>
     </message>
     <message>
         <source>%1 volume</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 音量</translation>
     </message>
     <message>
         <source>Mic gain %1 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>麦克风增益 %1 dB</translation>
     </message>
     <message>
         <source>Volume %1 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>音量 %1 dB</translation>
     </message>
     <message>
         <source> — Shift-drag for fine, double-click for 0 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>— 按住 Shift 拖动可精细调整，双击设为 0 dB</translation>
     </message>
     <message>
         <source>Add audio track</source>
-        <translation type="unfinished"></translation>
+        <translation>添加音轨</translation>
     </message>
     <message>
         <source>Drag to resize — double-click to fit</source>
-        <translation type="unfinished"></translation>
+        <translation>拖动调整大小 — 双击适应窗口</translation>
     </message>
     <message>
         <source>Master</source>
-        <translation type="unfinished"></translation>
+        <translation>主控</translation>
     </message>
     <message>
         <source>Unmute master</source>
-        <translation type="unfinished"></translation>
+        <translation>取消主音量静音</translation>
     </message>
     <message>
         <source>C</source>
-        <translation type="unfinished"></translation>
+        <translation>C</translation>
     </message>
     <message>
         <source>L%1</source>
-        <translation type="unfinished"></translation>
+        <translation>左声道 %1</translation>
     </message>
     <message>
         <source>R%1</source>
-        <translation type="unfinished"></translation>
+        <translation>右声道 %1</translation>
     </message>
     <message>
         <source> (recording)</source>
-        <translation type="unfinished"></translation>
+        <translation>（录音中）</translation>
     </message>
     <message>
         <source>Mute master</source>
-        <translation type="unfinished"></translation>
+        <translation>将主音量静音</translation>
     </message>
 </context>
 <context>
     <name>AudioOutputChannel</name>
     <message>
         <source>The audio device could not be opened. Another program may be using it exclusively.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开音频设备。可能有其他程序正在独占使用它。</translation>
     </message>
     <message>
         <source>The audio device stopped responding.</source>
-        <translation type="unfinished"></translation>
+        <translation>音频设备停止响应。</translation>
     </message>
     <message>
         <source>The audio device was disconnected.</source>
-        <translation type="unfinished"></translation>
+        <translation>音频设备已断开连接。</translation>
     </message>
     <message>
         <source>No audio output device is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有可用的音频输出设备。</translation>
     </message>
     <message>
         <source>The audio device does not support playback of this project.</source>
-        <translation type="unfinished"></translation>
+        <translation>音频设备不支持播放此项目。</translation>
     </message>
 </context>
 <context>
@@ -5278,31 +5278,31 @@
     <name>BlendingInspector</name>
     <message>
         <source>Video only</source>
-        <translation type="unfinished"></translation>
+        <translation>仅视频</translation>
     </message>
     <message>
         <source>This tab does not apply to audio clips.</source>
-        <translation type="unfinished"></translation>
+        <translation>此选项卡不适用于音频片段。</translation>
     </message>
     <message>
         <source>Blend mode</source>
-        <translation type="unfinished"></translation>
+        <translation>混合模式</translation>
     </message>
     <message>
         <source>How this clip&apos;s colours combine with the tracks beneath it.</source>
-        <translation type="unfinished"></translation>
+        <translation>此片段的颜色与下方轨道的颜色如何混合。</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>正常</translation>
     </message>
     <message>
         <source>Multiply</source>
-        <translation type="unfinished"></translation>
+        <translation>正片叠底</translation>
     </message>
     <message>
         <source>Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>滤色</translation>
     </message>
     <message>
         <source>Overlay</source>
@@ -6554,7 +6554,7 @@
     </message>
     <message>
         <source>%1 (not installed)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1（未安装）</translation>
     </message>
     <message>
         <source>Move effect up</source>
@@ -6578,11 +6578,11 @@
     </message>
     <message>
         <source>On</source>
-        <translation type="unfinished"></translation>
+        <translation>开</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>关</translation>
     </message>
     <message>
         <source>Choose %1</source>
@@ -11324,15 +11324,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>正常</translation>
     </message>
     <message>
         <source>Multiply</source>
-        <translation type="unfinished"></translation>
+        <translation>正片叠底</translation>
     </message>
     <message>
         <source>Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>滤色</translation>
     </message>
     <message>
         <source>Overlay</source>
@@ -11352,7 +11352,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Centre</source>
-        <translation type="unfinished"></translation>
+        <translation>居中</translation>
     </message>
     <message>
         <source>Outside</source>
@@ -12477,7 +12477,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Shorter captions are timed by splitting each phrase evenly, so they can drift slightly out of sync with the speech.</source>
-        <translation type="unfinished"></translation>
+        <translation>较短的字幕会将每个短语均匀拆分来安排时间，因此可能与语音略有不同步。</translation>
     </message>
     <message>
         <source>Create captions from the selected clips&apos; speech — several clips become one caption clip</source>
@@ -12489,7 +12489,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Creating captions… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>正在生成字幕… %1%</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -12501,7 +12501,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Download speech recognition (about 670 MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>下载语音识别组件（约 670 MB）</translation>
     </message>
     <message>
         <source>Install AI engine first</source>
@@ -12513,15 +12513,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Recommended caption length</source>
-        <translation type="unfinished"></translation>
+        <translation>推荐字幕长度</translation>
     </message>
     <message>
         <source>1 word per caption</source>
-        <translation type="unfinished"></translation>
+        <translation>每条字幕 1 个词</translation>
     </message>
     <message>
         <source>%1 words per caption</source>
-        <translation type="unfinished"></translation>
+        <translation>每条字幕 %1 个词</translation>
     </message>
 </context>
 <context>
@@ -14188,11 +14188,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Video only</source>
-        <translation type="unfinished"></translation>
+        <translation>仅视频</translation>
     </message>
     <message>
         <source>This tab does not apply to audio clips.</source>
-        <translation type="unfinished"></translation>
+        <translation>此选项卡不适用于音频片段。</translation>
     </message>
     <message>
         <source>Also moved by %1</source>
@@ -14540,11 +14540,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>On</source>
-        <translation type="unfinished"></translation>
+        <translation>开</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>关</translation>
     </message>
     <message>
         <source>Edit transition</source>
@@ -15017,7 +15017,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Default Mic</source>
-        <translation type="unfinished"></translation>
+        <translation>默认麦克风</translation>
     </message>
     <message>
         <source>Input microphone: %1 (click to switch)</source>
@@ -15037,11 +15037,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Resume recording</source>
-        <translation type="unfinished"></translation>
+        <translation>继续录音</translation>
     </message>
     <message>
         <source>Pause recording</source>
-        <translation type="unfinished"></translation>
+        <translation>暂停录音</translation>
     </message>
     <message>
         <source>Done — finish recording and save to track</source>
