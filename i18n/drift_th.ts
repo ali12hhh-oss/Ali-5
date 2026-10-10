@@ -14500,19 +14500,19 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Add crossfade (0.5 s)</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มครอสเฟด (0.5 วินาที)</translation>
     </message>
     <message>
         <source>Overlap transition. Drag another kind from Transitions to replace it.</source>
-        <translation type="unfinished"></translation>
+        <translation>ทรานซิชันแบบซ้อนทับ ลากทรานซิชันชนิดอื่นจากเมนู Transitions มาแทนที่ได้</translation>
     </message>
     <message>
         <source>Transition to the next clip. Move across the cut to preview it.</source>
-        <translation type="unfinished"></translation>
+        <translation>ทรานซิชันไปยังคลิปถัดไป เลื่อนผ่านจุดตัดเพื่อดูตัวอย่าง</translation>
     </message>
     <message>
         <source>One side has no media past the cut, so its sound fades through silence instead of crossfading.</source>
-        <translation type="unfinished"></translation>
+        <translation>ด้านหนึ่งไม่มีสื่อหลังจุดตัด เสียงจึงค่อย ๆ จางไปสู่ความเงียบแทนการครอสเฟด</translation>
     </message>
     <message>
         <source>Type</source>
@@ -14567,23 +14567,23 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     <name>TransitionsTab</name>
     <message>
         <source>Touch and hold a transition, then drag it onto where two clips meet.</source>
-        <translation type="unfinished"></translation>
+        <translation>แตะค้างที่ทรานซิชันแล้วลากไปยังจุดที่คลิปสองคลิปต่อกัน</translation>
     </message>
     <message>
         <source>Drag onto where two clips overlap. They fade into each other by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากไปยังบริเวณที่คลิปสองคลิปซ้อนกัน โดยค่าเริ่มต้นจะเฟดเข้าหากัน</translation>
     </message>
     <message>
         <source>Search transitions</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหาทรานซิชัน</translation>
     </message>
     <message>
         <source>No transitions available</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีทรานซิชันที่ใช้ได้</translation>
     </message>
     <message>
         <source>Install a transitions pack to add more.</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้งแพ็กทรานซิชันเพื่อเพิ่มรายการ</translation>
     </message>
     <message>
         <source>Get extras</source>
@@ -14591,7 +14591,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>No transitions match “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีทรานซิชันที่ตรงกับ “%1”</translation>
     </message>
     <message>
         <source>No favorites yet</source>
@@ -14607,7 +14607,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Star transitions to save them here.</source>
-        <translation type="unfinished"></translation>
+        <translation>แตะดาวบนทรานซิชันเพื่อบันทึกไว้ที่นี่</translation>
     </message>
     <message>
         <source>Pick another category.</source>
@@ -14615,7 +14615,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>%1 — drag onto an overlap between two clips</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 — ลากไปยังบริเวณที่คลิปสองคลิปซ้อนกัน</translation>
     </message>
 </context>
 <context>
@@ -14626,7 +14626,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>“%1” has unsaved changes. Save before continuing?</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1” มีการเปลี่ยนแปลงที่ยังไม่ได้บันทึก ต้องการบันทึกก่อนดำเนินการต่อหรือไม่</translation>
     </message>
     <message>
         <source>Untitled project</source>
@@ -14649,19 +14649,19 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     <name>UpdateChecker</name>
     <message>
         <source>Couldn’t check for updates: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ตรวจสอบการอัปเดตไม่สำเร็จ: %1</translation>
     </message>
     <message>
         <source>Couldn’t check for updates: unexpected response.</source>
-        <translation type="unfinished"></translation>
+        <translation>ตรวจสอบการอัปเดตไม่สำเร็จ: ได้รับการตอบกลับที่ไม่คาดคิด</translation>
     </message>
     <message>
         <source>Drift %1 is the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift %1 เป็นเวอร์ชันล่าสุดแล้ว</translation>
     </message>
     <message>
         <source>Drift %1 is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>มี Drift %1 ให้ใช้งานแล้ว</translation>
     </message>
 </context>
 <context>
@@ -14676,7 +14676,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>You have %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณกำลังใช้ %1</translation>
     </message>
     <message>
         <source>Skip</source>
@@ -14696,7 +14696,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Opens the release page in your browser</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดหน้ารุ่นที่เผยแพร่ในเบราว์เซอร์</translation>
     </message>
 </context>
 <context>
@@ -14738,11 +14738,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Key %1 at the playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งคีย์ %1 ที่ตำแหน่งหัวอ่าน</translation>
     </message>
     <message>
         <source>Override the %1 colour</source>
-        <translation type="unfinished"></translation>
+        <translation>แทนที่สีของ %1</translation>
     </message>
     <message>
         <source>Back to the drawing&apos;s own %1</source>
@@ -14750,15 +14750,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Replace Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>แทนที่แอนิเมชัน</translation>
     </message>
     <message>
         <source>Lottie or SVG (*.json *.svg)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lottie หรือ SVG (*.json *.svg)</translation>
     </message>
     <message>
         <source>Could not load the document</source>
-        <translation type="unfinished"></translation>
+        <translation>โหลดเอกสารไม่สำเร็จ</translation>
     </message>
     <message>
         <source>SVG drawing</source>
