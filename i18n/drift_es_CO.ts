@@ -3525,7 +3525,7 @@
     </message>
     <message>
         <source>%1 (trimmed)</source>
-        <translation>Plantillas de efectos</translation>
+        <translation>%1 (recortado)</translation>
     </message>
     <message>
         <source>Rendering…</source>
@@ -3581,11 +3581,11 @@
     </message>
     <message>
         <source>%1 (enhanced %2x)</source>
-        <translation>Escenas</translation>
+        <translation>%1 (mejorado %2x)</translation>
     </message>
     <message>
         <source>%1 (enhanced)</source>
-        <translation>Salta entre las secciones de esta edición</translation>
+        <translation>%1 (mejorado)</translation>
     </message>
     <message>
         <source>Enhance Video</source>
@@ -6638,7 +6638,7 @@
     </message>
     <message>
         <source>Face %1</source>
-        <translation>Transformar capa</translation>
+        <translation>Cara %1</translation>
     </message>
     <message>
         <source>Anything in “%1” nearer than Distance passes in front of this layer.</source>
@@ -6966,7 +6966,7 @@
     </message>
     <message>
         <source>invalid variant id “%1”</source>
-        <translation>Duración</translation>
+        <translation>ID de variante no válido “%1”</translation>
     </message>
     <message>
         <source>a variant must name a .glb model in the prop folder</source>
@@ -7969,7 +7969,7 @@
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation>Calidad: %1</translation>
+        <translation>&amp;Rehacer</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
