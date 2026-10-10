@@ -7572,7 +7572,7 @@
     </message>
     <message>
         <source>Built-in sets can&apos;t be changed. Duplicate one to make an editable copy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mababago ang built-in set. I-duplicate ito para gumawa ng kopyang mae-edit.</translation>
     </message>
     <message>
         <source>This set came with the project. Save it to your guide sets to edit it.</source>
@@ -7622,7 +7622,7 @@
     </message>
     <message>
         <source>Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotation</translation>
     </message>
     <message>
         <source>Tilt X</source>
@@ -7666,11 +7666,11 @@
     </message>
     <message>
         <source>Mask rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>การหมุนของ mask</translation>
     </message>
     <message>
         <source>Mask feather</source>
-        <translation type="unfinished"></translation>
+        <translation>ความฟุ้งของ mask</translation>
     </message>
     <message>
         <source>Keyframes</source>
@@ -7678,11 +7678,11 @@
     </message>
     <message>
         <source>Analyzing…</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinusuri…</translation>
     </message>
     <message>
         <source>Hide the beat markers</source>
-        <translation type="unfinished"></translation>
+        <translation>Itago ang mga beat marker</translation>
     </message>
     <message>
         <source>Find the beat and show markers</source>
@@ -7690,27 +7690,27 @@
     </message>
     <message>
         <source>Hide hits</source>
-        <translation type="unfinished"></translation>
+        <translation>Itago ang mga hit</translation>
     </message>
     <message>
         <source>Find beats and hits in the audio under this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Hanapin ang mga beat at hit sa audio sa ilalim ng clip na ito</translation>
     </message>
     <message>
         <source>%1 (keyframes off)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (naka-off ang keyframe)</translation>
     </message>
     <message>
         <source>%1 — click to hide this curve</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 — i-click para itago ang curve na ito</translation>
     </message>
     <message>
         <source>%1 — click to show this curve</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 — i-click para ipakita ang curve na ito</translation>
     </message>
     <message>
         <source>No keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang keyframe</translation>
     </message>
     <message numerus="yes">
         <source>%n keyframes</source>
@@ -7721,11 +7721,11 @@
     </message>
     <message>
         <source> BPM</source>
-        <translation type="unfinished"></translation>
+        <translation>BPM</translation>
     </message>
     <message>
         <source> · no beat found</source>
-        <translation type="unfinished"></translation>
+        <translation>· walang nahanap na beat</translation>
     </message>
     <message>
         <source>Move keyframe</source>
@@ -7733,7 +7733,7 @@
     </message>
     <message>
         <source>Edit keyframe curve</source>
-        <translation type="unfinished"></translation>
+        <translation>I-edit ang keyframe curve</translation>
     </message>
 </context>
 <context>
@@ -7756,11 +7756,11 @@
     </message>
     <message>
         <source>Language for menus and labels. Takes effect immediately.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wika para sa mga menu at label. Agad itong magkakabisa.</translation>
     </message>
     <message>
         <source>Pick the language for menus and labels. You can change this later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Piliin ang wika para sa mga menu at label. Maaari mo itong baguhin sa ibang pagkakataon.</translation>
     </message>
 </context>
 <context>
@@ -7795,86 +7795,86 @@
     </message>
     <message>
         <source>Quality</source>
-        <translation type="unfinished">Kalidad</translation>
+        <translation>Kalidad</translation>
     </message>
     <message>
         <source>%1×%2 · %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1×%2 · %3</translation>
     </message>
     <message>
         <source>Preview shows the canvas aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Ipinapakita ng preview ang aspect ratio ng canvas</translation>
     </message>
 </context>
 <context>
     <name>LayoutPresets</name>
     <message>
         <source>YouTube</source>
-        <translation type="unfinished"></translation>
+        <translation>YouTube</translation>
     </message>
     <message>
         <source>Instagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Instagram</translation>
     </message>
     <message>
         <source>Facebook</source>
-        <translation type="unfinished"></translation>
+        <translation>Facebook</translation>
     </message>
     <message>
         <source>TikTok</source>
-        <translation type="unfinished"></translation>
+        <translation>TikTok</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished">Higit pa</translation>
+        <translation>Higit pa</translation>
     </message>
     <message>
         <source>YT Video</source>
-        <translation type="unfinished"></translation>
+        <translation>YT Video</translation>
     </message>
     <message>
         <source>YT Short</source>
-        <translation type="unfinished"></translation>
+        <translation>YT Short</translation>
     </message>
     <message>
         <source>IG Reel</source>
-        <translation type="unfinished"></translation>
+        <translation>IG Reel</translation>
     </message>
     <message>
         <source>IG Story</source>
-        <translation type="unfinished"></translation>
+        <translation>IG Story</translation>
     </message>
     <message>
         <source>IG Post</source>
-        <translation type="unfinished"></translation>
+        <translation>IG Post</translation>
     </message>
     <message>
         <source>IG Feed</source>
-        <translation type="unfinished"></translation>
+        <translation>IG Feed</translation>
     </message>
     <message>
         <source>FB Reel</source>
-        <translation type="unfinished"></translation>
+        <translation>FB Reel</translation>
     </message>
     <message>
         <source>FB Video</source>
-        <translation type="unfinished"></translation>
+        <translation>FB Video</translation>
     </message>
     <message>
         <source>FB Story</source>
-        <translation type="unfinished"></translation>
+        <translation>FB Story</translation>
     </message>
     <message>
         <source>Snapchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Snapchat</translation>
     </message>
     <message>
         <source>X / Twitter</source>
-        <translation type="unfinished"></translation>
+        <translation>X / Twitter</translation>
     </message>
     <message>
         <source>LinkedIn</source>
-        <translation type="unfinished"></translation>
+        <translation>LinkedIn</translation>
     </message>
     <message>
         <source>Square</source>
@@ -8459,7 +8459,7 @@
     </message>
     <message>
         <source>Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotation</translation>
     </message>
     <message>
         <source>Feather</source>
@@ -10944,7 +10944,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Quality</source>
-        <translation type="unfinished">Kalidad</translation>
+        <translation>Kalidad</translation>
     </message>
     <message>
         <source>AI: %1</source>
@@ -11170,7 +11170,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Language for menus and labels. Takes effect immediately.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wika para sa mga menu at label. Agad itong magkakabisa.</translation>
     </message>
     <message>
         <source>App</source>
