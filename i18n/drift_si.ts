@@ -2606,9 +2606,9 @@
     </message>
     <message numerus="yes">
         <source>%n media items and referenced clips removed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ඉවත් කළ මාධ්‍ය අයිතම සහ යොමු කළ ක්ලිප් ගණන: %n</numerusform>
+            <numerusform>ඉවත් කළ මාධ්‍ය අයිතම සහ යොමු කළ ක්ලිප් ගණන: %n</numerusform>
         </translation>
     </message>
     <message>
@@ -3697,9 +3697,9 @@
     </message>
     <message numerus="yes">
         <source>Created %n text clips</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>පෙළ ක්ලිප් %nක් සාදන ලදී</numerusform>
+            <numerusform>පෙළ ක්ලිප් %nක් සාදන ලදී</numerusform>
         </translation>
     </message>
     <message>
@@ -3911,9 +3911,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>මුහුණු අංග %nක් ආනයනය කරන ලදී</numerusform>
+            <numerusform>මුහුණු අංග %nක් ආනයනය කරන ලදී</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -4041,9 +4041,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted attributes onto %n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ක්ලිප් %nකට ගුණාංග අලවන ලදී</numerusform>
+            <numerusform>ක්ලිප් %nකට ගුණාංග අලවන ලදී</numerusform>
         </translation>
     </message>
     <message>
@@ -4208,9 +4208,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted %n clips</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ක්ලිප් %nක් අලවන ලදී</numerusform>
+            <numerusform>ක්ලිප් %nක් අලවන ලදී</numerusform>
         </translation>
     </message>
     <message>
@@ -6093,9 +6093,9 @@
     </message>
     <message numerus="yes">
         <source>Downloads — %n running</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>බාගැනීම් — ක්‍රියාත්මකයි: %n</numerusform>
+            <numerusform>බාගැනීම් — ක්‍රියාත්මකයි: %n</numerusform>
         </translation>
     </message>
     <message>
@@ -8021,7 +8021,7 @@
     </message>
     <message>
         <source>&amp;Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ධාවනය</translation>
     </message>
     <message>
         <source>Play / Pause</source>
@@ -8061,15 +8061,15 @@
     </message>
     <message>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;දසුන</translation>
     </message>
     <message>
         <source>Zoom &amp;In</source>
-        <translation type="unfinished"></translation>
+        <translation>විශාල කරන්න (&amp;I)</translation>
     </message>
     <message>
         <source>Zoom &amp;Out</source>
-        <translation type="unfinished"></translation>
+        <translation>කුඩා කරන්න (&amp;O)</translation>
     </message>
     <message>
         <source>Toggle Fullscreen Preview</source>
@@ -8081,7 +8081,7 @@
     </message>
     <message>
         <source>&amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;කවුළුව</translation>
     </message>
     <message>
         <source>Landscape Workspace</source>
@@ -8097,15 +8097,15 @@
     </message>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished">බාගැනීම්</translation>
+        <translation>බාගැනීම්</translation>
     </message>
     <message>
         <source>Multicam</source>
-        <translation type="unfinished">බහු කැමරා</translation>
+        <translation>බහු කැමරා</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;උදව්</translation>
     </message>
     <message>
         <source>Keyboard Shortcuts</source>
@@ -8113,7 +8113,7 @@
     </message>
     <message>
         <source>Extras…</source>
-        <translation type="unfinished"></translation>
+        <translation>අමතර…</translation>
     </message>
     <message>
         <source>Check for Updates…</source>
@@ -8669,9 +8669,9 @@
     </message>
     <message numerus="yes">
         <source>Create %n proxies</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ප්‍රොක්සි %nක් සාදන්න</numerusform>
+            <numerusform>ප්‍රොක්සි %nක් සාදන්න</numerusform>
         </translation>
     </message>
     <message>
@@ -8680,9 +8680,9 @@
     </message>
     <message numerus="yes">
         <source>Remove %n proxies</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ප්‍රොක්සි %nක් ඉවත් කරන්න</numerusform>
+            <numerusform>ප්‍රොක්සි %nක් ඉවත් කරන්න</numerusform>
         </translation>
     </message>
     <message>
@@ -8739,9 +8739,9 @@
     </message>
     <message numerus="yes">
         <source>Add %n items to timeline</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>කාලරේඛාවට අයිතම %nක් එක් කරන්න</numerusform>
+            <numerusform>කාලරේඛාවට අයිතම %nක් එක් කරන්න</numerusform>
         </translation>
     </message>
     <message>
@@ -8750,9 +8750,9 @@
     </message>
     <message numerus="yes">
         <source>Move %n items to folder…</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>අයිතම %nක් ෆෝල්ඩරයට ගෙන යන්න…</numerusform>
+            <numerusform>අයිතම %nක් ෆෝල්ඩරයට ගෙන යන්න…</numerusform>
         </translation>
     </message>
     <message>
@@ -8761,9 +8761,9 @@
     </message>
     <message numerus="yes">
         <source>Remove %n items from project</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ව්‍යාපෘතියෙන් අයිතම %nක් ඉවත් කරන්න</numerusform>
+            <numerusform>ව්‍යාපෘතියෙන් අයිතම %nක් ඉවත් කරන්න</numerusform>
         </translation>
     </message>
 </context>
@@ -8844,9 +8844,9 @@
     </message>
     <message numerus="yes">
         <source>Could not import any of the %n selected files.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>තෝරාගත් ගොනු %nන් කිසිවක් ආනයනය කළ නොහැකි විය.</numerusform>
+            <numerusform>තෝරාගත් ගොනු %nන් කිසිවක් ආනයනය කළ නොහැකි විය.</numerusform>
         </translation>
     </message>
 </context>
@@ -8910,7 +8910,7 @@
     </message>
     <message>
         <source>%1p</source>
-        <translation type="unfinished"></translation>
+        <translation>%1p</translation>
     </message>
     <message>
         <source>Length %1</source>
@@ -8926,7 +8926,7 @@
     </message>
     <message>
         <source>Done keeps the original video and stores this range and framing. Upscale renders them as a new video in the media bin, then opens it in the Enhance window.</source>
-        <translation type="unfinished"></translation>
+        <translation>අවසන් කිරීමෙන් මුල් වීඩියෝව තබා මෙම පරාසය සහ රාමුව සුරකියි. ඉහළ විභේදනය නව වීඩියෝවක් මාධ්‍ය පුස්තකාලයේ සාදා එය වැඩිදියුණු කිරීමේ කවුළුවේ විවෘත කරයි.</translation>
     </message>
     <message>
         <source>Saving…</source>
@@ -9808,7 +9808,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Set Drift to High performance in Windows Settings &gt; Display &gt; Graphics, then restart Drift.</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Settings &gt; Display &gt; Graphics හි Drift සඳහා ඉහළ කාර්යසාධනය තෝරා Drift නැවත අරඹන්න.</translation>
     </message>
     <message>
         <source>Open graphics settings</source>
@@ -10376,19 +10376,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished">තත් %1</translation>
+        <translation>තත්පර %1</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished">මිනි %1</translation>
+        <translation>මිනිත්තු %1</translation>
     </message>
     <message>
         <source>%1 h %2 min</source>
-        <translation type="unfinished"></translation>
+        <translation>පැය %1 මිනිත්තු %2</translation>
     </message>
     <message>
         <source>Enhancing… %1% — about %2 left</source>
-        <translation type="unfinished"></translation>
+        <translation>වැඩිදියුණු කරමින්… %1% — තවත් %2ක් පමණ</translation>
     </message>
     <message>
         <source>Enhancing… %1%</source>
@@ -10591,7 +10591,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 (custom, experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (අභිරුචි, පරීක්ෂණාත්මක)</translation>
     </message>
     <message>
         <source>Original</source>
@@ -10599,11 +10599,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Enhanced — out of date, preview again</source>
-        <translation type="unfinished"></translation>
+        <translation>වැඩිදියුණු කිරීම කල් ඉකුත් වී ඇත — නැවත පෙරදසුන් කරන්න</translation>
     </message>
     <message>
         <source>Enhanced %1 × %2</source>
-        <translation type="unfinished"></translation>
+        <translation>වැඩිදියුණු කළ %1 × %2</translation>
     </message>
     <message>
         <source>Loading this frame…</source>
@@ -10623,7 +10623,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished">තත්</translation>
+        <translation>තත්</translation>
     </message>
     <message>
         <source>Fit</source>
@@ -10631,11 +10631,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Preview one frame, then enhance the whole video. The result is added to the media bin. Enhancing is slow — minutes per second of video without a GPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>පළමුව එක් රාමුවක් පෙරදසුන් කර මුළු වීඩියෝව වැඩිදියුණු කරන්න. ප්‍රතිඵලය මාධ්‍ය පුස්තකාලයට එක් වේ. GPU නොමැති විට මෙය මන්දගාමී වන අතර වීඩියෝ තත්පරයකට මිනිත්තු කිහිපයක් ගත විය හැක.</translation>
     </message>
     <message>
         <source>Preview one frame, then enhance the part of the clip used on the timeline. The result is added to the media bin. Enhancing is slow — minutes per second of video without a GPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>පළමුව එක් රාමුවක් පෙරදසුන් කර කාලරේඛාවේ භාවිත වන ක්ලිප් කොටස වැඩිදියුණු කරන්න. ප්‍රතිඵලය මාධ්‍ය පුස්තකාලයට එක් වේ. GPU නොමැති විට වීඩියෝ තත්පරයකට මිනිත්තු කිහිපයක් ගත විය හැක.</translation>
     </message>
     <message>
         <source>Remove compression</source>
@@ -10643,11 +10643,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Upscale</source>
-        <translation type="unfinished"></translation>
+        <translation>විභේදනය වැඩි කරන්න</translation>
     </message>
     <message>
         <source>Output: %1 × %2</source>
-        <translation type="unfinished"></translation>
+        <translation>ප්‍රතිදානය: %1 × %2</translation>
     </message>
     <message>
         <source> — larger than 4K, which is slow to edit and export</source>
@@ -10659,7 +10659,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Up to about %1 on a typical laptop CPU. Preview a frame for an estimate for this computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>සාමාන්‍ය ලැප්ටොප් CPU එකක %1ක් පමණ දක්වා. මෙම පරිගණකය සඳහා ඇස්තමේන්තුවක් ලබා ගැනීමට රාමුවක් පෙරදසුන් කරන්න.</translation>
     </message>
     <message>
         <source>Preview this frame</source>
@@ -10691,7 +10691,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Speeds are per frame of this clip. Custom models are experimental and may not work. Drop an ONNX export (fp32 or fp16, RGB, 1x/2x/4x) into the folder; put the scale in the file name, e.g. &quot;2x_Name.onnx&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>වේගය මෙම ක්ලිප් එකේ එක් රාමුවකට ගණනය වේ. අභිරුචි මාදිලි පරීක්ෂණාත්මක බැවින් ක්‍රියා නොකරනු ඇත. ONNX export එකක් (fp32 හෝ fp16, RGB, 1x/2x/4x) ෆෝල්ඩරයට දමා පරිමාණය ගොනු නාමයට එක් කරන්න; උදා. "2x_Name.onnx".</translation>
     </message>
     <message>
         <source>Refresh model list</source>
@@ -10703,23 +10703,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>under a second</source>
-        <translation type="unfinished"></translation>
+        <translation>තත්පරයකට අඩු</translation>
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished">තත් %1</translation>
+        <translation>තත්පර %1</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished">මිනි %1</translation>
+        <translation>මිනිත්තු %1</translation>
     </message>
     <message>
         <source>%1 h %2 min</source>
-        <translation type="unfinished"></translation>
+        <translation>පැය %1 මිනිත්තු %2</translation>
     </message>
     <message>
         <source>%1 s per frame</source>
-        <translation type="unfinished"></translation>
+        <translation>රාමුවකට තත්පර %1</translation>
     </message>
     <message>
         <source>No upscaling</source>
@@ -11109,7 +11109,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Choose which graphics card Drift runs on in Windows Settings, under Display &gt; Graphics. Takes effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Settings &gt; Display &gt; Graphics යටතේ Drift භාවිත කරන ග්‍රැෆික් කාඩ්පත තෝරන්න. නැවත අරඹන විට ක්‍රියාත්මක වේ.</translation>
     </message>
     <message>
         <source>Open graphics settings</source>
@@ -11937,7 +11937,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Speed applies to video, audio and composite clips.</source>
-        <translation type="unfinished"></translation>
+        <translation>වේගය වීඩියෝ, ශ්‍රව්‍ය සහ සංයුක්ත ක්ලිප් සඳහා බලපායි.</translation>
     </message>
     <message>
         <source>Playback speed</source>
@@ -12194,9 +12194,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>Filters — %n applied</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>පෙරහන් — යොදන ලද ගණන: %n</numerusform>
+            <numerusform>පෙරහන් — යොදන ලද ගණන: %n</numerusform>
         </translation>
     </message>
     <message>
@@ -13989,9 +13989,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>This removes the track and its %n clips. You can undo afterwards.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>මෙය ධාවන පථය සහ එහි ක්ලිප් %nක් ඉවත් කරයි. පසුව මෙය අහෝසි කළ හැක.</numerusform>
+            <numerusform>මෙය ධාවන පථය සහ එහි ක්ලිප් %nක් ඉවත් කරයි. පසුව මෙය අහෝසි කළ හැක.</numerusform>
         </translation>
     </message>
     <message>
@@ -14446,9 +14446,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>+%n more</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>+ තවත් %nක්</numerusform>
+            <numerusform>+ තවත් %nක්</numerusform>
         </translation>
     </message>
 </context>
