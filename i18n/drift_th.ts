@@ -3994,19 +3994,19 @@
     </message>
     <message>
         <source>Audio effect copied</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกเอฟเฟกต์เสียงแล้ว</translation>
     </message>
     <message>
         <source>Effects copied</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกเอฟเฟกต์แล้ว</translation>
     </message>
     <message>
         <source>This clip has no effects to copy</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิปนี้ไม่มีเอฟเฟกต์ให้คัดลอก</translation>
     </message>
     <message>
         <source>No effects on the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีเอฟเฟกต์ในคลิปบอร์ด</translation>
     </message>
     <message>
         <source>Paste effects</source>
@@ -4014,11 +4014,11 @@
     </message>
     <message>
         <source>Copy a clip and select target clips first</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกคลิปและเลือกคลิปเป้าหมายก่อน</translation>
     </message>
     <message>
         <source>Paste attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>วางแอตทริบิวต์</translation>
     </message>
     <message numerus="yes">
         <source>Pasted attributes onto %n clip(s)</source>
@@ -4029,99 +4029,99 @@
     </message>
     <message>
         <source>Pasted effects use “%1”, which isn’t installed — it won’t show. Open Extras to install it.</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์ที่วางใช้ “%1” ซึ่งยังไม่ได้ติดตั้ง จึงไม่แสดง เปิดส่วนเสริมเพื่อติดตั้ง</translation>
     </message>
     <message>
         <source>Pasted effects use %1 packs that aren’t installed — they won’t show. Open Extras to install them.</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์ที่วางใช้แพ็ก %1 รายการที่ยังไม่ได้ติดตั้ง จึงไม่แสดง เปิดส่วนเสริมเพื่อติดตั้ง</translation>
     </message>
     <message>
         <source>There are no effects to save</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีเอฟเฟกต์ให้บันทึก</translation>
     </message>
     <message>
         <source>Could not save the effect preset</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกพรีเซ็ตเอฟเฟกต์ไม่ได้</translation>
     </message>
     <message>
         <source>Effect preset saved</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกพรีเซ็ตเอฟเฟกต์แล้ว</translation>
     </message>
     <message>
         <source>Apply effect preset</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้พรีเซ็ตเอฟเฟกต์</translation>
     </message>
     <message>
         <source>Could not rename the effect preset</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อพรีเซ็ตเอฟเฟกต์ไม่ได้</translation>
     </message>
     <message>
         <source>Effect preset renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อพรีเซ็ตเอฟเฟกต์แล้ว</translation>
     </message>
     <message>
         <source>Could not delete the effect preset</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบพรีเซ็ตเอฟเฟกต์ไม่ได้</translation>
     </message>
     <message>
         <source>Effect preset deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบพรีเซ็ตเอฟเฟกต์แล้ว</translation>
     </message>
     <message>
         <source>Could not export the effect preset</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกพรีเซ็ตเอฟเฟกต์ไม่ได้</translation>
     </message>
     <message>
         <source>Effect preset exported</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกพรีเซ็ตเอฟเฟกต์แล้ว</translation>
     </message>
     <message>
         <source>Could not import the effect preset</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าพรีเซ็ตเอฟเฟกต์ไม่ได้</translation>
     </message>
     <message>
         <source>Effect preset imported</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าพรีเซ็ตเอฟเฟกต์แล้ว</translation>
     </message>
     <message>
         <source>Track mute</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดเสียงแทร็ก</translation>
     </message>
     <message>
         <source>Track muted</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดเสียงแทร็กแล้ว</translation>
     </message>
     <message>
         <source>Track unmuted</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดเสียงแทร็กแล้ว</translation>
     </message>
     <message>
         <source>Track visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>การแสดงผลของแทร็ก</translation>
     </message>
     <message>
         <source>Track hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>ซ่อนแทร็กแล้ว</translation>
     </message>
     <message>
         <source>Track shown</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงแทร็กแล้ว</translation>
     </message>
     <message>
         <source>Move track</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้ายแทร็ก</translation>
     </message>
     <message>
         <source>Track moved</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้ายแทร็กแล้ว</translation>
     </message>
     <message>
         <source>Delete track</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบแทร็ก</translation>
     </message>
     <message>
         <source>Track deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบแทร็กแล้ว</translation>
     </message>
     <message>
         <source>Add track</source>
@@ -4129,39 +4129,39 @@
     </message>
     <message>
         <source>Track added</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มแทร็กแล้ว</translation>
     </message>
     <message>
         <source>Work area in marked</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำเครื่องหมายจุดเริ่มพื้นที่ทำงานแล้ว</translation>
     </message>
     <message>
         <source>Work area out marked</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำเครื่องหมายจุดสิ้นสุดพื้นที่ทำงานแล้ว</translation>
     </message>
     <message>
         <source>Work area cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>ล้างพื้นที่ทำงานแล้ว</translation>
     </message>
     <message>
         <source>Add bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มบุ๊กมาร์ก</translation>
     </message>
     <message>
         <source>Bookmark added</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มบุ๊กมาร์กแล้ว</translation>
     </message>
     <message>
         <source>Remove bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบบุ๊กมาร์ก</translation>
     </message>
     <message>
         <source>Bookmark removed</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบบุ๊กมาร์กแล้ว</translation>
     </message>
     <message>
         <source>Edit bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขบุ๊กมาร์ก</translation>
     </message>
     <message>
         <source>Bookmark updated</source>
@@ -13932,7 +13932,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Delete track</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบแทร็ก</translation>
     </message>
     <message numerus="yes">
         <source>This removes the track and its %n clips. You can undo afterwards.</source>
