@@ -3787,115 +3787,115 @@
     </message>
     <message>
         <source>Keyframes enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-enable ang mga keyframe</translation>
     </message>
     <message>
         <source>Keyframes disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-disable ang mga keyframe</translation>
     </message>
     <message>
         <source>Keyframe easing changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagbago ang keyframe easing</translation>
     </message>
     <message>
         <source>Keyframe easing updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang keyframe easing</translation>
     </message>
     <message>
         <source>Keyframe curve changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagbago ang keyframe curve</translation>
     </message>
     <message>
         <source>Keyframe curve updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang keyframe curve</translation>
     </message>
     <message>
         <source>Keyframe hold changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagbago ang keyframe hold</translation>
     </message>
     <message>
         <source>Keyframe holds</source>
-        <translation type="unfinished"></translation>
+        <translation>Keyframe hold</translation>
     </message>
     <message>
         <source>Keyframe interpolates</source>
-        <translation type="unfinished"></translation>
+        <translation>Keyframe interpolation</translation>
     </message>
     <message>
         <source>Reset transform</source>
-        <translation type="unfinished"></translation>
+        <translation>I-reset ang transform</translation>
     </message>
     <message>
         <source>Transform reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-reset ang transform</translation>
     </message>
     <message>
         <source>Depth effects read one clip&apos;s depth, so they go on a clip, not on an adjustment layer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Binabasa ng depth effect ang depth ng isang clip kaya dapat ilagay ito sa clip, hindi sa adjustment layer.</translation>
     </message>
     <message>
         <source>Face effects follow one clip&apos;s faces, so they go on a clip, not on an adjustment layer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinusundan ng face effect ang mga mukha sa isang clip kaya dapat ilagay ito sa clip, hindi sa adjustment layer.</translation>
     </message>
     <message>
         <source>Add effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng effect</translation>
     </message>
     <message>
         <source>Effect added</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagdagdag ng effect</translation>
     </message>
     <message>
         <source>Apply effect template</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilapat ang effect template</translation>
     </message>
     <message>
         <source>Template applied</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-apply ang template</translation>
     </message>
     <message>
         <source>This effect needs a subject cutout — open Extras to install it</source>
-        <translation type="unfinished"></translation>
+        <translation>Kailangan ng effect na ito ang subject cutout — buksan ang Extras para i-install ito.</translation>
     </message>
     <message>
         <source>Remove effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang effect</translation>
     </message>
     <message>
         <source>Effect removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Inalis ang effect</translation>
     </message>
     <message>
         <source>Enable effect</source>
-        <translation type="unfinished"></translation>
+        <translation>I-enable ang effect</translation>
     </message>
     <message>
         <source>Disable effect</source>
-        <translation type="unfinished"></translation>
+        <translation>I-disable ang effect</translation>
     </message>
     <message>
         <source>Effect enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-enable ang effect</translation>
     </message>
     <message>
         <source>Effect disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-disable ang effect</translation>
     </message>
     <message>
         <source>Reorder effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Baguhin ang pagkakasunod ng effect</translation>
     </message>
     <message>
         <source>Effect reordered</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabago ang pagkakasunod ng effect</translation>
     </message>
     <message>
         <source>Effect updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang effect</translation>
     </message>
     <message>
         <source>Could not read the selected file</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabasa ang napiling file</translation>
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s)</source>
@@ -3913,91 +3913,91 @@
     </message>
     <message>
         <source>No face props were imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang na-import na face prop</translation>
     </message>
     <message>
         <source>That style shares its folder with other styles</source>
-        <translation type="unfinished"></translation>
+        <translation>Kapareho ng folder ng ibang style ang style na ito</translation>
     </message>
     <message>
         <source>Could not delete the face prop</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi matanggal ang face prop</translation>
     </message>
     <message>
         <source>Face prop deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-delete ang face prop</translation>
     </message>
     <message>
         <source>Add face prop</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng face prop</translation>
     </message>
     <message>
         <source>Apply face prop</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilapat ang face prop</translation>
     </message>
     <message>
         <source>Face prop applied</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-apply ang face prop</translation>
     </message>
     <message>
         <source>Add audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng audio effect</translation>
     </message>
     <message>
         <source>Audio effect added</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagdagdag ng audio effect</translation>
     </message>
     <message>
         <source>Remove audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang audio effect</translation>
     </message>
     <message>
         <source>Audio effect removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Inalis ang audio effect</translation>
     </message>
     <message>
         <source>Enable audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>I-enable ang audio effect</translation>
     </message>
     <message>
         <source>Disable audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>I-disable ang audio effect</translation>
     </message>
     <message>
         <source>Audio effect enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-enable ang audio effect</translation>
     </message>
     <message>
         <source>Audio effect disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-disable ang audio effect</translation>
     </message>
     <message>
         <source>Reorder audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Baguhin ang pagkakasunod ng audio effect</translation>
     </message>
     <message>
         <source>Audio effect reordered</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabago ang pagkakasunod ng audio effect</translation>
     </message>
     <message>
         <source>Edit audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>I-edit ang audio effect</translation>
     </message>
     <message>
         <source>Audio effect updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang audio effect</translation>
     </message>
     <message>
         <source>This stack uses “%1”, which isn’t installed — it won’t show. Open Extras to install it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ginagamit ng stack na ito ang “%1” na hindi naka-install kaya hindi ito lalabas. Buksan ang Extras para i-install ito.</translation>
     </message>
     <message>
         <source>This stack uses %1 effects that aren’t installed — they won’t show. Open Extras to install them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumagamit ang stack na ito ng %1 effect na hindi naka-install kaya hindi lalabas ang mga ito. Buksan ang Extras para i-install.</translation>
     </message>
     <message>
         <source>Effect copied</source>
-        <translation type="unfinished"></translation>
+        <translation>Nakopya ang effect</translation>
     </message>
     <message>
         <source>Audio effect copied</source>
@@ -4986,11 +4986,11 @@
     </message>
     <message>
         <source>Disable audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>I-disable ang audio effect</translation>
     </message>
     <message>
         <source>Enable audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>I-enable ang audio effect</translation>
     </message>
     <message>
         <source>Copy this audio effect</source>
@@ -4998,7 +4998,7 @@
     </message>
     <message>
         <source>Remove audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang audio effect</translation>
     </message>
     <message>
         <source>On</source>
@@ -5010,7 +5010,7 @@
     </message>
     <message>
         <source>Edit audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>I-edit ang audio effect</translation>
     </message>
 </context>
 <context>
@@ -6578,15 +6578,15 @@
     </message>
     <message>
         <source>Disable effect</source>
-        <translation type="unfinished"></translation>
+        <translation>I-disable ang effect</translation>
     </message>
     <message>
         <source>Enable effect</source>
-        <translation type="unfinished"></translation>
+        <translation>I-enable ang effect</translation>
     </message>
     <message>
         <source>Remove effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang effect</translation>
     </message>
     <message>
         <source>On</source>
