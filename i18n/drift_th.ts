@@ -4730,7 +4730,7 @@
     </message>
     <message>
         <source>Collect Media to Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>รวบรวมสื่อไปยังโฟลเดอร์</translation>
     </message>
     <message>
         <source>Market</source>
@@ -4754,11 +4754,11 @@
     </message>
     <message>
         <source>Scenes</source>
-        <translation type="unfinished"></translation>
+        <translation>ฉาก</translation>
     </message>
     <message>
         <source>Masks</source>
-        <translation type="unfinished"></translation>
+        <translation>มาสก์</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -4766,7 +4766,7 @@
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>เทมเพลต</translation>
     </message>
     <message>
         <source>Transitions</source>
@@ -4778,43 +4778,43 @@
     </message>
     <message>
         <source>Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>ปุ่มลัด</translation>
     </message>
     <message>
         <source>Drop to import</source>
-        <translation type="unfinished"></translation>
+        <translation>วางเพื่อ импорт</translation>
     </message>
     <message>
         <source>Video, audio and image files</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์วิดีโอ เสียง และรูปภาพ</translation>
     </message>
     <message>
         <source>Importing…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังนำเข้า…</translation>
     </message>
     <message>
         <source>Reading media and generating thumbnails.</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังอ่านสื่อและสร้างภาพขนาดย่อ</translation>
     </message>
     <message>
         <source>More emoji</source>
-        <translation type="unfinished"></translation>
+        <translation>อีโมจิเพิ่มเติม</translation>
     </message>
     <message>
         <source>More import options</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวเลือกการนำเข้าเพิ่มเติม</translation>
     </message>
     <message>
         <source>Import Files…</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าไฟล์…</translation>
     </message>
     <message>
         <source>Import Folder…</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าโฟลเดอร์…</translation>
     </message>
     <message>
         <source>Collect Media to Folder…</source>
-        <translation type="unfinished"></translation>
+        <translation>รวบรวมสื่อไปยังโฟลเดอร์…</translation>
     </message>
     <message>
         <source>Import</source>
@@ -4822,35 +4822,35 @@
     </message>
     <message>
         <source>Import video, audio or image files</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าไฟล์วิดีโอ เสียง หรือรูปภาพ</translation>
     </message>
     <message>
         <source>New folder</source>
-        <translation type="unfinished"></translation>
+        <translation>โฟลเดอร์ใหม่</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้าง</translation>
     </message>
     <message>
         <source>Folder name</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อโฟลเดอร์</translation>
     </message>
     <message>
         <source>Rename folder</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อโฟลเดอร์</translation>
     </message>
     <message>
         <source>Move to folder</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้ายไปยังโฟลเดอร์</translation>
     </message>
     <message>
         <source>New Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>โฟลเดอร์ใหม่</translation>
     </message>
     <message>
         <source>Create a new folder here</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างโฟลเดอร์ใหม่ที่นี่</translation>
     </message>
     <message numerus="yes">
         <source>%n items</source>
@@ -4860,7 +4860,7 @@
     </message>
     <message>
         <source>Remove these items?</source>
-        <translation type="unfinished"></translation>
+        <translation>นำรายการเหล่านี้ออกหรือไม่</translation>
     </message>
     <message numerus="yes">
         <source>Removed %n items.</source>
@@ -4873,97 +4873,97 @@
     <name>AudioEffectBrowser</name>
     <message>
         <source>No audio effects</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีเอฟเฟกต์เสียง</translation>
     </message>
     <message>
         <source>Install the Audio Effects pack from Extras to browse presets here.</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้งแพ็ก Audio Effects จากส่วนเสริมเพื่อเรียกดูพรีเซ็ตที่นี่</translation>
     </message>
     <message>
         <source>Install audio effects</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้งเอฟเฟกต์เสียง</translation>
     </message>
     <message>
         <source>Drag a preset onto a clip, or click to apply to the selection</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากพรีเซ็ตไปวางบนคลิป หรือคลิกเพื่อใช้กับรายการที่เลือก</translation>
     </message>
     <message>
         <source>Drag a preset onto a clip in the timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากพรีเซ็ตไปวางบนคลิปในไทม์ไลน์</translation>
     </message>
     <message>
         <source>Search audio effects</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหาเอฟเฟกต์เสียง</translation>
     </message>
     <message>
         <source>No audio effects match “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีเอฟเฟกต์เสียงที่ตรงกับ “%1”</translation>
     </message>
     <message>
         <source>No favorites yet. Star presets to save them here.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่มีรายการโปรด กดดาวที่พรีเซ็ตเพื่อบันทึกไว้ที่นี่</translation>
     </message>
     <message>
         <source>Nothing in this category.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีรายการในหมวดหมู่นี้</translation>
     </message>
     <message>
         <source>Apply to selected clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้กับคลิปที่เลือก</translation>
     </message>
 </context>
 <context>
     <name>AudioEffectCatalog</name>
     <message>
         <source>Voice</source>
-        <translation type="unfinished"></translation>
+        <translation>เสียงพูด</translation>
     </message>
     <message>
         <source>Transmission</source>
-        <translation type="unfinished"></translation>
+        <translation>การส่งสัญญาณ</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>พื้นผิว</translation>
     </message>
     <message>
         <source>Space</source>
-        <translation type="unfinished"></translation>
+        <translation>อวกาศ</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>อื่น ๆ</translation>
     </message>
 </context>
 <context>
     <name>AudioEffectsInspector</name>
     <message>
         <source>No audio</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีเสียง</translation>
     </message>
     <message>
         <source>Audio effects apply to clips with an audio track.</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์เสียงใช้ได้กับคลิปที่มีแทร็กเสียงเท่านั้น</translation>
     </message>
     <message>
         <source>No audio effects installed. Get the Audio Effects pack from Extras.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่ได้ติดตั้งเอฟเฟกต์เสียง ดาวน์โหลดแพ็ก Audio Effects จากส่วนเสริม</translation>
     </message>
     <message>
         <source>Install audio effects</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้งเอฟเฟกต์เสียง</translation>
     </message>
     <message>
         <source>No audio effects yet</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่มีเอฟเฟกต์เสียง</translation>
     </message>
     <message>
         <source>Drag a preset from Audio FX onto this clip, or click a preset card.</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากพรีเซ็ตจาก Audio FX มาวางบนคลิปนี้ หรือคลิกการ์ดพรีเซ็ต</translation>
     </message>
     <message>
         <source>Browse audio effects</source>
-        <translation type="unfinished"></translation>
+        <translation>เรียกดูเอฟเฟกต์เสียง</translation>
     </message>
     <message>
         <source>%1 (not installed)</source>
@@ -5026,7 +5026,7 @@
     </message>
     <message>
         <source>No audio</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีเสียง</translation>
     </message>
     <message>
         <source>This clip has no audio track.</source>
@@ -5876,7 +5876,7 @@
     </message>
     <message>
         <source>Apply to selected clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้กับคลิปที่เลือก</translation>
     </message>
     <message>
         <source>Add at playhead</source>
@@ -6199,7 +6199,7 @@
     </message>
     <message>
         <source>Drag a preset onto a clip, or click to apply to the selection</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากพรีเซ็ตไปวางบนคลิป หรือคลิกเพื่อใช้กับรายการที่เลือก</translation>
     </message>
     <message>
         <source>Click to add as adjustment layer, or drag onto a clip</source>
@@ -6227,15 +6227,15 @@
     </message>
     <message>
         <source>No favorites yet. Star presets to save them here.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่มีรายการโปรด กดดาวที่พรีเซ็ตเพื่อบันทึกไว้ที่นี่</translation>
     </message>
     <message>
         <source>Nothing in this category.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีรายการในหมวดหมู่นี้</translation>
     </message>
     <message>
         <source>Apply to selected clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้กับคลิปที่เลือก</translation>
     </message>
     <message>
         <source>Built-in</source>
@@ -6290,7 +6290,7 @@
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>อื่น ๆ</translation>
     </message>
 </context>
 <context>
@@ -6388,7 +6388,7 @@
     </message>
     <message>
         <source>Nothing in this category.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีรายการในหมวดหมู่นี้</translation>
     </message>
     <message>
         <source>Needs cutout</source>
@@ -6396,7 +6396,7 @@
     </message>
     <message>
         <source>Apply to selected clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้กับคลิปที่เลือก</translation>
     </message>
 </context>
 <context>
@@ -6439,7 +6439,7 @@
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>อื่น ๆ</translation>
     </message>
 </context>
 <context>
@@ -8195,7 +8195,7 @@
     </message>
     <message>
         <source>Importing…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังนำเข้า…</translation>
     </message>
     <message>
         <source>Could not import that file.</source>
@@ -9352,7 +9352,7 @@
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>พื้นผิว</translation>
     </message>
     <message>
         <source>Effect</source>
@@ -9969,7 +9969,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้าง</translation>
     </message>
     <message>
         <source>First clip “%1”. Choose the video size before it is placed.</source>
@@ -10068,7 +10068,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Masks</source>
-        <translation type="unfinished"></translation>
+        <translation>มาสก์</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -11316,7 +11316,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>พื้นผิว</translation>
     </message>
     <message>
         <source>Effect</source>
@@ -11765,7 +11765,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Nothing in this category.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีรายการในหมวดหมู่นี้</translation>
     </message>
     <message>
         <source>%1 — click to add, or drag to the timeline or preview</source>
@@ -13603,7 +13603,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Importing…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังนำเข้า…</translation>
     </message>
     <message>
         <source>PAUSED </source>
@@ -14473,7 +14473,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>อื่น ๆ</translation>
     </message>
 </context>
 <context>
