@@ -6132,23 +6132,23 @@
     </message>
     <message>
         <source>Debug info…</source>
-        <translation type="unfinished"></translation>
+        <translation>Debug info…</translation>
     </message>
     <message>
         <source>More settings…</source>
-        <translation type="unfinished"></translation>
+        <translation>Higit pang setting…</translation>
     </message>
     <message>
         <source>Agent</source>
-        <translation type="unfinished"></translation>
+        <translation>Agent</translation>
     </message>
     <message>
         <source>Agent access is on</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-on ang access ng agent</translation>
     </message>
     <message>
         <source>Recommended packs and updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga inirerekomendang pack at update</translation>
     </message>
     <message>
         <source>Extras</source>
@@ -6160,7 +6160,7 @@
     </message>
     <message>
         <source>Drift %1 is available</source>
-        <translation type="unfinished"></translation>
+        <translation>Available na ang Drift %1</translation>
     </message>
     <message>
         <source>Agent access</source>
@@ -6168,11 +6168,11 @@
     </message>
     <message>
         <source>Export in progress (%1%) — click to view</source>
-        <translation type="unfinished"></translation>
+        <translation>Nag-e-export (%1%) — i-click para tingnan</translation>
     </message>
     <message>
         <source>Export video</source>
-        <translation type="unfinished"></translation>
+        <translation>I-export ang video</translation>
     </message>
     <message>
         <source>Export</source>
@@ -6188,38 +6188,38 @@
     </message>
     <message>
         <source>Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Workspace</translation>
     </message>
     <message>
         <source>Auto (follow canvas)</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto (sumunod sa canvas)</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Landscape</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Portrait</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Theme</translation>
     </message>
 </context>
 <context>
     <name>EffectBrowser</name>
     <message>
         <source>No effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang effect</translation>
     </message>
     <message>
         <source>Install the Effects pack from Extras to browse presets here.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-install ang Effects pack mula sa Extras para makita rito ang mga preset.</translation>
     </message>
     <message>
         <source>Get extras</source>
-        <translation type="unfinished"></translation>
+        <translation>Kumuha ng extras</translation>
     </message>
     <message>
         <source>Drag a preset onto a clip, or click to apply to the selection</source>
@@ -6227,11 +6227,11 @@
     </message>
     <message>
         <source>Click to add as adjustment layer, or drag onto a clip</source>
-        <translation type="unfinished"></translation>
+        <translation>I-click para idagdag bilang adjustment layer o i-drag papunta sa clip</translation>
     </message>
     <message>
         <source>Search effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Maghanap ng effect</translation>
     </message>
     <message>
         <source>Add adjustment layer</source>
@@ -6239,15 +6239,15 @@
     </message>
     <message>
         <source>Add an adjustment layer to apply effects across all clips underneath, or drag it to where it should go</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng adjustment layer para ilapat ang effect sa lahat ng clip sa ibaba, o i-drag ito sa nais na lugar.</translation>
     </message>
     <message>
         <source>Adjustment layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Adjustment layer</translation>
     </message>
     <message>
         <source>No effects match “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang effect na tumutugma sa “%1”.</translation>
     </message>
     <message>
         <source>No favorites yet. Star presets to save them here.</source>
@@ -6263,54 +6263,54 @@
     </message>
     <message>
         <source>Built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>Built-in</translation>
     </message>
 </context>
 <context>
     <name>EffectCatalog</name>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Kulay</translation>
     </message>
     <message>
         <source>Glitch &amp; Distortion</source>
-        <translation type="unfinished"></translation>
+        <translation>Glitch at distortion</translation>
     </message>
     <message>
         <source>Retro / Analog</source>
-        <translation type="unfinished"></translation>
+        <translation>Retro / Analog</translation>
     </message>
     <message>
         <source>Dreamy &amp; Stylish</source>
-        <translation type="unfinished"></translation>
+        <translation>Dreamy at stylish</translation>
     </message>
     <message>
         <source>Impact</source>
-        <translation type="unfinished"></translation>
+        <translation>Impact</translation>
     </message>
     <message>
         <source>Blurs &amp; Distortions</source>
-        <translation type="unfinished"></translation>
+        <translation>Blur at distortion</translation>
     </message>
     <message>
         <source>Funny Face</source>
-        <translation type="unfinished"></translation>
+        <translation>Funny Face</translation>
     </message>
     <message>
         <source>Beauty &amp; Makeup</source>
-        <translation type="unfinished"></translation>
+        <translation>Beauty at makeup</translation>
     </message>
     <message>
         <source>Face Props</source>
-        <translation type="unfinished"></translation>
+        <translation>Face Props</translation>
     </message>
     <message>
         <source>Artistic</source>
-        <translation type="unfinished"></translation>
+        <translation>Artistic</translation>
     </message>
     <message>
         <source>Depth &amp; Lighting</source>
-        <translation type="unfinished"></translation>
+        <translation>Depth at lighting</translation>
     </message>
     <message>
         <source>Other</source>
@@ -6321,35 +6321,35 @@
     <name>EffectStacksSection</name>
     <message>
         <source>Drift effect stack (*.drifteffects)</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift effect stack (*.drifteffects)</translation>
     </message>
     <message>
         <source>Import effect stack</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-import ng effect stack</translation>
     </message>
     <message>
         <source>Export effect stack</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-export ng effect stack</translation>
     </message>
     <message>
         <source>My presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga preset ko</translation>
     </message>
     <message>
         <source>Import an effect stack…</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-import ng effect stack…</translation>
     </message>
     <message>
         <source>Tune a clip&apos;s effects, then use “Save as preset…” in the properties Effects tab to keep them here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayusin ang mga effect ng clip, pagkatapos piliin ang “Save as preset…” sa tab na Effects ng properties para itago rito.</translation>
     </message>
     <message>
         <source>+%1 more</source>
-        <translation type="unfinished"></translation>
+        <translation>+%1 pa</translation>
     </message>
     <message>
         <source>Preset options</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga opsyon ng preset</translation>
     </message>
     <message>
         <source>Rename…</source>
@@ -6357,7 +6357,7 @@
     </message>
     <message>
         <source>Export…</source>
-        <translation type="unfinished"></translation>
+        <translation>I-export…</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -6365,50 +6365,50 @@
     </message>
     <message>
         <source>Rename effect preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang pangalan ng effect preset</translation>
     </message>
     <message>
         <source>Delete effect preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Burahin ang effect preset</translation>
     </message>
     <message>
         <source>Remove “%1” from your saved presets? Clips already using it keep their effects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang “%1” sa mga naka-save na preset? Mananatili ang effect sa mga clip na gumagamit na nito.</translation>
     </message>
 </context>
 <context>
     <name>EffectTemplateBrowser</name>
     <message>
         <source>No effect templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang effect template</translation>
     </message>
     <message>
         <source>Install the Effect Templates pack from Extras to browse presets here.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-install ang Effect Templates pack mula sa Extras para makita rito ang mga preset.</translation>
     </message>
     <message>
         <source>Get extras</source>
-        <translation type="unfinished"></translation>
+        <translation>Kumuha ng extras</translation>
     </message>
     <message>
         <source>Click a template to apply music-synced effects to the selection</source>
-        <translation type="unfinished"></translation>
+        <translation>I-click ang template para ilapat sa napili ang mga effect na naka-sync sa musika</translation>
     </message>
     <message>
         <source>Select a clip, then click a template to apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng clip, pagkatapos i-click ang template para ilapat</translation>
     </message>
     <message>
         <source>Search templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Maghanap ng template</translation>
     </message>
     <message>
         <source>No templates match “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang template na tumutugma sa “%1”.</translation>
     </message>
     <message>
         <source>No favorites yet. Star templates to save them here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala pang paborito. Lagyan ng star ang mga template para ma-save rito.</translation>
     </message>
     <message>
         <source>Nothing in this category.</source>
@@ -6416,7 +6416,7 @@
     </message>
     <message>
         <source>Needs cutout</source>
-        <translation type="unfinished"></translation>
+        <translation>Kailangan ng cutout</translation>
     </message>
     <message>
         <source>Apply to selected clip</source>
@@ -6427,39 +6427,39 @@
     <name>EffectTemplateCatalog</name>
     <message>
         <source>Hype</source>
-        <translation type="unfinished"></translation>
+        <translation>Hype</translation>
     </message>
     <message>
         <source>Dreamy</source>
-        <translation type="unfinished"></translation>
+        <translation>Dreamy</translation>
     </message>
     <message>
         <source>Cinematic</source>
-        <translation type="unfinished"></translation>
+        <translation>Cinematic</translation>
     </message>
     <message>
         <source>Clone</source>
-        <translation type="unfinished"></translation>
+        <translation>Clone</translation>
     </message>
     <message>
         <source>Anime</source>
-        <translation type="unfinished"></translation>
+        <translation>Anime</translation>
     </message>
     <message>
         <source>Retro</source>
-        <translation type="unfinished"></translation>
+        <translation>Retro</translation>
     </message>
     <message>
         <source>Chaos</source>
-        <translation type="unfinished"></translation>
+        <translation>Chaos</translation>
     </message>
     <message>
         <source>Drama</source>
-        <translation type="unfinished"></translation>
+        <translation>Drama</translation>
     </message>
     <message>
         <source>Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Transition</translation>
     </message>
     <message>
         <source>Other</source>
@@ -6470,27 +6470,27 @@
     <name>EffectsInspector</name>
     <message>
         <source>Face tracking</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตามใบหน้า</translation>
     </message>
     <message>
         <source>This clip was scanned before makeup was supported. Re-detect faces to enable the Beauty effects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-scan ang clip na ito bago suportahan ang makeup. I-detect muli ang mga mukha para paganahin ang Beauty effects.</translation>
     </message>
     <message>
         <source>Re-detect faces</source>
-        <translation type="unfinished"></translation>
+        <translation>I-detect muli ang mga mukha</translation>
     </message>
     <message>
         <source>These effects follow a face, so the clip has to be scanned before they do anything.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinusundan ng mga effect na ito ang mukha kaya kailangang i-scan muna ang clip.</translation>
     </message>
     <message>
         <source>Download depth estimation (about 160 MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>I-download ang depth estimation (mga 160 MB)</translation>
     </message>
     <message>
         <source>Face effects follow one clip&apos;s faces. Add this to a clip rather than to an adjustment layer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinusundan ng face effect ang mga mukha sa isang clip. Idagdag ito sa clip, hindi sa adjustment layer.</translation>
     </message>
     <message>
         <source>Scan for faces…</source>
@@ -6673,7 +6673,7 @@
     </message>
     <message>
         <source>Get extras</source>
-        <translation type="unfinished"></translation>
+        <translation>Kumuha ng extras</translation>
     </message>
     <message>
         <source>Search</source>
@@ -7540,7 +7540,7 @@
     </message>
     <message>
         <source>Built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>Built-in</translation>
     </message>
     <message>
         <source>From project</source>
@@ -7882,11 +7882,11 @@
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Landscape</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Portrait</translation>
     </message>
     <message>
         <source>Classic</source>
@@ -10113,7 +10113,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Transition</translation>
     </message>
     <message>
         <source>It&apos;s empty here</source>
@@ -12139,7 +12139,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Get extras</source>
-        <translation type="unfinished"></translation>
+        <translation>Kumuha ng extras</translation>
     </message>
     <message>
         <source>No stickers match “%1”</source>
@@ -12606,7 +12606,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Export…</source>
-        <translation type="unfinished"></translation>
+        <translation>I-export…</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -12614,7 +12614,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>Built-in</translation>
     </message>
     <message>
         <source>Rename text style</source>
@@ -13360,7 +13360,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>Built-in</translation>
     </message>
 </context>
 <context>
@@ -14617,7 +14617,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Get extras</source>
-        <translation type="unfinished"></translation>
+        <translation>Kumuha ng extras</translation>
     </message>
     <message>
         <source>No transitions match “%1”</source>
@@ -14702,7 +14702,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Drift %1 is available</source>
-        <translation type="unfinished"></translation>
+        <translation>Available na ang Drift %1</translation>
     </message>
     <message>
         <source>You have %1.</source>
