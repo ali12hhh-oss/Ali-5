@@ -2484,9 +2484,9 @@
     </message>
     <message numerus="yes">
         <source>Multicam ready: %n camera(s) lined up at the start. Drag a clip to adjust its sync, then pick a shot.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Multicam prête : %n caméra alignée au début. Faites glisser un clip pour ajuster la synchronisation, puis choisissez un plan.</numerusform>
+            <numerusform>Multicam prête : %n caméras alignées au début. Faites glisser un clip pour ajuster la synchronisation, puis choisissez un plan.</numerusform>
         </translation>
     </message>
     <message>
@@ -3732,9 +3732,9 @@
     </message>
     <message numerus="yes">
         <source>Transform layer now covers %n track(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Le calque de transformation couvre maintenant %n piste</numerusform>
+            <numerusform>Le calque de transformation couvre maintenant %n pistes</numerusform>
         </translation>
     </message>
     <message>
@@ -3918,9 +3918,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s); %1 skipped: %2</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n accessoire facial importé; %1 ignoré(s) : %2</numerusform>
+            <numerusform>%n accessoires faciaux importés; %1 ignoré(s) : %2</numerusform>
         </translation>
     </message>
     <message>
@@ -4311,9 +4311,9 @@
     </message>
     <message numerus="yes">
         <source>Media collected, but %n original(s) couldn’t be deleted</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Médias regroupés, mais impossible de supprimer %n original</numerusform>
+            <numerusform>Médias regroupés, mais impossible de supprimer %n originaux</numerusform>
         </translation>
     </message>
     <message>
@@ -4446,9 +4446,9 @@
     </message>
     <message numerus="yes">
         <source>Applied to %n caption clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Appliqué à %n clip de sous-titres</numerusform>
+            <numerusform>Appliqué à %n clips de sous-titres</numerusform>
         </translation>
     </message>
     <message>
@@ -4679,9 +4679,9 @@
     </message>
     <message numerus="yes">
         <source>Replaced with “%1”. %n clips were shortened to fit the new file.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Remplacé par « %1 ». %n clip a été raccourci pour s’adapter au nouveau fichier.</numerusform>
+            <numerusform>Remplacé par « %1 ». %n clips ont été raccourcis pour s’adapter au nouveau fichier.</numerusform>
         </translation>
     </message>
     <message>
@@ -4718,23 +4718,23 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders — as many as one folder import takes. Import the remaining subfolders separately.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n fichiers importés dans %1 dossiers — le maximum par importation de dossier. Importez séparément les sous-dossiers restants.</numerusform>
+            <numerusform>%n fichiers importés dans %1 dossiers — le maximum par importation de dossier. Importez séparément les sous-dossiers restants.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n fichiers importés dans %1 dossiers. %2 fichiers ignorés : Drift ne reconnaît pas leur format. Faites-les glisser dans le chutier pour essayer quand même.</numerusform>
+            <numerusform>%n fichiers importés dans %1 dossiers. %2 fichiers ignorés : Drift ne reconnaît pas leur format. Faites-les glisser dans le chutier pour essayer quand même.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n fichiers importés dans %1 dossiers.</numerusform>
+            <numerusform>%n fichiers importés dans %1 dossiers.</numerusform>
         </translation>
     </message>
     <message>
@@ -8803,9 +8803,9 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) may play back slowly. A proxy makes previewing smoother; export still uses the original.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>La lecture de %n clip peut être lente. Un proxy rend l’aperçu plus fluide; l’exportation utilise toujours l’original.</numerusform>
+            <numerusform>La lecture de %n clips peut être lente. Un proxy rend l’aperçu plus fluide; l’exportation utilise toujours les originaux.</numerusform>
         </translation>
     </message>
     <message>
@@ -8814,9 +8814,9 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) have a variable frame rate, which can drift out of sync with audio. Convert them to an edit-friendly format to fix it.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n clip a une fréquence d’images variable qui peut se désynchroniser de l’audio. Convertissez-le dans un format adapté au montage.</numerusform>
+            <numerusform>%n clips ont une fréquence d’images variable qui peut se désynchroniser de l’audio. Convertissez-les dans un format adapté au montage.</numerusform>
         </translation>
     </message>
     <message>
@@ -9040,9 +9040,9 @@
     </message>
     <message numerus="yes">
         <source>%n animation(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n animation</numerusform>
+            <numerusform>%n animations</numerusform>
         </translation>
     </message>
     <message>
@@ -9460,9 +9460,9 @@
     </message>
     <message numerus="yes">
         <source>Pasting from “%1” onto %n selected clip(s):</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Collage depuis « %1 » sur %n clip sélectionné :</numerusform>
+            <numerusform>Collage depuis « %1 » sur %n clips sélectionnés :</numerusform>
         </translation>
     </message>
     <message>
@@ -9491,9 +9491,9 @@
     </message>
     <message numerus="yes">
         <source>Video Effects (%n effect(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Effets vidéo (%n effet)</numerusform>
+            <numerusform>Effets vidéo (%n effets)</numerusform>
         </translation>
     </message>
     <message>
@@ -9510,9 +9510,9 @@
     </message>
     <message numerus="yes">
         <source>Audio Effects (%n effect(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Effets audio (%n effet)</numerusform>
+            <numerusform>Effets audio (%n effets)</numerusform>
         </translation>
     </message>
     <message>
@@ -9525,9 +9525,9 @@
     </message>
     <message numerus="yes">
         <source>Transitions (%n transition(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Transitions (%n transition)</numerusform>
+            <numerusform>Transitions (%n transitions)</numerusform>
         </translation>
     </message>
     <message>
