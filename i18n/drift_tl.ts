@@ -14800,35 +14800,35 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>SVG drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>SVG drawing</translation>
     </message>
     <message>
         <source>Lottie animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Lottie animation</translation>
     </message>
     <message>
         <source>%1×%2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1×%2</translation>
     </message>
     <message>
         <source>%1 s at %2 fps</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 s sa %2 fps</translation>
     </message>
     <message>
         <source>still</source>
-        <translation type="unfinished"></translation>
+        <translation>still</translation>
     </message>
     <message>
         <source>inline document</source>
-        <translation type="unfinished"></translation>
+        <translation>inline document</translation>
     </message>
     <message>
         <source>Replace document…</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang dokumento…</translation>
     </message>
     <message>
         <source>Load another .json or .svg; position, length, fit and loop stay</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-load ng ibang .json o .svg; mananatili ang posisyon, haba, fit, at loop</translation>
     </message>
     <message>
         <source>Playback</source>
@@ -14840,7 +14840,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Contain</source>
-        <translation type="unfinished"></translation>
+        <translation>Contain</translation>
     </message>
     <message>
         <source>Cover</source>
@@ -14848,11 +14848,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>I-stretch</translation>
     </message>
     <message>
         <source>How the drawing fills the clip box</source>
-        <translation type="unfinished"></translation>
+        <translation>Paano pinupuno ng drawing ang kahon ng clip</translation>
     </message>
     <message>
         <source>After the end</source>
@@ -14884,19 +14884,19 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitsura</translation>
     </message>
     <message>
         <source>Recolour the whole drawing, or one element the file names by id. Drawing-wide colours replace paints the file already has; outlines drawn with no fill stay hollow.</source>
-        <translation type="unfinished"></translation>
+        <translation>Baguhin ang kulay ng buong drawing o ng elementong tinukoy ng ID sa file. Papalitan ng kulay ng buong drawing ang mga paint na nasa file; mananatiling walang laman ang outline na walang fill.</translation>
     </message>
     <message>
         <source>Target</source>
-        <translation type="unfinished"></translation>
+        <translation>Target</translation>
     </message>
     <message>
         <source>Whole drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>Buong drawing</translation>
     </message>
     <message>
         <source> (defs)</source>
@@ -14904,7 +14904,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Which part of the drawing the rows below restyle</source>
-        <translation type="unfinished"></translation>
+        <translation>Aling bahagi ng drawing ang babaguhin ng mga setting sa ibaba</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -14916,7 +14916,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Stroke width</source>
-        <translation type="unfinished"></translation>
+        <translation>Lapad ng stroke</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -14924,27 +14924,27 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Visible</source>
-        <translation type="unfinished"></translation>
+        <translation>Nakikita</translation>
     </message>
     <message>
         <source>Reset element</source>
-        <translation type="unfinished"></translation>
+        <translation>I-reset ang elemento</translation>
     </message>
     <message>
         <source>Reset drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>I-reset ang drawing</translation>
     </message>
     <message>
         <source>Drop every override on this target</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang lahat ng override sa target na ito</translation>
     </message>
     <message>
         <source>Reset all</source>
-        <translation type="unfinished"></translation>
+        <translation>I-reset lahat</translation>
     </message>
     <message>
         <source>Slots</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga slot</translation>
     </message>
     <message>
         <source>Template inputs the animation declares. Overrides are per clip.</source>
@@ -14971,7 +14971,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Stroke width</source>
-        <translation type="unfinished"></translation>
+        <translation>Lapad ng stroke</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -14979,7 +14979,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Visible</source>
-        <translation type="unfinished"></translation>
+        <translation>Nakikita</translation>
     </message>
 </context>
 <context>
