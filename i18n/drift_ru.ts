@@ -2488,9 +2488,10 @@
     </message>
     <message numerus="yes">
         <source>Multicam ready: %n camera(s) lined up at the start. Drag a clip to adjust its sync, then pick a shot.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Мультикамерный режим готов: в начале выровнена %n камера. Перетащите клип, чтобы настроить синхронизацию, затем выберите кадр.</numerusform>
+            <numerusform>Мультикамерный режим готов: в начале выровнены %n камеры. Перетащите клип, чтобы настроить синхронизацию, затем выберите кадр.</numerusform>
+            <numerusform>Мультикамерный режим готов: в начале выровнено %n камер. Перетащите клип, чтобы настроить синхронизацию, затем выберите кадр.</numerusform>
         </translation>
     </message>
     <message>
@@ -3737,9 +3738,10 @@
     </message>
     <message numerus="yes">
         <source>Transform layer now covers %n track(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Слой трансформации охватывает %n дорожку</numerusform>
+            <numerusform>Слой трансформации охватывает %n дорожки</numerusform>
+            <numerusform>Слой трансформации охватывает %n дорожек</numerusform>
         </translation>
     </message>
     <message>
@@ -3923,9 +3925,10 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s); %1 skipped: %2</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Импортирован %n элемент для лица; пропущено: %1 — %2</numerusform>
+            <numerusform>Импортировано %n элемента для лица; пропущено: %1 — %2</numerusform>
+            <numerusform>Импортировано %n элементов для лица; пропущено: %1 — %2</numerusform>
         </translation>
     </message>
     <message>
@@ -4316,9 +4319,10 @@
     </message>
     <message numerus="yes">
         <source>Media collected, but %n original(s) couldn’t be deleted</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Медиафайлы собраны, но не удалось удалить %n оригинал</numerusform>
+            <numerusform>Медиафайлы собраны, но не удалось удалить %n оригинала</numerusform>
+            <numerusform>Медиафайлы собраны, но не удалось удалить %n оригиналов</numerusform>
         </translation>
     </message>
     <message>
@@ -4451,9 +4455,10 @@
     </message>
     <message numerus="yes">
         <source>Applied to %n caption clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Применено к %n клипу субтитров</numerusform>
+            <numerusform>Применено к %n клипам субтитров</numerusform>
+            <numerusform>Применено к %n клипам субтитров</numerusform>
         </translation>
     </message>
     <message>
@@ -4686,9 +4691,10 @@
     </message>
     <message numerus="yes">
         <source>Replaced with “%1”. %n clips were shortened to fit the new file.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Заменено на «%1». Был укорочен %n клип, чтобы он поместился в новый файл.</numerusform>
+            <numerusform>Заменено на «%1». Были укорочены %n клипа, чтобы они поместились в новый файл.</numerusform>
+            <numerusform>Заменено на «%1». Были укорочены %n клипов, чтобы они поместились в новый файл.</numerusform>
         </translation>
     </message>
     <message>
@@ -4725,23 +4731,26 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders — as many as one folder import takes. Import the remaining subfolders separately.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Импортировано %n файл в %1 папок — это максимум для одного импорта папки. Импортируйте остальные подпапки отдельно.</numerusform>
+            <numerusform>Импортировано %n файла в %1 папок — это максимум для одного импорта папки. Импортируйте остальные подпапки отдельно.</numerusform>
+            <numerusform>Импортировано %n файлов в %1 папок — это максимум для одного импорта папки. Импортируйте остальные подпапки отдельно.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Импортирован %n файл в %1 папок. Пропущено файлов: %2 — Drift не распознаёт их формат. Перетащите их в медиатеку, чтобы всё равно попробовать импортировать.</numerusform>
+            <numerusform>Импортировано %n файла в %1 папок. Пропущено файлов: %2 — Drift не распознаёт их формат. Перетащите их в медиатеку, чтобы всё равно попробовать импортировать.</numerusform>
+            <numerusform>Импортировано %n файлов в %1 папок. Пропущено файлов: %2 — Drift не распознаёт их формат. Перетащите их в медиатеку, чтобы всё равно попробовать импортировать.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Импортирован %n файл в %1 папок.</numerusform>
+            <numerusform>Импортировано %n файла в %1 папок.</numerusform>
+            <numerusform>Импортировано %n файлов в %1 папок.</numerusform>
         </translation>
     </message>
     <message>
@@ -8818,9 +8827,10 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) may play back slowly. A proxy makes previewing smoother; export still uses the original.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Воспроизведение %n клипа может быть медленным. Прокси делает предпросмотр плавнее; при экспорте используется оригинал.</numerusform>
+            <numerusform>Воспроизведение %n клипов может быть медленным. Прокси делает предпросмотр плавнее; при экспорте используются оригиналы.</numerusform>
+            <numerusform>Воспроизведение %n клипов может быть медленным. Прокси делает предпросмотр плавнее; при экспорте используются оригиналы.</numerusform>
         </translation>
     </message>
     <message>
@@ -8829,9 +8839,10 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) have a variable frame rate, which can drift out of sync with audio. Convert them to an edit-friendly format to fix it.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>У %n клипа переменная частота кадров, из-за чего звук может рассинхронизироваться. Преобразуйте его в формат, удобный для монтажа.</numerusform>
+            <numerusform>У %n клипов переменная частота кадров, из-за чего звук может рассинхронизироваться. Преобразуйте их в формат, удобный для монтажа.</numerusform>
+            <numerusform>У %n клипов переменная частота кадров, из-за чего звук может рассинхронизироваться. Преобразуйте их в формат, удобный для монтажа.</numerusform>
         </translation>
     </message>
     <message>
@@ -9056,9 +9067,10 @@
     </message>
     <message numerus="yes">
         <source>%n animation(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n анимация</numerusform>
+            <numerusform>%n анимации</numerusform>
+            <numerusform>%n анимаций</numerusform>
         </translation>
     </message>
     <message>
@@ -9476,9 +9488,10 @@
     </message>
     <message numerus="yes">
         <source>Pasting from “%1” onto %n selected clip(s):</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Вставка из «%1» в %n выбранный клип:</numerusform>
+            <numerusform>Вставка из «%1» в %n выбранных клипа:</numerusform>
+            <numerusform>Вставка из «%1» в %n выбранных клипов:</numerusform>
         </translation>
     </message>
     <message>
@@ -9507,9 +9520,10 @@
     </message>
     <message numerus="yes">
         <source>Video Effects (%n effect(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Видеоэффекты (%n эффект)</numerusform>
+            <numerusform>Видеоэффекты (%n эффекта)</numerusform>
+            <numerusform>Видеоэффекты (%n эффектов)</numerusform>
         </translation>
     </message>
     <message>
@@ -9526,9 +9540,10 @@
     </message>
     <message numerus="yes">
         <source>Audio Effects (%n effect(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Аудиоэффекты (%n эффект)</numerusform>
+            <numerusform>Аудиоэффекты (%n эффекта)</numerusform>
+            <numerusform>Аудиоэффекты (%n эффектов)</numerusform>
         </translation>
     </message>
     <message>
@@ -9541,9 +9556,10 @@
     </message>
     <message numerus="yes">
         <source>Transitions (%n transition(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Переходы (%n переход)</numerusform>
+            <numerusform>Переходы (%n перехода)</numerusform>
+            <numerusform>Переходы (%n переходов)</numerusform>
         </translation>
     </message>
     <message>
