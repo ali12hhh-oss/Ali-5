@@ -12817,11 +12817,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Italicise the text</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำข้อความเป็นตัวเอียง</translation>
     </message>
     <message>
         <source>%1 has no italic face</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ไม่มีรูปแบบตัวเอียง</translation>
     </message>
     <message>
         <source>Adjust text look</source>
@@ -12845,51 +12845,51 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Bend</source>
-        <translation type="unfinished"></translation>
+        <translation>ดัดโค้ง</translation>
     </message>
     <message>
         <source>Align left</source>
-        <translation type="unfinished"></translation>
+        <translation>จัดชิดซ้าย</translation>
     </message>
     <message>
         <source>Align centre</source>
-        <translation type="unfinished"></translation>
+        <translation>จัดกึ่งกลาง</translation>
     </message>
     <message>
         <source>Align right</source>
-        <translation type="unfinished"></translation>
+        <translation>จัดชิดขวา</translation>
     </message>
     <message>
         <source>Align top</source>
-        <translation type="unfinished"></translation>
+        <translation>จัดชิดด้านบน</translation>
     </message>
     <message>
         <source>Align middle</source>
-        <translation type="unfinished"></translation>
+        <translation>จัดกึ่งกลางแนวตั้ง</translation>
     </message>
     <message>
         <source>Align bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>จัดชิดด้านล่าง</translation>
     </message>
     <message>
         <source>Line height</source>
-        <translation type="unfinished"></translation>
+        <translation>ความสูงบรรทัด</translation>
     </message>
     <message>
         <source>Letter spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>ระยะห่างตัวอักษร</translation>
     </message>
     <message>
         <source>Wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>การตัดบรรทัด</translation>
     </message>
     <message>
         <source>Word wrap</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัดบรรทัดตามคำ</translation>
     </message>
     <message>
         <source>Wrap long lines inside the text box instead of overflowing</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัดบรรทัดยาวภายในกล่องข้อความแทนการล้นออกนอกกล่อง</translation>
     </message>
     <message>
         <source>Width</source>
@@ -12905,7 +12905,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Draw a filled box behind the text</source>
-        <translation type="unfinished"></translation>
+        <translation>วาดกล่องสีทึบไว้ด้านหลังข้อความ</translation>
     </message>
     <message>
         <source>Choose background colour</source>
@@ -12913,11 +12913,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Padding</source>
-        <translation type="unfinished"></translation>
+        <translation>ระยะขอบด้านใน</translation>
     </message>
     <message>
         <source>Space between the text and the edge of its background box</source>
-        <translation type="unfinished"></translation>
+        <translation>ระยะห่างระหว่างข้อความกับขอบกล่องพื้นหลัง</translation>
     </message>
     <message>
         <source>Corner radius</source>
@@ -12925,7 +12925,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Roundness of the background box corners</source>
-        <translation type="unfinished"></translation>
+        <translation>ความโค้งมนของมุมกล่องพื้นหลัง</translation>
     </message>
     <message>
         <source>Glow</source>
@@ -12937,7 +12937,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Type your text…</source>
-        <translation type="unfinished"></translation>
+        <translation>พิมพ์ข้อความ…</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -12945,27 +12945,27 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Apply the text to this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้ข้อความกับคลิปนี้</translation>
     </message>
     <message>
         <source>Edit in Style</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขใน Style</translation>
     </message>
     <message>
         <source>The text is painted with an image; change it on the Style page</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อความใช้รูปภาพเป็นพื้นผิว ให้เปลี่ยนในหน้า Style</translation>
     </message>
     <message>
         <source>The text is painted with an effect; change it on the Style page</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อความใช้เอฟเฟกต์ ให้เปลี่ยนในหน้า Style</translation>
     </message>
     <message>
         <source>Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>ระยะห่าง</translation>
     </message>
     <message>
         <source>Line height, letter spacing, wrapping and bend</source>
-        <translation type="unfinished"></translation>
+        <translation>ความสูงบรรทัด ระยะห่างตัวอักษร การตัดบรรทัด และการดัดโค้ง</translation>
     </message>
     <message>
         <source>Preset</source>
@@ -12973,11 +12973,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>A whole text style — font, colour and effect — applied in one tap</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้สไตล์ข้อความทั้งหมด — แบบอักษร สี และเอฟเฟกต์ — ด้วยการแตะครั้งเดียว</translation>
     </message>
     <message>
         <source>Font, colour and effect in one tap. Save your own to reuse it.</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้แบบอักษร สี และเอฟเฟกต์ได้ในครั้งเดียว บันทึกสไตล์ของคุณเพื่อใช้ซ้ำ</translation>
     </message>
     <message>
         <source>Save this text&apos;s style as a reusable preset</source>
@@ -12989,23 +12989,23 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Shadow, outline, neon and friends — a recipe that builds the layers below</source>
-        <translation type="unfinished"></translation>
+        <translation>เงา เส้นขอบ นีออน และอื่น ๆ — สูตรที่สร้างเลเยอร์ด้านล่าง</translation>
     </message>
     <message>
         <source>Shadow, outline, neon… built as layers you can fine-tune below.</source>
-        <translation type="unfinished"></translation>
+        <translation>เงา เส้นขอบ นีออน… สร้างเป็นเลเยอร์ที่ปรับละเอียดได้ด้านล่าง</translation>
     </message>
     <message>
         <source>No layers. Pick an effect above or add a fill to start.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่มีเลเยอร์ เลือกเอฟเฟกต์ด้านบนหรือเพิ่มการเติมสีเพื่อเริ่ม</translation>
     </message>
     <message>
         <source>Word highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>เน้นคำ</translation>
     </message>
     <message>
         <source>Filled pill behind every word, sized to the word itself</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มแถบสีทึบด้านหลังแต่ละคำ โดยปรับขนาดตามความยาวคำ</translation>
     </message>
     <message>
         <source>Thickness</source>
@@ -13013,23 +13013,23 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>How far the pill extends past the word</source>
-        <translation type="unfinished"></translation>
+        <translation>ระยะที่แถบสีขยายเกินคำ</translation>
     </message>
     <message>
         <source>Highlight colour</source>
-        <translation type="unfinished"></translation>
+        <translation>สีเน้น</translation>
     </message>
     <message>
         <source>Choose highlight colour</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกสีเน้น</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>ขีดเส้นใต้</translation>
     </message>
     <message>
         <source>Draw a rule under each line of text</source>
-        <translation type="unfinished"></translation>
+        <translation>วาดเส้นใต้ข้อความแต่ละบรรทัด</translation>
     </message>
     <message>
         <source>Offset</source>
@@ -13037,67 +13037,67 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Gap between the baseline and the rule</source>
-        <translation type="unfinished"></translation>
+        <translation>ระยะห่างระหว่างเส้นฐานกับเส้นใต้</translation>
     </message>
     <message>
         <source>Underline colour</source>
-        <translation type="unfinished"></translation>
+        <translation>สีเส้นใต้</translation>
     </message>
     <message>
         <source>Choose underline colour</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกสีเส้นใต้</translation>
     </message>
     <message>
         <source>Word accent</source>
-        <translation type="unfinished"></translation>
+        <translation>เน้นคำเป็นพิเศษ</translation>
     </message>
     <message>
         <source>Style some words differently from the rest, chosen by rule</source>
-        <translation type="unfinished"></translation>
+        <translation>กำหนดสไตล์ให้บางคำแตกต่างจากข้อความอื่นตามกฎที่เลือก</translation>
     </message>
     <message>
         <source>Accent colour</source>
-        <translation type="unfinished"></translation>
+        <translation>สีเน้นพิเศษ</translation>
     </message>
     <message>
         <source>Recolour the words the rule picks out</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนสีคำที่ตรงกับกฎ</translation>
     </message>
     <message>
         <source>Choose accent colour</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกสีเน้นพิเศษ</translation>
     </message>
     <message>
         <source>Accent size</source>
-        <translation type="unfinished"></translation>
+        <translation>ขนาดคำที่เน้น</translation>
     </message>
     <message>
         <source>Size of the accented words relative to the rest of the line</source>
-        <translation type="unfinished"></translation>
+        <translation>ขนาดของคำที่เน้นเมื่อเทียบกับข้อความส่วนอื่นในบรรทัด</translation>
     </message>
     <message>
         <source>Accent outline</source>
-        <translation type="unfinished"></translation>
+        <translation>เส้นขอบคำที่เน้น</translation>
     </message>
     <message>
         <source>Give the accented words their own outline</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเส้นขอบเฉพาะให้คำที่เน้น</translation>
     </message>
     <message>
         <source>Choose accent outline colour</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกสีเส้นขอบของคำที่เน้น</translation>
     </message>
     <message>
         <source>Accent pill</source>
-        <translation type="unfinished"></translation>
+        <translation>แถบสีเน้น</translation>
     </message>
     <message>
         <source>Highlight only the accented words, instead of every word</source>
-        <translation type="unfinished"></translation>
+        <translation>เน้นเฉพาะคำที่เลือก ไม่ใช่ทุกคำ</translation>
     </message>
     <message>
         <source>Choose accent highlight colour</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกสีเน้นของคำที่เลือก</translation>
     </message>
     <message>
         <source>In</source>
@@ -13113,7 +13113,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Plays for every caption</source>
-        <translation type="unfinished"></translation>
+        <translation>เล่นกับคำบรรยายทุกบรรทัด</translation>
     </message>
     <message>
         <source>All</source>
@@ -13121,11 +13121,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Preview this animation</source>
-        <translation type="unfinished"></translation>
+        <translation>ดูตัวอย่างแอนิเมชันนี้</translation>
     </message>
     <message>
         <source>Period</source>
-        <translation type="unfinished"></translation>
+        <translation>คาบ</translation>
     </message>
     <message>
         <source>Duration</source>
@@ -13137,7 +13137,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>By</source>
-        <translation type="unfinished"></translation>
+        <translation>ตาม</translation>
     </message>
 </context>
 <context>
@@ -13152,7 +13152,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Text effect</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์ข้อความ</translation>
     </message>
     <message>
         <source>Close</source>
@@ -13167,7 +13167,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Text for this slot</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อความสำหรับช่องนี้</translation>
     </message>
     <message>
         <source>Change image…</source>
@@ -13179,7 +13179,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Slot Image</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปภาพในช่อง</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.webp)</source>
@@ -13226,11 +13226,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Sketch length</source>
-        <translation type="unfinished"></translation>
+        <translation>ความยาวเส้นสเก็ตช์</translation>
     </message>
     <message>
         <source>Sketch deviation</source>
-        <translation type="unfinished"></translation>
+        <translation>ค่าความเบี่ยงเบนของเส้นสเก็ตช์</translation>
     </message>
     <message>
         <source>Red</source>
@@ -13250,27 +13250,27 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Gradient angle</source>
-        <translation type="unfinished"></translation>
+        <translation>มุมการไล่สี</translation>
     </message>
     <message>
         <source>Gradient offset</source>
-        <translation type="unfinished"></translation>
+        <translation>ออฟเซ็ตการไล่สี</translation>
     </message>
     <message>
         <source>Gradient scale</source>
-        <translation type="unfinished"></translation>
+        <translation>สเกลการไล่สี</translation>
     </message>
     <message>
         <source>Centre X</source>
-        <translation type="unfinished"></translation>
+        <translation>จุดศูนย์กลาง X</translation>
     </message>
     <message>
         <source>Centre Y</source>
-        <translation type="unfinished"></translation>
+        <translation>จุดศูนย์กลาง Y</translation>
     </message>
     <message>
         <source>Stop %1</source>
-        <translation type="unfinished"></translation>
+        <translation>จุดสี %1</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -13294,23 +13294,23 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Text size</source>
-        <translation type="unfinished"></translation>
+        <translation>ขนาดข้อความ</translation>
     </message>
     <message>
         <source>Letter spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>ระยะห่างตัวอักษร</translation>
     </message>
     <message>
         <source>Line height</source>
-        <translation type="unfinished"></translation>
+        <translation>ความสูงบรรทัด</translation>
     </message>
     <message>
         <source>Box padding</source>
-        <translation type="unfinished"></translation>
+        <translation>ระยะขอบด้านในของกล่อง</translation>
     </message>
     <message>
         <source>Bend</source>
-        <translation type="unfinished"></translation>
+        <translation>ดัดโค้ง</translation>
     </message>
 </context>
 <context>
@@ -13321,7 +13321,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Text preset</source>
-        <translation type="unfinished"></translation>
+        <translation>ค่าข้อความที่ตั้งไว้</translation>
     </message>
     <message>
         <source>Close</source>
@@ -13347,7 +13347,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     <name>ThemedColorDialog</name>
     <message>
         <source>Original colour</source>
-        <translation type="unfinished"></translation>
+        <translation>สีเดิม</translation>
     </message>
     <message>
         <source>Enter a color like #FF0000</source>
@@ -13355,11 +13355,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Hex colour</source>
-        <translation type="unfinished"></translation>
+        <translation>รหัสสี Hex</translation>
     </message>
     <message>
         <source>Pick a colour from the window</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกสีจากหน้าต่าง</translation>
     </message>
 </context>
 <context>
@@ -13377,26 +13377,26 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     <name>ThemedNumberField</name>
     <message>
         <source>Allowed range: %1 – %2%3</source>
-        <translation type="unfinished"></translation>
+        <translation>ช่วงที่อนุญาต: %1 – %2%3</translation>
     </message>
     <message>
         <source>Value clamped to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>จำกัดค่าไว้ที่ %1</translation>
     </message>
     <message>
         <source>Enter a number</source>
-        <translation type="unfinished"></translation>
+        <translation>ป้อนตัวเลข</translation>
     </message>
 </context>
 <context>
     <name>TimelineClipItem</name>
     <message>
         <source>%1, track %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, แทร็ก %2</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณสมบัติ</translation>
     </message>
     <message>
         <source>Select multiple</source>
@@ -13428,7 +13428,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Covers…</source>
-        <translation type="unfinished"></translation>
+        <translation>ครอบคลุม…</translation>
     </message>
     <message>
         <source>Select covered clips</source>
@@ -13452,7 +13452,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Enhance video…</source>
-        <translation type="unfinished"></translation>
+        <translation>ปรับปรุงวิดีโอ…</translation>
     </message>
     <message>
         <source>Unlink</source>
@@ -13488,7 +13488,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Duplicate</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำสำเนา</translation>
     </message>
     <message>
         <source>Rename…</source>
@@ -13524,27 +13524,27 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Fade in %1s</source>
-        <translation type="unfinished"></translation>
+        <translation>เฟดเข้า %1 วินาที</translation>
     </message>
     <message>
         <source>Fade out %1s</source>
-        <translation type="unfinished"></translation>
+        <translation>เฟดออก %1 วินาที</translation>
     </message>
     <message>
         <source>Drag to trim the start</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากเพื่อตัดช่วงต้น</translation>
     </message>
     <message>
         <source>Trim clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัดคลิป</translation>
     </message>
     <message>
         <source>Drag to trim the end</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากเพื่อตัดช่วงท้าย</translation>
     </message>
     <message>
         <source>Split item at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>แยกรายการ ณ เวลาปัจจุบัน</translation>
     </message>
 </context>
 <context>
@@ -13583,7 +13583,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Click or drag to seek</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิกหรือลากเพื่อเลื่อนตำแหน่งเล่น</translation>
     </message>
     <message>
         <source>Go to bookmark</source>
@@ -13603,7 +13603,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Drag media here from the library, or add an empty track to start.</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากสื่อจากคลังมาวางที่นี่ หรือเพิ่มแทร็กว่างเพื่อเริ่มต้น</translation>
     </message>
     <message>
         <source>New track</source>
@@ -13671,7 +13671,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Close Gap</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดช่องว่าง</translation>
     </message>
 </context>
 <context>
@@ -13690,7 +13690,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Select — normal editing</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือก — แก้ไขตามปกติ</translation>
     </message>
     <message>
         <source>Select</source>
@@ -13928,7 +13928,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>%1, track %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, แทร็ก %2</translation>
     </message>
 </context>
 <context>
@@ -14057,7 +14057,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Covers…</source>
-        <translation type="unfinished"></translation>
+        <translation>ครอบคลุม…</translation>
     </message>
     <message>
         <source>Select covered clips</source>
