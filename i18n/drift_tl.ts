@@ -2957,7 +2957,7 @@
     </message>
     <message>
         <source>Nest adjustment in track</source>
-        <translation>ซ嵌 adjustment sa track</translation>
+        <translation>I-nest ang adjustment sa track</translation>
     </message>
     <message>
         <source>Adjustment nested</source>
