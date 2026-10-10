@@ -2612,9 +2612,9 @@
     </message>
     <message numerus="yes">
         <source>%n media items and referenced clips removed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Usunięto %n elementów multimedialnych i powiązanych klipów</numerusform>
+            <numerusform>Usunięto %n elementów multimedialnych i powiązanych klipów</numerusform>
         </translation>
     </message>
     <message>
@@ -3703,9 +3703,9 @@
     </message>
     <message numerus="yes">
         <source>Created %n text clips</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Utworzono %n klipów tekstowych</numerusform>
+            <numerusform>Utworzono %n klipów tekstowych</numerusform>
         </translation>
     </message>
     <message>
@@ -3918,9 +3918,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Zaimportowano %n elementów twarzy</numerusform>
+            <numerusform>Zaimportowano %n elementów twarzy</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -4049,9 +4049,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted attributes onto %n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Wklejono atrybuty do %n klipów</numerusform>
+            <numerusform>Wklejono atrybuty do %n klipów</numerusform>
         </translation>
     </message>
     <message>
@@ -4216,9 +4216,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted %n clips</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Wklejono %n klipów</numerusform>
+            <numerusform>Wklejono %n klipów</numerusform>
         </translation>
     </message>
     <message>
@@ -6116,9 +6116,9 @@
     </message>
     <message numerus="yes">
         <source>Downloads — %n running</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Pobieranie — w toku: %n</numerusform>
+            <numerusform>Pobieranie — w toku: %n</numerusform>
         </translation>
     </message>
     <message>
@@ -8005,15 +8005,15 @@
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wklej</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Usuń</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaznacz &amp;wszystko</translation>
     </message>
     <message>
         <source>Clear Selection</source>
@@ -8045,7 +8045,7 @@
     </message>
     <message>
         <source>&amp;Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Odtwarzanie</translation>
     </message>
     <message>
         <source>Play / Pause</source>
@@ -8085,15 +8085,15 @@
     </message>
     <message>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Widok</translation>
     </message>
     <message>
         <source>Zoom &amp;In</source>
-        <translation type="unfinished"></translation>
+        <translation>Po&amp;większ</translation>
     </message>
     <message>
         <source>Zoom &amp;Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Po&amp;mniejsz</translation>
     </message>
     <message>
         <source>Toggle Fullscreen Preview</source>
@@ -8105,7 +8105,7 @@
     </message>
     <message>
         <source>&amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Okno</translation>
     </message>
     <message>
         <source>Landscape Workspace</source>
@@ -8121,15 +8121,15 @@
     </message>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished">Pobrane</translation>
+        <translation>Pobieranie</translation>
     </message>
     <message>
         <source>Multicam</source>
-        <translation type="unfinished">Multicam</translation>
+        <translation>Wiele kamer</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pomoc</translation>
     </message>
     <message>
         <source>Keyboard Shortcuts</source>
@@ -8137,7 +8137,7 @@
     </message>
     <message>
         <source>Extras…</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodatki…</translation>
     </message>
     <message>
         <source>Check for Updates…</source>
@@ -8693,9 +8693,9 @@
     </message>
     <message numerus="yes">
         <source>Create %n proxies</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Utwórz %n plików proxy</numerusform>
+            <numerusform>Utwórz %n plików proxy</numerusform>
         </translation>
     </message>
     <message>
@@ -8704,9 +8704,9 @@
     </message>
     <message numerus="yes">
         <source>Remove %n proxies</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Usuń %n plików proxy</numerusform>
+            <numerusform>Usuń %n plików proxy</numerusform>
         </translation>
     </message>
     <message>
@@ -8763,9 +8763,9 @@
     </message>
     <message numerus="yes">
         <source>Add %n items to timeline</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Dodaj %n elementów do osi czasu</numerusform>
+            <numerusform>Dodaj %n elementów do osi czasu</numerusform>
         </translation>
     </message>
     <message>
@@ -8774,9 +8774,9 @@
     </message>
     <message numerus="yes">
         <source>Move %n items to folder…</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Przenieś %n elementów do folderu…</numerusform>
+            <numerusform>Przenieś %n elementów do folderu…</numerusform>
         </translation>
     </message>
     <message>
@@ -8785,9 +8785,9 @@
     </message>
     <message numerus="yes">
         <source>Remove %n items from project</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Usuń %n elementów z projektu</numerusform>
+            <numerusform>Usuń %n elementów z projektu</numerusform>
         </translation>
     </message>
 </context>
@@ -8871,9 +8871,9 @@
     </message>
     <message numerus="yes">
         <source>Could not import any of the %n selected files.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Nie udało się zaimportować żadnego z %n wybranych plików.</numerusform>
+            <numerusform>Nie udało się zaimportować żadnego z %n wybranych plików.</numerusform>
         </translation>
     </message>
 </context>
@@ -12226,9 +12226,9 @@ Jeśli odtwarzanie się zacina, spróbuj innego.</translation>
     </message>
     <message numerus="yes">
         <source>Filters — %n applied</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Filtry — zastosowano: %n</numerusform>
+            <numerusform>Filtry — zastosowano: %n</numerusform>
         </translation>
     </message>
     <message>
@@ -14023,9 +14023,9 @@ Jeśli odtwarzanie się zacina, spróbuj innego.</translation>
     </message>
     <message numerus="yes">
         <source>This removes the track and its %n clips. You can undo afterwards.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Spowoduje to usunięcie ścieżki i jej %n klipów. Możesz później cofnąć tę operację.</numerusform>
+            <numerusform>Spowoduje to usunięcie ścieżki i jej %n klipów. Możesz później cofnąć tę operację.</numerusform>
         </translation>
     </message>
     <message>
@@ -14480,9 +14480,9 @@ Jeśli odtwarzanie się zacina, spróbuj innego.</translation>
     </message>
     <message numerus="yes">
         <source>+%n more</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>+%n więcej</numerusform>
+            <numerusform>+%n więcej</numerusform>
         </translation>
     </message>
 </context>
