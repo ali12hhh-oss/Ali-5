@@ -386,7 +386,7 @@
     </message>
     <message>
         <source>Let Cursor or Claude edit this project for you — add clips, change the timeline, and check how it looks. Only programs on this device. Off by default each time you open Drift, unless you turn on “Start agent on startup” below; turn it off here when you finish. The key stays the same between sessions, so a setup you pasted once keeps working.</source>
-        <translation type="unfinished"></translation>
+        <translation>ให้ Cursor หรือ Claude ช่วยแก้ไขโปรเจกต์นี้ได้ ทั้งเพิ่มคลิป ปรับไทม์ไลน์ และตรวจดูผลลัพธ์ อนุญาตเฉพาะโปรแกรมในอุปกรณ์นี้ โดยปิดไว้เป็นค่าเริ่มต้นทุกครั้งที่เปิด Drift เว้นแต่คุณจะเปิด “เริ่มเอเจนต์เมื่อเปิดแอป” ด้านล่าง เมื่อเสร็จแล้วให้ปิดที่นี่ คีย์จะคงเดิมระหว่างเซสชัน จึงใช้การตั้งค่าที่วางไว้ครั้งเดียวต่อไปได้</translation>
     </message>
 </context>
 <context>
@@ -763,7 +763,7 @@
     </message>
     <message>
         <source>%1×%2 · %3 · %4 fps</source>
-        <translation type="unfinished"></translation>
+        <translation>%1×%2 · %3 · %4 fps</translation>
     </message>
     <message>
         <source>Done</source>
@@ -988,7 +988,7 @@
     </message>
     <message>
         <source>Keeping %1 to %2  ·  %3s</source>
-        <translation type="unfinished"></translation>
+        <translation>คงช่วง %1 ถึง %2 · %3 วินาที</translation>
     </message>
     <message>
         <source>Start here</source>
@@ -1766,11 +1766,11 @@
     </message>
     <message>
         <source>PAUSED </source>
-        <translation type="unfinished"></translation>
+        <translation>หยุดชั่วคราว</translation>
     </message>
     <message>
         <source>REC </source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึก</translation>
     </message>
     <message>
         <source>Close gap</source>
@@ -2892,7 +2892,7 @@
     </message>
     <message>
         <source> (denoised)</source>
-        <translation type="unfinished"></translation>
+        <translation>(ลดเสียงรบกวนแล้ว)</translation>
     </message>
     <message>
         <source>Remove noise</source>
@@ -2904,15 +2904,15 @@
     </message>
     <message>
         <source>This project uses &quot;%1&quot;, which isn’t installed — it won’t show. Open Extras to install it.</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรเจกต์นี้ใช้ “%1” ซึ่งยังไม่ได้ติดตั้ง จึงไม่แสดงผล เปิดส่วนเสริมเพื่อติดตั้ง</translation>
     </message>
     <message>
         <source>This project uses %1 effects or transitions that aren’t installed (%2%3) — they won’t show. Open Extras to install them.</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรเจกต์นี้ใช้เอฟเฟกต์หรือทรานซิชัน %1 รายการที่ยังไม่ได้ติดตั้ง (%2%3) จึงไม่แสดงผล เปิดส่วนเสริมเพื่อติดตั้ง</translation>
     </message>
     <message>
         <source>, …</source>
-        <translation type="unfinished"></translation>
+        <translation>, …</translation>
     </message>
     <message>
         <source>Shape added</source>
@@ -3508,15 +3508,15 @@
     </message>
     <message>
         <source>%1 (trimmed)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (ตัดแล้ว)</translation>
     </message>
     <message>
         <source>Rendering…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังเรนเดอร์…</translation>
     </message>
     <message>
         <source>Render Trimmed Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>เรนเดอร์สำเนาที่ตัดแล้ว</translation>
     </message>
     <message>
         <source>Transform selection together</source>
@@ -3560,15 +3560,15 @@
     </message>
     <message>
         <source>This clip is already being enhanced</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังปรับปรุงคลิปนี้อยู่แล้ว</translation>
     </message>
     <message>
         <source>%1 (enhanced %2x)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (ปรับปรุง %2 เท่า)</translation>
     </message>
     <message>
         <source>%1 (enhanced)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (ปรับปรุงแล้ว)</translation>
     </message>
     <message>
         <source>Enhance Video</source>
@@ -3584,11 +3584,11 @@
     </message>
     <message>
         <source>This build of Drift has no video stabilization support</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift เวอร์ชันนี้ไม่รองรับการปรับเสถียรวิดีโอ</translation>
     </message>
     <message>
         <source>Stabilization rendering failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>เรนเดอร์การปรับเสถียรไม่สำเร็จ</translation>
     </message>
     <message>
         <source>Stabilization rendering failed: %1</source>
@@ -13597,11 +13597,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>PAUSED </source>
-        <translation type="unfinished"></translation>
+        <translation>หยุดชั่วคราว</translation>
     </message>
     <message>
         <source>REC </source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึก</translation>
     </message>
     <message>
         <source>Rename bookmark</source>
@@ -14997,11 +14997,11 @@ If playback stutters, try another.</source>
     <name>VoiceoverControlBar</name>
     <message>
         <source>PAUSED</source>
-        <translation type="unfinished"></translation>
+        <translation>หยุดชั่วคราว</translation>
     </message>
     <message>
         <source>REC</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึก</translation>
     </message>
     <message>
         <source>Default Mic</source>
