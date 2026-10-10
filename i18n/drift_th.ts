@@ -5824,15 +5824,15 @@
     <name>DriftAssetDetail</name>
     <message>
         <source>Loops seamlessly</source>
-        <translation type="unfinished"></translation>
+        <translation>วนซ้ำอย่างต่อเนื่อง</translation>
     </message>
     <message>
         <source>Plays in, then holds</source>
-        <translation type="unfinished"></translation>
+        <translation>เล่นช่วงเข้าแล้วค้างไว้</translation>
     </message>
     <message>
         <source>Plays in, holds, plays out</source>
-        <translation type="unfinished"></translation>
+        <translation>เล่นช่วงเข้า ค้างไว้ แล้วเล่นช่วงออก</translation>
     </message>
     <message>
         <source>Back</source>
@@ -5844,7 +5844,7 @@
     </message>
     <message>
         <source>Colours</source>
-        <translation type="unfinished"></translation>
+        <translation>สี</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -5856,15 +5856,15 @@
     </message>
     <message>
         <source>room for your text</source>
-        <translation type="unfinished"></translation>
+        <translation>พื้นที่สำหรับข้อความของคุณ</translation>
     </message>
     <message>
         <source>3D model, loops every %1 s</source>
-        <translation type="unfinished"></translation>
+        <translation>โมเดล 3 มิติ วนซ้ำทุก %1 วินาที</translation>
     </message>
     <message>
         <source>Tracks a face in the clip it is applied to</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตามใบหน้าในคลิปที่ใช้เอฟเฟกต์นี้</translation>
     </message>
     <message>
         <source>Licence &lt;a href=&quot;%1&quot;&gt;CC BY-NC-SA 4.0&lt;/a&gt;</source>
@@ -5872,7 +5872,7 @@
     </message>
     <message>
         <source>Licence %1</source>
-        <translation type="unfinished"></translation>
+        <translation>สัญญาอนุญาต %1</translation>
     </message>
     <message>
         <source>Apply to selected clip</source>
@@ -5880,23 +5880,23 @@
     </message>
     <message>
         <source>Add at playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มที่ตำแหน่งหัวอ่าน</translation>
     </message>
     <message>
         <source>Select a clip with a face on the timeline first</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกคลิปที่มีใบหน้าบนไทม์ไลน์ก่อน</translation>
     </message>
     <message>
         <source>Add to Face props</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มใน Face props</translation>
     </message>
     <message>
         <source>Add to media bin</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มในคลังสื่อ</translation>
     </message>
     <message>
         <source>Select a clip with a face on the timeline to apply this prop.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกคลิปที่มีใบหน้าบนไทม์ไลน์เพื่อใช้พร็อพนี้</translation>
     </message>
     <message>
         <source>Choose colour</source>
@@ -5907,35 +5907,35 @@
     <name>DriftAssetStore</name>
     <message>
         <source>The marketplace is not available in this build.</source>
-        <translation type="unfinished"></translation>
+        <translation>ตลาดไม่พร้อมใช้งานในบิลด์นี้</translation>
     </message>
     <message>
         <source>Could not load Drift Assets. Check your connection and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>โหลด Drift Assets ไม่ได้ โปรดตรวจสอบการเชื่อมต่อแล้วลองอีกครั้ง</translation>
     </message>
     <message>
         <source>That asset could not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้งแอสเซ็ตนั้นไม่ได้</translation>
     </message>
     <message>
         <source>Could not write to the app data folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>เขียนลงโฟลเดอร์ข้อมูลแอปไม่ได้</translation>
     </message>
     <message>
         <source>Could not download that asset. Check your connection and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลดแอสเซ็ตนั้นไม่ได้ โปรดตรวจสอบการเชื่อมต่อแล้วลองอีกครั้ง</translation>
     </message>
     <message>
         <source>That download was damaged. Try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์ที่ดาวน์โหลดเสียหาย โปรดลองอีกครั้ง</translation>
     </message>
     <message>
         <source>Could not add that face prop.</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มพร็อพใบหน้านั้นไม่ได้</translation>
     </message>
     <message>
         <source>Could not add that asset to the media bin.</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มแอสเซ็ตนั้นลงในคลังสื่อไม่ได้</translation>
     </message>
 </context>
 <context>
@@ -5950,19 +5950,19 @@
     </message>
     <message>
         <source>Added to Face props</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มใน Face props แล้ว</translation>
     </message>
     <message>
         <source>Select a video or image clip to apply a face prop</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกคลิปวิดีโอหรือรูปภาพเพื่อใช้พร็อพใบหน้า</translation>
     </message>
     <message>
         <source>Added to the media bin</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มลงในคลังสื่อแล้ว</translation>
     </message>
     <message>
         <source>Couldn’t load Drift Assets</source>
-        <translation type="unfinished"></translation>
+        <translation>โหลด Drift Assets ไม่ได้</translation>
     </message>
     <message>
         <source>Try again</source>
@@ -5970,31 +5970,31 @@
     </message>
     <message>
         <source>No assets here yet</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่มีแอสเซ็ตที่นี่</translation>
     </message>
     <message>
         <source>Drift Assets are still being published. Check back soon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift Assets กำลังทยอยเผยแพร่ โปรดกลับมาตรวจสอบอีกครั้ง</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>รีเฟรช</translation>
     </message>
     <message>
         <source>See all</source>
-        <translation type="unfinished"></translation>
+        <translation>ดูทั้งหมด</translation>
     </message>
     <message>
         <source>All assets</source>
-        <translation type="unfinished"></translation>
+        <translation>แอสเซ็ตทั้งหมด</translation>
     </message>
     <message>
         <source>No Drift Assets match “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มี Drift Assets ที่ตรงกับ “%1”</translation>
     </message>
     <message>
         <source>Search %1 for “%2”</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหา “%2” ใน %1</translation>
     </message>
 </context>
 <context>
@@ -6009,15 +6009,15 @@
     </message>
     <message>
         <source>Save Project JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกโปรเจกต์ JSON</translation>
     </message>
     <message>
         <source>JSON document (*.json)</source>
-        <translation type="unfinished"></translation>
+        <translation>เอกสาร JSON (*.json)</translation>
     </message>
     <message>
         <source>Open Project JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดโปรเจกต์ JSON</translation>
     </message>
     <message>
         <source>All Files (*)</source>
@@ -6041,19 +6041,19 @@
     </message>
     <message>
         <source>All changes saved</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกการเปลี่ยนแปลงทั้งหมดแล้ว</translation>
     </message>
     <message>
         <source>Unsaved changes</source>
-        <translation type="unfinished"></translation>
+        <translation>มีการเปลี่ยนแปลงที่ยังไม่ได้บันทึก</translation>
     </message>
     <message>
         <source>Projects — click to switch or start new</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรเจกต์ — คลิกเพื่อสลับหรือเริ่มโปรเจกต์ใหม่</translation>
     </message>
     <message>
         <source>Unsaved changes — click to switch or start new</source>
-        <translation type="unfinished"></translation>
+        <translation>มีการเปลี่ยนแปลงที่ยังไม่ได้บันทึก — คลิกเพื่อสลับหรือเริ่มใหม่</translation>
     </message>
     <message>
         <source>Save</source>
@@ -6061,7 +6061,7 @@
     </message>
     <message>
         <source>Save project (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกโปรเจกต์ (%1)</translation>
     </message>
     <message>
         <source>Save project</source>
@@ -6084,7 +6084,7 @@
     </message>
     <message>
         <source>Video size and layout</source>
-        <translation type="unfinished"></translation>
+        <translation>ขนาดวิดีโอและเลย์เอาต์</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -6092,7 +6092,7 @@
     </message>
     <message>
         <source>Workspace, theme, language and more</source>
-        <translation type="unfinished"></translation>
+        <translation>พื้นที่ทำงาน ธีม ภาษา และอื่น ๆ</translation>
     </message>
     <message>
         <source>Light</source>
@@ -6100,11 +6100,11 @@
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>มืด</translation>
     </message>
     <message>
         <source>Language…</source>
-        <translation type="unfinished"></translation>
+        <translation>ภาษา…</translation>
     </message>
     <message>
         <source>Debug info…</source>
@@ -10456,11 +10456,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>All changes saved</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกการเปลี่ยนแปลงทั้งหมดแล้ว</translation>
     </message>
     <message>
         <source>Unsaved changes</source>
-        <translation type="unfinished"></translation>
+        <translation>มีการเปลี่ยนแปลงที่ยังไม่ได้บันทึก</translation>
     </message>
     <message>
         <source>Previous projects</source>
@@ -14614,7 +14614,7 @@ If playback stutters, try another.</source>
     <name>UnsavedChangesDialog</name>
     <message>
         <source>Unsaved changes</source>
-        <translation type="unfinished"></translation>
+        <translation>มีการเปลี่ยนแปลงที่ยังไม่ได้บันทึก</translation>
     </message>
     <message>
         <source>“%1” has unsaved changes. Save before continuing?</source>
