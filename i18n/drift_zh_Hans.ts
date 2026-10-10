@@ -14762,35 +14762,35 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>SVG drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>SVG 绘图</translation>
     </message>
     <message>
         <source>Lottie animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Lottie 动画</translation>
     </message>
     <message>
         <source>%1×%2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1×%2</translation>
     </message>
     <message>
         <source>%1 s at %2 fps</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 秒，%2 fps</translation>
     </message>
     <message>
         <source>still</source>
-        <translation type="unfinished"></translation>
+        <translation>静止图像</translation>
     </message>
     <message>
         <source>inline document</source>
-        <translation type="unfinished"></translation>
+        <translation>内嵌文档</translation>
     </message>
     <message>
         <source>Replace document…</source>
-        <translation type="unfinished"></translation>
+        <translation>替换文档…</translation>
     </message>
     <message>
         <source>Load another .json or .svg; position, length, fit and loop stay</source>
-        <translation type="unfinished"></translation>
+        <translation>加载另一个 .json 或 .svg 文件；位置、时长、适配方式和循环设置保持不变</translation>
     </message>
     <message>
         <source>Playback</source>
@@ -14802,7 +14802,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Contain</source>
-        <translation type="unfinished"></translation>
+        <translation>完整显示</translation>
     </message>
     <message>
         <source>Cover</source>
@@ -14810,11 +14810,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>拉伸</translation>
     </message>
     <message>
         <source>How the drawing fills the clip box</source>
-        <translation type="unfinished"></translation>
+        <translation>绘图在片段边框内的填充方式</translation>
     </message>
     <message>
         <source>After the end</source>
@@ -14846,19 +14846,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>外观</translation>
     </message>
     <message>
         <source>Recolour the whole drawing, or one element the file names by id. Drawing-wide colours replace paints the file already has; outlines drawn with no fill stay hollow.</source>
-        <translation type="unfinished"></translation>
+        <translation>重新着色整个绘图，或按文件中的 ID 重新着色单个元素。整体颜色会替换文件已有的填充色；没有填充的描边仍保持空心。</translation>
     </message>
     <message>
         <source>Target</source>
-        <translation type="unfinished"></translation>
+        <translation>目标</translation>
     </message>
     <message>
         <source>Whole drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>整个绘图</translation>
     </message>
     <message>
         <source> (defs)</source>
@@ -14866,7 +14866,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Which part of the drawing the rows below restyle</source>
-        <translation type="unfinished"></translation>
+        <translation>下方各行将重新设置绘图的哪个部分的样式</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -14878,7 +14878,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Stroke width</source>
-        <translation type="unfinished"></translation>
+        <translation>描边宽度</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -14886,27 +14886,27 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Visible</source>
-        <translation type="unfinished"></translation>
+        <translation>可见</translation>
     </message>
     <message>
         <source>Reset element</source>
-        <translation type="unfinished"></translation>
+        <translation>重置元素</translation>
     </message>
     <message>
         <source>Reset drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>重置绘图</translation>
     </message>
     <message>
         <source>Drop every override on this target</source>
-        <translation type="unfinished"></translation>
+        <translation>清除此目标上的所有覆盖设置</translation>
     </message>
     <message>
         <source>Reset all</source>
-        <translation type="unfinished"></translation>
+        <translation>全部重置</translation>
     </message>
     <message>
         <source>Slots</source>
-        <translation type="unfinished"></translation>
+        <translation>插槽</translation>
     </message>
     <message>
         <source>Template inputs the animation declares. Overrides are per clip.</source>
@@ -14933,7 +14933,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Stroke width</source>
-        <translation type="unfinished"></translation>
+        <translation>描边宽度</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -14941,7 +14941,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Visible</source>
-        <translation type="unfinished"></translation>
+        <translation>可见</translation>
     </message>
 </context>
 <context>
