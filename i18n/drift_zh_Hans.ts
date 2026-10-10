@@ -14910,15 +14910,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Template inputs the animation declares. Overrides are per clip.</source>
-        <translation type="unfinished"></translation>
+        <translation>动画声明的模板输入。覆盖设置按片段分别保存。</translation>
     </message>
     <message>
         <source>Not rendered</source>
-        <translation type="unfinished"></translation>
+        <translation>尚未渲染</translation>
     </message>
     <message>
         <source>Expression on %1 (drawn static)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 上的表达式（以静态方式绘制）</translation>
     </message>
 </context>
 <context>
@@ -14959,15 +14959,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Choose layout…</source>
-        <translation type="unfinished"></translation>
+        <translation>选择布局…</translation>
     </message>
     <message>
         <source>Pick a platform template (YouTube, Instagram, TikTok, …) and quality</source>
-        <translation type="unfinished"></translation>
+        <translation>选择平台模板（YouTube、Instagram、TikTok 等）和画质</translation>
     </message>
     <message>
         <source>Change the video size. Clips keep their current size and position.</source>
-        <translation type="unfinished"></translation>
+        <translation>更改视频尺寸。片段会保留当前的大小和位置。</translation>
     </message>
     <message>
         <source>Width</source>
@@ -14983,7 +14983,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Cancel crop</source>
-        <translation type="unfinished"></translation>
+        <translation>取消裁剪</translation>
     </message>
     <message>
         <source>Crop video size</source>
@@ -14995,11 +14995,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Changing size doesn’t shrink your clips — anything outside the new edges is cut off.</source>
-        <translation type="unfinished"></translation>
+        <translation>更改尺寸不会缩小片段，超出新边界的部分会被裁掉。</translation>
     </message>
     <message>
         <source>Clips keep their length. A higher rate samples more pictures per second from the same footage.</source>
-        <translation type="unfinished"></translation>
+        <translation>片段时长保持不变。帧率越高，同一素材每秒采样的画面越多。</translation>
     </message>
 </context>
 <context>
@@ -15029,19 +15029,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Input microphone: %1 (click to switch)</source>
-        <translation type="unfinished"></translation>
+        <translation>输入麦克风：%1（点击切换）</translation>
     </message>
     <message>
         <source>Mic gain</source>
-        <translation type="unfinished"></translation>
+        <translation>麦克风增益</translation>
     </message>
     <message>
         <source>Voice input gain: %1% (adjust voice level)</source>
-        <translation type="unfinished"></translation>
+        <translation>语音输入增益：%1%（调整语音音量）</translation>
     </message>
     <message>
         <source>Live voice level: %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>实时语音音量：%1%</translation>
     </message>
     <message>
         <source>Resume recording</source>
@@ -15053,18 +15053,18 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Done — finish recording and save to track</source>
-        <translation type="unfinished"></translation>
+        <translation>完成 — 结束录制并保存到轨道</translation>
     </message>
     <message>
         <source>Cancel — discard recording</source>
-        <translation type="unfinished"></translation>
+        <translation>取消 — 放弃录制</translation>
     </message>
 </context>
 <context>
     <name>drift</name>
     <message>
         <source>Plain</source>
-        <translation type="unfinished"></translation>
+        <translation>普通</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -15072,23 +15072,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Lift</source>
-        <translation type="unfinished"></translation>
+        <translation>抬升</translation>
     </message>
     <message>
         <source>Hollow</source>
-        <translation type="unfinished"></translation>
+        <translation>空心</translation>
     </message>
     <message>
         <source>Splice</source>
-        <translation type="unfinished"></translation>
+        <translation>拼接</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>轮廓</translation>
     </message>
     <message>
         <source>Echo</source>
-        <translation type="unfinished"></translation>
+        <translation>回声</translation>
     </message>
     <message>
         <source>Glitch</source>
@@ -15096,7 +15096,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Neon</source>
-        <translation type="unfinished"></translation>
+        <translation>霓虹</translation>
     </message>
     <message>
         <source>Background</source>
@@ -15112,7 +15112,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Shine</source>
-        <translation type="unfinished"></translation>
+        <translation>闪亮</translation>
     </message>
     <message>
         <source>Chrome</source>
@@ -15120,48 +15120,54 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Holographic</source>
-        <translation type="unfinished"></translation>
+        <translation>全息</translation>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>未知</translation>
     </message>
     <message>
         <source>No OpenGL driver</source>
-        <translation type="unfinished"></translation>
+        <translation>未检测到 OpenGL 驱动程序</translation>
     </message>
     <message>
         <source>Drift could not create an OpenGL context, so it cannot draw its interface or render the preview.
 
 Install or update your graphics driver.</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift 无法创建 OpenGL 上下文，因此无法绘制界面或渲染预览。
+
+请安装或更新显卡驱动程序。</translation>
     </message>
     <message>
         <source>OpenGL context unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenGL 上下文不可用</translation>
     </message>
     <message>
         <source>Drift could not create an OpenGL 3.3 core profile context, though this driver reports OpenGL %1.%2 (%3).
 
 The video preview cannot render. Updating your graphics driver may help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift 无法创建 OpenGL 3.3 核心配置上下文，尽管此驱动报告支持 OpenGL %1.%2（%3）。
+
+无法渲染视频预览。更新显卡驱动可能会有所帮助。</translation>
     </message>
     <message>
         <source>Graphics driver is too old</source>
-        <translation type="unfinished"></translation>
+        <translation>显卡驱动程序过旧</translation>
     </message>
     <message>
         <source>Drift needs OpenGL 3.3, but this graphics driver only provides OpenGL %1.%2 (%3).
 
 The video preview cannot render, and Drift may not start at all. Update your graphics driver, or run Drift on a machine with a newer GPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift 需要 OpenGL 3.3，但此显卡驱动仅提供 OpenGL %1.%2（%3）。
+
+视频预览无法渲染，Drift 甚至可能无法启动。请更新显卡驱动，或在配备较新 GPU 的设备上运行 Drift。</translation>
     </message>
     <message>
         <source>Drift is not drawing its window</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift 无法绘制窗口</translation>
     </message>
     <message>
         <source>Drift has been running for %1 seconds but its window has not drawn anything yet.
