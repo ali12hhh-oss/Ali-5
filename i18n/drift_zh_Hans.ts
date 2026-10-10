@@ -6108,23 +6108,23 @@
     </message>
     <message>
         <source>Debug info…</source>
-        <translation type="unfinished"></translation>
+        <translation>调试信息…</translation>
     </message>
     <message>
         <source>More settings…</source>
-        <translation type="unfinished"></translation>
+        <translation>更多设置…</translation>
     </message>
     <message>
         <source>Agent</source>
-        <translation type="unfinished"></translation>
+        <translation>代理</translation>
     </message>
     <message>
         <source>Agent access is on</source>
-        <translation type="unfinished"></translation>
+        <translation>代理访问已开启</translation>
     </message>
     <message>
         <source>Recommended packs and updates</source>
-        <translation type="unfinished"></translation>
+        <translation>推荐组件包和更新</translation>
     </message>
     <message>
         <source>Extras</source>
@@ -6136,7 +6136,7 @@
     </message>
     <message>
         <source>Drift %1 is available</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift %1 已推出</translation>
     </message>
     <message>
         <source>Agent access</source>
@@ -6144,11 +6144,11 @@
     </message>
     <message>
         <source>Export in progress (%1%) — click to view</source>
-        <translation type="unfinished"></translation>
+        <translation>正在导出（%1%）— 点击查看</translation>
     </message>
     <message>
         <source>Export video</source>
-        <translation type="unfinished"></translation>
+        <translation>导出视频</translation>
     </message>
     <message>
         <source>Export</source>
@@ -6164,38 +6164,38 @@
     </message>
     <message>
         <source>Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>工作区</translation>
     </message>
     <message>
         <source>Auto (follow canvas)</source>
-        <translation type="unfinished"></translation>
+        <translation>自动（跟随画布）</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>横向</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>纵向</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>主题</translation>
     </message>
 </context>
 <context>
     <name>EffectBrowser</name>
     <message>
         <source>No effects</source>
-        <translation type="unfinished"></translation>
+        <translation>没有效果</translation>
     </message>
     <message>
         <source>Install the Effects pack from Extras to browse presets here.</source>
-        <translation type="unfinished"></translation>
+        <translation>请从“附加内容”安装 Effects 包，以便在此浏览预设。</translation>
     </message>
     <message>
         <source>Get extras</source>
-        <translation type="unfinished"></translation>
+        <translation>获取附加内容</translation>
     </message>
     <message>
         <source>Drag a preset onto a clip, or click to apply to the selection</source>
@@ -6203,11 +6203,11 @@
     </message>
     <message>
         <source>Click to add as adjustment layer, or drag onto a clip</source>
-        <translation type="unfinished"></translation>
+        <translation>点击以添加为调整图层，或拖到片段上</translation>
     </message>
     <message>
         <source>Search effects</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索效果</translation>
     </message>
     <message>
         <source>Add adjustment layer</source>
@@ -6215,15 +6215,15 @@
     </message>
     <message>
         <source>Add an adjustment layer to apply effects across all clips underneath, or drag it to where it should go</source>
-        <translation type="unfinished"></translation>
+        <translation>添加调整图层可将效果应用于下方所有片段，也可以将其拖到所需位置。</translation>
     </message>
     <message>
         <source>Adjustment layer</source>
-        <translation type="unfinished"></translation>
+        <translation>调整图层</translation>
     </message>
     <message>
         <source>No effects match “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有与“%1”匹配的效果。</translation>
     </message>
     <message>
         <source>No favorites yet. Star presets to save them here.</source>
@@ -6239,54 +6239,54 @@
     </message>
     <message>
         <source>Built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>内置</translation>
     </message>
 </context>
 <context>
     <name>EffectCatalog</name>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <source>Glitch &amp; Distortion</source>
-        <translation type="unfinished"></translation>
+        <translation>故障与失真</translation>
     </message>
     <message>
         <source>Retro / Analog</source>
-        <translation type="unfinished"></translation>
+        <translation>复古 / 模拟</translation>
     </message>
     <message>
         <source>Dreamy &amp; Stylish</source>
-        <translation type="unfinished"></translation>
+        <translation>梦幻与风格化</translation>
     </message>
     <message>
         <source>Impact</source>
-        <translation type="unfinished"></translation>
+        <translation>冲击</translation>
     </message>
     <message>
         <source>Blurs &amp; Distortions</source>
-        <translation type="unfinished"></translation>
+        <translation>模糊与失真</translation>
     </message>
     <message>
         <source>Funny Face</source>
-        <translation type="unfinished"></translation>
+        <translation>趣味人脸</translation>
     </message>
     <message>
         <source>Beauty &amp; Makeup</source>
-        <translation type="unfinished"></translation>
+        <translation>美颜与妆容</translation>
     </message>
     <message>
         <source>Face Props</source>
-        <translation type="unfinished"></translation>
+        <translation>人脸道具</translation>
     </message>
     <message>
         <source>Artistic</source>
-        <translation type="unfinished"></translation>
+        <translation>艺术效果</translation>
     </message>
     <message>
         <source>Depth &amp; Lighting</source>
-        <translation type="unfinished"></translation>
+        <translation>景深与灯光</translation>
     </message>
     <message>
         <source>Other</source>
@@ -6297,35 +6297,35 @@
     <name>EffectStacksSection</name>
     <message>
         <source>Drift effect stack (*.drifteffects)</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift 效果堆栈（*.drifteffects）</translation>
     </message>
     <message>
         <source>Import effect stack</source>
-        <translation type="unfinished"></translation>
+        <translation>导入效果堆栈</translation>
     </message>
     <message>
         <source>Export effect stack</source>
-        <translation type="unfinished"></translation>
+        <translation>导出效果堆栈</translation>
     </message>
     <message>
         <source>My presets</source>
-        <translation type="unfinished"></translation>
+        <translation>我的预设</translation>
     </message>
     <message>
         <source>Import an effect stack…</source>
-        <translation type="unfinished"></translation>
+        <translation>导入效果堆栈…</translation>
     </message>
     <message>
         <source>Tune a clip&apos;s effects, then use “Save as preset…” in the properties Effects tab to keep them here.</source>
-        <translation type="unfinished"></translation>
+        <translation>调整片段的效果，然后在属性面板的“效果”选项卡中选择“另存为预设…”，即可将其保存在这里。</translation>
     </message>
     <message>
         <source>+%1 more</source>
-        <translation type="unfinished"></translation>
+        <translation>另有 %1 项</translation>
     </message>
     <message>
         <source>Preset options</source>
-        <translation type="unfinished"></translation>
+        <translation>预设选项</translation>
     </message>
     <message>
         <source>Rename…</source>
@@ -6333,7 +6333,7 @@
     </message>
     <message>
         <source>Export…</source>
-        <translation type="unfinished"></translation>
+        <translation>导出…</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -6341,50 +6341,50 @@
     </message>
     <message>
         <source>Rename effect preset</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名效果预设</translation>
     </message>
     <message>
         <source>Delete effect preset</source>
-        <translation type="unfinished"></translation>
+        <translation>删除效果预设</translation>
     </message>
     <message>
         <source>Remove “%1” from your saved presets? Clips already using it keep their effects.</source>
-        <translation type="unfinished"></translation>
+        <translation>要从已保存的预设中移除“%1”吗？已使用它的片段会保留现有效果。</translation>
     </message>
 </context>
 <context>
     <name>EffectTemplateBrowser</name>
     <message>
         <source>No effect templates</source>
-        <translation type="unfinished"></translation>
+        <translation>没有效果模板</translation>
     </message>
     <message>
         <source>Install the Effect Templates pack from Extras to browse presets here.</source>
-        <translation type="unfinished"></translation>
+        <translation>请从“附加内容”安装 Effect Templates 包，以便在此浏览模板。</translation>
     </message>
     <message>
         <source>Get extras</source>
-        <translation type="unfinished"></translation>
+        <translation>获取附加内容</translation>
     </message>
     <message>
         <source>Click a template to apply music-synced effects to the selection</source>
-        <translation type="unfinished"></translation>
+        <translation>点击模板，将与音乐同步的效果应用到所选内容</translation>
     </message>
     <message>
         <source>Select a clip, then click a template to apply</source>
-        <translation type="unfinished"></translation>
+        <translation>选择一个片段，然后点击模板以应用</translation>
     </message>
     <message>
         <source>Search templates</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索模板</translation>
     </message>
     <message>
         <source>No templates match “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有与“%1”匹配的模板。</translation>
     </message>
     <message>
         <source>No favorites yet. Star templates to save them here.</source>
-        <translation type="unfinished"></translation>
+        <translation>还没有收藏内容。点击模板旁的星标即可将其保存到此处。</translation>
     </message>
     <message>
         <source>Nothing in this category.</source>
@@ -6392,7 +6392,7 @@
     </message>
     <message>
         <source>Needs cutout</source>
-        <translation type="unfinished"></translation>
+        <translation>需要抠像</translation>
     </message>
     <message>
         <source>Apply to selected clip</source>
@@ -6403,39 +6403,39 @@
     <name>EffectTemplateCatalog</name>
     <message>
         <source>Hype</source>
-        <translation type="unfinished"></translation>
+        <translation>炫酷</translation>
     </message>
     <message>
         <source>Dreamy</source>
-        <translation type="unfinished"></translation>
+        <translation>梦幻</translation>
     </message>
     <message>
         <source>Cinematic</source>
-        <translation type="unfinished"></translation>
+        <translation>电影感</translation>
     </message>
     <message>
         <source>Clone</source>
-        <translation type="unfinished"></translation>
+        <translation>克隆</translation>
     </message>
     <message>
         <source>Anime</source>
-        <translation type="unfinished"></translation>
+        <translation>动漫</translation>
     </message>
     <message>
         <source>Retro</source>
-        <translation type="unfinished"></translation>
+        <translation>复古</translation>
     </message>
     <message>
         <source>Chaos</source>
-        <translation type="unfinished"></translation>
+        <translation>混乱</translation>
     </message>
     <message>
         <source>Drama</source>
-        <translation type="unfinished"></translation>
+        <translation>戏剧感</translation>
     </message>
     <message>
         <source>Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>转场</translation>
     </message>
     <message>
         <source>Other</source>
@@ -6446,27 +6446,27 @@
     <name>EffectsInspector</name>
     <message>
         <source>Face tracking</source>
-        <translation type="unfinished"></translation>
+        <translation>人脸跟踪</translation>
     </message>
     <message>
         <source>This clip was scanned before makeup was supported. Re-detect faces to enable the Beauty effects.</source>
-        <translation type="unfinished"></translation>
+        <translation>此片段是在支持美妆效果之前扫描的。请重新检测人脸以启用美颜效果。</translation>
     </message>
     <message>
         <source>Re-detect faces</source>
-        <translation type="unfinished"></translation>
+        <translation>重新检测人脸</translation>
     </message>
     <message>
         <source>These effects follow a face, so the clip has to be scanned before they do anything.</source>
-        <translation type="unfinished"></translation>
+        <translation>这些效果需要跟踪人脸，因此必须先扫描片段才能生效。</translation>
     </message>
     <message>
         <source>Download depth estimation (about 160 MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>下载深度估算组件（约 160 MB）</translation>
     </message>
     <message>
         <source>Face effects follow one clip&apos;s faces. Add this to a clip rather than to an adjustment layer.</source>
-        <translation type="unfinished"></translation>
+        <translation>人脸效果会跟踪单个片段中的人脸。请将其添加到片段，而不是调整图层。</translation>
     </message>
     <message>
         <source>Scan for faces…</source>
@@ -6649,7 +6649,7 @@
     </message>
     <message>
         <source>Get extras</source>
-        <translation type="unfinished"></translation>
+        <translation>获取附加内容</translation>
     </message>
     <message>
         <source>Search</source>
@@ -7516,7 +7516,7 @@
     </message>
     <message>
         <source>Built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>内置</translation>
     </message>
     <message>
         <source>From project</source>
@@ -7857,11 +7857,11 @@
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>横向</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>纵向</translation>
     </message>
     <message>
         <source>Classic</source>
@@ -10080,7 +10080,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>转场</translation>
     </message>
     <message>
         <source>It&apos;s empty here</source>
@@ -12106,7 +12106,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Get extras</source>
-        <translation type="unfinished"></translation>
+        <translation>获取附加内容</translation>
     </message>
     <message>
         <source>No stickers match “%1”</source>
@@ -12571,7 +12571,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Export…</source>
-        <translation type="unfinished"></translation>
+        <translation>导出…</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -12579,7 +12579,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>内置</translation>
     </message>
     <message>
         <source>Rename text style</source>
@@ -13325,7 +13325,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>内置</translation>
     </message>
 </context>
 <context>
@@ -14579,7 +14579,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Get extras</source>
-        <translation type="unfinished"></translation>
+        <translation>获取附加内容</translation>
     </message>
     <message>
         <source>No transitions match “%1”</source>
@@ -14664,7 +14664,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Drift %1 is available</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift %1 已推出</translation>
     </message>
     <message>
         <source>You have %1.</source>
