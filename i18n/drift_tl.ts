@@ -6832,54 +6832,54 @@
     </message>
     <message>
         <source>kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>kbps</translation>
     </message>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Preset</translation>
     </message>
     <message>
         <source>Audio encoder</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio encoder</translation>
     </message>
     <message>
         <source>Animated GIF — no audio. Mark a work area for short loops, or export up to 60 seconds.</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang audio ang animated GIF. Markahan ang work area para sa maiikling loop, o mag-export nang hanggang 60 segundo.</translation>
     </message>
     <message>
         <source>15 fps is a good default for small file sizes. GIF export is limited to 60 seconds.</source>
-        <translation type="unfinished"></translation>
+        <translation>Magandang default ang 15 fps para maliit ang file. Limitado sa 60 segundo ang GIF export.</translation>
     </message>
     <message>
         <source>Exports the timeline audio mix only — no video track.</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio mix lang mula sa timeline ang ie-export — walang video track.</translation>
     </message>
     <message>
         <source>Tags</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga tag</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Pamagat</translation>
     </message>
     <message>
         <source>Artist</source>
-        <translation type="unfinished"></translation>
+        <translation>Artist</translation>
     </message>
     <message>
         <source>Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Album</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Komento</translation>
     </message>
 </context>
 <context>
     <name>ExportProgressDialog</name>
     <message>
         <source>Exporting video</source>
-        <translation type="unfinished"></translation>
+        <translation>Ini-export ang video</translation>
     </message>
     <message>
         <source>Export</source>
@@ -6887,7 +6887,7 @@
     </message>
     <message>
         <source>Cancel export</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanselahin ang export</translation>
     </message>
     <message>
         <source>Close</source>
@@ -6895,7 +6895,7 @@
     </message>
     <message>
         <source>Rendering your video. Close to keep editing, or cancel to stop.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nire-render ang video. Isara para magpatuloy sa pag-edit, o kanselahin para ihinto.</translation>
     </message>
     <message>
         <source>Export finished.</source>
@@ -6907,46 +6907,46 @@
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Ibahagi</translation>
     </message>
 </context>
 <context>
     <name>FacePropImport</name>
     <message>
         <source>%1 is not a binary glTF model</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi binary glTF model ang %1</translation>
     </message>
     <message>
         <source>Could not write to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi maisulat sa %1</translation>
     </message>
     <message>
         <source>prop.json is not valid JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi wastong JSON ang prop.json</translation>
     </message>
     <message>
         <source>prop.json is not a face prop</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi face prop ang prop.json</translation>
     </message>
     <message>
         <source>prop.json needs a newer version of Drift</source>
-        <translation type="unfinished"></translation>
+        <translation>Kailangan ng mas bagong bersyon ng Drift ang prop.json</translation>
     </message>
     <message>
         <source>invalid prop id “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi wastong prop ID ang “%1”</translation>
     </message>
     <message>
         <source>prop.json must name a .glb model in the prop folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Dapat tukuyin ng prop.json ang .glb model sa prop folder</translation>
     </message>
     <message>
         <source>prop.json thumbnail must be a file in the prop folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Dapat file sa prop folder ang thumbnail ng prop.json</translation>
     </message>
     <message>
         <source>prop.json names the same file twice</source>
-        <translation type="unfinished"></translation>
+        <translation>Dalawang beses na tinukoy ng prop.json ang parehong file</translation>
     </message>
     <message>
         <source>param “%1” must be a number</source>
@@ -7163,7 +7163,7 @@
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Ibahagi</translation>
     </message>
 </context>
 <context>
@@ -9963,7 +9963,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Pamagat</translation>
     </message>
     <message>
         <source>Untitled Project</source>
@@ -12996,7 +12996,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Preset</translation>
     </message>
     <message>
         <source>A whole text style — font, colour and effect — applied in one tap</source>
