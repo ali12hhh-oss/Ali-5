@@ -7496,7 +7496,7 @@
     </message>
     <message>
         <source>Guide colour</source>
-        <translation type="unfinished"></translation>
+        <translation>สีเส้นไกด์</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -7504,15 +7504,15 @@
     </message>
     <message>
         <source>Show guides</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงเส้นไกด์</translation>
     </message>
     <message>
         <source>Guide sets</source>
-        <translation type="unfinished"></translation>
+        <translation>ชุดเส้นไกด์</translation>
     </message>
     <message>
         <source>Show this set</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงชุดนี้</translation>
     </message>
     <message>
         <source>Built-in</source>
@@ -7520,31 +7520,31 @@
     </message>
     <message>
         <source>From project</source>
-        <translation type="unfinished"></translation>
+        <translation>จากโปรเจกต์</translation>
     </message>
     <message>
         <source>New guide set</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างชุดเส้นไกด์ใหม่</translation>
     </message>
     <message>
         <source>Duplicate set</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำซ้ำชุด</translation>
     </message>
     <message>
         <source>Save to my guide sets</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกลงในชุดเส้นไกด์ของฉัน</translation>
     </message>
     <message>
         <source>Delete set</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบชุด</translation>
     </message>
     <message>
         <source>Set name</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อชุด</translation>
     </message>
     <message>
         <source>Edit on preview</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขบนหน้าตัวอย่าง</translation>
     </message>
     <message>
         <source>Built-in sets can&apos;t be changed. Duplicate one to make an editable copy.</source>
@@ -7552,15 +7552,15 @@
     </message>
     <message>
         <source>This set came with the project. Save it to your guide sets to edit it.</source>
-        <translation type="unfinished"></translation>
+        <translation>ชุดนี้มาพร้อมโปรเจกต์ บันทึกลงในชุดเส้นไกด์ของคุณเพื่อแก้ไข</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>แนวตั้ง</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>แนวนอน</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -7568,25 +7568,25 @@
     </message>
     <message>
         <source>Add a guide</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเส้นไกด์</translation>
     </message>
 </context>
 <context>
     <name>JobRegistry</name>
     <message>
         <source>Queued</source>
-        <translation type="unfinished"></translation>
+        <translation>เข้าคิวแล้ว</translation>
     </message>
 </context>
 <context>
     <name>KeyframeGraph</name>
     <message>
         <source>X position</source>
-        <translation type="unfinished"></translation>
+        <translation>ตำแหน่ง X</translation>
     </message>
     <message>
         <source>Y position</source>
-        <translation type="unfinished"></translation>
+        <translation>ตำแหน่ง Y</translation>
     </message>
     <message>
         <source>Width</source>
@@ -7602,11 +7602,11 @@
     </message>
     <message>
         <source>Tilt X</source>
-        <translation type="unfinished"></translation>
+        <translation>เอียง X</translation>
     </message>
     <message>
         <source>Tilt Y</source>
-        <translation type="unfinished"></translation>
+        <translation>เอียง Y</translation>
     </message>
     <message>
         <source>Depth</source>
@@ -7614,7 +7614,7 @@
     </message>
     <message>
         <source>Perspective</source>
-        <translation type="unfinished"></translation>
+        <translation>มุมมองเปอร์สเปกทีฟ</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -7626,19 +7626,19 @@
     </message>
     <message>
         <source>Mask X</source>
-        <translation type="unfinished"></translation>
+        <translation>มาสก์ X</translation>
     </message>
     <message>
         <source>Mask Y</source>
-        <translation type="unfinished"></translation>
+        <translation>มาสก์ Y</translation>
     </message>
     <message>
         <source>Mask width</source>
-        <translation type="unfinished"></translation>
+        <translation>ความกว้างมาสก์</translation>
     </message>
     <message>
         <source>Mask height</source>
-        <translation type="unfinished"></translation>
+        <translation>ความสูงมาสก์</translation>
     </message>
     <message>
         <source>Mask rotation</source>
@@ -9733,7 +9733,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Guide sets</source>
-        <translation type="unfinished"></translation>
+        <translation>ชุดเส้นไกด์</translation>
     </message>
     <message>
         <source>Keep mask handles on the preview while another clip is selected</source>
@@ -10973,7 +10973,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Show guides</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงเส้นไกด์</translation>
     </message>
     <message>
         <source>Show alignment guides over the preview</source>
@@ -14172,11 +14172,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Tilt X</source>
-        <translation type="unfinished"></translation>
+        <translation>เอียง X</translation>
     </message>
     <message>
         <source>Tilt Y</source>
-        <translation type="unfinished"></translation>
+        <translation>เอียง Y</translation>
     </message>
     <message>
         <source>Depth</source>
@@ -14184,7 +14184,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Perspective</source>
-        <translation type="unfinished"></translation>
+        <translation>มุมมองเปอร์สเปกทีฟ</translation>
     </message>
     <message>
         <source>Video only</source>
