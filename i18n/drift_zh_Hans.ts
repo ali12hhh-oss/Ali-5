@@ -11156,31 +11156,31 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Automatically restore the last open project on startup. Closing still asks you to save; a crash snapshot never overwrites your save file.</source>
-        <translation type="unfinished"></translation>
+        <translation>启动时自动恢复上次打开的项目。关闭时仍会提示保存；崩溃快照不会覆盖你的保存文件。</translation>
     </message>
     <message>
         <source>Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>更新</translation>
     </message>
     <message>
         <source>Check on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>启动时检查</translation>
     </message>
     <message>
         <source>Ask GitHub once a day whether a newer Drift has been released</source>
-        <translation type="unfinished"></translation>
+        <translation>每天向 GitHub 查询一次是否发布了更新版本的 Drift</translation>
     </message>
     <message>
         <source>Checking…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在检查…</translation>
     </message>
     <message>
         <source>Check now</source>
-        <translation type="unfinished"></translation>
+        <translation>立即检查</translation>
     </message>
     <message>
         <source>Drift %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift %1</translation>
     </message>
     <message>
         <source>Extra packs</source>
@@ -11188,19 +11188,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Remind about essential packs</source>
-        <translation type="unfinished"></translation>
+        <translation>提醒安装必要组件包</translation>
     </message>
     <message>
         <source>Pulse the Extras icon when the video, transitions, and audio packs are not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>未安装视频、转场和音频组件包时，闪烁提示“扩展功能”图标</translation>
     </message>
     <message>
         <source>Remind about pack updates</source>
-        <translation type="unfinished"></translation>
+        <translation>提醒更新组件包</translation>
     </message>
     <message>
         <source>Pulse the Extras icon when updates are available for packs you already have installed</source>
-        <translation type="unfinished"></translation>
+        <translation>已安装的组件包有可用更新时，闪烁提示“扩展功能”图标</translation>
     </message>
     <message>
         <source>Agent access</source>
@@ -11208,7 +11208,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Cloud providers</source>
-        <translation type="unfinished"></translation>
+        <translation>云服务提供商</translation>
     </message>
     <message>
         <source>Keys are stored unencrypted in Drift&apos;s settings. ELEVENLABS_API_KEY and FISH_API_KEY in the environment take precedence. Use is billed to your own account.</source>
@@ -11216,27 +11216,27 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Transcription (Scribe), voiceover, sound effects</source>
-        <translation type="unfinished"></translation>
+        <translation>转录（Scribe）、旁白、音效</translation>
     </message>
     <message>
         <source>Voiceover</source>
-        <translation type="unfinished"></translation>
+        <translation>旁白</translation>
     </message>
     <message>
         <source>No key</source>
-        <translation type="unfinished"></translation>
+        <translation>没有密钥</translation>
     </message>
     <message>
         <source>Key from the environment</source>
-        <translation type="unfinished"></translation>
+        <translation>使用环境变量中的密钥</translation>
     </message>
     <message>
         <source>Key %1</source>
-        <translation type="unfinished"></translation>
+        <translation>密钥 %1</translation>
     </message>
     <message>
         <source>Paste API key</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴 API 密钥</translation>
     </message>
     <message>
         <source>Save</source>
@@ -11244,7 +11244,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>测试</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -11252,66 +11252,66 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Allow sending audio and text to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>允许向 %1 发送音频和文本</translation>
     </message>
     <message>
         <source>Needed before Drift or a connected agent can transcribe or generate audio with this service</source>
-        <translation type="unfinished"></translation>
+        <translation>必须启用此项，Drift 或已连接的代理才能使用此服务进行转录或生成音频</translation>
     </message>
     <message>
         <source>Default voice id</source>
-        <translation type="unfinished"></translation>
+        <translation>默认语音 ID</translation>
     </message>
     <message>
         <source>Voice model</source>
-        <translation type="unfinished"></translation>
+        <translation>语音模型</translation>
     </message>
     <message>
         <source>Transcription model</source>
-        <translation type="unfinished"></translation>
+        <translation>转录模型</translation>
     </message>
     <message>
         <source>Marketplace</source>
-        <translation type="unfinished"></translation>
+        <translation>资源市场</translation>
     </message>
     <message>
         <source>Account connected (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>账户已连接（%1）</translation>
     </message>
     <message>
         <source>Marketplace account connected</source>
-        <translation type="unfinished"></translation>
+        <translation>资源市场账户已连接</translation>
     </message>
     <message>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>断开连接</translation>
     </message>
     <message>
         <source>Unlink the marketplace account from this device</source>
-        <translation type="unfinished"></translation>
+        <translation>取消此设备与资源市场账户的关联</translation>
     </message>
 </context>
 <context>
     <name>ShadingLayerRow</name>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>填充</translation>
     </message>
     <message>
         <source>Stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>描边</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>阴影</translation>
     </message>
     <message>
         <source>Glow</source>
-        <translation type="unfinished"></translation>
+        <translation>发光</translation>
     </message>
     <message>
         <source>Extrude</source>
-        <translation type="unfinished"></translation>
+        <translation>挤出</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -11363,47 +11363,47 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Outside</source>
-        <translation type="unfinished"></translation>
+        <translation>外侧</translation>
     </message>
     <message>
         <source>Inside</source>
-        <translation type="unfinished"></translation>
+        <translation>内侧</translation>
     </message>
     <message>
         <source>Dashed</source>
-        <translation type="unfinished"></translation>
+        <translation>虚线</translation>
     </message>
     <message>
         <source>Dotted</source>
-        <translation type="unfinished"></translation>
+        <translation>点线</translation>
     </message>
     <message>
         <source>Dash-dot</source>
-        <translation type="unfinished"></translation>
+        <translation>点划线</translation>
     </message>
     <message>
         <source>Collapse layer</source>
-        <translation type="unfinished"></translation>
+        <translation>折叠图层</translation>
     </message>
     <message>
         <source>Expand layer</source>
-        <translation type="unfinished"></translation>
+        <translation>展开图层</translation>
     </message>
     <message>
         <source>Bring forward</source>
-        <translation type="unfinished"></translation>
+        <translation>上移一层</translation>
     </message>
     <message>
         <source>Send backward</source>
-        <translation type="unfinished"></translation>
+        <translation>下移一层</translation>
     </message>
     <message>
         <source>Hide layer</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏图层</translation>
     </message>
     <message>
         <source>Show layer</source>
-        <translation type="unfinished"></translation>
+        <translation>显示图层</translation>
     </message>
     <message>
         <source>Duplicate layer</source>
@@ -11419,7 +11419,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Blend</source>
-        <translation type="unfinished"></translation>
+        <translation>混合</translation>
     </message>
     <message>
         <source>Width</source>
@@ -11427,19 +11427,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Placement</source>
-        <translation type="unfinished"></translation>
+        <translation>位置</translation>
     </message>
     <message>
         <source>Centre the stroke on the outline, grow it outward, or keep it inside</source>
-        <translation type="unfinished"></translation>
+        <translation>将描边居中放在轮廓上、向外扩展或保持在轮廓内</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>短划线</translation>
     </message>
     <message>
         <source>Dash offset</source>
-        <translation type="unfinished"></translation>
+        <translation>短划线偏移</translation>
     </message>
     <message>
         <source>Trim start</source>
@@ -11451,19 +11451,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Sketchy</source>
-        <translation type="unfinished"></translation>
+        <translation>手绘风格</translation>
     </message>
     <message>
         <source>Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>线段</translation>
     </message>
     <message>
         <source>Wobble</source>
-        <translation type="unfinished"></translation>
+        <translation>抖动</translation>
     </message>
     <message>
         <source>Seed</source>
-        <translation type="unfinished"></translation>
+        <translation>随机种子</translation>
     </message>
     <message>
         <source>Colour</source>
@@ -11471,19 +11471,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Choose the layer colour</source>
-        <translation type="unfinished"></translation>
+        <translation>选择图层颜色</translation>
     </message>
     <message>
         <source>Offset X</source>
-        <translation type="unfinished"></translation>
+        <translation>X 偏移</translation>
     </message>
     <message>
         <source>Offset Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Y 偏移</translation>
     </message>
     <message>
         <source>Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>半径</translation>
     </message>
     <message>
         <source>Blur</source>
@@ -11491,7 +11491,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Spread</source>
-        <translation type="unfinished"></translation>
+        <translation>扩散</translation>
     </message>
     <message>
         <source>Depth</source>
@@ -11503,11 +11503,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>How much the extruded side fades toward black</source>
-        <translation type="unfinished"></translation>
+        <translation>挤出侧面向黑色渐隐的程度</translation>
     </message>
     <message>
         <source>Adjust extrude</source>
-        <translation type="unfinished"></translation>
+        <translation>调整挤出效果</translation>
     </message>
 </context>
 <context>
@@ -11518,23 +11518,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Shape drawn by this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>此片段绘制的形状</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>填充</translation>
     </message>
     <message>
         <source>Stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>描边</translation>
     </message>
     <message>
         <source>Swapping the shape keeps its position, size, style and effects.</source>
-        <translation type="unfinished"></translation>
+        <translation>更换形状时会保留其位置、尺寸、样式和效果。</translation>
     </message>
     <message>
         <source>Layers</source>
-        <translation type="unfinished"></translation>
+        <translation>图层</translation>
     </message>
     <message>
         <source>Add layer</source>
@@ -11542,31 +11542,31 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Add a fill, stroke, shadow, glow or extrude layer</source>
-        <translation type="unfinished"></translation>
+        <translation>添加填充、描边、阴影、发光或挤出图层</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>阴影</translation>
     </message>
     <message>
         <source>Glow</source>
-        <translation type="unfinished"></translation>
+        <translation>发光</translation>
     </message>
     <message>
         <source>Extrude</source>
-        <translation type="unfinished"></translation>
+        <translation>挤出</translation>
     </message>
     <message>
         <source>No layers. Add a fill to start.</source>
-        <translation type="unfinished"></translation>
+        <translation>暂无图层。添加填充以开始。</translation>
     </message>
     <message>
         <source>Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>几何形状</translation>
     </message>
     <message>
         <source>Corner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>圆角半径</translation>
     </message>
     <message>
         <source>Points</source>
@@ -11574,23 +11574,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Inner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>内半径</translation>
     </message>
     <message>
         <source>Head size</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头头部大小</translation>
     </message>
     <message>
         <source>Thickness</source>
-        <translation type="unfinished"></translation>
+        <translation>粗细</translation>
     </message>
     <message>
         <source>Tail position</source>
-        <translation type="unfinished"></translation>
+        <translation>尾部位置</translation>
     </message>
     <message>
         <source>Tail size</source>
-        <translation type="unfinished"></translation>
+        <translation>尾部大小</translation>
     </message>
 </context>
 <context>
@@ -11601,7 +11601,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Rounded rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>圆角矩形</translation>
     </message>
     <message>
         <source>Square</source>
@@ -11613,59 +11613,59 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>圆形</translation>
     </message>
     <message>
         <source>Triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>三角形</translation>
     </message>
     <message>
         <source>Right triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>直角三角形</translation>
     </message>
     <message>
         <source>Diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>菱形</translation>
     </message>
     <message>
         <source>Pentagon</source>
-        <translation type="unfinished"></translation>
+        <translation>五边形</translation>
     </message>
     <message>
         <source>Hexagon</source>
-        <translation type="unfinished"></translation>
+        <translation>六边形</translation>
     </message>
     <message>
         <source>Octagon</source>
-        <translation type="unfinished"></translation>
+        <translation>八边形</translation>
     </message>
     <message>
         <source>Parallelogram</source>
-        <translation type="unfinished"></translation>
+        <translation>平行四边形</translation>
     </message>
     <message>
         <source>Trapezoid</source>
-        <translation type="unfinished"></translation>
+        <translation>梯形</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头</translation>
     </message>
     <message>
         <source>Double arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>双向箭头</translation>
     </message>
     <message>
         <source>Block arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>块状箭头</translation>
     </message>
     <message>
         <source>Curved arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>弯曲箭头</translation>
     </message>
     <message>
         <source>Chevron</source>
-        <translation type="unfinished"></translation>
+        <translation>人字形</translation>
     </message>
     <message>
         <source>Speech bubble</source>
@@ -11729,27 +11729,27 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Corner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>圆角半径</translation>
     </message>
     <message>
         <source>Inner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>内半径</translation>
     </message>
     <message>
         <source>Head size</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头头部大小</translation>
     </message>
     <message>
         <source>Thickness</source>
-        <translation type="unfinished"></translation>
+        <translation>粗细</translation>
     </message>
     <message>
         <source>Tail position</source>
-        <translation type="unfinished"></translation>
+        <translation>尾部位置</translation>
     </message>
     <message>
         <source>Tail size</source>
-        <translation type="unfinished"></translation>
+        <translation>尾部大小</translation>
     </message>
     <message>
         <source>Points</source>
@@ -12749,11 +12749,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>描边</translation>
     </message>
     <message>
         <source>Extrude</source>
-        <translation type="unfinished"></translation>
+        <translation>挤出</translation>
     </message>
     <message>
         <source>Decorations</source>
@@ -12829,7 +12829,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Layers</source>
-        <translation type="unfinished"></translation>
+        <translation>图层</translation>
     </message>
     <message>
         <source>Add layer</source>
@@ -12837,11 +12837,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Add a fill, stroke, shadow, glow or extrude layer</source>
-        <translation type="unfinished"></translation>
+        <translation>添加填充、描边、阴影、发光或挤出图层</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>填充</translation>
     </message>
     <message>
         <source>Bend</source>
@@ -12897,7 +12897,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>阴影</translation>
     </message>
     <message>
         <source>Background</source>
@@ -12921,7 +12921,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Corner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>圆角半径</translation>
     </message>
     <message>
         <source>Roundness of the background box corners</source>
@@ -12929,7 +12929,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Glow</source>
-        <translation type="unfinished"></translation>
+        <translation>发光</translation>
     </message>
     <message>
         <source>Text</source>
@@ -13009,7 +13009,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Thickness</source>
-        <translation type="unfinished"></translation>
+        <translation>粗细</translation>
     </message>
     <message>
         <source>How far the pill extends past the word</source>
@@ -13194,11 +13194,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Offset X</source>
-        <translation type="unfinished"></translation>
+        <translation>X 偏移</translation>
     </message>
     <message>
         <source>Offset Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Y 偏移</translation>
     </message>
     <message>
         <source>Blur</source>
@@ -13210,7 +13210,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Spread</source>
-        <translation type="unfinished"></translation>
+        <translation>扩散</translation>
     </message>
     <message>
         <source>Trim start</source>
@@ -13222,7 +13222,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Dash offset</source>
-        <translation type="unfinished"></translation>
+        <translation>短划线偏移</translation>
     </message>
     <message>
         <source>Sketch length</source>
@@ -13274,23 +13274,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>填充</translation>
     </message>
     <message>
         <source>Stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>描边</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>阴影</translation>
     </message>
     <message>
         <source>Glow</source>
-        <translation type="unfinished"></translation>
+        <translation>发光</translation>
     </message>
     <message>
         <source>Extrude</source>
-        <translation type="unfinished"></translation>
+        <translation>挤出</translation>
     </message>
     <message>
         <source>Text size</source>
@@ -14870,11 +14870,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>填充</translation>
     </message>
     <message>
         <source>Stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>描边</translation>
     </message>
     <message>
         <source>Stroke width</source>
@@ -14925,11 +14925,11 @@ If playback stutters, try another.</source>
     <name>VectorSource</name>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>填充</translation>
     </message>
     <message>
         <source>Stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>描边</translation>
     </message>
     <message>
         <source>Stroke width</source>
@@ -15068,7 +15068,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>阴影</translation>
     </message>
     <message>
         <source>Lift</source>
