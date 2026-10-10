@@ -2480,9 +2480,8 @@
     </message>
     <message numerus="yes">
         <source>Multicam ready: %n camera(s) lined up at the start. Drag a clip to adjust its sync, then pick a shot.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>多机位已就绪：开头已对齐 %n 台摄像机。拖动片段调整同步，然后选择镜头。</numerusform>
         </translation>
     </message>
     <message>
@@ -3727,9 +3726,8 @@
     </message>
     <message numerus="yes">
         <source>Transform layer now covers %n track(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>变换图层现在覆盖 %n 条轨道</numerusform>
         </translation>
     </message>
     <message>
@@ -3913,9 +3911,8 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s); %1 skipped: %2</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>已导入 %n 个面部道具；跳过 %1 个：%2</numerusform>
         </translation>
     </message>
     <message>
@@ -4306,9 +4303,8 @@
     </message>
     <message numerus="yes">
         <source>Media collected, but %n original(s) couldn’t be deleted</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>媒体已收集，但无法删除 %n 个原始文件</numerusform>
         </translation>
     </message>
     <message>
@@ -4441,9 +4437,8 @@
     </message>
     <message numerus="yes">
         <source>Applied to %n caption clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>已应用到 %n 个字幕片段</numerusform>
         </translation>
     </message>
     <message>
@@ -4672,9 +4667,8 @@
     </message>
     <message numerus="yes">
         <source>Replaced with “%1”. %n clips were shortened to fit the new file.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>已替换为“%1”。为适应新文件，%n 个片段已缩短。</numerusform>
         </translation>
     </message>
     <message>
@@ -4711,23 +4705,20 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders — as many as one folder import takes. Import the remaining subfolders separately.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>已将 %n 个文件导入 %1 个文件夹，这是单次文件夹导入的上限。请单独导入剩余子文件夹。</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>已将 %n 个文件导入 %1 个文件夹。%2 个文件因格式不受 Drift 识别而被跳过。可将其拖入媒体箱再次尝试。</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>已将 %n 个文件导入 %1 个文件夹。</numerusform>
         </translation>
     </message>
     <message>
@@ -8788,9 +8779,8 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) may play back slowly. A proxy makes previewing smoother; export still uses the original.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n 个片段可能播放缓慢。代理文件可让预览更流畅；导出仍使用原始文件。</numerusform>
         </translation>
     </message>
     <message>
@@ -8799,9 +8789,8 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) have a variable frame rate, which can drift out of sync with audio. Convert them to an edit-friendly format to fix it.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n 个片段使用可变帧率，可能与音频失去同步。将其转换为适合编辑的格式即可解决。</numerusform>
         </translation>
     </message>
     <message>
@@ -9024,9 +9013,8 @@
     </message>
     <message numerus="yes">
         <source>%n animation(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n 个动画</numerusform>
         </translation>
     </message>
     <message>
@@ -9444,9 +9432,8 @@
     </message>
     <message numerus="yes">
         <source>Pasting from “%1” onto %n selected clip(s):</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>正在将“%1”的内容粘贴到选中的 %n 个片段：</numerusform>
         </translation>
     </message>
     <message>
@@ -9475,9 +9462,8 @@
     </message>
     <message numerus="yes">
         <source>Video Effects (%n effect(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>视频特效（%n 个）</numerusform>
         </translation>
     </message>
     <message>
@@ -9494,9 +9480,8 @@
     </message>
     <message numerus="yes">
         <source>Audio Effects (%n effect(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>音频特效（%n 个）</numerusform>
         </translation>
     </message>
     <message>
@@ -9509,9 +9494,8 @@
     </message>
     <message numerus="yes">
         <source>Transitions (%n transition(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>转场（%n 个）</numerusform>
         </translation>
     </message>
     <message>
