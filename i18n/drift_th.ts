@@ -4782,7 +4782,7 @@
     </message>
     <message>
         <source>Drop to import</source>
-        <translation>วางเพื่อ импорт</translation>
+        <translation>ลากมาวางเพื่อนำเข้า</translation>
     </message>
     <message>
         <source>Video, audio and image files</source>
