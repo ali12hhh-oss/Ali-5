@@ -7740,11 +7740,11 @@
     <name>LanguageChooserDialog</name>
     <message>
         <source>Choose your language</source>
-        <translation type="unfinished"></translation>
+        <translation>Piliin ang wika</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Wika</translation>
     </message>
     <message>
         <source>Continue</source>
@@ -11166,7 +11166,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Wika</translation>
     </message>
     <message>
         <source>Language for menus and labels. Takes effect immediately.</source>
