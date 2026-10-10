@@ -9901,27 +9901,27 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>cannot finish writing %1</source>
-        <translation type="unfinished"></translation>
+        <translation>เขียน %1 ให้เสร็จไม่ได้</translation>
     </message>
     <message>
         <source>cannot create %1</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้าง %1 ไม่ได้</translation>
     </message>
     <message>
         <source>%1 is corrupt in this project</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ในโปรเจกต์นี้เสียหาย</translation>
     </message>
     <message>
         <source>Couldn’t read %1</source>
-        <translation type="unfinished"></translation>
+        <translation>อ่าน %1 ไม่ได้</translation>
     </message>
     <message>
         <source>Couldn’t write %1</source>
-        <translation type="unfinished"></translation>
+        <translation>เขียน %1 ไม่ได้</translation>
     </message>
     <message>
         <source>Couldn’t create %1</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้าง %1 ไม่ได้</translation>
     </message>
 </context>
 <context>
@@ -9940,38 +9940,38 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Untitled Project</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรเจกต์ไม่มีชื่อ</translation>
     </message>
     <message>
         <source>Author</source>
-        <translation type="unfinished"></translation>
+        <translation>ผู้สร้าง</translation>
     </message>
     <message>
         <source>Your name</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อของคุณ</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>คำอธิบาย</translation>
     </message>
     <message>
         <source>What this project is</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรเจกต์นี้เกี่ยวกับอะไร</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างเมื่อ</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขเมื่อ</translation>
     </message>
 </context>
 <context>
     <name>ProjectSetupDialog</name>
     <message>
         <source>Set up your video</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าวิดีโอของคุณ</translation>
     </message>
     <message>
         <source>Create</source>
@@ -9979,11 +9979,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>First clip “%1”. Choose the video size before it is placed.</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิปแรกคือ “%1” เลือกขนาดวิดีโอก่อนวางคลิป</translation>
     </message>
     <message>
         <source>Choose the video size before adding your first clip.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกขนาดวิดีโอก่อนเพิ่มคลิปแรก</translation>
     </message>
     <message>
         <source>Aspect ratio</source>
@@ -9991,7 +9991,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Match clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ให้ตรงกับคลิป</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -10011,7 +10011,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Video: %1×%2, %3 frames per second</source>
-        <translation type="unfinished"></translation>
+        <translation>วิดีโอ: %1×%2, %3 เฟรมต่อวินาที</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -10019,14 +10019,14 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Restore the size suggested by your first clip</source>
-        <translation type="unfinished"></translation>
+        <translation>คืนค่าขนาดที่แนะนำจากคลิปแรก</translation>
     </message>
 </context>
 <context>
     <name>PropertiesPanel</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>ทั่วไป</translation>
     </message>
     <message>
         <source>Text</source>
@@ -10038,11 +10038,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Motion</source>
-        <translation type="unfinished"></translation>
+        <translation>การเคลื่อนไหว</translation>
     </message>
     <message>
         <source>3D Model</source>
-        <translation type="unfinished"></translation>
+        <translation>โมเดล 3 มิติ</translation>
     </message>
     <message>
         <source>Subtitles</source>
@@ -10054,7 +10054,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Stabilization</source>
-        <translation type="unfinished"></translation>
+        <translation>การปรับเสถียร</translation>
     </message>
     <message>
         <source>Animation</source>
@@ -10070,7 +10070,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Blending</source>
-        <translation type="unfinished"></translation>
+        <translation>การผสม</translation>
     </message>
     <message>
         <source>Masks</source>
@@ -10090,15 +10090,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>It&apos;s empty here</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่นี่ว่างเปล่า</translation>
     </message>
     <message>
         <source>Tap a clip on the timeline to edit its properties</source>
-        <translation type="unfinished"></translation>
+        <translation>แตะคลิปบนไทม์ไลน์เพื่อแก้ไขคุณสมบัติ</translation>
     </message>
     <message>
         <source>Click a clip on the timeline to edit its properties</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิกคลิปบนไทม์ไลน์เพื่อแก้ไขคุณสมบัติ</translation>
     </message>
     <message>
         <source>Save effect preset</source>
@@ -10106,7 +10106,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Save effect as preset</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกเอฟเฟกต์เป็นพรีเซ็ต</translation>
     </message>
     <message>
         <source>My look</source>
@@ -10117,23 +10117,23 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     <name>PropertyKeyframeRow</name>
     <message>
         <source>%1 has no keyframes yet</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ยังไม่มีคีย์เฟรม</translation>
     </message>
     <message>
         <source>Turn off %1&apos;s keyframes — they are kept, but stop animating</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดคีย์เฟรมของ %1 — ยังคงเก็บไว้แต่จะไม่เคลื่อนไหว</translation>
     </message>
     <message>
         <source>Turn %1&apos;s keyframes back on</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดคีย์เฟรมของ %1 อีกครั้ง</translation>
     </message>
     <message>
         <source>Straight</source>
-        <translation type="unfinished"></translation>
+        <translation>เส้นตรง</translation>
     </message>
     <message>
         <source>Straight — changes at a steady rate between keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>เส้นตรง — เปลี่ยนแปลงด้วยอัตราคงที่ระหว่างคีย์เฟรม</translation>
     </message>
     <message>
         <source>Ease</source>
@@ -10141,31 +10141,31 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Ease — accelerates out and decelerates in</source>
-        <translation type="unfinished"></translation>
+        <translation>Ease — เร่งความเร็วช่วงต้นและชะลอช่วงท้าย</translation>
     </message>
     <message>
         <source>Jump</source>
-        <translation type="unfinished"></translation>
+        <translation>กระโดด</translation>
     </message>
     <message>
         <source>Jump — holds the value until the next keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>กระโดด — คงค่าเดิมจนถึงคีย์เฟรมถัดไป</translation>
     </message>
     <message>
         <source>Previous keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>คีย์เฟรมก่อนหน้า</translation>
     </message>
     <message>
         <source>Remove %1&apos;s keyframe at the playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบคีย์เฟรมของ %1 ที่ตำแหน่งหัวอ่าน</translation>
     </message>
     <message>
         <source>Add a keyframe for %1 at the playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มคีย์เฟรมของ %1 ที่ตำแหน่งหัวอ่าน</translation>
     </message>
     <message>
         <source>Next keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>คีย์เฟรมถัดไป</translation>
     </message>
     <message>
         <source>Edit %1</source>
@@ -10173,66 +10173,66 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Click to type an exact %1</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิกเพื่อพิมพ์ค่า %1 ที่แน่นอน</translation>
     </message>
 </context>
 <context>
     <name>ProxyEncoder</name>
     <message>
         <source>Could not create the proxy container</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างคอนเทนเนอร์พร็อกซีไม่ได้</translation>
     </message>
     <message>
         <source>H.264 encoder not available</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวเข้ารหัส H.264 ไม่พร้อมใช้งาน</translation>
     </message>
     <message>
         <source>Could not create the proxy stream</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างสตรีมพร็อกซีไม่ได้</translation>
     </message>
     <message>
         <source>Could not allocate the proxy encoder</source>
-        <translation type="unfinished"></translation>
+        <translation>จัดสรรตัวเข้ารหัสพร็อกซีไม่ได้</translation>
     </message>
     <message>
         <source>Could not open the proxy encoder</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดตัวเข้ารหัสพร็อกซีไม่ได้</translation>
     </message>
     <message>
         <source>Could not open the proxy file for writing</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดไฟล์พร็อกซีเพื่อเขียนไม่ได้</translation>
     </message>
     <message>
         <source>Could not write the proxy header</source>
-        <translation type="unfinished"></translation>
+        <translation>เขียนส่วนหัวของไฟล์พร็อกซีไม่ได้</translation>
     </message>
     <message>
         <source>Could not allocate proxy frame buffers</source>
-        <translation type="unfinished"></translation>
+        <translation>จัดสรรบัฟเฟอร์เฟรมพร็อกซีไม่ได้</translation>
     </message>
     <message>
         <source>Could not allocate the proxy frame</source>
-        <translation type="unfinished"></translation>
+        <translation>จัดสรรเฟรมพร็อกซีไม่ได้</translation>
     </message>
     <message>
         <source>Proxy writer is not open</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวเขียนพร็อกซียังไม่เปิด</translation>
     </message>
     <message>
         <source>Could not convert a frame for the proxy encoder</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงเฟรมสำหรับตัวเข้ารหัสพร็อกซีไม่ได้</translation>
     </message>
     <message>
         <source>Could not make the proxy frame writable</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำให้เฟรมพร็อกซีเขียนได้ไม่ได้</translation>
     </message>
     <message>
         <source>Proxy encoder rejected a frame</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวเข้ารหัสพร็อกซีปฏิเสธเฟรม</translation>
     </message>
     <message>
         <source>Failed to read an encoded proxy packet</source>
-        <translation type="unfinished"></translation>
+        <translation>อ่านแพ็กเก็ตพร็อกซีที่เข้ารหัสแล้วไม่สำเร็จ</translation>
     </message>
     <message>
         <source>Failed to write a proxy packet</source>
@@ -10645,7 +10645,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>ทั่วไป</translation>
     </message>
     <message>
         <source>Choose an upscaler</source>
@@ -14713,7 +14713,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>ทั่วไป</translation>
     </message>
     <message>
         <source>Before</source>
