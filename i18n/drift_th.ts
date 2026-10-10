@@ -5306,7 +5306,7 @@
     </message>
     <message>
         <source>Overlay</source>
-        <translation type="unfinished"></translation>
+        <translation>โอเวอร์เลย์</translation>
     </message>
     <message>
         <source>Add</source>
@@ -5314,19 +5314,19 @@
     </message>
     <message>
         <source>Darken</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำให้มืด</translation>
     </message>
     <message>
         <source>Lighten</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำให้สว่าง</translation>
     </message>
     <message>
         <source>How this clip blends with the layers below</source>
-        <translation type="unfinished"></translation>
+        <translation>วิธีผสมคลิปนี้กับเลเยอร์ด้านล่าง</translation>
     </message>
     <message>
         <source>Reset to Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>รีเซ็ตเป็นปกติ</translation>
     </message>
 </context>
 <context>
@@ -5344,23 +5344,23 @@
     <name>CollectMediaDialog</name>
     <message>
         <source>Collecting media</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังรวบรวมสื่อ</translation>
     </message>
     <message>
         <source>Collect media to folder</source>
-        <translation type="unfinished"></translation>
+        <translation>รวบรวมสื่อไปยังโฟลเดอร์</translation>
     </message>
     <message>
         <source>Gathering your media into one folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังรวบรวมสื่อไว้ในโฟลเดอร์เดียว</translation>
     </message>
     <message>
         <source>Every file this project uses goes into Video, Audio, Images, Derived and Other folders inside “%1”, and the project is relinked to them.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์ทั้งหมดที่โปรเจกต์นี้ใช้จะถูกจัดไว้ในโฟลเดอร์ Video, Audio, Images, Derived และ Other ภายใน “%1” จากนั้นจะเชื่อมโยงโปรเจกต์กับไฟล์เหล่านั้นอีกครั้ง</translation>
     </message>
     <message>
         <source>Copy leaves the originals where they are. Move deletes them once everything has landed, and clears undo history.</source>
-        <translation type="unfinished"></translation>
+        <translation>การคัดลอกจะคงไฟล์ต้นฉบับไว้ที่เดิม ส่วนการย้ายจะลบไฟล์ต้นฉบับเมื่อย้ายทุกอย่างเสร็จ และล้างประวัติการเลิกทำ</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5368,7 +5368,7 @@
     </message>
     <message>
         <source>Move</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้าย</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -5379,49 +5379,49 @@
     <name>ColorEyedropper</name>
     <message>
         <source>Drag to a colour and lift to pick it</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากไปยังสีที่ต้องการแล้วปล่อยเพื่อเลือก</translation>
     </message>
     <message>
         <source>Click a colour to pick it. Esc cancels.</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิกสีเพื่อเลือก กด Esc เพื่อยกเลิก</translation>
     </message>
 </context>
 <context>
     <name>ColorSwatchField</name>
     <message>
         <source>Choose colour</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกสี</translation>
     </message>
     <message>
         <source>Enter a color like #FF0000</source>
-        <translation type="unfinished"></translation>
+        <translation>ป้อนค่าสี เช่น #FF0000</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกสี</translation>
     </message>
 </context>
 <context>
     <name>CropOverlay</name>
     <message>
         <source>Drag the edges to reframe</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากขอบเพื่อจัดกรอบใหม่</translation>
     </message>
     <message>
         <source>Ctrl + scroll to zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>กด Ctrl แล้วเลื่อนเพื่อซูม</translation>
     </message>
     <message>
         <source>Middle-drag to pan</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากด้วยปุ่มกลางของเมาส์เพื่อแพน</translation>
     </message>
     <message>
         <source>Fit view</source>
-        <translation type="unfinished"></translation>
+        <translation>ปรับให้พอดีกับมุมมอง</translation>
     </message>
     <message>
         <source>Recentre and reset zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>จัดกึ่งกลางใหม่และรีเซ็ตการซูม</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -5429,7 +5429,7 @@
     </message>
     <message>
         <source>Reset crop to the full video size</source>
-        <translation type="unfinished"></translation>
+        <translation>รีเซ็ตการครอบตัดให้เท่าขนาดวิดีโอเต็ม</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -5444,7 +5444,7 @@
     </message>
     <message>
         <source>Copy report</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกรายงาน</translation>
     </message>
     <message>
         <source>Close</source>
@@ -5452,171 +5452,171 @@
     </message>
     <message>
         <source>Copied to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกไปยังคลิปบอร์ดแล้ว</translation>
     </message>
     <message>
         <source>Unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พร้อมใช้งาน</translation>
     </message>
     <message>
         <source>Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>การเล่น</translation>
     </message>
     <message>
         <source>Video decoders</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวถอดรหัสวิดีโอ</translation>
     </message>
     <message>
         <source>Codec Name</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อโคเดก</translation>
     </message>
     <message>
         <source>Software Decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>ถอดรหัสด้วยซอฟต์แวร์</translation>
     </message>
     <message>
         <source>Hardware Decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>ถอดรหัสด้วยฮาร์ดแวร์</translation>
     </message>
     <message>
         <source>Video encoders</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวเข้ารหัสวิดีโอ</translation>
     </message>
     <message>
         <source>Software Encoding</source>
-        <translation type="unfinished"></translation>
+        <translation>เข้ารหัสด้วยซอฟต์แวร์</translation>
     </message>
     <message>
         <source>Hardware Encoding</source>
-        <translation type="unfinished"></translation>
+        <translation>เข้ารหัสด้วยฮาร์ดแวร์</translation>
     </message>
     <message>
         <source>Software: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ซอฟต์แวร์: %1</translation>
     </message>
     <message>
         <source>Hardware: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ฮาร์ดแวร์: %1</translation>
     </message>
     <message>
         <source>Supported</source>
-        <translation type="unfinished"></translation>
+        <translation>รองรับ</translation>
     </message>
     <message>
         <source>Not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่รองรับ</translation>
     </message>
     <message>
         <source>Checks</source>
-        <translation type="unfinished"></translation>
+        <translation>การตรวจสอบ</translation>
     </message>
     <message>
         <source>Open Add-ons</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดส่วนเสริม</translation>
     </message>
     <message>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>ระบบ</translation>
     </message>
     <message>
         <source>Delivered well above displayed means frames are being produced that the display never shows — a cadence problem rather than a slow machine.</source>
-        <translation type="unfinished"></translation>
+        <translation>หากจำนวนเฟรมที่ส่งออกสูงกว่าจำนวนที่แสดงมาก แสดงว่ามีการสร้างเฟรมที่หน้าจอไม่ได้แสดง เป็นปัญหาจังหวะเฟรม ไม่ใช่เครื่องช้า</translation>
     </message>
     <message>
         <source>Show live stats on the preview</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงสถิติแบบเรียลไทม์บนพรีวิว</translation>
     </message>
     <message>
         <source>Stays on after this dialog closes, so you can watch the numbers while the timeline plays.</source>
-        <translation type="unfinished"></translation>
+        <translation>จะแสดงต่อแม้ปิดหน้าต่างนี้แล้ว เพื่อให้ดูตัวเลขขณะเล่นไทม์ไลน์ได้</translation>
     </message>
     <message>
         <source>Where the time goes</source>
-        <translation type="unfinished"></translation>
+        <translation>เวลาถูกใช้ไปกับอะไร</translation>
     </message>
     <message>
         <source>Decodes a fixed 1080p60 clip, and the first clip on the timeline, through each stage of the preview. Takes a few seconds.</source>
-        <translation type="unfinished"></translation>
+        <translation>ถอดรหัสคลิป 1080p60 ที่กำหนดไว้และคลิปแรกบนไทม์ไลน์ผ่านแต่ละขั้นตอนของพรีวิว ใช้เวลาไม่กี่วินาที</translation>
     </message>
     <message>
         <source>Measuring…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังวัด…</translation>
     </message>
     <message>
         <source>Run test</source>
-        <translation type="unfinished"></translation>
+        <translation>เรียกใช้การทดสอบ</translation>
     </message>
     <message>
         <source>Reference clip (1080p60)</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิปอ้างอิง (1080p60)</translation>
     </message>
     <message>
         <source>Timeline clip</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิปบนไทม์ไลน์</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation>ต้นทาง</translation>
     </message>
     <message>
         <source>Decoder</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวถอดรหัส</translation>
     </message>
     <message>
         <source> (hardware)</source>
-        <translation type="unfinished"></translation>
+        <translation>(ฮาร์ดแวร์)</translation>
     </message>
     <message>
         <source> (software)</source>
-        <translation type="unfinished"></translation>
+        <translation>(ซอฟต์แวร์)</translation>
     </message>
     <message>
         <source>Preview upload</source>
-        <translation type="unfinished"></translation>
+        <translation>การส่งข้อมูลไปยังพรีวิว</translation>
     </message>
     <message>
         <source>Decode</source>
-        <translation type="unfinished"></translation>
+        <translation>ถอดรหัส</translation>
     </message>
     <message>
         <source>Readback to CPU costs</source>
-        <translation type="unfinished"></translation>
+        <translation>เวลาที่ใช้ในการอ่านกลับไปยัง CPU</translation>
     </message>
     <message>
         <source>Compositing costs</source>
-        <translation type="unfinished"></translation>
+        <translation>เวลาที่ใช้ในการคอมโพสิต</translation>
     </message>
     <message>
         <source>Total per frame</source>
-        <translation type="unfinished"></translation>
+        <translation>เวลารวมต่อเฟรม</translation>
     </message>
     <message>
         <source>Budget at this frame rate</source>
-        <translation type="unfinished"></translation>
+        <translation>งบเวลาที่เฟรมเรตนี้</translation>
     </message>
     <message>
         <source>Findings</source>
-        <translation type="unfinished"></translation>
+        <translation>ผลการตรวจสอบ</translation>
     </message>
     <message>
         <source>Nothing stood out. Turn on the live stats above, play the timeline for a few seconds, then reopen this.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พบสิ่งผิดปกติเด่นชัด เปิดสถิติสดด้านบน เล่นไทม์ไลน์สักครู่ แล้วเปิดหน้านี้อีกครั้ง</translation>
     </message>
     <message>
         <source>Need help? Copy the report above when you file an issue.</source>
-        <translation type="unfinished"></translation>
+        <translation>ต้องการความช่วยเหลือหรือไม่ คัดลอกรายงานด้านบนเมื่อแจ้งปัญหา</translation>
     </message>
     <message>
         <source>Report a bug</source>
-        <translation type="unfinished"></translation>
+        <translation>รายงานข้อบกพร่อง</translation>
     </message>
     <message>
         <source>Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>เอกสารประกอบ</translation>
     </message>
     <message>
         <source>Questions and support on Discord</source>
-        <translation type="unfinished"></translation>
+        <translation>สอบถามและรับการสนับสนุนผ่าน Discord</translation>
     </message>
 </context>
 <context>
@@ -5627,7 +5627,7 @@
     </message>
     <message>
         <source>A short section of the clip is previewed here. Confirming runs the whole clip and adds the result as a new audio track above this one — the original is left untouched.</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่นี่จะแสดงตัวอย่างช่วงสั้น ๆ ของคลิป เมื่อยืนยันจะประมวลผลทั้งคลิปและเพิ่มผลลัพธ์เป็นแทร็กเสียงใหม่เหนือแทร็กนี้ โดยไม่เปลี่ยนต้นฉบับ</translation>
     </message>
     <message>
         <source>Original</source>
@@ -5639,7 +5639,7 @@
     </message>
     <message>
         <source>· playing</source>
-        <translation type="unfinished"></translation>
+        <translation>· กำลังเล่น</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -5651,7 +5651,7 @@
     </message>
     <message>
         <source>Preview from</source>
-        <translation type="unfinished"></translation>
+        <translation>พรีวิวจาก</translation>
     </message>
     <message>
         <source>s</source>
@@ -5900,7 +5900,7 @@
     </message>
     <message>
         <source>Choose colour</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกสี</translation>
     </message>
 </context>
 <context>
@@ -9030,7 +9030,7 @@
     </message>
     <message>
         <source>Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>การเล่น</translation>
     </message>
     <message>
         <source>Animation</source>
@@ -9581,7 +9581,7 @@
     </message>
     <message>
         <source>Preview upload</source>
-        <translation type="unfinished"></translation>
+        <translation>การส่งข้อมูลไปยังพรีวิว</translation>
     </message>
     <message>
         <source>Playhead update (median)</source>
@@ -11077,7 +11077,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>การเล่น</translation>
     </message>
     <message>
         <source>Audio output</source>
@@ -11336,7 +11336,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Overlay</source>
-        <translation type="unfinished"></translation>
+        <translation>โอเวอร์เลย์</translation>
     </message>
     <message>
         <source>Add</source>
@@ -11344,11 +11344,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Darken</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำให้มืด</translation>
     </message>
     <message>
         <source>Lighten</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำให้สว่าง</translation>
     </message>
     <message>
         <source>Centre</source>
@@ -13343,7 +13343,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Enter a color like #FF0000</source>
-        <translation type="unfinished"></translation>
+        <translation>ป้อนค่าสี เช่น #FF0000</translation>
     </message>
     <message>
         <source>Hex colour</source>
@@ -14260,7 +14260,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Move</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้าย</translation>
     </message>
     <message>
         <source>Arrows on the preview move the clip along each axis</source>
@@ -14786,7 +14786,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>การเล่น</translation>
     </message>
     <message>
         <source>Fit</source>
