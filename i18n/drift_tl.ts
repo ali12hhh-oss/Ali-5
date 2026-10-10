@@ -5383,7 +5383,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselahin</translation>
+        <translation>Kanselahin</translation>
     </message>
     <message>
         <source>Move</source>
@@ -5678,7 +5678,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselahin</translation>
+        <translation>Kanselahin</translation>
     </message>
 </context>
 <context>
@@ -5800,7 +5800,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselahin</translation>
+        <translation>Kanselahin</translation>
     </message>
 </context>
 <context>
@@ -6061,7 +6061,7 @@
     </message>
     <message>
         <source>Projects</source>
-        <translation type="unfinished">Mga Proyekto</translation>
+        <translation>Mga proyekto</translation>
     </message>
     <message>
         <source>All changes saved</source>
@@ -6104,7 +6104,7 @@
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Video</translation>
     </message>
     <message>
         <source>Video size and layout</source>
@@ -6112,7 +6112,7 @@
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Mga Setting</translation>
+        <translation>Mga setting</translation>
     </message>
     <message>
         <source>Workspace, theme, language and more</source>
@@ -6502,7 +6502,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselahin</translation>
+        <translation>Kanselahin</translation>
     </message>
     <message>
         <source>Download face detection (about 5 MB)</source>
@@ -6744,11 +6744,11 @@
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Video</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished">Audyo</translation>
+        <translation>Audio</translation>
     </message>
     <message>
         <source>GIF</source>
@@ -7148,7 +7148,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselahin</translation>
+        <translation>Kanselahin</translation>
     </message>
 </context>
 <context>
@@ -7196,11 +7196,11 @@
     <name>GeneralInspector</name>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Video</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished">Audyo</translation>
+        <translation>Audio</translation>
     </message>
     <message>
         <source>Image</source>
@@ -7775,7 +7775,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselahin</translation>
+        <translation>Kanselahin</translation>
     </message>
     <message>
         <source>Decide later</source>
@@ -8129,7 +8129,7 @@
     </message>
     <message>
         <source>Open Project</source>
-        <translation type="unfinished">Buksan ang Proyekto</translation>
+        <translation>Buksan ang proyekto</translation>
     </message>
     <message>
         <source>Project closed</source>
@@ -8314,7 +8314,7 @@
     <name>MarketSearchField</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselahin</translation>
+        <translation>Kanselahin</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -8553,7 +8553,7 @@
     </message>
     <message>
         <source>Import media</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-import ng media</translation>
     </message>
     <message>
         <source>Import folder</source>
@@ -8565,11 +8565,11 @@
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Video</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished">Audyo</translation>
+        <translation>Audio</translation>
     </message>
     <message>
         <source>Images</source>
@@ -8858,7 +8858,7 @@
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>I-preview</translation>
     </message>
     <message>
         <source>Play the clip and drag the ends to keep only the part you want. Save replaces this item in the media bin.</source>
@@ -8954,7 +8954,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselahin</translation>
+        <translation>Kanselahin</translation>
     </message>
     <message>
         <source>Close</source>
@@ -9277,7 +9277,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselahin</translation>
+        <translation>Kanselahin</translation>
     </message>
     <message>
         <source>Save as separate tracks</source>
@@ -9307,11 +9307,11 @@
     <name>NewTrackMenu</name>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Video</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished">Audyo</translation>
+        <translation>Audio</translation>
     </message>
     <message>
         <source>Text</source>
@@ -9350,7 +9350,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselahin</translation>
+        <translation>Kanselahin</translation>
     </message>
     <message>
         <source>Copying your media into one file so it opens on any computer.</source>
@@ -9429,7 +9429,7 @@
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Scale</translation>
     </message>
     <message>
         <source>Angle</source>
@@ -9452,7 +9452,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselahin</translation>
+        <translation>Kanselahin</translation>
     </message>
     <message>
         <source>Clip</source>
@@ -9796,7 +9796,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselahin</translation>
+        <translation>Kanselahin</translation>
     </message>
     <message>
         <source>Launching Drift with prime-run (or DRI_PRIME=1) puts OpenGL on the same card as the decoder.</source>
@@ -10020,7 +10020,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Aspect ratio</translation>
     </message>
     <message>
         <source>Match clip</source>
@@ -10095,7 +10095,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished">Audyo</translation>
+        <translation>Audio</translation>
     </message>
     <message>
         <source>Speed</source>
@@ -10269,23 +10269,23 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Failed to write a proxy packet</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi maisulat ang packet ng proxy</translation>
     </message>
     <message>
         <source>Could not flush the proxy encoder</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-flush ang proxy encoder</translation>
     </message>
     <message>
         <source>Could not write the proxy trailer</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi maisulat ang trailer ng proxy</translation>
     </message>
     <message>
         <source>Could not move the proxy into place</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mailipat ang proxy sa tamang lokasyon</translation>
     </message>
     <message>
         <source>Could not open the clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabuksan ang clip</translation>
     </message>
     <message>
         <source>Could not read the clip&apos;s streams</source>
@@ -10293,27 +10293,27 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>The clip has no video</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang video ang clip</translation>
     </message>
     <message>
         <source>No decoder for this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang decoder para sa clip na ito</translation>
     </message>
     <message>
         <source>Could not allocate the decoder</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-allocate ang decoder</translation>
     </message>
     <message>
         <source>Could not configure the decoder</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-configure ang decoder</translation>
     </message>
     <message>
         <source>Could not open the decoder</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabuksan ang decoder</translation>
     </message>
     <message>
         <source>The clip has no usable video size</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang magagamit na laki ng video ang clip</translation>
     </message>
     <message>
         <source>Clips with transparency can&apos;t use a proxy</source>
@@ -10321,22 +10321,22 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Could not allocate decode buffers</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-allocate ang mga decode buffer</translation>
     </message>
     <message>
         <source>Proxy cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinansela ang paggawa ng proxy</translation>
     </message>
     <message>
         <source>No frames could be decoded from this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang frame na na-decode mula sa clip na ito</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Measuring loudness…</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinusukat ang lakas ng tunog…</translation>
     </message>
     <message>
         <source>Identifying objects in scene %1 of %2…</source>
@@ -10344,7 +10344,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Nothing to scan in this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang masi-scan sa clip na ito</translation>
     </message>
     <message>
         <source>Could not open the media file</source>
@@ -10352,15 +10352,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>This file has no video to scan</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang video sa file na ito na maaaring i-scan</translation>
     </message>
     <message>
         <source>Loading the depth model…</source>
-        <translation type="unfinished"></translation>
+        <translation>Nilo-load ang depth model…</translation>
     </message>
     <message>
         <source>No cache directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang cache directory</translation>
     </message>
     <message>
         <source>Could not decode frame %1</source>
@@ -10532,50 +10532,50 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Save with media…</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save kasama ang media…</translation>
     </message>
     <message>
         <source>Save as JSON…</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save bilang JSON…</translation>
     </message>
     <message>
         <source>Open JSON…</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan ang JSON…</translation>
     </message>
     <message>
         <source>Project properties…</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga katangian ng proyekto…</translation>
     </message>
     <message>
         <source>Close project</source>
-        <translation type="unfinished"></translation>
+        <translation>Isara ang proyekto</translation>
     </message>
 </context>
 <context>
     <name>RecoveryDialog</name>
     <message>
         <source>Unsaved work from last session</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi na-save na gawain mula sa nakaraang session</translation>
     </message>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Ibalik</translation>
     </message>
     <message>
         <source>New session</source>
-        <translation type="unfinished"></translation>
+        <translation>Bagong session</translation>
     </message>
     <message>
         <source>Your last session had unsaved changes. You can restore them or start a new empty session.</source>
-        <translation type="unfinished"></translation>
+        <translation>May mga pagbabagong hindi na-save sa nakaraang session. Maaari mong ibalik ang mga ito o magsimula ng bagong blangkong session.</translation>
     </message>
     <message>
         <source>Untitled project</source>
-        <translation type="unfinished"></translation>
+        <translation>Proyektong walang pamagat</translation>
     </message>
     <message>
         <source>Auto-saved: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Awtomatikong na-save: %1</translation>
     </message>
 </context>
 <context>
@@ -10590,7 +10590,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>%1 (custom, experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (custom, pang-eksperimento)</translation>
     </message>
     <message>
         <source>Original</source>
@@ -10598,23 +10598,23 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Enhanced — out of date, preview again</source>
-        <translation type="unfinished"></translation>
+        <translation>Luma na ang resulta ng pagpapahusay; mag-preview muli</translation>
     </message>
     <message>
         <source>Enhanced %1 × %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinahusay na %1 × %2</translation>
     </message>
     <message>
         <source>Loading this frame…</source>
-        <translation type="unfinished"></translation>
+        <translation>Nilo-load ang frame na ito…</translation>
     </message>
     <message>
         <source>Working…</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinoproseso…</translation>
     </message>
     <message>
         <source>Choose models, then Preview to compare this frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng mga modelo, pagkatapos ay i-preview upang ihambing ang frame na ito</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -10642,11 +10642,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Upscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Palakihin ang resolusyon</translation>
     </message>
     <message>
         <source>Output: %1 × %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Output: %1 × %2</translation>
     </message>
     <message>
         <source> — larger than 4K, which is slow to edit and export</source>
@@ -10666,15 +10666,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Anime and drawings</source>
-        <translation type="unfinished"></translation>
+        <translation>Anime at mga guhit</translation>
     </message>
     <message>
         <source>Live action</source>
-        <translation type="unfinished"></translation>
+        <translation>Live action</translation>
     </message>
     <message>
         <source>3D animation and games</source>
-        <translation type="unfinished"></translation>
+        <translation>แอนิเมชัน 3 มิติและเกม</translation>
     </message>
     <message>
         <source>General</source>
@@ -10702,7 +10702,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>under a second</source>
-        <translation type="unfinished"></translation>
+        <translation>wala pang isang segundo</translation>
     </message>
     <message>
         <source>%1 s</source>
@@ -10718,11 +10718,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>%1 s per frame</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 วินาที bawat frame</translation>
     </message>
     <message>
         <source>No upscaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang pagtaas ng resolusyon</translation>
     </message>
     <message>
         <source>Keep the original size.</source>
@@ -10753,15 +10753,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>ReverseProgressDialog</name>
     <message>
         <source>Reversing clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Binabaliktad ang clip</translation>
     </message>
     <message>
         <source>Reverse clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Baliktarin ang clip</translation>
     </message>
     <message>
         <source>Working…</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinoproseso…</translation>
     </message>
     <message>
         <source>Drift will render a reversed copy of this clip so it plays back smoothly. You can keep editing while it runs.</source>
@@ -10785,30 +10785,30 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselahin</translation>
+        <translation>Kanselahin</translation>
     </message>
     <message>
         <source>Reverse</source>
-        <translation type="unfinished"></translation>
+        <translation>Baliktarin</translation>
     </message>
 </context>
 <context>
     <name>ReverseRenderer</name>
     <message>
         <source>Nothing to reverse</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang maaaring baliktarin</translation>
     </message>
     <message>
         <source>Could not allocate decode buffers</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-allocate ang mga decode buffer</translation>
     </message>
     <message>
         <source>Reversing cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinansela ang pagbaliktad</translation>
     </message>
     <message>
         <source>No frames could be decoded from this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang frame na na-decode mula sa clip na ito</translation>
     </message>
 </context>
 <context>
@@ -10819,11 +10819,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Find scenes</source>
-        <translation type="unfinished"></translation>
+        <translation>Hanapin ang mga eksena</translation>
     </message>
     <message>
         <source>Scan the selected clip for shot boundaries</source>
-        <translation type="unfinished"></translation>
+        <translation>I-scan ang napiling clip para hanapin ang mga hangganan ng kuha</translation>
     </message>
     <message>
         <source>Select a video clip first</source>
@@ -10835,7 +10835,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Identify objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Tukuyin ang mga bagay</translation>
     </message>
     <message>
         <source>Also label each shot with what is in it. Slower.</source>
@@ -10847,23 +10847,23 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Sensitivity</source>
-        <translation type="unfinished"></translation>
+        <translation>Sensitivity</translation>
     </message>
     <message>
         <source>Scene detection sensitivity</source>
-        <translation type="unfinished"></translation>
+        <translation>Sensitivity ng pagtukoy ng eksena</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselahin</translation>
+        <translation>Kanselahin</translation>
     </message>
     <message>
         <source>Most active first</source>
-        <translation type="unfinished"></translation>
+        <translation>Unahin ang pinakamaraming galaw</translation>
     </message>
     <message>
         <source>In order</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayon sa pagkakasunod-sunod</translation>
     </message>
     <message>
         <source>Switch between timeline order and activity ranking</source>
@@ -10871,7 +10871,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>%1 scenes</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 eksena</translation>
     </message>
     <message>
         <source>These scenes are from another clip. Select it again, or run Find scenes on the current one.</source>
@@ -10879,11 +10879,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>No scenes yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala pang mga eksena</translation>
     </message>
     <message>
         <source>No video clip selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang napiling video clip</translation>
     </message>
     <message>
         <source>Run Find scenes to split this clip into its shots.</source>
@@ -10986,7 +10986,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselahin</translation>
+        <translation>Kanselahin</translation>
     </message>
     <message>
         <source>Each moment is processed, so longer clips take longer.</source>
@@ -10997,7 +10997,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>SettingsDialog</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Mga Setting</translation>
+        <translation>Mga setting</translation>
     </message>
     <message>
         <source>Done</source>
@@ -11008,7 +11008,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>SettingsPane</name>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>I-preview</translation>
     </message>
     <message>
         <source>Show guides</source>
@@ -11921,7 +11921,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselahin</translation>
+        <translation>Kanselahin</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -11968,7 +11968,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Reverse</source>
-        <translation type="unfinished"></translation>
+        <translation>Baliktarin</translation>
     </message>
     <message>
         <source>Not rendered — playback may stutter</source>
@@ -12090,7 +12090,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselahin</translation>
+        <translation>Kanselahin</translation>
     </message>
 </context>
 <context>
@@ -12285,7 +12285,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>I-download</translation>
     </message>
     <message>
         <source>You have used today’s downloads from this source</source>
@@ -12463,11 +12463,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselahin</translation>
+        <translation>Kanselahin</translation>
     </message>
     <message>
         <source>Working…</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinoproseso…</translation>
     </message>
     <message>
         <source>This can take a few minutes on longer clips.</source>
@@ -12534,7 +12534,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselahin</translation>
+        <translation>Kanselahin</translation>
     </message>
     <message>
         <source>Stop creating captions</source>
@@ -13399,11 +13399,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>ThemedDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselahin</translation>
+        <translation>Kanselahin</translation>
     </message>
 </context>
 <context>
@@ -14042,7 +14042,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished">Audyo</translation>
+        <translation>Audio</translation>
     </message>
     <message>
         <source>Text</source>
@@ -14126,7 +14126,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Video</translation>
     </message>
     <message>
         <source>Drag the header to reorder this track</source>
@@ -14269,7 +14269,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Scale</translation>
     </message>
     <message>
         <source>Edit width and height separately</source>
@@ -14384,7 +14384,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished">Audyo</translation>
+        <translation>Audio</translation>
     </message>
     <message>
         <source>Text</source>
@@ -14404,7 +14404,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Video</translation>
     </message>
     <message>
         <source>Everything below</source>
@@ -14666,7 +14666,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Untitled project</source>
-        <translation type="unfinished"></translation>
+        <translation>Proyektong walang pamagat</translation>
     </message>
     <message>
         <source>Don&apos;t Save</source>
@@ -14674,7 +14674,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselahin</translation>
+        <translation>Kanselahin</translation>
     </message>
     <message>
         <source>Save</source>
@@ -14728,7 +14728,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>I-download</translation>
     </message>
     <message>
         <source>Opens the release page in your browser</source>
@@ -14739,15 +14739,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>UpscaleModelCard</name>
     <message>
         <source>Anime and drawings</source>
-        <translation type="unfinished"></translation>
+        <translation>Anime at mga guhit</translation>
     </message>
     <message>
         <source>Live action</source>
-        <translation type="unfinished"></translation>
+        <translation>Live action</translation>
     </message>
     <message>
         <source>3D animation and games</source>
-        <translation type="unfinished"></translation>
+        <translation>แอนิเมชัน 3 มิติและเกม</translation>
     </message>
     <message>
         <source>General</source>
@@ -15042,7 +15042,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>VideoSizeDialog</name>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Video</translation>
     </message>
     <message>
         <source>Close</source>
