@@ -3688,9 +3688,9 @@
     </message>
     <message numerus="yes">
         <source>Created %n text clips</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>テキストクリップを %n 件作成しました</numerusform>
+            <numerusform>テキストクリップを %n 件作成しました</numerusform>
         </translation>
     </message>
     <message>
@@ -3901,9 +3901,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>顔用小物を %n 件読み込みました</numerusform>
+            <numerusform>顔用小物を %n 件読み込みました</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -4030,9 +4030,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted attributes onto %n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n 件のクリップに属性を貼り付けました</numerusform>
+            <numerusform>%n 件のクリップに属性を貼り付けました</numerusform>
         </translation>
     </message>
     <message>
@@ -4197,9 +4197,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted %n clips</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n 件のクリップを貼り付けました</numerusform>
+            <numerusform>%n 件のクリップを貼り付けました</numerusform>
         </translation>
     </message>
     <message>
@@ -8711,9 +8711,9 @@
     </message>
     <message numerus="yes">
         <source>Move %n items to folder…</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>項目を %n 件フォルダーに移動…</numerusform>
+            <numerusform>項目を %n 件フォルダーに移動…</numerusform>
         </translation>
     </message>
     <message>
@@ -13931,9 +13931,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>This removes the track and its %n clips. You can undo afterwards.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>トラックとそのクリップ %n 件が削除されます。後で元に戻せます。</numerusform>
+            <numerusform>トラックとそのクリップ %n 件が削除されます。後で元に戻せます。</numerusform>
         </translation>
     </message>
     <message>
