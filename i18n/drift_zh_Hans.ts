@@ -12257,19 +12257,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>You have used today’s downloads from this source</source>
-        <translation type="unfinished"></translation>
+        <translation>你已用完此来源今天的下载额度</translation>
     </message>
     <message>
         <source>Saves to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>保存到 %1</translation>
     </message>
     <message>
         <source>You’ll choose a folder the first time</source>
-        <translation type="unfinished"></translation>
+        <translation>首次使用时，你需要选择一个文件夹</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"></translation>
+        <translation>更改</translation>
     </message>
 </context>
 <context>
@@ -12291,7 +12291,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Subtitles (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>字幕（%1）</translation>
     </message>
 </context>
 <context>
@@ -12308,7 +12308,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>(empty)</source>
-        <translation type="unfinished"></translation>
+        <translation>（空）</translation>
     </message>
 </context>
 <context>
@@ -12319,11 +12319,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 captions</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 条字幕</translation>
     </message>
     <message>
         <source>Play the timeline — the line on screen lights up. Click any line to jump to it and edit it below.</source>
-        <translation type="unfinished"></translation>
+        <translation>播放时间轴时，当前字幕行会高亮显示。点击任意一行即可跳转到该处，并在下方编辑。</translation>
     </message>
     <message>
         <source>Import</source>
@@ -12331,15 +12331,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Replace these captions from a .srt file</source>
-        <translation type="unfinished"></translation>
+        <translation>从 .srt 文件替换这些字幕</translation>
     </message>
     <message>
         <source>Import Subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>导入字幕</translation>
     </message>
     <message>
         <source>SubRip subtitles (*.srt)</source>
-        <translation type="unfinished"></translation>
+        <translation>SubRip 字幕（*.srt）</translation>
     </message>
     <message>
         <source>All files (*)</source>
@@ -12351,15 +12351,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Save captions as a .srt file</source>
-        <translation type="unfinished"></translation>
+        <translation>将字幕保存为 .srt 文件</translation>
     </message>
     <message>
         <source>Export Subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>导出字幕</translation>
     </message>
     <message>
         <source>Timestamps from the start of the video</source>
-        <translation type="unfinished"></translation>
+        <translation>时间戳从视频开头开始计算</translation>
     </message>
     <message>
         <source>Offset the exported captions by this clip&apos;s start so they match the exported video</source>
@@ -12367,66 +12367,66 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>(empty)</source>
-        <translation type="unfinished"></translation>
+        <translation>（空）</translation>
     </message>
     <message>
         <source>Delete this subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>删除此字幕</translation>
     </message>
     <message>
         <source>Add a subtitle after this one</source>
-        <translation type="unfinished"></translation>
+        <translation>在此字幕后添加一条字幕</translation>
     </message>
     <message>
         <source>No subtitles yet. Move to a time inside this clip and add one below.</source>
-        <translation type="unfinished"></translation>
+        <translation>还没有字幕。将播放头移到此片段内的某个时间点，然后在下方添加字幕。</translation>
     </message>
     <message>
         <source>Type subtitle…</source>
-        <translation type="unfinished"></translation>
+        <translation>输入字幕…</translation>
     </message>
     <message>
         <source>Apply text to this subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>将文本应用到此字幕</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>开始</translation>
     </message>
     <message>
         <source>Set start to current time</source>
-        <translation type="unfinished"></translation>
+        <translation>将开始时间设为当前时间</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>结束</translation>
     </message>
     <message>
         <source>Set end to current time</source>
-        <translation type="unfinished"></translation>
+        <translation>将结束时间设为当前时间</translation>
     </message>
     <message>
         <source>Delete caption</source>
-        <translation type="unfinished"></translation>
+        <translation>删除字幕行</translation>
     </message>
     <message>
         <source>At %1</source>
-        <translation type="unfinished"></translation>
+        <translation>位于 %1</translation>
     </message>
     <message>
         <source>Move to a time inside this clip to add a subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>将播放头移到此片段内的时间点以添加字幕</translation>
     </message>
     <message>
         <source>Add subtitle at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>在当前时间添加字幕</translation>
     </message>
 </context>
 <context>
     <name>SubtitleProgressDialog</name>
     <message>
         <source>Generating subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>正在生成字幕</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -12445,27 +12445,27 @@ If playback stutters, try another.</source>
     <name>SubtitlesTab</name>
     <message>
         <source>Subtitle track — one clip holds many timed captions. Place it on the timeline, trim its length, then add caption lines at each moment in the clip panel.</source>
-        <translation type="unfinished"></translation>
+        <translation>字幕轨道——一个片段可包含多条带时间码的字幕。将其放到时间轴上并调整长度，然后在片段面板中为各个时间点添加字幕行。</translation>
     </message>
     <message>
         <source>Add subtitle clip</source>
-        <translation type="unfinished"></translation>
+        <translation>添加字幕片段</translation>
     </message>
     <message>
         <source>Import subtitle file</source>
-        <translation type="unfinished"></translation>
+        <translation>导入字幕文件</translation>
     </message>
     <message>
         <source>Import a .srt file as a subtitle clip</source>
-        <translation type="unfinished"></translation>
+        <translation>将 .srt 文件作为字幕片段导入</translation>
     </message>
     <message>
         <source>Import Subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>导入字幕</translation>
     </message>
     <message>
         <source>SubRip subtitles (*.srt)</source>
-        <translation type="unfinished"></translation>
+        <translation>SubRip 字幕（*.srt）</translation>
     </message>
     <message>
         <source>All files (*)</source>
@@ -12473,15 +12473,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Add auto caption</source>
-        <translation type="unfinished"></translation>
+        <translation>添加自动字幕</translation>
     </message>
     <message>
         <source>Creates captions from the speech in the selected clip.</source>
-        <translation type="unfinished"></translation>
+        <translation>根据所选片段中的语音生成字幕。</translation>
     </message>
     <message>
         <source>Select a video or audio clip on the timeline first.</source>
-        <translation type="unfinished"></translation>
+        <translation>请先在时间轴上选择视频或音频片段。</translation>
     </message>
     <message>
         <source>Shorter captions are timed by splitting each phrase evenly, so they can drift slightly out of sync with the speech.</source>
@@ -12493,7 +12493,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Select a video or audio clip first</source>
-        <translation type="unfinished"></translation>
+        <translation>请先选择视频或音频片段</translation>
     </message>
     <message>
         <source>Creating captions… %1%</source>
@@ -12505,7 +12505,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Stop creating captions</source>
-        <translation type="unfinished"></translation>
+        <translation>停止生成字幕</translation>
     </message>
     <message>
         <source>Download speech recognition (about 670 MB)</source>
@@ -12517,7 +12517,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Needed for auto captions from speech</source>
-        <translation type="unfinished"></translation>
+        <translation>语音自动字幕所需</translation>
     </message>
     <message>
         <source>Recommended caption length</source>
@@ -12543,35 +12543,35 @@ If playback stutters, try another.</source>
     <name>TextAssetsTab</name>
     <message>
         <source>Drift text style (*.drifttextstyle)</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift 文本样式（*.drifttextstyle）</translation>
     </message>
     <message>
         <source>Import text style</source>
-        <translation type="unfinished"></translation>
+        <translation>导入文本样式</translation>
     </message>
     <message>
         <source>Export text style</source>
-        <translation type="unfinished"></translation>
+        <translation>导出文本样式</translation>
     </message>
     <message>
         <source>Click a style to add text at the playhead. Double-click it on the preview to edit.</source>
-        <translation type="unfinished"></translation>
+        <translation>点击样式即可在播放头位置添加文本。双击预览中的文本可进行编辑。</translation>
     </message>
     <message>
         <source>My styles</source>
-        <translation type="unfinished"></translation>
+        <translation>我的样式</translation>
     </message>
     <message>
         <source>Import a text style…</source>
-        <translation type="unfinished"></translation>
+        <translation>导入文本样式…</translation>
     </message>
     <message>
         <source>Style some text, then use “Save style…” in the properties Text tab to keep it here.</source>
-        <translation type="unfinished"></translation>
+        <translation>设置文本样式后，在属性面板的“文本”选项卡中选择“保存样式…”即可将其保存在此处。</translation>
     </message>
     <message>
         <source>Style options</source>
-        <translation type="unfinished"></translation>
+        <translation>样式选项</translation>
     </message>
     <message>
         <source>Rename…</source>
@@ -12591,42 +12591,42 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Rename text style</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名文本样式</translation>
     </message>
     <message>
         <source>Delete text style</source>
-        <translation type="unfinished"></translation>
+        <translation>删除文本样式</translation>
     </message>
     <message>
         <source>Remove “%1” from your saved styles? Clips already using it keep their look.</source>
-        <translation type="unfinished"></translation>
+        <translation>要从已保存的样式中移除“%1”吗？已使用该样式的片段将保留当前外观。</translation>
     </message>
 </context>
 <context>
     <name>TextEffects</name>
     <message>
         <source>Shine sweep</source>
-        <translation type="unfinished"></translation>
+        <translation>流光扫过</translation>
     </message>
     <message>
         <source>Holographic shimmer</source>
-        <translation type="unfinished"></translation>
+        <translation>全息闪光</translation>
     </message>
     <message>
         <source>Neon pulse</source>
-        <translation type="unfinished"></translation>
+        <translation>霓虹脉冲</translation>
     </message>
     <message>
         <source>Glitch</source>
-        <translation type="unfinished"></translation>
+        <translation>故障效果</translation>
     </message>
     <message>
         <source>Chrome</source>
-        <translation type="unfinished"></translation>
+        <translation>镀铬</translation>
     </message>
     <message>
         <source>Dissolve</source>
-        <translation type="unfinished"></translation>
+        <translation>溶解</translation>
     </message>
 </context>
 <context>
@@ -12641,7 +12641,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Edits the first gradient stop</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑第一个渐变色标</translation>
     </message>
     <message>
         <source>Style</source>
@@ -12657,11 +12657,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Whole block</source>
-        <translation type="unfinished"></translation>
+        <translation>整个文本块</translation>
     </message>
     <message>
         <source>Character</source>
-        <translation type="unfinished"></translation>
+        <translation>字符</translation>
     </message>
     <message>
         <source>Word</source>
@@ -12673,19 +12673,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>向前</translation>
     </message>
     <message>
         <source>Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>向后</translation>
     </message>
     <message>
         <source>Center out</source>
-        <translation type="unfinished"></translation>
+        <translation>从中心向外</translation>
     </message>
     <message>
         <source>Random</source>
-        <translation type="unfinished"></translation>
+        <translation>随机</translation>
     </message>
     <message>
         <source>Linear</source>
@@ -12697,7 +12697,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Snappy</source>
-        <translation type="unfinished"></translation>
+        <translation>利落</translation>
     </message>
     <message>
         <source>Back</source>
@@ -12709,7 +12709,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Save style…</source>
-        <translation type="unfinished"></translation>
+        <translation>保存样式…</translation>
     </message>
     <message>
         <source>Save text style</source>
@@ -12717,31 +12717,31 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>My style %1</source>
-        <translation type="unfinished"></translation>
+        <translation>我的样式 %1</translation>
     </message>
     <message>
         <source>Apply to all captions</source>
-        <translation type="unfinished"></translation>
+        <translation>应用到所有字幕</translation>
     </message>
     <message>
         <source>Copy this style to every other caption on this track</source>
-        <translation type="unfinished"></translation>
+        <translation>将此样式复制到此轨道上的其他所有字幕</translation>
     </message>
     <message>
         <source>…every track</source>
-        <translation type="unfinished"></translation>
+        <translation>…所有轨道</translation>
     </message>
     <message>
         <source>Copy this style to every caption in the project</source>
-        <translation type="unfinished"></translation>
+        <translation>将此样式复制到项目中的所有字幕</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>字体</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation type="unfinished"></translation>
+        <translation>字重</translation>
     </message>
     <message>
         <source>Size</source>
@@ -12757,35 +12757,35 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Decorations</source>
-        <translation type="unfinished"></translation>
+        <translation>装饰</translation>
     </message>
     <message>
         <source>Boxes and rules drawn around the text rather than on it</source>
-        <translation type="unfinished"></translation>
+        <translation>绘制在文本周围而非文本本身上的方框和线条</translation>
     </message>
     <message>
         <source>Animate</source>
-        <translation type="unfinished"></translation>
+        <translation>动画</translation>
     </message>
     <message>
         <source>Phase</source>
-        <translation type="unfinished"></translation>
+        <translation>相位</translation>
     </message>
     <message>
         <source>Stagger</source>
-        <translation type="unfinished"></translation>
+        <translation>错开</translation>
     </message>
     <message>
         <source>Delay between one unit and the next along the cycle</source>
-        <translation type="unfinished"></translation>
+        <translation>循环中一个单元与下一个单元之间的延迟</translation>
     </message>
     <message>
         <source>Delay between one unit starting and the next</source>
-        <translation type="unfinished"></translation>
+        <translation>一个单元开始与下一个单元开始之间的延迟</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation>顺序</translation>
     </message>
     <message>
         <source>Ease</source>
@@ -12797,23 +12797,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Custom animator (set via MCP). Preset controls are disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义动画器（通过 MCP 设置）。预设控件已禁用。</translation>
     </message>
     <message>
         <source>Revert to preset</source>
-        <translation type="unfinished"></translation>
+        <translation>恢复为预设</translation>
     </message>
     <message>
         <source>Drop the custom animators and go back to picking presets</source>
-        <translation type="unfinished"></translation>
+        <translation>移除自定义动画器并恢复选择预设</translation>
     </message>
     <message>
         <source>Choose text colour</source>
-        <translation type="unfinished"></translation>
+        <translation>选择文本颜色</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>斜体</translation>
     </message>
     <message>
         <source>Italicise the text</source>
@@ -13329,7 +13329,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>My styles</source>
-        <translation type="unfinished"></translation>
+        <translation>我的样式</translation>
     </message>
     <message>
         <source>Built-in</source>
@@ -15092,7 +15092,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Glitch</source>
-        <translation type="unfinished"></translation>
+        <translation>故障效果</translation>
     </message>
     <message>
         <source>Neon</source>
@@ -15116,7 +15116,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Chrome</source>
-        <translation type="unfinished"></translation>
+        <translation>镀铬</translation>
     </message>
     <message>
         <source>Holographic</source>
