@@ -6067,10 +6067,7 @@
     </message>
     <message numerus="yes">
         <source>Downloads — %n running</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>ダウンロード — %n 件実行中</translation>
     </message>
     <message>
         <source>Downloads</source>
@@ -8642,10 +8639,7 @@
     </message>
     <message numerus="yes">
         <source>Create %n proxies</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>プロキシを %n 個作成</translation>
     </message>
     <message>
         <source>Create proxy</source>
@@ -8653,10 +8647,7 @@
     </message>
     <message numerus="yes">
         <source>Remove %n proxies</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>プロキシを %n 個削除</translation>
     </message>
     <message>
         <source>Remove proxy</source>
@@ -8712,10 +8703,7 @@
     </message>
     <message numerus="yes">
         <source>Add %n items to timeline</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>タイムラインに項目を %n 件追加</translation>
     </message>
     <message>
         <source>Add to timeline</source>
@@ -8734,10 +8722,7 @@
     </message>
     <message numerus="yes">
         <source>Remove %n items from project</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>プロジェクトから項目を %n 件削除</translation>
     </message>
 </context>
 <context>
@@ -8814,10 +8799,7 @@
     </message>
     <message numerus="yes">
         <source>Could not import any of the %n selected files.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>選択した %n 個のファイルを読み込めませんでした。</translation>
     </message>
 </context>
 <context>
@@ -12159,10 +12141,7 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>Filters — %n applied</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>フィルター — %n 件適用済み</translation>
     </message>
     <message>
         <source>Filters</source>
@@ -14409,10 +14388,7 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>+%n more</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>ほか %n 件</translation>
     </message>
 </context>
 <context>
