@@ -9934,27 +9934,27 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>cannot finish writing %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi matapos isulat ang %1</translation>
     </message>
     <message>
         <source>cannot create %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi magawa ang %1</translation>
     </message>
     <message>
         <source>%1 is corrupt in this project</source>
-        <translation type="unfinished"></translation>
+        <translation>Sira ang %1 sa project na ito</translation>
     </message>
     <message>
         <source>Couldn’t read %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabasa ang %1</translation>
     </message>
     <message>
         <source>Couldn’t write %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi maisulat ang %1</translation>
     </message>
     <message>
         <source>Couldn’t create %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi magawa ang %1</translation>
     </message>
 </context>
 <context>
@@ -9973,38 +9973,38 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Untitled Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang pamagat na project</translation>
     </message>
     <message>
         <source>Author</source>
-        <translation type="unfinished"></translation>
+        <translation>May-akda</translation>
     </message>
     <message>
         <source>Your name</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangalan mo</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Paglalarawan</translation>
     </message>
     <message>
         <source>What this project is</source>
-        <translation type="unfinished"></translation>
+        <translation>Tungkol saan ang project na ito</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="unfinished"></translation>
+        <translation>Ginawa</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Binago</translation>
     </message>
 </context>
 <context>
     <name>ProjectSetupDialog</name>
     <message>
         <source>Set up your video</source>
-        <translation type="unfinished"></translation>
+        <translation>I-set up ang video mo</translation>
     </message>
     <message>
         <source>Create</source>
@@ -10012,11 +10012,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>First clip “%1”. Choose the video size before it is placed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Unang clip ang “%1”. Piliin ang laki ng video bago ito ilagay.</translation>
     </message>
     <message>
         <source>Choose the video size before adding your first clip.</source>
-        <translation type="unfinished"></translation>
+        <translation>Piliin ang laki ng video bago idagdag ang unang clip.</translation>
     </message>
     <message>
         <source>Aspect ratio</source>
@@ -10024,7 +10024,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Match clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Itugma sa clip</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -10044,7 +10044,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Video: %1×%2, %3 frames per second</source>
-        <translation type="unfinished"></translation>
+        <translation>Video: %1×%2, %3 frame bawat segundo</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -10052,14 +10052,14 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Restore the size suggested by your first clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Ibalik ang laki na iminungkahi ng unang clip</translation>
     </message>
 </context>
 <context>
     <name>PropertiesPanel</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangkalahatan</translation>
     </message>
     <message>
         <source>Text</source>
@@ -10071,11 +10071,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Motion</source>
-        <translation type="unfinished"></translation>
+        <translation>Galaw</translation>
     </message>
     <message>
         <source>3D Model</source>
-        <translation type="unfinished"></translation>
+        <translation>3D Model</translation>
     </message>
     <message>
         <source>Subtitles</source>
@@ -10087,7 +10087,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Stabilization</source>
-        <translation type="unfinished"></translation>
+        <translation>Stabilization</translation>
     </message>
     <message>
         <source>Animation</source>
@@ -10103,7 +10103,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Blending</source>
-        <translation type="unfinished"></translation>
+        <translation>Blending</translation>
     </message>
     <message>
         <source>Masks</source>
@@ -10123,15 +10123,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>It&apos;s empty here</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang laman dito</translation>
     </message>
     <message>
         <source>Tap a clip on the timeline to edit its properties</source>
-        <translation type="unfinished"></translation>
+        <translation>I-tap ang clip sa timeline para i-edit ang mga property nito</translation>
     </message>
     <message>
         <source>Click a clip on the timeline to edit its properties</source>
-        <translation type="unfinished"></translation>
+        <translation>I-click ang clip sa timeline para i-edit ang mga property nito</translation>
     </message>
     <message>
         <source>Save effect preset</source>
@@ -10139,7 +10139,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Save effect as preset</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save ang effect bilang preset</translation>
     </message>
     <message>
         <source>My look</source>
@@ -10150,23 +10150,23 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>PropertyKeyframeRow</name>
     <message>
         <source>%1 has no keyframes yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala pang keyframe ang %1</translation>
     </message>
     <message>
         <source>Turn off %1&apos;s keyframes — they are kept, but stop animating</source>
-        <translation type="unfinished"></translation>
+        <translation>I-off ang mga keyframe ng %1 — mananatili ang mga ito pero hindi na mag-a-animate</translation>
     </message>
     <message>
         <source>Turn %1&apos;s keyframes back on</source>
-        <translation type="unfinished"></translation>
+        <translation>I-on muli ang mga keyframe ng %1</translation>
     </message>
     <message>
         <source>Straight</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuwid</translation>
     </message>
     <message>
         <source>Straight — changes at a steady rate between keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuwid — pare-pareho ang pagbabago sa pagitan ng mga keyframe</translation>
     </message>
     <message>
         <source>Ease</source>
@@ -10174,31 +10174,31 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Ease — accelerates out and decelerates in</source>
-        <translation type="unfinished"></translation>
+        <translation>Ease — bumibilis sa simula at bumabagal sa dulo</translation>
     </message>
     <message>
         <source>Jump</source>
-        <translation type="unfinished"></translation>
+        <translation>Tumalon</translation>
     </message>
     <message>
         <source>Jump — holds the value until the next keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>Tumalon — pinananatili ang value hanggang sa susunod na keyframe</translation>
     </message>
     <message>
         <source>Previous keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>Naunang keyframe</translation>
     </message>
     <message>
         <source>Remove %1&apos;s keyframe at the playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang keyframe ng %1 sa playhead</translation>
     </message>
     <message>
         <source>Add a keyframe for %1 at the playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng keyframe para sa %1 sa playhead</translation>
     </message>
     <message>
         <source>Next keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>Susunod na keyframe</translation>
     </message>
     <message>
         <source>Edit %1</source>
@@ -10206,66 +10206,66 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Click to type an exact %1</source>
-        <translation type="unfinished"></translation>
+        <translation>I-click para mag-type ng eksaktong %1</translation>
     </message>
 </context>
 <context>
     <name>ProxyEncoder</name>
     <message>
         <source>Could not create the proxy container</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi nagawa ang proxy container</translation>
     </message>
     <message>
         <source>H.264 encoder not available</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi available ang H.264 encoder</translation>
     </message>
     <message>
         <source>Could not create the proxy stream</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi nagawa ang proxy stream</translation>
     </message>
     <message>
         <source>Could not allocate the proxy encoder</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-allocate ang proxy encoder</translation>
     </message>
     <message>
         <source>Could not open the proxy encoder</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabuksan ang proxy encoder</translation>
     </message>
     <message>
         <source>Could not open the proxy file for writing</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabuksan ang proxy file para sulatan</translation>
     </message>
     <message>
         <source>Could not write the proxy header</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi naisulat ang proxy header</translation>
     </message>
     <message>
         <source>Could not allocate proxy frame buffers</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-allocate ang mga proxy frame buffer</translation>
     </message>
     <message>
         <source>Could not allocate the proxy frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-allocate ang proxy frame</translation>
     </message>
     <message>
         <source>Proxy writer is not open</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi bukas ang proxy writer</translation>
     </message>
     <message>
         <source>Could not convert a frame for the proxy encoder</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi na-convert ang frame para sa proxy encoder</translation>
     </message>
     <message>
         <source>Could not make the proxy frame writable</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi magawang writable ang proxy frame</translation>
     </message>
     <message>
         <source>Proxy encoder rejected a frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Tinanggihan ng proxy encoder ang isang frame</translation>
     </message>
     <message>
         <source>Failed to read an encoded proxy packet</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi nabasa ang encoded proxy packet</translation>
     </message>
     <message>
         <source>Failed to write a proxy packet</source>
@@ -10678,7 +10678,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangkalahatan</translation>
     </message>
     <message>
         <source>Choose an upscaler</source>
@@ -14751,7 +14751,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangkalahatan</translation>
     </message>
     <message>
         <source>Before</source>
