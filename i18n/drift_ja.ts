@@ -2480,9 +2480,8 @@
     </message>
     <message numerus="yes">
         <source>Multicam ready: %n camera(s) lined up at the start. Drag a clip to adjust its sync, then pick a shot.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>マルチカメラの準備完了：開始位置にカメラ%n台を配置しました。クリップをドラッグして同期を調整し、ショットを選択してください。</numerusform>
         </translation>
     </message>
     <message>
@@ -3727,9 +3726,8 @@
     </message>
     <message numerus="yes">
         <source>Transform layer now covers %n track(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>変形レイヤーが現在トラック%n本をカバーしています</numerusform>
         </translation>
     </message>
     <message>
@@ -3913,9 +3911,8 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s); %1 skipped: %2</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>顔用アイテムを%n個読み込みました。%1個をスキップしました: %2</numerusform>
         </translation>
     </message>
     <message>
@@ -4306,9 +4303,8 @@
     </message>
     <message numerus="yes">
         <source>Media collected, but %n original(s) couldn’t be deleted</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>メディアを収集しましたが、元ファイル%n個を削除できませんでした</numerusform>
         </translation>
     </message>
     <message>
@@ -4441,9 +4437,8 @@
     </message>
     <message numerus="yes">
         <source>Applied to %n caption clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>字幕クリップ%n個に適用しました</numerusform>
         </translation>
     </message>
     <message>
@@ -4672,9 +4667,8 @@
     </message>
     <message numerus="yes">
         <source>Replaced with “%1”. %n clips were shortened to fit the new file.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>“%1”に置き換えました。新しいファイルに合わせてクリップ%n個を短縮しました。</numerusform>
         </translation>
     </message>
     <message>
@@ -4711,23 +4705,20 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders — as many as one folder import takes. Import the remaining subfolders separately.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>フォルダー%n個にファイルを読み込みました。これは1回のフォルダー読み込みの上限です。残りのサブフォルダーは個別に読み込んでください。</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1個のフォルダーにファイル%n個を読み込みました。Driftが形式を認識できないため、%2個のファイルをスキップしました。試すにはメディア一覧にドラッグしてください。</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>フォルダー%1個にファイル%n個を読み込みました。</numerusform>
         </translation>
     </message>
     <message>
@@ -8788,9 +8779,8 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) may play back slowly. A proxy makes previewing smoother; export still uses the original.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>クリップ%n個は再生が遅くなる可能性があります。プロキシを使うとプレビューが滑らかになり、書き出しには元ファイルが使われます。</numerusform>
         </translation>
     </message>
     <message>
@@ -8799,9 +8789,8 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) have a variable frame rate, which can drift out of sync with audio. Convert them to an edit-friendly format to fix it.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>クリップ%n個は可変フレームレートのため、音声と同期がずれることがあります。編集向けの形式に変換して修正してください。</numerusform>
         </translation>
     </message>
     <message>
@@ -9024,9 +9013,8 @@
     </message>
     <message numerus="yes">
         <source>%n animation(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>アニメーション%n件</numerusform>
         </translation>
     </message>
     <message>
@@ -9444,9 +9432,8 @@
     </message>
     <message numerus="yes">
         <source>Pasting from “%1” onto %n selected clip(s):</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>“%1”から選択したクリップ%n個に貼り付け中:</numerusform>
         </translation>
     </message>
     <message>
@@ -9475,9 +9462,8 @@
     </message>
     <message numerus="yes">
         <source>Video Effects (%n effect(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ビデオエフェクト（%n件）</numerusform>
         </translation>
     </message>
     <message>
@@ -9494,9 +9480,8 @@
     </message>
     <message numerus="yes">
         <source>Audio Effects (%n effect(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>オーディオエフェクト（%n件）</numerusform>
         </translation>
     </message>
     <message>
@@ -9509,9 +9494,8 @@
     </message>
     <message numerus="yes">
         <source>Transitions (%n transition(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>トランジション（%n件）</numerusform>
         </translation>
     </message>
     <message>
