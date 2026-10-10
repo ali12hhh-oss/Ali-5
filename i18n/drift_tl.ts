@@ -1719,11 +1719,11 @@
     </message>
     <message>
         <source>Variable frame rate. This clip can drift out of sync with its audio. Right-click it and choose Convert to edit-friendly format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Variable ang frame rate คลิปนี้อาจไม่ตรงกับเสียง คลิกขวาแล้วเลือก Convert to edit-friendly format</translation>
     </message>
     <message>
         <source>Transform layer: moves, scales and turns every track its bracket covers</source>
-        <translation type="unfinished"></translation>
+        <translation>Transform layer: inililipat, sini-scale, at iniikot ang lahat ng track na sakop ng bracket</translation>
     </message>
     <message>
         <source>Keyframes</source>
@@ -1731,10 +1731,7 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s)</source>
-        <translation>
-            <numerusform>%n clip</numerusform>
-            <numerusform>%n clip</numerusform>
-        </translation>
+        <translation>%n clip</translation>
     </message>
     <message>
         <source>All</source>
@@ -1820,10 +1817,7 @@
     <name>AndroidTransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>
-            <numerusform>%1 · %n clip</numerusform>
-            <numerusform>%1 · %n clip</numerusform>
-        </translation>
+        <translation>%1 · %n clip</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -1831,7 +1825,7 @@
     </message>
     <message>
         <source>Select %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Piliin ang %1</translation>
     </message>
 </context>
 <context>
@@ -1938,11 +1932,11 @@
     </message>
     <message>
         <source>Edit custom curve…</source>
-        <translation type="unfinished"></translation>
+        <translation>I-edit ang custom curve…</translation>
     </message>
     <message>
         <source>Letter and word animations live in the Text tab, under Animate. This moves the whole clip.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nasa Text tab sa ilalim ng Animate ang mga animation ng letra at salita. Ililipat nito ang buong clip.</translation>
     </message>
 </context>
 <context>
@@ -1969,7 +1963,7 @@
     </message>
     <message>
         <source>Converting %1 to an edit-friendly format…</source>
-        <translation type="unfinished"></translation>
+        <translation>Kino-convert ang %1 sa format na madaling i-edit…</translation>
     </message>
     <message>
         <source>That media is no longer in this project.</source>
@@ -1977,7 +1971,7 @@
     </message>
     <message>
         <source>“%1” is %2, but this slot holds %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang “%1” ay %2, ngunit %3 ang kasya sa slot na ito.</translation>
     </message>
     <message>
         <source>Media replaced</source>
@@ -2065,7 +2059,7 @@
     </message>
     <message>
         <source>Add/remove bookmark at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag/mag-alis ng bookmark sa kasalukuyang oras</translation>
     </message>
     <message>
         <source>Go to next bookmark</source>
@@ -2085,11 +2079,11 @@
     </message>
     <message>
         <source>Go to work area in</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumunta sa simula ng work area</translation>
     </message>
     <message>
         <source>Go to work area out</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumunta sa dulo ng work area</translation>
     </message>
     <message>
         <source>Clear work area</source>
@@ -2109,7 +2103,7 @@
     </message>
     <message>
         <source>Faster preview takes effect after you restart Drift.</source>
-        <translation type="unfinished"></translation>
+        <translation>Magkakabisa ang mas mabilis na preview pagkatapos i-restart ang Drift.</translation>
     </message>
     <message>
         <source>System default</source>
@@ -2141,27 +2135,27 @@
     </message>
     <message>
         <source>Split left</source>
-        <translation type="unfinished"></translation>
+        <translation>Hatiin sa kaliwa</translation>
     </message>
     <message>
         <source>Split right</source>
-        <translation type="unfinished"></translation>
+        <translation>Hatiin sa kanan</translation>
     </message>
     <message>
         <source>Trim updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang trim</translation>
     </message>
     <message>
         <source>Clip duplicated</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadoble ang clip</translation>
     </message>
     <message>
         <source>Your text here</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilagay ang iyong teksto rito</translation>
     </message>
     <message>
         <source>Text clip added</source>
-        <translation type="unfinished"></translation>
+        <translation>Naidagdag ang text clip</translation>
     </message>
     <message>
         <source>Subtitles</source>
@@ -2169,59 +2163,59 @@
     </message>
     <message>
         <source>Subtitle clip added</source>
-        <translation type="unfinished"></translation>
+        <translation>Naidagdag ang subtitle clip</translation>
     </message>
     <message>
         <source>No subtitle file selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang napiling subtitle file</translation>
     </message>
     <message>
         <source>Could not read subtitle file</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabasa ang subtitle file</translation>
     </message>
     <message>
         <source>Subtitles imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-import ang mga subtitle</translation>
     </message>
     <message>
         <source>Select a subtitle clip to import into</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng subtitle clip na pag-iimport-an</translation>
     </message>
     <message>
         <source>Select a subtitle clip to export</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng subtitle clip na ie-export</translation>
     </message>
     <message>
         <source>This subtitle clip has no captions</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang caption ang subtitle clip na ito</translation>
     </message>
     <message>
         <source>No save location selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang napiling lokasyon ng pag-save</translation>
     </message>
     <message>
         <source>Could not write subtitle file</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi maisulat ang subtitle file</translation>
     </message>
     <message>
         <source>Subtitles saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-save ang mga subtitle</translation>
     </message>
     <message>
         <source>Auto-detect</source>
-        <translation type="unfinished"></translation>
+        <translation>Awtomatikong tukuyin</translation>
     </message>
     <message>
         <source>Subtitle generation already in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Ginagawa na ang mga subtitle</translation>
     </message>
     <message>
         <source>Select a video or audio clip to create captions</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng video o audio clip para gumawa ng caption</translation>
     </message>
     <message>
         <source>This clip has no sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang tunog ang clip na ito</translation>
     </message>
     <message>
         <source>Starting…</source>
@@ -2233,179 +2227,179 @@
     </message>
     <message>
         <source>Getting speech recognition ready…</source>
-        <translation type="unfinished"></translation>
+        <translation>Inihahanda ang speech recognition…</translation>
     </message>
     <message>
         <source>Reading audio…</source>
-        <translation type="unfinished"></translation>
+        <translation>Binabasa ang audio…</translation>
     </message>
     <message>
         <source>Subtitle generation cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinansela ang paggawa ng subtitle</translation>
     </message>
     <message>
         <source>Reading audio… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Binabasa ang audio… %1%</translation>
     </message>
     <message>
         <source>No audio decoded</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang na-decode na audio</translation>
     </message>
     <message>
         <source>Transcribing…</source>
-        <translation type="unfinished"></translation>
+        <translation>Isinasalin sa teksto…</translation>
     </message>
     <message>
         <source>Transcribing (%1)…</source>
-        <translation type="unfinished"></translation>
+        <translation>Isinasalin sa teksto (%1)…</translation>
     </message>
     <message>
         <source>Building caption track…</source>
-        <translation type="unfinished"></translation>
+        <translation>Binubuo ang caption track…</translation>
     </message>
     <message>
         <source>No speech detected</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang natukoy na pagsasalita</translation>
     </message>
     <message>
         <source>Subtitles generated</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagawa na ang mga subtitle</translation>
     </message>
     <message>
         <source>Select a video clip to cut out</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng video clip para i-cut out ang paksa</translation>
     </message>
     <message>
         <source>Custom speed works on video and audio clips</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumagana ang custom speed sa video at audio clip</translation>
     </message>
     <message>
         <source>This clip has no media to speed up or slow down</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang media sa clip na ito na mapapabilis o mapapabagal</translation>
     </message>
     <message>
         <source>That clip moved — open Custom speed again</source>
-        <translation type="unfinished"></translation>
+        <translation>Nailipat ang clip — buksan muli ang Custom speed</translation>
     </message>
     <message>
         <source>Custom speed applied</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-apply ang custom speed</translation>
     </message>
     <message>
         <source>Speed curve removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Inalis ang speed curve</translation>
     </message>
     <message>
         <source>That clip moved — open Custom fade again</source>
-        <translation type="unfinished"></translation>
+        <translation>Nailipat ang clip — buksan muli ang Custom fade</translation>
     </message>
     <message>
         <source>Custom fade applied</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-apply ang custom fade</translation>
     </message>
     <message>
         <source>Cutout is already running</source>
-        <translation type="unfinished"></translation>
+        <translation>Tumatakbo na ang cutout</translation>
     </message>
     <message>
         <source>This clip has no video to cut out</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang video sa clip na ito para i-cut out</translation>
     </message>
     <message>
         <source>Click the subject first</source>
-        <translation type="unfinished"></translation>
+        <translation>I-click muna ang paksa</translation>
     </message>
     <message>
         <source>Getting ready…</source>
-        <translation type="unfinished"></translation>
+        <translation>Naghahanda…</translation>
     </message>
     <message>
         <source>Clip is too short to cut out</source>
-        <translation type="unfinished"></translation>
+        <translation>Masyadong maikli ang clip para i-cut out</translation>
     </message>
     <message>
         <source>Could not create a cutout file</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi makagawa ng cutout file</translation>
     </message>
     <message>
         <source>Cutout cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinansela ang cutout</translation>
     </message>
     <message>
         <source>Could not decode frame %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-decode ang frame %1</translation>
     </message>
     <message>
         <source>Processing frame %1 of %2…</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinoproseso ang frame %1 sa %2…</translation>
     </message>
     <message>
         <source>Cutout complete — subject cut out on %1 of %2 frames</source>
-        <translation type="unfinished"></translation>
+        <translation>Tapos na ang cutout — na-cut out ang paksa sa %1 sa %2 frame</translation>
     </message>
     <message>
         <source>Cutout complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Tapos na ang cutout</translation>
     </message>
     <message>
         <source>Clear Face Track</source>
-        <translation type="unfinished"></translation>
+        <translation>I-clear ang face track</translation>
     </message>
     <message>
         <source>Face detection already in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Tumatakbo na ang face detection</translation>
     </message>
     <message>
         <source>Select a video clip to detect faces in</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng video clip para tukuyin ang mga mukha</translation>
     </message>
     <message>
         <source>Clip has no video to scan</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang video sa clip na ito para i-scan</translation>
     </message>
     <message>
         <source>Clip is too short to scan</source>
-        <translation type="unfinished"></translation>
+        <translation>Masyadong maikli ang clip para i-scan</translation>
     </message>
     <message>
         <source>Face detection cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinansela ang face detection</translation>
     </message>
     <message>
         <source>Scanning frame %1 of %2…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ini-scan ang frame %1 sa %2…</translation>
     </message>
     <message>
         <source>No faces found in this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang nakitang mukha sa clip na ito</translation>
     </message>
     <message>
         <source>Could not write the face track</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi maisulat ang face track</translation>
     </message>
     <message>
         <source>Face detection complete — a face was visible in %1 of %2 frames</source>
-        <translation type="unfinished"></translation>
+        <translation>Tapos na ang face detection — may mukha sa %1 sa %2 frame</translation>
     </message>
     <message>
         <source>Face detection complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Tapos na ang face detection</translation>
     </message>
     <message>
         <source>Scanned clip no longer exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala na ang na-scan na clip</translation>
     </message>
     <message>
         <source>Detect Faces</source>
-        <translation type="unfinished"></translation>
+        <translation>Tukuyin ang mga mukha</translation>
     </message>
     <message>
         <source>That clip no longer exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala na ang clip na iyon</translation>
     </message>
     <message>
         <source>Cut out subject</source>
-        <translation type="unfinished"></translation>
+        <translation>I-cut out ang paksa</translation>
     </message>
     <message>
         <source>Clip</source>
@@ -2413,161 +2407,155 @@
     </message>
     <message>
         <source>Getting noise removal ready…</source>
-        <translation type="unfinished"></translation>
+        <translation>Inihahanda ang pag-alis ng ingay…</translation>
     </message>
     <message>
         <source>Clip is too short to process</source>
-        <translation type="unfinished"></translation>
+        <translation>Masyadong maikli ang clip para iproseso</translation>
     </message>
     <message>
         <source>Noise removal cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinansela ang pag-alis ng ingay</translation>
     </message>
     <message>
         <source>Removing noise (left)…</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaalis ang ingay (kaliwa)…</translation>
     </message>
     <message>
         <source>Removing noise (right)…</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaalis ang ingay (kanan)…</translation>
     </message>
     <message>
         <source>Writing audio…</source>
-        <translation type="unfinished"></translation>
+        <translation>Isinusulat ang audio…</translation>
     </message>
     <message>
         <source>Noise removal already in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Tumatakbo na ang pag-alis ng ingay</translation>
     </message>
     <message>
         <source>Select a video or audio clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng video o audio clip</translation>
     </message>
     <message>
         <source>Clip has no audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang audio ang clip</translation>
     </message>
     <message>
         <source>Could not create a preview file</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi makagawa ng preview file</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Handa na</translation>
     </message>
     <message numerus="yes">
         <source>Imported %n subtitles</source>
-        <translation>
-            <numerusform>Na-import ang %n subtitle</numerusform>
-            <numerusform>Na-import ang %n subtitle</numerusform>
-        </translation>
+        <translation>Na-import ang %n subtitle</translation>
     </message>
     <message>
         <source>No audio output devices were found, so playback will be silent.</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang nakitang audio output device kaya walang tunog ang playback.</translation>
     </message>
     <message>
         <source>Multicam window</source>
-        <translation type="unfinished"></translation>
+        <translation>Multicam window</translation>
     </message>
     <message>
         <source>Creating captions…</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumagawa ng mga caption…</translation>
     </message>
     <message>
         <source>Angle %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Anggulo %1</translation>
     </message>
     <message>
         <source>Set up multicam</source>
-        <translation type="unfinished"></translation>
+        <translation>I-set up ang multicam</translation>
     </message>
     <message numerus="yes">
         <source>Multicam ready: %n camera(s) lined up at the start. Drag a clip to adjust its sync, then pick a shot.</source>
-        <translation>
-            <numerusform>Handa na ang multicam: nakaayos sa simula ang %n camera. I-drag ang clip para ayusin ang sync, pagkatapos ay pumili ng shot.</numerusform>
-            <numerusform>Handa na ang multicam: nakaayos sa simula ang %n camera. I-drag ang clip para ayusin ang sync, pagkatapos ay pumili ng shot.</numerusform>
-        </translation>
+        <translation>Handa na ang multicam: naka-align sa simula ang %n camera. I-drag ang clip para ayusin ang sync, pagkatapos pumili ng shot.</translation>
     </message>
     <message>
         <source>Select at least two video clips on different tracks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng hindi bababa sa dalawang video clip sa magkaibang track.</translation>
     </message>
     <message>
         <source>Hardware decoding failed on this clip; using software decoding instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabigo ang hardware decoding sa clip na ito; software decoding ang gagamitin.</translation>
     </message>
     <message>
         <source>%1 decoding failed on this clip; using software decoding instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabigo ang %1 decoding sa clip na ito; software decoding ang gagamitin.</translation>
     </message>
     <message>
         <source>Copy effects from clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopyahin ang effects mula sa clip</translation>
     </message>
     <message>
         <source>Paste effects onto clip</source>
-        <translation type="unfinished"></translation>
+        <translation>I-paste ang effects sa clip</translation>
     </message>
     <message>
         <source>That angle has nothing at the current time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang laman ang anggulong iyon sa kasalukuyang oras.</translation>
     </message>
     <message>
         <source>Too close to the edge of the shot to cut here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Masyadong malapit sa gilid ng shot para mag-cut dito.</translation>
     </message>
     <message>
         <source>Save multicam as separate tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save ang multicam bilang magkakahiwalay na track</translation>
     </message>
     <message>
         <source>Save combined multicam</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save ang pinagsamang multicam</translation>
     </message>
     <message>
         <source>Cutting out subject…</source>
-        <translation type="unfinished"></translation>
+        <translation>Kino-cut out ang paksa…</translation>
     </message>
     <message>
         <source>Select a video clip to stabilize</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng video clip para i-stabilize</translation>
     </message>
     <message>
         <source>Clip has no video file</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang video file ang clip</translation>
     </message>
     <message>
         <source>Stabilization already in progress for this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Isinasagawa na ang stabilization para sa clip na ito</translation>
     </message>
     <message>
         <source>Could not create stabilization cache directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi makagawa ng stabilization cache directory</translation>
     </message>
     <message>
         <source>Stabilize Video</source>
-        <translation type="unfinished"></translation>
+        <translation>I-stabilize ang video</translation>
     </message>
     <message>
         <source>Video stabilized successfully!</source>
-        <translation type="unfinished"></translation>
+        <translation>Matagumpay na na-stabilize ang video!</translation>
     </message>
     <message>
         <source>Remove Stabilization</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang stabilization</translation>
     </message>
     <message>
         <source>Change Stabilization Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Baguhin ang stabilization smoothing</translation>
     </message>
     <message>
         <source>Change Stabilization Tripod Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Baguhin ang stabilization tripod mode</translation>
     </message>
     <message>
         <source>Detecting faces…</source>
-        <translation type="unfinished"></translation>
+        <translation>Tinutukoy ang mga mukha…</translation>
     </message>
     <message>
         <source>Already looking for scenes</source>
@@ -4204,7 +4192,7 @@
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished">I-paste</translation>
+        <translation>I-paste</translation>
     </message>
     <message numerus="yes">
         <source>Pasted %n clips</source>
@@ -7686,7 +7674,7 @@
     </message>
     <message>
         <source>Find the beat and show markers</source>
-        <translation type="unfinished">Hanapin ang beat at ipakita ang mga marker</translation>
+        <translation>Hanapin ang beat at ipakita ang mga marker</translation>
     </message>
     <message>
         <source>Hide hits</source>
@@ -9448,7 +9436,7 @@
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished">I-paste</translation>
+        <translation>I-paste</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9555,7 +9543,7 @@
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Awtomatiko</translation>
     </message>
     <message>
         <source>Software</source>
@@ -9728,19 +9716,19 @@
     </message>
     <message>
         <source>Full</source>
-        <translation type="unfinished"></translation>
+        <translation>เต็ม</translation>
     </message>
     <message>
         <source>Half</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalahati</translation>
     </message>
     <message>
         <source>Quarter</source>
-        <translation type="unfinished"></translation>
+        <translation>Sangkapat</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Awtomatiko</translation>
     </message>
     <message>
         <source>Preview quality — lower is smoother while editing.
@@ -9778,7 +9766,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Fullscreen preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Full-screen na preview</translation>
     </message>
     <message>
         <source>Decoding on a different graphics card</source>
@@ -9955,7 +9943,7 @@ If playback stutters, try another.</source>
     <name>ProjectPropertiesDialog</name>
     <message>
         <source>Project properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga property ng proyekto</translation>
     </message>
     <message>
         <source>Save</source>
@@ -10358,7 +10346,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Could not decode frame %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-decode ang frame %1</translation>
     </message>
     <message>
         <source>Estimating depth, frame %1 of %2…</source>
@@ -10394,7 +10382,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Scanning frame %1 of %2…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ini-scan ang frame %1 sa %2…</translation>
     </message>
     <message>
         <source>Clip</source>
@@ -10900,7 +10888,7 @@ If playback stutters, try another.</source>
     <name>SegmentationWindow</name>
     <message>
         <source>Cut out subject</source>
-        <translation type="unfinished"></translation>
+        <translation>I-cut out ang paksa</translation>
     </message>
     <message>
         <source>Anything (click to pick)</source>
@@ -12001,7 +11989,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Could not write subtitle file</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi maisulat ang subtitle file</translation>
     </message>
 </context>
 <context>
@@ -13594,11 +13582,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Variable frame rate. This clip can drift out of sync with its audio. Right-click it and choose Convert to edit-friendly format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Variable ang frame rate คลิปนี้อาจไม่ตรงกับเสียง คลิกขวาแล้วเลือก Convert to edit-friendly format</translation>
     </message>
     <message>
         <source>Transform layer: moves, scales and turns every track its bracket covers</source>
-        <translation type="unfinished"></translation>
+        <translation>Transform layer: inililipat, sini-scale, at iniikot ang lahat ng track na sakop ng bracket</translation>
     </message>
     <message>
         <source>Save effect preset</source>
@@ -13777,7 +13765,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Add/remove bookmark at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag/mag-alis ng bookmark sa kasalukuyang oras</translation>
     </message>
     <message>
         <source>Mark work area in</source>
@@ -13857,11 +13845,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Close gaps when trimming</source>
-        <translation type="unfinished">Isara ang mga puwang kapag nagti-trim</translation>
+        <translation>Isara ang mga puwang habang nagta-trim</translation>
     </message>
     <message>
         <source>Allow clip overlap</source>
-        <translation type="unfinished">Payagan ang pagpapatong ng mga clip</translation>
+        <translation>Payagan ang pag-overlap ng mga clip</translation>
     </message>
     <message>
         <source>Zoom out</source>
@@ -14448,10 +14436,7 @@ If playback stutters, try another.</source>
     <name>TransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>
-            <numerusform>%1 · %n clip</numerusform>
-            <numerusform>%1 · %n clip</numerusform>
-        </translation>
+        <translation>%1 · %n clip</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -14459,7 +14444,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Select %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Piliin ang %1</translation>
     </message>
     <message>
         <source>Select the transform layer moving this clip (%1)</source>
@@ -14978,7 +14963,7 @@ If playback stutters, try another.</source>
     <name>VfrWarning</name>
     <message>
         <source>Variable frame rate. This clip can drift out of sync with its audio. Right-click it and choose Convert to edit-friendly format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Variable ang frame rate คลิปนี้อาจไม่ตรงกับเสียง คลิกขวาแล้วเลือก Convert to edit-friendly format</translation>
     </message>
 </context>
 <context>
@@ -15017,11 +15002,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Crop video size</source>
-        <translation type="unfinished"></translation>
+        <translation>I-crop ang laki ng video</translation>
     </message>
     <message>
         <source>Drag the preview edges to change what’s included</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drag ang mga gilid ng preview para baguhin ang sakop</translation>
     </message>
     <message>
         <source>Changing size doesn’t shrink your clips — anything outside the new edges is cut off.</source>
