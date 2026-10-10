@@ -8962,7 +8962,7 @@
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished">뒤로</translation>
+        <translation>뒤로</translation>
     </message>
     <message>
         <source>Upscale…</source>
@@ -8978,7 +8978,7 @@
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished">완료</translation>
+        <translation>완료</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -10576,11 +10576,11 @@ If playback stutters, try another.</source>
     <name>RestoreWindow</name>
     <message>
         <source>Enhance video</source>
-        <translation type="unfinished"></translation>
+        <translation>동영상 화질 개선</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">없음</translation>
+        <translation>없음</translation>
     </message>
     <message>
         <source>%1 (custom, experimental)</source>
@@ -10588,7 +10588,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Original</source>
-        <translation type="unfinished">원본</translation>
+        <translation>원본</translation>
     </message>
     <message>
         <source>Enhanced — out of date, preview again</source>
@@ -10612,7 +10612,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Frame</source>
-        <translation type="unfinished">프레임</translation>
+        <translation>프레임</translation>
     </message>
     <message>
         <source>s</source>
@@ -10620,7 +10620,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Fit</source>
-        <translation type="unfinished">맞춤</translation>
+        <translation>맞춤</translation>
     </message>
     <message>
         <source>Preview one frame, then enhance the whole video. The result is added to the media bin. Enhancing is slow — minutes per second of video without a GPU.</source>
@@ -10632,7 +10632,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Remove compression</source>
-        <translation type="unfinished"></translation>
+        <translation>압축 노이즈 제거</translation>
     </message>
     <message>
         <source>Upscale</source>
@@ -10656,7 +10656,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Preview this frame</source>
-        <translation type="unfinished"></translation>
+        <translation>이 프레임 미리 보기</translation>
     </message>
     <message>
         <source>Anime and drawings</source>
@@ -10676,11 +10676,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Choose an upscaler</source>
-        <translation type="unfinished"></translation>
+        <translation>업스케일러 선택</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished">모두</translation>
+        <translation>모두</translation>
     </message>
     <message>
         <source>Speeds are per frame of this clip. Custom models are experimental and may not work. Drop an ONNX export (fp32 or fp16, RGB, 1x/2x/4x) into the folder; put the scale in the file name, e.g. &quot;2x_Name.onnx&quot;.</source>
@@ -10688,11 +10688,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Refresh model list</source>
-        <translation type="unfinished"></translation>
+        <translation>모델 목록 새로고침</translation>
     </message>
     <message>
         <source>Enhance clip</source>
-        <translation type="unfinished"></translation>
+        <translation>클립 화질 개선</translation>
     </message>
     <message>
         <source>under a second</source>
@@ -10720,27 +10720,27 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Keep the original size.</source>
-        <translation type="unfinished"></translation>
+        <translation>원본 크기를 유지합니다.</translation>
     </message>
     <message>
         <source>Install AI engine first</source>
-        <translation type="unfinished">먼저 AI 엔진을 설치하세요</translation>
+        <translation>먼저 AI 엔진을 설치하세요</translation>
     </message>
     <message>
         <source>Get models (openmodeldb.info)</source>
-        <translation type="unfinished"></translation>
+        <translation>모델 가져오기 (openmodeldb.info)</translation>
     </message>
     <message>
         <source>Open custom models folder</source>
-        <translation type="unfinished"></translation>
+        <translation>사용자 지정 모델 폴더 열기</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished">중지</translation>
+        <translation>중지</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">닫기</translation>
+        <translation>닫기</translation>
     </message>
 </context>
 <context>
@@ -11106,7 +11106,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Open graphics settings</source>
-        <translation type="unfinished"></translation>
+        <translation>그래픽 설정 열기</translation>
     </message>
     <message>
         <source>Playback</source>
@@ -14749,15 +14749,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Before</source>
-        <translation type="unfinished"></translation>
+        <translation>이전</translation>
     </message>
     <message>
         <source>After</source>
-        <translation type="unfinished"></translation>
+        <translation>이후</translation>
     </message>
     <message>
         <source>Custom model</source>
-        <translation type="unfinished"></translation>
+        <translation>사용자 지정 모델</translation>
     </message>
 </context>
 <context>
