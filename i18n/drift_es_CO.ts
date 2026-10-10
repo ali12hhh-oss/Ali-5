@@ -8918,11 +8918,11 @@
     </message>
     <message>
         <source>This video is under 700 pixels on its shorter side. Upscaling it with an AI model can make it look sharper.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este video mide menos de 700 píxeles en su lado más corto. Ampliar su resolución con un modelo de IA puede darle más nitidez.</translation>
     </message>
     <message>
         <source>This resolution is already good for most projects. You can still upscale it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta resolución ya es adecuada para la mayoría de los proyectos. Aun así, puedes ampliarla.</translation>
     </message>
     <message>
         <source>Done keeps the original video and stores this range and framing. Upscale renders them as a new video in the media bin, then opens it in the Enhance window.</source>
@@ -8934,7 +8934,7 @@
     </message>
     <message>
         <source>Choose the part and framing to keep, then Next.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elige la parte y el encuadre que quieres conservar y pulsa Siguiente.</translation>
     </message>
     <message>
         <source>Save writes a new file over this item in the bin.</source>
@@ -8966,7 +8966,7 @@
     </message>
     <message>
         <source>Upscale…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ampliar resolución…</translation>
     </message>
     <message>
         <source>Save</source>
@@ -10392,11 +10392,11 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message>
         <source>Enhancing… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Mejorando… %1%</translation>
     </message>
     <message>
         <source>Enhancing this frame… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Mejorando este fotograma… %1%</translation>
     </message>
     <message>
         <source>Scanning frame %1 of %2…</source>
@@ -10607,15 +10607,15 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message>
         <source>Loading this frame…</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando este fotograma…</translation>
     </message>
     <message>
         <source>Working…</source>
-        <translation type="unfinished">Trabajando…</translation>
+        <translation>Procesando…</translation>
     </message>
     <message>
         <source>Choose models, then Preview to compare this frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Elige los modelos y pulsa Previsualizar para comparar este fotograma</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -10651,11 +10651,11 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message>
         <source> — larger than 4K, which is slow to edit and export</source>
-        <translation type="unfinished"></translation>
+        <translation>— superior a 4K, lo que ralentiza la edición y la exportación</translation>
     </message>
     <message>
         <source>Up to about %1 on this computer&apos;s CPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hasta aproximadamente %1 con la CPU de este equipo.</translation>
     </message>
     <message>
         <source>Up to about %1 on a typical laptop CPU. Preview a frame for an estimate for this computer.</source>
