@@ -7200,7 +7200,7 @@
     </message>
     <message>
         <source>Adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>调整</translation>
     </message>
     <message>
         <source>Clip name</source>
@@ -7208,7 +7208,7 @@
     </message>
     <message>
         <source>Untitled clip</source>
-        <translation type="unfinished"></translation>
+        <translation>未命名片段</translation>
     </message>
     <message>
         <source>Rename clip</source>
@@ -7216,19 +7216,19 @@
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>类型</translation>
     </message>
     <message>
         <source>Transform layer</source>
-        <translation type="unfinished"></translation>
+        <translation>变换图层</translation>
     </message>
     <message>
         <source>Original dimensions: %1 × %2</source>
-        <translation type="unfinished"></translation>
+        <translation>原始尺寸：%1 × %2</translation>
     </message>
     <message>
         <source>Source frame box</source>
-        <translation type="unfinished"></translation>
+        <translation>源画面边界框</translation>
     </message>
     <message>
         <source>Unlock source frame ratio</source>
@@ -7248,23 +7248,23 @@
     </message>
     <message>
         <source>Edit source frame…</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑源画面…</translation>
     </message>
     <message>
         <source>Starts at</source>
-        <translation type="unfinished"></translation>
+        <translation>开始时间</translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>时长</translation>
     </message>
     <message>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>从</translation>
     </message>
     <message>
         <source>To</source>
-        <translation type="unfinished"></translation>
+        <translation>到</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -7276,42 +7276,42 @@
     </message>
     <message>
         <source>Which part of the original file this clip plays</source>
-        <translation type="unfinished"></translation>
+        <translation>此片段播放原始文件中的哪一部分</translation>
     </message>
     <message>
         <source>Seconds into the file where this clip starts</source>
-        <translation type="unfinished"></translation>
+        <translation>此片段在原始文件中的起始秒数</translation>
     </message>
     <message>
         <source>Seconds into the file where this clip ends</source>
-        <translation type="unfinished"></translation>
+        <translation>此片段在原始文件中的结束秒数</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>文件</translation>
     </message>
 </context>
 <context>
     <name>GradientStopEditor</name>
     <message>
         <source>Drag to move, tap for colour, hold or right-click to remove</source>
-        <translation type="unfinished"></translation>
+        <translation>拖动以移动，点击选择颜色，长按或右键单击以移除</translation>
     </message>
     <message>
         <source>Move gradient stop</source>
-        <translation type="unfinished"></translation>
+        <translation>移动渐变色标</translation>
     </message>
     <message>
         <source>Add a colour stop</source>
-        <translation type="unfinished"></translation>
+        <translation>添加渐变色标</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>预设</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>类型</translation>
     </message>
     <message>
         <source>Linear</source>
@@ -7319,47 +7319,47 @@
     </message>
     <message>
         <source>Radial</source>
-        <translation type="unfinished"></translation>
+        <translation>径向</translation>
     </message>
     <message>
         <source>Sweep</source>
-        <translation type="unfinished"></translation>
+        <translation>扫掠</translation>
     </message>
     <message>
         <source>Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>角度</translation>
     </message>
     <message>
         <source>Map to</source>
-        <translation type="unfinished"></translation>
+        <translation>映射到</translation>
     </message>
     <message>
         <source>What one run of the gradient spans: the whole block, each line, word or glyph</source>
-        <translation type="unfinished"></translation>
+        <translation>渐变每次覆盖的范围：整个文本块、每一行、每个词或每个字形</translation>
     </message>
     <message>
         <source>Block</source>
-        <translation type="unfinished"></translation>
+        <translation>文本块</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>行</translation>
     </message>
     <message>
         <source>Word</source>
-        <translation type="unfinished"></translation>
+        <translation>词</translation>
     </message>
     <message>
         <source>Glyph</source>
-        <translation type="unfinished"></translation>
+        <translation>字形</translation>
     </message>
     <message>
         <source>Accent run</source>
-        <translation type="unfinished"></translation>
+        <translation>强调范围</translation>
     </message>
     <message>
         <source>Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>偏移</translation>
     </message>
     <message>
         <source>Speed</source>
@@ -7367,19 +7367,19 @@
     </message>
     <message>
         <source>Slides the gradient along its axis, in cycles per second</source>
-        <translation type="unfinished"></translation>
+        <translation>沿渐变轴移动渐变，单位为每秒循环次数</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>选项</translation>
     </message>
     <message>
         <source>Repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>重复</translation>
     </message>
     <message>
         <source>Tile the gradient past its ends instead of clamping</source>
-        <translation type="unfinished"></translation>
+        <translation>让渐变超出两端后重复平铺，而不是限制在边缘</translation>
     </message>
     <message>
         <source>OKLab</source>
@@ -9298,7 +9298,7 @@
     </message>
     <message>
         <source>Adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>调整</translation>
     </message>
     <message>
         <source>Audio adjustment</source>
@@ -9404,7 +9404,7 @@
     </message>
     <message>
         <source>Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>角度</translation>
     </message>
     <message>
         <source>Adjust paint effect</source>
@@ -11492,7 +11492,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>角度</translation>
     </message>
     <message>
         <source>How much the extruded side fades toward black</source>
@@ -12657,11 +12657,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Word</source>
-        <translation type="unfinished"></translation>
+        <translation>词</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>行</translation>
     </message>
     <message>
         <source>Forward</source>
@@ -13025,7 +13025,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>偏移</translation>
     </message>
     <message>
         <source>Gap between the baseline and the rule</source>
@@ -13121,7 +13121,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>时长</translation>
     </message>
     <message>
         <source>Edit text animation</source>
@@ -13912,7 +13912,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>调整</translation>
     </message>
     <message>
         <source>Subtitles</source>
@@ -13997,7 +13997,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>调整</translation>
     </message>
     <message>
         <source>Audio</source>
@@ -14168,7 +14168,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>角度</translation>
     </message>
     <message>
         <source>Tilt X</source>
@@ -14359,7 +14359,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>调整</translation>
     </message>
     <message>
         <source>Video</source>
@@ -14508,11 +14508,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>类型</translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>时长</translation>
     </message>
     <message>
         <source>Curve</source>
