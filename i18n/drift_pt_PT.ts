@@ -10611,7 +10611,7 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message>
         <source>Working…</source>
-        <translation type="unfinished">Processando…</translation>
+        <translation>A processar…</translation>
     </message>
     <message>
         <source>Choose models, then Preview to compare this frame</source>
@@ -10651,15 +10651,15 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message>
         <source> — larger than 4K, which is slow to edit and export</source>
-        <translation type="unfinished"></translation>
+        <translation>— superior a 4K, o que torna a edição e a exportação mais lentas</translation>
     </message>
     <message>
         <source>Up to about %1 on this computer&apos;s CPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>Até cerca de %1 no processador deste computador.</translation>
     </message>
     <message>
         <source>Up to about %1 on a typical laptop CPU. Preview a frame for an estimate for this computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Até cerca de %1 num processador típico de portátil. Pré-visualize um fotograma para estimar o desempenho neste computador.</translation>
     </message>
     <message>
         <source>Preview this frame</source>
@@ -10691,7 +10691,7 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message>
         <source>Speeds are per frame of this clip. Custom models are experimental and may not work. Drop an ONNX export (fp32 or fp16, RGB, 1x/2x/4x) into the folder; put the scale in the file name, e.g. &quot;2x_Name.onnx&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>As velocidades são por fotograma deste clipe. Os modelos personalizados são experimentais e podem não funcionar. Coloque na pasta um ficheiro ONNX exportado (fp32 ou fp16, RGB, 1x/2x/4x) e indique a escala no nome, por exemplo, "2x_Name.onnx".</translation>
     </message>
     <message>
         <source>Refresh model list</source>
