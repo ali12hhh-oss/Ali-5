@@ -9589,46 +9589,46 @@
     </message>
     <message>
         <source>Playhead update (p95)</source>
-        <translation type="unfinished"></translation>
+        <translation>เวลาอัปเดตหัวอ่าน (p95)</translation>
     </message>
     <message>
         <source>Audio mix load (p95)</source>
-        <translation type="unfinished"></translation>
+        <translation>โหลดมิกซ์เสียง (p95)</translation>
     </message>
     <message>
         <source>Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนตัวอย่าง</translation>
     </message>
 </context>
 <context>
     <name>PreviewPanel</name>
     <message>
         <source>REC %1s</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึก %1 วินาที</translation>
     </message>
     <message>
         <source>PAUSED %1s</source>
-        <translation type="unfinished"></translation>
+        <translation>หยุดชั่วคราว %1 วินาที</translation>
     </message>
     <message>
         <source>Nothing to preview yet</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่มีเนื้อหาให้พรีวิว</translation>
     </message>
     <message>
         <source>Import media and drag it onto the timeline below to see it here.</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าสื่อแล้วลากไปยังไทม์ไลน์ด้านล่างเพื่อดูที่นี่</translation>
     </message>
     <message>
         <source>GPU preview unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>พรีวิว GPU ใช้งานไม่ได้</translation>
     </message>
     <message>
         <source>Your graphics driver only provides %1. Drift&apos;s preview needs OpenGL 3.3.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไดรเวอร์กราฟิกของคุณรองรับเพียง %1 แต่พรีวิวของ Drift ต้องใช้ OpenGL 3.3</translation>
     </message>
     <message>
         <source>Drift could not start its GPU renderer, so the preview cannot draw.</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift เริ่มตัวเรนเดอร์ GPU ไม่ได้ จึงแสดงพรีวิวไม่ได้</translation>
     </message>
     <message>
         <source>Debug info</source>
@@ -9636,7 +9636,7 @@
     </message>
     <message>
         <source>Audio only</source>
-        <translation type="unfinished"></translation>
+        <translation>เสียงเท่านั้น</translation>
     </message>
     <message>
         <source>No clip at the current time</source>
@@ -9651,15 +9651,15 @@
     <name>PreviewToolbar</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Current time / total · %1 frames per second</source>
-        <translation type="unfinished"></translation>
+        <translation>เวลาปัจจุบัน / เวลารวม · %1 เฟรมต่อวินาที</translation>
     </message>
     <message>
         <source>Jump back 1s · Shift for 5s · Ctrl for 10s</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้อนกลับ 1 วินาที · Shift ย้อน 5 วินาที · Ctrl ย้อน 10 วินาที</translation>
     </message>
     <message>
         <source>Previous frame</source>
@@ -9679,19 +9679,19 @@
     </message>
     <message>
         <source>Loop work area on — click to turn off</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดการวนซ้ำพื้นที่ทำงานแล้ว — คลิกเพื่อปิด</translation>
     </message>
     <message>
         <source>Loop work area off — click to turn on</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดการวนซ้ำพื้นที่ทำงานแล้ว — คลิกเพื่อเปิด</translation>
     </message>
     <message>
         <source>Jump forward 1s · Shift for 5s · Ctrl for 10s</source>
-        <translation type="unfinished"></translation>
+        <translation>เดินหน้า 1 วินาที · Shift เดินหน้า 5 วินาที · Ctrl เดินหน้า 10 วินาที</translation>
     </message>
     <message>
         <source>Preview zoom — Ctrl+scroll over the preview to zoom, middle-drag to pan. Click to reset to 100%.</source>
-        <translation type="unfinished"></translation>
+        <translation>ซูมพรีวิว — กด Ctrl แล้วเลื่อนเมาส์เหนือพรีวิวเพื่อซูม ลากด้วยปุ่มกลางเพื่อแพน คลิกเพื่อรีเซ็ตเป็น 100%</translation>
     </message>
     <message>
         <source>Full</source>
@@ -9713,11 +9713,13 @@
         <source>Preview quality — lower is smoother while editing.
 Full, Half and Quarter are fixed fractions of the project resolution: Full composites exactly what an export would.
 Auto renders only as many pixels as the preview actually shows, and lowers that further while playback cannot keep up.</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณภาพพรีวิว — ค่าต่ำกว่าจะเล่นได้ลื่นขึ้นระหว่างตัดต่อ
+Full, Half และ Quarter เป็นสัดส่วนคงที่ของความละเอียดโปรเจกต์ โดย Full จะคอมโพสิตภาพเหมือนกับการส่งออก
+Auto จะเรนเดอร์เฉพาะจำนวนพิกเซลที่แสดงในพรีวิว และลดลงอีกเมื่อการเล่นตามไม่ทัน</translation>
     </message>
     <message>
         <source>Playback speed</source>
-        <translation type="unfinished"></translation>
+        <translation>ความเร็วในการเล่น</translation>
     </message>
     <message>
         <source>How video is decoded for preview.
@@ -9725,7 +9727,11 @@ Auto picks per clip: hardware for high-quality 4K, software otherwise.
 Software is smoother for most clips. It uses more CPU.
 Hardware is better for high-quality 4K, and forces one GPU decoder.
 If playback stutters, try another.</source>
-        <translation type="unfinished"></translation>
+        <translation>วิธีถอดรหัสวิดีโอสำหรับพรีวิว
+Auto จะเลือกแยกตามคลิป: ใช้ฮาร์ดแวร์สำหรับ 4K คุณภาพสูง และใช้ซอฟต์แวร์ในกรณีอื่น
+ซอฟต์แวร์เล่นคลิปส่วนใหญ่ได้ลื่นกว่า แต่ใช้ CPU มากกว่า
+ฮาร์ดแวร์เหมาะกับ 4K คุณภาพสูงและบังคับใช้ตัวถอดรหัส GPU เพียงตัวเดียว
+หากเล่นสะดุด ให้ลองเปลี่ยนวิธี</translation>
     </message>
     <message>
         <source>Toggle guides</source>
@@ -9737,11 +9743,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Keep mask handles on the preview while another clip is selected</source>
-        <translation type="unfinished"></translation>
+        <translation>คงจุดจับมาสก์ไว้บนพรีวิวแม้เลือกคลิปอื่น</translation>
     </message>
     <message>
         <source>Exit fullscreen preview (Esc)</source>
-        <translation type="unfinished"></translation>
+        <translation>ออกจากพรีวิวเต็มหน้าจอ (Esc)</translation>
     </message>
     <message>
         <source>Fullscreen preview</source>
@@ -9749,11 +9755,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Decoding on a different graphics card</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังถอดรหัสด้วยการ์ดจอคนละตัว</translation>
     </message>
     <message>
         <source>Use anyway</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้ต่อไป</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9761,15 +9767,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Launching Drift with prime-run (or DRI_PRIME=1) puts OpenGL on the same card as the decoder.</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิด Drift ด้วย prime-run (หรือ DRI_PRIME=1) จะทำให้ OpenGL ใช้การ์ดจอเดียวกับตัวถอดรหัส</translation>
     </message>
     <message>
         <source>Run Drift on the high-performance graphics card</source>
-        <translation type="unfinished"></translation>
+        <translation>เรียกใช้ Drift บนการ์ดจอประสิทธิภาพสูง</translation>
     </message>
     <message>
         <source>Set Drift to High performance in Windows Settings &gt; Display &gt; Graphics, then restart Drift.</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่า Drift เป็น High performance ที่ Windows Settings &gt; Display &gt; Graphics แล้วรีสตาร์ต Drift</translation>
     </message>
     <message>
         <source>Open graphics settings</source>
@@ -9780,106 +9786,106 @@ If playback stutters, try another.</source>
     <name>Project</name>
     <message>
         <source>This project was saved by a newer version of Drift (project format %1; this build reads up to %2).</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรเจกต์นี้บันทึกด้วย Drift เวอร์ชันใหม่กว่า (รูปแบบโปรเจกต์ %1; บิลด์นี้อ่านได้ถึง %2)</translation>
     </message>
     <message>
         <source>This file isn’t a Drift project.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์นี้ไม่ใช่โปรเจกต์ Drift</translation>
     </message>
 </context>
 <context>
     <name>ProjectBundle</name>
     <message>
         <source>compressed block is corrupt</source>
-        <translation type="unfinished"></translation>
+        <translation>บล็อกข้อมูลที่บีบอัดเสียหาย</translation>
     </message>
     <message>
         <source>cannot open %1</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิด %1 ไม่ได้</translation>
     </message>
     <message>
         <source>file is too short to be a Drift project</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์สั้นเกินกว่าจะเป็นโปรเจกต์ Drift</translation>
     </message>
     <message>
         <source>not a Drift project (bad magic)</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่ใช่โปรเจกต์ Drift (รหัสระบุไฟล์ไม่ถูกต้อง)</translation>
     </message>
     <message>
         <source>unsupported container revision</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่รองรับเวอร์ชันคอนเทนเนอร์นี้</translation>
     </message>
     <message>
         <source>project manifest has an implausible size</source>
-        <translation type="unfinished"></translation>
+        <translation>ขนาด manifest ของโปรเจกต์ไม่สมเหตุสมผล</translation>
     </message>
     <message>
         <source>project file is truncated</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์โปรเจกต์ถูกตัดทอน</translation>
     </message>
     <message>
         <source>project manifest is corrupt</source>
-        <translation type="unfinished"></translation>
+        <translation>manifest ของโปรเจกต์เสียหาย</translation>
     </message>
     <message>
         <source>project manifest is not valid JSON: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>manifest ของโปรเจกต์ไม่ใช่ JSON ที่ถูกต้อง: %1</translation>
     </message>
     <message>
         <source>project manifest has no format version</source>
-        <translation type="unfinished"></translation>
+        <translation>manifest ของโปรเจกต์ไม่มีเวอร์ชันรูปแบบ</translation>
     </message>
     <message>
         <source>this project was saved by a newer version of Drift (format %1) — update to open it</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรเจกต์นี้บันทึกด้วย Drift เวอร์ชันใหม่กว่า (รูปแบบ %1) — อัปเดตเพื่อเปิดโปรเจกต์</translation>
     </message>
     <message>
         <source>project blob table is not contiguous</source>
-        <translation type="unfinished"></translation>
+        <translation>ตาราง blob ของโปรเจกต์ไม่ต่อเนื่อง</translation>
     </message>
     <message>
         <source>project blob table is implausible</source>
-        <translation type="unfinished"></translation>
+        <translation>ตาราง blob ของโปรเจกต์มีขนาดหรือโครงสร้างผิดปกติ</translation>
     </message>
     <message>
         <source>project media entry names no blob</source>
-        <translation type="unfinished"></translation>
+        <translation>รายการสื่อในโปรเจกต์ไม่ได้ระบุ blob</translation>
     </message>
     <message>
         <source>unsafe file name in project: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อไฟล์ที่ไม่ปลอดภัยในโปรเจกต์: %1</translation>
     </message>
     <message>
         <source>project file contains no timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์โปรเจกต์ไม่มีไทม์ไลน์</translation>
     </message>
     <message>
         <source>project file is truncated or has trailing data</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์โปรเจกต์ถูกตัดทอนหรือมีข้อมูลต่อท้าย</translation>
     </message>
     <message>
         <source>cannot compress %1</source>
-        <translation type="unfinished"></translation>
+        <translation>บีบอัด %1 ไม่ได้</translation>
     </message>
     <message>
         <source>project is too large to save</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรเจกต์ใหญ่เกินกว่าจะบันทึก</translation>
     </message>
     <message>
         <source>cannot compress the project manifest</source>
-        <translation type="unfinished"></translation>
+        <translation>บีบอัด manifest ของโปรเจกต์ไม่ได้</translation>
     </message>
     <message>
         <source>cannot write %1</source>
-        <translation type="unfinished"></translation>
+        <translation>เขียน %1 ไม่ได้</translation>
     </message>
     <message>
         <source>cannot write the project manifest</source>
-        <translation type="unfinished"></translation>
+        <translation>เขียน manifest ของโปรเจกต์ไม่ได้</translation>
     </message>
     <message>
         <source>cannot write project data</source>
-        <translation type="unfinished"></translation>
+        <translation>เขียนข้อมูลโปรเจกต์ไม่ได้</translation>
     </message>
     <message>
         <source>Cancelled</source>
@@ -9887,11 +9893,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>cannot read %1</source>
-        <translation type="unfinished"></translation>
+        <translation>อ่าน %1 ไม่ได้</translation>
     </message>
     <message>
         <source>%1 changed while saving</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 เปลี่ยนแปลงระหว่างบันทึก</translation>
     </message>
     <message>
         <source>cannot finish writing %1</source>
@@ -11834,7 +11840,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Audio only</source>
-        <translation type="unfinished"></translation>
+        <translation>เสียงเท่านั้น</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -11901,7 +11907,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Playback speed</source>
-        <translation type="unfinished"></translation>
+        <translation>ความเร็วในการเล่น</translation>
     </message>
     <message>
         <source>Custom speed…</source>
@@ -13670,7 +13676,7 @@ If playback stutters, try another.</source>
     <name>TimelineToolbar</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -14280,7 +14286,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Global</source>
