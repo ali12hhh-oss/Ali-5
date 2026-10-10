@@ -3181,199 +3181,199 @@
     </message>
     <message>
         <source>Blend mode changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabago ang blend mode</translation>
     </message>
     <message>
         <source>Blend mode updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang blend mode</translation>
     </message>
     <message>
         <source>Clip speed updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang bilis ng clip</translation>
     </message>
     <message>
         <source>Reverse on</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-on ang reverse</translation>
     </message>
     <message>
         <source>Reverse off</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-off ang reverse</translation>
     </message>
     <message>
         <source>Clip reversed</source>
-        <translation type="unfinished"></translation>
+        <translation>Binaligtad ang playback ng clip</translation>
     </message>
     <message>
         <source>Clip forward</source>
-        <translation type="unfinished"></translation>
+        <translation>I-play pasulong ang clip</translation>
     </message>
     <message>
         <source>A clip is already being reversed</source>
-        <translation type="unfinished"></translation>
+        <translation>May clip nang nire-reverse</translation>
     </message>
     <message>
         <source>Could not create a reversed file</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi makagawa ng reversed file</translation>
     </message>
     <message>
         <source>Reversing video…</source>
-        <translation type="unfinished"></translation>
+        <translation>Binabaligtad ang video…</translation>
     </message>
     <message>
         <source>Flip changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabago ang flip</translation>
     </message>
     <message>
         <source>Clip flip updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang clip flip</translation>
     </message>
     <message>
         <source>Pan changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabago ang pan</translation>
     </message>
     <message>
         <source>Clip pan updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang clip pan</translation>
     </message>
     <message>
         <source>Rotation snapped</source>
-        <translation type="unfinished"></translation>
+        <translation>Inihanay ang anggulo ng pag-ikot</translation>
     </message>
     <message>
         <source>Rotation set to %1°</source>
-        <translation type="unfinished"></translation>
+        <translation>Itinakda ang pag-ikot sa %1°</translation>
     </message>
     <message>
         <source>Clips merged</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinagsama ang mga clip</translation>
     </message>
     <message>
         <source>Subtitles merged</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinagsama ang mga subtitle</translation>
     </message>
     <message>
         <source>Audio separated</source>
-        <translation type="unfinished"></translation>
+        <translation>Ibinukod ang audio</translation>
     </message>
     <message>
         <source>Composite %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Composite %1</translation>
     </message>
     <message>
         <source>Composite created</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagawa ang composite</translation>
     </message>
     <message>
         <source>Composite</source>
-        <translation type="unfinished"></translation>
+        <translation>Composite</translation>
     </message>
     <message>
         <source>Flattening composite…</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinaplat ang composite…</translation>
     </message>
     <message>
         <source>Flattening was cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinansela ang pagpa-flat</translation>
     </message>
     <message>
         <source>Could not flatten the composite: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-flatten ang composite: %1</translation>
     </message>
     <message>
         <source>The composite clip was removed before flattening finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Inalis ang composite clip bago matapos ang pag-flatten</translation>
     </message>
     <message>
         <source>The composite clip was trimmed while flattening; try again</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-trim ang composite clip habang nagfa-flatten; subukan muli</translation>
     </message>
     <message>
         <source>%1 (flattened)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (na-flatten)</translation>
     </message>
     <message>
         <source>Composite flattened</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-flatten ang composite</translation>
     </message>
     <message>
         <source>All audio tracks separated</source>
-        <translation type="unfinished"></translation>
+        <translation>Nahiwalay ang lahat ng audio track</translation>
     </message>
     <message>
         <source>Change audio track</source>
-        <translation type="unfinished"></translation>
+        <translation>Baguhin ang audio track</translation>
     </message>
     <message>
         <source>Clips unlinked</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-unlink ang mga clip</translation>
     </message>
     <message>
         <source>Audio unlinked</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-unlink ang audio</translation>
     </message>
     <message>
         <source>Fade updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang fade</translation>
     </message>
     <message>
         <source>Fade curve changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabago ang fade curve</translation>
     </message>
     <message>
         <source>Fade curve updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang fade curve</translation>
     </message>
     <message>
         <source>Clip animation changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabago ang animation ng clip</translation>
     </message>
     <message>
         <source>Clip animation updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang animation ng clip</translation>
     </message>
     <message>
         <source>Shape style changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabago ang style ng hugis</translation>
     </message>
     <message>
         <source>Shape style updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang style ng hugis</translation>
     </message>
     <message>
         <source>3D model added</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagdagdag ng 3D model</translation>
     </message>
     <message>
         <source>3D model replaced</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinalitan ang 3D model</translation>
     </message>
     <message>
         <source>3D model options</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga opsyon ng 3D model</translation>
     </message>
     <message>
         <source>3D model options updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang mga opsyon ng 3D model</translation>
     </message>
     <message>
         <source>Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Animation</translation>
     </message>
     <message>
         <source>Animation added</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagdagdag ng animation</translation>
     </message>
     <message>
         <source>Animation replaced</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinalitan ang animation</translation>
     </message>
     <message>
         <source>Animation options</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga opsyon ng animation</translation>
     </message>
     <message>
         <source>Animation options updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang mga opsyon ng animation</translation>
     </message>
     <message>
         <source>Animation slot</source>
@@ -5057,7 +5057,7 @@
     </message>
     <message>
         <source>Pan changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabago ang pan</translation>
     </message>
     <message>
         <source>Centre</source>
@@ -9051,7 +9051,7 @@
     </message>
     <message>
         <source>Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Animation</translation>
     </message>
     <message>
         <source>Animation %1</source>
@@ -10073,7 +10073,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Animation</translation>
     </message>
     <message>
         <source>Audio</source>
@@ -13797,7 +13797,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Composite</source>
-        <translation type="unfinished"></translation>
+        <translation>Composite</translation>
     </message>
     <message>
         <source>Switch between the main timeline and composite clips</source>
