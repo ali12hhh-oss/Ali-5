@@ -6090,10 +6090,7 @@
     </message>
     <message numerus="yes">
         <source>Downloads — %n running</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>Downloads — %n em andamento</translation>
     </message>
     <message>
         <source>Downloads</source>
@@ -8666,10 +8663,7 @@
     </message>
     <message numerus="yes">
         <source>Create %n proxies</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>Criar %n proxies</translation>
     </message>
     <message>
         <source>Create proxy</source>
@@ -8677,10 +8671,7 @@
     </message>
     <message numerus="yes">
         <source>Remove %n proxies</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>Remover %n proxies</translation>
     </message>
     <message>
         <source>Remove proxy</source>
@@ -8736,10 +8727,7 @@
     </message>
     <message numerus="yes">
         <source>Add %n items to timeline</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>Adicionar %n itens à linha do tempo</translation>
     </message>
     <message>
         <source>Add to timeline</source>
@@ -8758,10 +8746,7 @@
     </message>
     <message numerus="yes">
         <source>Remove %n items from project</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>Remover %n itens do projeto</translation>
     </message>
 </context>
 <context>
@@ -8841,10 +8826,7 @@
     </message>
     <message numerus="yes">
         <source>Could not import any of the %n selected files.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>Não foi possível importar nenhum dos %n arquivos selecionados.</translation>
     </message>
 </context>
 <context>
@@ -12191,10 +12173,7 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message numerus="yes">
         <source>Filters — %n applied</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>Filtros — %n aplicados</translation>
     </message>
     <message>
         <source>Filters</source>
@@ -14443,10 +14422,7 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message numerus="yes">
         <source>+%n more</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>Mais %n</translation>
     </message>
 </context>
 <context>
