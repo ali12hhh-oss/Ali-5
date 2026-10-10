@@ -1730,7 +1730,9 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s)</source>
-        <translation>%n 个片段</translation>
+        <translation>
+            <numerusform>%n 个片段</numerusform>
+        </translation>
     </message>
     <message>
         <source>All</source>
@@ -1816,7 +1818,9 @@
     <name>AndroidTransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>%1 · %n 个片段</translation>
+        <translation>
+            <numerusform>%1 · %n 个片段</numerusform>
+        </translation>
     </message>
     <message>
         <source>Transform</source>
@@ -2450,7 +2454,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n subtitles</source>
-        <translation>已导入 %n 条字幕</translation>
+        <translation>
+            <numerusform>已导入 %n 条字幕</numerusform>
+        </translation>
     </message>
     <message>
         <source>No audio output devices were found, so playback will be silent.</source>
@@ -2474,7 +2480,9 @@
     </message>
     <message numerus="yes">
         <source>Multicam ready: %n camera(s) lined up at the start. Drag a clip to adjust its sync, then pick a shot.</source>
-        <translation>多机位已就绪：%n 个摄像机已在起点对齐。拖动片段调整同步，然后选择镜头。</translation>
+        <translation>
+            <numerusform>多机位已就绪：%n 个摄像机已在起点对齐。拖动片段调整同步，然后选择镜头。</numerusform>
+        </translation>
     </message>
     <message>
         <source>Select at least two video clips on different tracks.</source>
@@ -2592,7 +2600,9 @@
     </message>
     <message numerus="yes">
         <source>%n media items and referenced clips removed</source>
-        <translation>已移除 %n 个媒体项及其引用的片段</translation>
+        <translation>
+            <numerusform>已移除 %n 个媒体项及其引用的片段</numerusform>
+        </translation>
     </message>
     <message>
         <source>Media and referenced clip removed</source>
@@ -14403,7 +14413,9 @@ If playback stutters, try another.</source>
     <name>TransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>%1 · %n 个片段</translation>
+        <translation>
+            <numerusform>%1 · %n 个片段</numerusform>
+        </translation>
     </message>
     <message>
         <source>Transform</source>
