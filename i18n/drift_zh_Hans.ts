@@ -8686,23 +8686,23 @@
     </message>
     <message>
         <source>Collapse folder</source>
-        <translation type="unfinished"></translation>
+        <translation>折叠文件夹</translation>
     </message>
     <message>
         <source>Expand folder</source>
-        <translation type="unfinished"></translation>
+        <translation>展开文件夹</translation>
     </message>
     <message>
         <source>Move to folder…</source>
-        <translation type="unfinished"></translation>
+        <translation>移动到文件夹…</translation>
     </message>
     <message>
         <source>This folder is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>此文件夹为空</translation>
     </message>
     <message>
         <source>Drag media here, or import more.</source>
-        <translation type="unfinished"></translation>
+        <translation>将媒体拖到此处，或导入更多媒体。</translation>
     </message>
     <message>
         <source>Open</source>
@@ -8746,7 +8746,7 @@
     <name>MediaImport</name>
     <message>
         <source>An import is already running.</source>
-        <translation type="unfinished"></translation>
+        <translation>已有导入任务正在进行。</translation>
     </message>
     <message>
         <source>Import Media</source>
@@ -8754,27 +8754,27 @@
     </message>
     <message>
         <source>Could not open that file. This package cannot read files dropped from other apps — use Import to pick them instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开该文件。此软件包无法读取从其他应用拖入的文件，请使用“导入”来选择文件。</translation>
     </message>
     <message>
         <source>Could not open those files. This package cannot read files dropped from other apps — use Import to pick them instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开这些文件。此软件包无法读取从其他应用拖入的文件，请使用“导入”来选择文件。</translation>
     </message>
     <message>
         <source>Could not open that file. It may have been moved, or you may not have permission to read it.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开该文件。它可能已被移动，或者你没有读取权限。</translation>
     </message>
     <message>
         <source>Could not open any of the selected files.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开任何所选文件。</translation>
     </message>
     <message>
         <source>Could not read %1 — that image format is not supported by this build.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法读取 %1 — 此版本不支持该图像格式。</translation>
     </message>
     <message>
         <source>Could not read that file — the format is not supported by this build.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法读取该文件 — 此版本不支持该格式。</translation>
     </message>
     <message numerus="yes">
         <source>%n clip(s) may play back slowly. A proxy makes previewing smoother; export still uses the original.</source>
@@ -8784,7 +8784,7 @@
     </message>
     <message>
         <source>Create proxies</source>
-        <translation type="unfinished"></translation>
+        <translation>创建代理文件</translation>
     </message>
     <message numerus="yes">
         <source>%n clip(s) have a variable frame rate, which can drift out of sync with audio. Convert them to an edit-friendly format to fix it.</source>
@@ -8798,11 +8798,11 @@
     </message>
     <message>
         <source>Imported %1 of %2 files. The rest could not be opened — this package cannot read files dropped from other apps. Use Import instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>已导入 %2 个文件中的 %1 个。其余文件无法打开 — 此软件包无法读取从其他应用拖入的文件，请使用“导入”。</translation>
     </message>
     <message>
         <source>Imported %1 of %2 files. %3 could not be read.</source>
-        <translation type="unfinished"></translation>
+        <translation>已导入 %2 个文件中的 %1 个。无法读取 %3。</translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files.</source>
@@ -8812,7 +8812,7 @@
     </message>
     <message>
         <source>Could not import that file — the format may be unsupported.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法导入该文件 — 可能不支持此格式。</translation>
     </message>
     <message numerus="yes">
         <source>Could not import any of the %n selected files.</source>
@@ -8826,7 +8826,7 @@
     <name>MediaPreviewWindow</name>
     <message>
         <source>Preview — %1</source>
-        <translation type="unfinished"></translation>
+        <translation>预览 — %1</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -8834,15 +8834,15 @@
     </message>
     <message>
         <source>Play the clip and drag the ends to keep only the part you want. Save replaces this item in the media bin.</source>
-        <translation type="unfinished"></translation>
+        <translation>播放片段并拖动两端，只保留需要的部分。保存后会替换媒体箱中的此项目。</translation>
     </message>
     <message>
         <source>Drag the frame to crop. Save replaces this item in the media bin — then drag it onto the timeline.</source>
-        <translation type="unfinished"></translation>
+        <translation>拖动画框进行裁剪。保存后会替换媒体箱中的此项目，然后可将其拖到时间轴。</translation>
     </message>
     <message>
         <source>Drag the frame to choose the area to use. The original video stays available for reframing.</source>
-        <translation type="unfinished"></translation>
+        <translation>拖动画框选择要使用的区域。原始视频仍可用于重新取景。</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -8854,15 +8854,15 @@
     </message>
     <message>
         <source>Set In</source>
-        <translation type="unfinished"></translation>
+        <translation>设置入点</translation>
     </message>
     <message>
         <source>Set Out</source>
-        <translation type="unfinished"></translation>
+        <translation>设置出点</translation>
     </message>
     <message>
         <source>Original: %1×%2 • Frame: %3×%4</source>
-        <translation type="unfinished"></translation>
+        <translation>原始：%1×%2 • 画幅：%3×%4</translation>
     </message>
     <message>
         <source>Unlock source frame ratio</source>
@@ -8878,27 +8878,27 @@
     </message>
     <message>
         <source>Upscale this video?</source>
-        <translation type="unfinished"></translation>
+        <translation>要提升此视频的分辨率吗？</translation>
     </message>
     <message>
         <source>%1p</source>
-        <translation type="unfinished"></translation>
+        <translation>%1p</translation>
     </message>
     <message>
         <source>Length %1</source>
-        <translation type="unfinished"></translation>
+        <translation>时长 %1</translation>
     </message>
     <message>
         <source>This video is under 700 pixels on its shorter side. Upscaling it with an AI model can make it look sharper.</source>
-        <translation type="unfinished"></translation>
+        <translation>此视频较短的一边不足 700 像素。使用 AI 模型提升分辨率可能使画面更清晰。</translation>
     </message>
     <message>
         <source>This resolution is already good for most projects. You can still upscale it.</source>
-        <translation type="unfinished"></translation>
+        <translation>此分辨率已足以满足大多数项目的需求，但你仍可提升分辨率。</translation>
     </message>
     <message>
         <source>Done keeps the original video and stores this range and framing. Upscale renders them as a new video in the media bin, then opens it in the Enhance window.</source>
-        <translation type="unfinished"></translation>
+        <translation>“完成”会保留原始视频并保存此范围和取景设置。“提升分辨率”会将其渲染为媒体箱中的新视频，然后在“增强”窗口中打开。</translation>
     </message>
     <message>
         <source>Saving…</source>
@@ -8906,7 +8906,7 @@
     </message>
     <message>
         <source>Choose the part and framing to keep, then Next.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择要保留的片段和取景范围，然后点击“下一步”。</translation>
     </message>
     <message>
         <source>Save writes a new file over this item in the bin.</source>
