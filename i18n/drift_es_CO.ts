@@ -2606,9 +2606,9 @@
     </message>
     <message numerus="yes">
         <source>%n media items and referenced clips removed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Se eliminaron %n elementos multimedia y clips referenciados</numerusform>
+            <numerusform>Se eliminaron %n elementos multimedia y clips referenciados</numerusform>
         </translation>
     </message>
     <message>
@@ -3697,9 +3697,9 @@
     </message>
     <message numerus="yes">
         <source>Created %n text clips</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Se crearon %n clips de texto</numerusform>
+            <numerusform>Se crearon %n clips de texto</numerusform>
         </translation>
     </message>
     <message>
@@ -3911,9 +3911,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Se importaron %n accesorios faciales</numerusform>
+            <numerusform>Se importaron %n accesorios faciales</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -4041,9 +4041,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted attributes onto %n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Se pegaron los atributos en %n clips</numerusform>
+            <numerusform>Se pegaron los atributos en %n clips</numerusform>
         </translation>
     </message>
     <message>
@@ -4208,9 +4208,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted %n clips</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Se pegaron %n clips</numerusform>
+            <numerusform>Se pegaron %n clips</numerusform>
         </translation>
     </message>
     <message>
@@ -6093,9 +6093,9 @@
     </message>
     <message numerus="yes">
         <source>Downloads — %n running</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Descargas — %n en curso</numerusform>
+            <numerusform>Descargas — %n en curso</numerusform>
         </translation>
     </message>
     <message>
@@ -8021,7 +8021,7 @@
     </message>
     <message>
         <source>&amp;Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Reproducción</translation>
     </message>
     <message>
         <source>Play / Pause</source>
@@ -8061,15 +8061,15 @@
     </message>
     <message>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ver</translation>
     </message>
     <message>
         <source>Zoom &amp;In</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;cercar</translation>
     </message>
     <message>
         <source>Zoom &amp;Out</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;lejar</translation>
     </message>
     <message>
         <source>Toggle Fullscreen Preview</source>
@@ -8081,7 +8081,7 @@
     </message>
     <message>
         <source>&amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ventana</translation>
     </message>
     <message>
         <source>Landscape Workspace</source>
@@ -8097,15 +8097,15 @@
     </message>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished">Descargas</translation>
+        <translation>Descargas</translation>
     </message>
     <message>
         <source>Multicam</source>
-        <translation type="unfinished">Cámara múltiple</translation>
+        <translation>Multicámara</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;yuda</translation>
     </message>
     <message>
         <source>Keyboard Shortcuts</source>
@@ -8113,7 +8113,7 @@
     </message>
     <message>
         <source>Extras…</source>
-        <translation type="unfinished"></translation>
+        <translation>Complementos…</translation>
     </message>
     <message>
         <source>Check for Updates…</source>
@@ -8669,9 +8669,9 @@
     </message>
     <message numerus="yes">
         <source>Create %n proxies</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Crear %n proxies</numerusform>
+            <numerusform>Crear %n proxies</numerusform>
         </translation>
     </message>
     <message>
@@ -8680,9 +8680,9 @@
     </message>
     <message numerus="yes">
         <source>Remove %n proxies</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Eliminar %n proxies</numerusform>
+            <numerusform>Eliminar %n proxies</numerusform>
         </translation>
     </message>
     <message>
@@ -8739,9 +8739,9 @@
     </message>
     <message numerus="yes">
         <source>Add %n items to timeline</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Añadir %n elementos a la línea de tiempo</numerusform>
+            <numerusform>Añadir %n elementos a la línea de tiempo</numerusform>
         </translation>
     </message>
     <message>
@@ -8750,9 +8750,9 @@
     </message>
     <message numerus="yes">
         <source>Move %n items to folder…</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Mover %n elementos a la carpeta…</numerusform>
+            <numerusform>Mover %n elementos a la carpeta…</numerusform>
         </translation>
     </message>
     <message>
@@ -8761,9 +8761,9 @@
     </message>
     <message numerus="yes">
         <source>Remove %n items from project</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Eliminar %n elementos del proyecto</numerusform>
+            <numerusform>Eliminar %n elementos del proyecto</numerusform>
         </translation>
     </message>
 </context>
@@ -8844,9 +8844,9 @@
     </message>
     <message numerus="yes">
         <source>Could not import any of the %n selected files.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>No se pudo importar ninguno de los %n archivos seleccionados.</numerusform>
+            <numerusform>No se pudo importar ninguno de los %n archivos seleccionados.</numerusform>
         </translation>
     </message>
 </context>
@@ -8910,7 +8910,7 @@
     </message>
     <message>
         <source>%1p</source>
-        <translation type="unfinished"></translation>
+        <translation>%1p</translation>
     </message>
     <message>
         <source>Length %1</source>
@@ -8926,7 +8926,7 @@
     </message>
     <message>
         <source>Done keeps the original video and stores this range and framing. Upscale renders them as a new video in the media bin, then opens it in the Enhance window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Listo conserva el video original y guarda este rango y encuadre. Aumentar resolución crea un video nuevo en la biblioteca multimedia y lo abre en la ventana de mejora.</translation>
     </message>
     <message>
         <source>Saving…</source>
@@ -9808,7 +9808,7 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message>
         <source>Set Drift to High performance in Windows Settings &gt; Display &gt; Graphics, then restart Drift.</source>
-        <translation type="unfinished"></translation>
+        <translation>Configura Drift en Alto rendimiento en Configuración de Windows &gt; Pantalla &gt; Gráficos y reinícialo.</translation>
     </message>
     <message>
         <source>Open graphics settings</source>
@@ -10376,19 +10376,19 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished">%1 s</translation>
+        <translation>%1 s</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished">%1 min</translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 h %2 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 h %2 min</translation>
     </message>
     <message>
         <source>Enhancing… %1% — about %2 left</source>
-        <translation type="unfinished"></translation>
+        <translation>Mejorando… %1% — quedan aproximadamente %2</translation>
     </message>
     <message>
         <source>Enhancing… %1%</source>
@@ -10591,7 +10591,7 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message>
         <source>%1 (custom, experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (personalizado, experimental)</translation>
     </message>
     <message>
         <source>Original</source>
@@ -10599,11 +10599,11 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message>
         <source>Enhanced — out of date, preview again</source>
-        <translation type="unfinished"></translation>
+        <translation>Mejora desactualizada; vuelve a previsualizar</translation>
     </message>
     <message>
         <source>Enhanced %1 × %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Mejorado %1 × %2</translation>
     </message>
     <message>
         <source>Loading this frame…</source>
@@ -10623,7 +10623,7 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished">s</translation>
+        <translation>s</translation>
     </message>
     <message>
         <source>Fit</source>
@@ -10631,11 +10631,11 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message>
         <source>Preview one frame, then enhance the whole video. The result is added to the media bin. Enhancing is slow — minutes per second of video without a GPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>Previsualiza un fotograma y luego mejora todo el video. El resultado se agrega a la biblioteca multimedia. Sin GPU, el proceso es lento: puede tardar minutos por cada segundo de video.</translation>
     </message>
     <message>
         <source>Preview one frame, then enhance the part of the clip used on the timeline. The result is added to the media bin. Enhancing is slow — minutes per second of video without a GPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>Previsualiza un fotograma y mejora la parte del clip usada en la línea de tiempo. El resultado se agrega a la biblioteca multimedia. Sin GPU, el proceso puede tardar minutos por segundo de video.</translation>
     </message>
     <message>
         <source>Remove compression</source>
@@ -10643,11 +10643,11 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message>
         <source>Upscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Aumentar resolución</translation>
     </message>
     <message>
         <source>Output: %1 × %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Salida: %1 × %2</translation>
     </message>
     <message>
         <source> — larger than 4K, which is slow to edit and export</source>
@@ -10659,7 +10659,7 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message>
         <source>Up to about %1 on a typical laptop CPU. Preview a frame for an estimate for this computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hasta aproximadamente %1 en una CPU típica de portátil. Previsualiza un fotograma para estimarlo en este equipo.</translation>
     </message>
     <message>
         <source>Preview this frame</source>
@@ -10691,7 +10691,7 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message>
         <source>Speeds are per frame of this clip. Custom models are experimental and may not work. Drop an ONNX export (fp32 or fp16, RGB, 1x/2x/4x) into the folder; put the scale in the file name, e.g. &quot;2x_Name.onnx&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Las velocidades se calculan por fotograma de este clip. Los modelos personalizados son experimentales y podrían no funcionar. Coloca en la carpeta un archivo ONNX exportado (fp32 o fp16, RGB, 1x/2x/4x) e incluye la escala en el nombre, por ejemplo, "2x_Name.onnx".</translation>
     </message>
     <message>
         <source>Refresh model list</source>
@@ -10703,23 +10703,23 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message>
         <source>under a second</source>
-        <translation type="unfinished"></translation>
+        <translation>menos de un segundo</translation>
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished">%1 s</translation>
+        <translation>%1 s</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished">%1 min</translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 h %2 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 h %2 min</translation>
     </message>
     <message>
         <source>%1 s per frame</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 s por fotograma</translation>
     </message>
     <message>
         <source>No upscaling</source>
@@ -11109,7 +11109,7 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message>
         <source>Choose which graphics card Drift runs on in Windows Settings, under Display &gt; Graphics. Takes effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elige la tarjeta gráfica para Drift en Configuración de Windows &gt; Pantalla &gt; Gráficos. Se aplica al reiniciar.</translation>
     </message>
     <message>
         <source>Open graphics settings</source>
@@ -11937,7 +11937,7 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message>
         <source>Speed applies to video, audio and composite clips.</source>
-        <translation type="unfinished"></translation>
+        <translation>La velocidad se aplica a clips de video, audio y compuestos.</translation>
     </message>
     <message>
         <source>Playback speed</source>
@@ -12194,9 +12194,9 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message numerus="yes">
         <source>Filters — %n applied</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Filtros — %n aplicados</numerusform>
+            <numerusform>Filtros — %n aplicados</numerusform>
         </translation>
     </message>
     <message>
@@ -13989,9 +13989,9 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message numerus="yes">
         <source>This removes the track and its %n clips. You can undo afterwards.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Esto elimina la pista y sus %n clips. Puedes deshacerlo después.</numerusform>
+            <numerusform>Esto elimina la pista y sus %n clips. Puedes deshacerlo después.</numerusform>
         </translation>
     </message>
     <message>
@@ -14446,9 +14446,9 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message numerus="yes">
         <source>+%n more</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>+%n más</numerusform>
+            <numerusform>+%n más</numerusform>
         </translation>
     </message>
 </context>
