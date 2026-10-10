@@ -897,7 +897,7 @@
     </message>
     <message>
         <source>Couldn’t install “%1”: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้ง “%1” ไม่สำเร็จ: %2</translation>
     </message>
     <message>
         <source>Imported “%1”.</source>
@@ -1016,15 +1016,15 @@
     </message>
     <message>
         <source>Save keeps your changes as a new file in this project.</source>
-        <translation type="unfinished"></translation>
+        <translation>การบันทึกจะเก็บการเปลี่ยนแปลงเป็นไฟล์ใหม่ในโปรเจกต์นี้</translation>
     </message>
     <message>
         <source>Save keeps the original video and stores this framing.</source>
-        <translation type="unfinished"></translation>
+        <translation>การบันทึกจะเก็บวิดีโอต้นฉบับไว้และบันทึกการจัดเฟรมนี้</translation>
     </message>
     <message>
         <source>Nothing changed yet. Trim or crop above, or go back and drag this onto the timeline.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่มีการเปลี่ยนแปลง ให้ตัดหรือครอปด้านบน หรือย้อนกลับแล้วลากรายการนี้ไปยังไทม์ไลน์</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1071,7 +1071,7 @@
     </message>
     <message>
         <source>Paste attributes…</source>
-        <translation type="unfinished"></translation>
+        <translation>วางคุณสมบัติ…</translation>
     </message>
     <message>
         <source>Apply what you copied from another clip</source>
@@ -1079,39 +1079,39 @@
     </message>
     <message>
         <source>Rename…</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อ…</translation>
     </message>
     <message>
         <source>Change the clip&apos;s name</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อคลิป</translation>
     </message>
     <message>
         <source>Open composite</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดคอมโพสิต</translation>
     </message>
     <message>
         <source>Edit the clips inside</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขคลิปภายใน</translation>
     </message>
     <message>
         <source>Flatten composite</source>
-        <translation type="unfinished"></translation>
+        <translation>รวมคอมโพสิตเป็นคลิปเดียว</translation>
     </message>
     <message>
         <source>Render it into a single video clip</source>
-        <translation type="unfinished"></translation>
+        <translation>เรนเดอร์ให้เป็นคลิปวิดีโอเดียว</translation>
     </message>
     <message>
         <source>Make composite</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างคอมโพสิต</translation>
     </message>
     <message>
         <source>Group the selected clips into one</source>
-        <translation type="unfinished"></translation>
+        <translation>จัดกลุ่มคลิปที่เลือกให้เป็นชุดเดียว</translation>
     </message>
     <message>
         <source>Transform together</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงพร้อมกัน</translation>
     </message>
     <message>
         <source>Move, scale or tilt the selected clips&apos; tracks as one</source>
@@ -1119,15 +1119,15 @@
     </message>
     <message>
         <source>Select transform layer</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกเลเยอร์การแปลง</translation>
     </message>
     <message>
         <source>The layer moving this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>เลเยอร์ที่ใช้ขยับคลิปนี้</translation>
     </message>
     <message>
         <source>Select covered clips</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกคลิปที่อยู่ในขอบเขต</translation>
     </message>
     <message>
         <source>Every clip this layer moves</source>
@@ -1135,23 +1135,23 @@
     </message>
     <message>
         <source>Covers</source>
-        <translation type="unfinished"></translation>
+        <translation>ครอบคลุม</translation>
     </message>
     <message>
         <source>Choose which tracks this layer moves</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกแทร็กที่เลเยอร์นี้จะขยับ</translation>
     </message>
     <message>
         <source>Unlink</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการเชื่อมโยง</translation>
     </message>
     <message>
         <source>Edit video and its audio separately</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขวิดีโอและเสียงแยกกัน</translation>
     </message>
     <message>
         <source>Separate all audio tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>แยกแทร็กเสียงทั้งหมด</translation>
     </message>
     <message>
         <source>One audio clip per audio track in the file</source>
@@ -1159,23 +1159,23 @@
     </message>
     <message>
         <source>Convert to edit-friendly format</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงเป็นรูปแบบที่แก้ไขได้สะดวก</translation>
     </message>
     <message>
         <source>Smoother editing for phone and screen recordings</source>
-        <translation type="unfinished"></translation>
+        <translation>ช่วยให้ตัดต่อวิดีโอจากโทรศัพท์และการบันทึกหน้าจอได้ลื่นไหลขึ้น</translation>
     </message>
     <message>
         <source>Merge subtitle clips</source>
-        <translation type="unfinished"></translation>
+        <translation>รวมคลิปคำบรรยาย</translation>
     </message>
     <message>
         <source>Join the selected subtitle clips</source>
-        <translation type="unfinished"></translation>
+        <translation>รวมคลิปคำบรรยายที่เลือก</translation>
     </message>
     <message>
         <source>Merge all subtitles on this track</source>
-        <translation type="unfinished"></translation>
+        <translation>รวมคำบรรยายทั้งหมดในแทร็กนี้</translation>
     </message>
     <message>
         <source>Join every subtitle clip on the track</source>
@@ -1183,31 +1183,31 @@
     </message>
     <message>
         <source>Convert to text clips</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงเป็นคลิปข้อความ</translation>
     </message>
     <message>
         <source>One text clip per cue</source>
-        <translation type="unfinished"></translation>
+        <translation>หนึ่งคลิปข้อความต่อหนึ่งคำบรรยาย</translation>
     </message>
     <message>
         <source>Convert to subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงเป็นคำบรรยาย</translation>
     </message>
     <message>
         <source>Turn text clips into subtitle cues</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงคลิปข้อความเป็นรายการคำบรรยาย</translation>
     </message>
     <message>
         <source>Unlink from clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการเชื่อมโยงจากคลิป</translation>
     </message>
     <message>
         <source>Stop following the clip it is attached to</source>
-        <translation type="unfinished"></translation>
+        <translation>หยุดติดตามคลิปที่แนบอยู่</translation>
     </message>
     <message>
         <source>Move to its own track</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้ายไปยังแทร็กของตัวเอง</translation>
     </message>
     <message>
         <source>Take the adjustment out of this lane</source>
@@ -1219,79 +1219,79 @@
     </message>
     <message>
         <source>Copy effects</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกเอฟเฟกต์</translation>
     </message>
     <message>
         <source>Keep this clip&apos;s effects to paste</source>
-        <translation type="unfinished"></translation>
+        <translation>เก็บเอฟเฟกต์ของคลิปนี้ไว้เพื่อวาง</translation>
     </message>
     <message>
         <source>Paste effects</source>
-        <translation type="unfinished"></translation>
+        <translation>วางเอฟเฟกต์</translation>
     </message>
     <message>
         <source>Add the copied effects to this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเอฟเฟกต์ที่คัดลอกมาให้คลิปนี้</translation>
     </message>
     <message>
         <source>Save effects as preset…</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกเอฟเฟกต์เป็นพรีเซ็ต…</translation>
     </message>
     <message>
         <source>Reuse this look on other clips</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้รูปลักษณ์นี้กับคลิปอื่นอีกครั้ง</translation>
     </message>
     <message>
         <source>Trim &amp; timing</source>
-        <translation type="unfinished"></translation>
+        <translation>การตัดและการกำหนดเวลา</translation>
     </message>
     <message>
         <source>Split all tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>แยกทุกแทร็ก</translation>
     </message>
     <message>
         <source>Cut every clip under the playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัดทุกคลิปใต้หัวอ่าน</translation>
     </message>
     <message>
         <source>Trim start</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัดส่วนต้น</translation>
     </message>
     <message>
         <source>Drop everything before the playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบทุกอย่างก่อนตำแหน่งหัวอ่าน</translation>
     </message>
     <message>
         <source>Trim end</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัดส่วนท้าย</translation>
     </message>
     <message>
         <source>Drop everything after the playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบทุกอย่างหลังตำแหน่งหัวอ่าน</translation>
     </message>
     <message>
         <source>Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>ความเร็ว</translation>
     </message>
     <message>
         <source>Change how fast this clip plays</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนความเร็วในการเล่นคลิปนี้</translation>
     </message>
     <message>
         <source>Freeze frame</source>
-        <translation type="unfinished"></translation>
+        <translation>หยุดภาพนิ่ง</translation>
     </message>
     <message>
         <source>Freeze frame at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>หยุดภาพนิ่ง ณ เวลาปัจจุบัน</translation>
     </message>
     <message>
         <source>Merge</source>
-        <translation type="unfinished"></translation>
+        <translation>รวม</translation>
     </message>
     <message>
         <source>Merge adjacent clips</source>
-        <translation type="unfinished"></translation>
+        <translation>รวมคลิปที่อยู่ติดกัน</translation>
     </message>
     <message>
         <source>Close gap</source>
@@ -1299,7 +1299,7 @@
     </message>
     <message>
         <source>Close gap after clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดช่องว่างหลังคลิป</translation>
     </message>
     <message>
         <source>Audio</source>
@@ -1307,7 +1307,7 @@
     </message>
     <message>
         <source>Separate audio</source>
-        <translation type="unfinished"></translation>
+        <translation>แยกเสียง</translation>
     </message>
     <message>
         <source>Separate audio from video</source>
@@ -1359,11 +1359,11 @@
     </message>
     <message>
         <source>Paste at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>วาง ณ เวลาปัจจุบัน</translation>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>บุ๊กมาร์ก</translation>
     </message>
     <message>
         <source>Add or remove a bookmark here</source>
@@ -1387,7 +1387,7 @@
     </message>
     <message>
         <source>Clear work area</source>
-        <translation type="unfinished"></translation>
+        <translation>ล้างพื้นที่ทำงาน</translation>
     </message>
     <message>
         <source>Shorter layers</source>
@@ -1674,7 +1674,7 @@
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อ</translation>
     </message>
     <message>
         <source>Clip name</source>
@@ -1686,7 +1686,7 @@
     </message>
     <message>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>ป้ายกำกับ</translation>
     </message>
     <message>
         <source>Bookmark name</source>
@@ -1694,15 +1694,15 @@
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>บุ๊กมาร์ก</translation>
     </message>
     <message>
         <source>My look</source>
-        <translation type="unfinished"></translation>
+        <translation>สไตล์ของฉัน</translation>
     </message>
     <message>
         <source>Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>พร็อกซี</translation>
     </message>
     <message>
         <source>Previewing from a low-resolution proxy. Export uses the original.</source>
@@ -1726,7 +1726,7 @@
     </message>
     <message>
         <source>Keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>คีย์เฟรม</translation>
     </message>
     <message numerus="yes">
         <source>%n clip(s)</source>
@@ -1760,7 +1760,7 @@
     </message>
     <message>
         <source>Rename…</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อ…</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -1780,7 +1780,7 @@
     </message>
     <message>
         <source>New track</source>
-        <translation type="unfinished"></translation>
+        <translation>แทร็กใหม่</translation>
     </message>
 </context>
 <context>
@@ -1915,7 +1915,7 @@
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>สไตล์</translation>
     </message>
     <message>
         <source>Pick how the clip enters and leaves. Fade is one option — same style controls as slide or zoom.</source>
@@ -1923,15 +1923,15 @@
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>ล้าง</translation>
     </message>
     <message>
         <source>In</source>
-        <translation type="unfinished"></translation>
+        <translation>จุดเข้า</translation>
     </message>
     <message>
         <source>Out</source>
-        <translation type="unfinished"></translation>
+        <translation>จุดออก</translation>
     </message>
     <message>
         <source>Edit custom curve…</source>
@@ -1946,23 +1946,23 @@
     <name>AppController</name>
     <message>
         <source>Media removed</source>
-        <translation type="unfinished"></translation>
+        <translation>นำสื่อออกแล้ว</translation>
     </message>
     <message>
         <source>Rename media</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อสื่อ</translation>
     </message>
     <message>
         <source>Media renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อสื่อแล้ว</translation>
     </message>
     <message>
         <source>That file could not be read.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถอ่านไฟล์นั้นได้</translation>
     </message>
     <message>
         <source>That file is already in this project.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์นี้อยู่ในโปรเจกต์นี้แล้ว</translation>
     </message>
     <message>
         <source>Converting %1 to an edit-friendly format…</source>
@@ -1970,7 +1970,7 @@
     </message>
     <message>
         <source>That media is no longer in this project.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีสื่อนี้ในโปรเจกต์นี้แล้ว</translation>
     </message>
     <message>
         <source>“%1” is %2, but this slot holds %3.</source>
@@ -1978,7 +1978,7 @@
     </message>
     <message>
         <source>Media replaced</source>
-        <translation type="unfinished"></translation>
+        <translation>แทนที่สื่อแล้ว</translation>
     </message>
     <message>
         <source>New project</source>
@@ -1990,15 +1990,15 @@
     </message>
     <message>
         <source>Save project</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกโปรเจกต์</translation>
     </message>
     <message>
         <source>Play/Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>เล่น/หยุดชั่วคราว</translation>
     </message>
     <message>
         <source>Delete selection</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบรายการที่เลือก</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -2010,55 +2010,55 @@
     </message>
     <message>
         <source>Copy selection</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกรายการที่เลือก</translation>
     </message>
     <message>
         <source>Cut selection</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัดรายการที่เลือก</translation>
     </message>
     <message>
         <source>Paste at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>วาง ณ เวลาปัจจุบัน</translation>
     </message>
     <message>
         <source>Duplicate selected clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำสำเนาคลิปที่เลือก</translation>
     </message>
     <message>
         <source>Split at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>แยกที่เวลาปัจจุบัน</translation>
     </message>
     <message>
         <source>Merge adjacent clips</source>
-        <translation type="unfinished"></translation>
+        <translation>รวมคลิปที่อยู่ติดกัน</translation>
     </message>
     <message>
         <source>Separate audio</source>
-        <translation type="unfinished"></translation>
+        <translation>แยกเสียง</translation>
     </message>
     <message>
         <source>Unlink audio</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการเชื่อมโยงเสียง</translation>
     </message>
     <message>
         <source>Clear selection</source>
-        <translation type="unfinished"></translation>
+        <translation>ล้างการเลือก</translation>
     </message>
     <message>
         <source>Select all clips</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกคลิปทั้งหมด</translation>
     </message>
     <message>
         <source>Move selection left a little</source>
-        <translation type="unfinished"></translation>
+        <translation>เลื่อนรายการที่เลือกไปทางซ้ายเล็กน้อย</translation>
     </message>
     <message>
         <source>Move selection right a little</source>
-        <translation type="unfinished"></translation>
+        <translation>เลื่อนรายการที่เลือกไปทางขวาเล็กน้อย</translation>
     </message>
     <message>
         <source>Toggle guides</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิด/ปิดเส้นไกด์</translation>
     </message>
     <message>
         <source>Add/remove bookmark at current time</source>
@@ -2066,19 +2066,19 @@
     </message>
     <message>
         <source>Go to next bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>ไปยังบุ๊กมาร์กถัดไป</translation>
     </message>
     <message>
         <source>Go to previous bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>ไปยังบุ๊กมาร์กก่อนหน้า</translation>
     </message>
     <message>
         <source>Mark work area in</source>
-        <translation type="unfinished"></translation>
+        <translation>กำหนดจุดเริ่มพื้นที่ทำงาน</translation>
     </message>
     <message>
         <source>Mark work area out</source>
-        <translation type="unfinished"></translation>
+        <translation>กำหนดจุดสิ้นสุดพื้นที่ทำงาน</translation>
     </message>
     <message>
         <source>Go to work area in</source>
@@ -2090,19 +2090,19 @@
     </message>
     <message>
         <source>Clear work area</source>
-        <translation type="unfinished"></translation>
+        <translation>ล้างพื้นที่ทำงาน</translation>
     </message>
     <message>
         <source>Loop work area playback</source>
-        <translation type="unfinished"></translation>
+        <translation>เล่นพื้นที่ทำงานวนซ้ำ</translation>
     </message>
     <message>
         <source>Select tool</source>
-        <translation type="unfinished"></translation>
+        <translation>เครื่องมือเลือก</translation>
     </message>
     <message>
         <source>Cut tool</source>
-        <translation type="unfinished"></translation>
+        <translation>เครื่องมือตัด</translation>
     </message>
     <message>
         <source>Faster preview takes effect after you restart Drift.</source>
@@ -2114,27 +2114,27 @@
     </message>
     <message>
         <source>Clip added</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มคลิปแล้ว</translation>
     </message>
     <message>
         <source>Clip added on new track</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มคลิปในแทร็กใหม่แล้ว</translation>
     </message>
     <message>
         <source>Clip deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบคลิปแล้ว</translation>
     </message>
     <message>
         <source>Clip moved</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้ายคลิปแล้ว</translation>
     </message>
     <message>
         <source>Nothing to split here — move to a clip first</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีสิ่งที่จะแยกตรงนี้ ให้เลื่อนไปที่คลิปก่อน</translation>
     </message>
     <message>
         <source>Split clip</source>
-        <translation type="unfinished"></translation>
+        <translation>แยกคลิป</translation>
     </message>
     <message>
         <source>Split left</source>
@@ -2679,7 +2679,7 @@
     </message>
     <message>
         <source>Paste attributes…</source>
-        <translation type="unfinished"></translation>
+        <translation>วางคุณสมบัติ…</translation>
     </message>
     <message>
         <source>Go to previous cut point</source>
@@ -3535,7 +3535,7 @@
     </message>
     <message>
         <source>Select transform layer</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกเลเยอร์การแปลง</translation>
     </message>
     <message>
         <source>3D gizmo: move</source>
@@ -3718,7 +3718,7 @@
     </message>
     <message>
         <source>Transform together</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงพร้อมกัน</translation>
     </message>
     <message>
         <source>Change transform span</source>
@@ -4021,7 +4021,7 @@
     </message>
     <message>
         <source>Paste effects</source>
-        <translation type="unfinished"></translation>
+        <translation>วางเอฟเฟกต์</translation>
     </message>
     <message>
         <source>Copy a clip and select target clips first</source>
@@ -4627,7 +4627,7 @@
     </message>
     <message>
         <source>Rename media</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อสื่อ</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -4635,7 +4635,7 @@
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อ</translation>
     </message>
     <message>
         <source>Media name</source>
@@ -5841,7 +5841,7 @@
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>สไตล์</translation>
     </message>
     <message>
         <source>Colours</source>
@@ -6066,7 +6066,7 @@
     </message>
     <message>
         <source>Save project</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกโปรเจกต์</translation>
     </message>
     <message numerus="yes">
         <source>Downloads — %n running</source>
@@ -6330,7 +6330,7 @@
     </message>
     <message>
         <source>Rename…</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อ…</translation>
     </message>
     <message>
         <source>Export…</source>
@@ -6603,7 +6603,7 @@
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>ล้าง</translation>
     </message>
     <message>
         <source>Pick %1</source>
@@ -6635,7 +6635,7 @@
     </message>
     <message>
         <source>Paste effects</source>
-        <translation type="unfinished"></translation>
+        <translation>วางเอฟเฟกต์</translation>
     </message>
 </context>
 <context>
@@ -7364,7 +7364,7 @@
     </message>
     <message>
         <source>Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>ความเร็ว</translation>
     </message>
     <message>
         <source>Slides the gradient along its axis, in cycles per second</source>
@@ -7651,7 +7651,7 @@
     </message>
     <message>
         <source>Keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>คีย์เฟรม</translation>
     </message>
     <message>
         <source>Analyzing…</source>
@@ -8141,7 +8141,7 @@
     </message>
     <message>
         <source>Couldn’t install “%1”: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้ง “%1” ไม่สำเร็จ: %2</translation>
     </message>
     <message>
         <source>Imported “%1”.</source>
@@ -8294,7 +8294,7 @@
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>ล้าง</translation>
     </message>
 </context>
 <context>
@@ -8621,7 +8621,7 @@
     </message>
     <message>
         <source>Rename…</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อ…</translation>
     </message>
     <message>
         <source>%1 — drag to the timeline, right-click to preview</source>
@@ -8629,7 +8629,7 @@
     </message>
     <message>
         <source>Open composite</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดคอมโพสิต</translation>
     </message>
     <message>
         <source>Preview and edit…</source>
@@ -8675,7 +8675,7 @@
     </message>
     <message>
         <source>Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>พร็อกซี</translation>
     </message>
     <message>
         <source>Edit-friendly</source>
@@ -8733,7 +8733,7 @@
     </message>
     <message>
         <source>Convert to edit-friendly format</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงเป็นรูปแบบที่แก้ไขได้สะดวก</translation>
     </message>
     <message numerus="yes">
         <source>Remove %n items from project</source>
@@ -8915,7 +8915,7 @@
     </message>
     <message>
         <source>Save keeps the original video and stores this framing.</source>
-        <translation type="unfinished"></translation>
+        <translation>การบันทึกจะเก็บวิดีโอต้นฉบับไว้และบันทึกการจัดเฟรมนี้</translation>
     </message>
     <message>
         <source>Nothing to save — drag this item onto the timeline when you are ready.</source>
@@ -9268,7 +9268,7 @@
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อ</translation>
     </message>
     <message>
         <source>My style</source>
@@ -9311,7 +9311,7 @@
     </message>
     <message>
         <source>New track</source>
-        <translation type="unfinished"></translation>
+        <translation>แทร็กใหม่</translation>
     </message>
 </context>
 <context>
@@ -9730,7 +9730,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Toggle guides</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิด/ปิดเส้นไกด์</translation>
     </message>
     <message>
         <source>Guide sets</source>
@@ -10061,7 +10061,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>ความเร็ว</translation>
     </message>
     <message>
         <source>Blending</source>
@@ -10105,7 +10105,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>My look</source>
-        <translation type="unfinished"></translation>
+        <translation>สไตล์ของฉัน</translation>
     </message>
 </context>
 <context>
@@ -10793,7 +10793,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>ล้าง</translation>
     </message>
     <message>
         <source>Identify objects</source>
@@ -11242,7 +11242,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>ล้าง</translation>
     </message>
     <message>
         <source>Allow sending audio and text to %1</source>
@@ -11437,11 +11437,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Trim start</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัดส่วนต้น</translation>
     </message>
     <message>
         <source>Trim end</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัดส่วนท้าย</translation>
     </message>
     <message>
         <source>Sketchy</source>
@@ -11914,7 +11914,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>ความเร็ว</translation>
     </message>
     <message>
         <source>Speed changed</source>
@@ -12568,7 +12568,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Rename…</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อ…</translation>
     </message>
     <message>
         <source>Export…</source>
@@ -12638,7 +12638,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>สไตล์</translation>
     </message>
     <message>
         <source>Aa</source>
@@ -13094,11 +13094,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>In</source>
-        <translation type="unfinished"></translation>
+        <translation>จุดเข้า</translation>
     </message>
     <message>
         <source>Out</source>
-        <translation type="unfinished"></translation>
+        <translation>จุดออก</translation>
     </message>
     <message>
         <source>Loop</source>
@@ -13207,11 +13207,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Trim start</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัดส่วนต้น</translation>
     </message>
     <message>
         <source>Trim end</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัดส่วนท้าย</translation>
     </message>
     <message>
         <source>Dash offset</source>
@@ -13397,19 +13397,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Open composite</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดคอมโพสิต</translation>
     </message>
     <message>
         <source>Flatten composite</source>
-        <translation type="unfinished"></translation>
+        <translation>รวมคอมโพสิตเป็นคลิปเดียว</translation>
     </message>
     <message>
         <source>Make composite</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างคอมโพสิต</translation>
     </message>
     <message>
         <source>Transform together</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงพร้อมกัน</translation>
     </message>
     <message>
         <source>Add transform layer</source>
@@ -13417,7 +13417,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Select transform layer</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกเลเยอร์การแปลง</translation>
     </message>
     <message>
         <source>Covers…</source>
@@ -13425,23 +13425,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Select covered clips</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกคลิปที่อยู่ในขอบเขต</translation>
     </message>
     <message>
         <source>Split at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>แยกที่เวลาปัจจุบัน</translation>
     </message>
     <message>
         <source>Separate audio</source>
-        <translation type="unfinished"></translation>
+        <translation>แยกเสียง</translation>
     </message>
     <message>
         <source>Separate all audio tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>แยกแทร็กเสียงทั้งหมด</translation>
     </message>
     <message>
         <source>Convert to edit-friendly format</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงเป็นรูปแบบที่แก้ไขได้สะดวก</translation>
     </message>
     <message>
         <source>Enhance video…</source>
@@ -13449,23 +13449,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Unlink</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการเชื่อมโยง</translation>
     </message>
     <message>
         <source>Merge subtitle clips</source>
-        <translation type="unfinished"></translation>
+        <translation>รวมคลิปคำบรรยาย</translation>
     </message>
     <message>
         <source>Merge all subtitles on this track</source>
-        <translation type="unfinished"></translation>
+        <translation>รวมคำบรรยายทั้งหมดในแทร็กนี้</translation>
     </message>
     <message>
         <source>Convert to text clips</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงเป็นคลิปข้อความ</translation>
     </message>
     <message>
         <source>Convert to subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงเป็นคำบรรยาย</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -13477,7 +13477,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Paste attributes…</source>
-        <translation type="unfinished"></translation>
+        <translation>วางคุณสมบัติ…</translation>
     </message>
     <message>
         <source>Duplicate</source>
@@ -13485,27 +13485,27 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Rename…</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อ…</translation>
     </message>
     <message>
         <source>Copy effects</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกเอฟเฟกต์</translation>
     </message>
     <message>
         <source>Paste effects</source>
-        <translation type="unfinished"></translation>
+        <translation>วางเอฟเฟกต์</translation>
     </message>
     <message>
         <source>Save effects as preset…</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกเอฟเฟกต์เป็นพรีเซ็ต…</translation>
     </message>
     <message>
         <source>Unlink from clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการเชื่อมโยงจากคลิป</translation>
     </message>
     <message>
         <source>Move to its own track</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้ายไปยังแทร็กของตัวเอง</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -13544,7 +13544,7 @@ If playback stutters, try another.</source>
     <name>TimelinePanel</name>
     <message>
         <source>Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>พร็อกซี</translation>
     </message>
     <message>
         <source>Previewing from a low-resolution proxy. Export uses the original.</source>
@@ -13584,7 +13584,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Rename…</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อ…</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -13600,7 +13600,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>New track</source>
-        <translation type="unfinished"></translation>
+        <translation>แทร็กใหม่</translation>
     </message>
     <message>
         <source>Importing…</source>
@@ -13624,7 +13624,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>ป้ายกำกับ</translation>
     </message>
     <message>
         <source>Bookmark name</source>
@@ -13632,7 +13632,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>บุ๊กมาร์ก</translation>
     </message>
     <message>
         <source>Convert to subtitle?</source>
@@ -13652,7 +13652,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อ</translation>
     </message>
     <message>
         <source>Clip name</source>
@@ -13660,7 +13660,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>My look</source>
-        <translation type="unfinished"></translation>
+        <translation>สไตล์ของฉัน</translation>
     </message>
     <message>
         <source>Close Gap</source>
@@ -13703,7 +13703,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Trim start</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัดส่วนต้น</translation>
     </message>
     <message>
         <source>Trim start — click a clip to drop everything left of the cut</source>
@@ -13711,7 +13711,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Trim end</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัดส่วนท้าย</translation>
     </message>
     <message>
         <source>Trim end — click a clip to drop everything right of the cut</source>
@@ -13731,11 +13731,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Copy selection</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกรายการที่เลือก</translation>
     </message>
     <message>
         <source>Paste at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>วาง ณ เวลาปัจจุบัน</translation>
     </message>
     <message>
         <source>Duplicate clip</source>
@@ -13747,19 +13747,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Mark work area in</source>
-        <translation type="unfinished"></translation>
+        <translation>กำหนดจุดเริ่มพื้นที่ทำงาน</translation>
     </message>
     <message>
         <source>Mark work area out</source>
-        <translation type="unfinished"></translation>
+        <translation>กำหนดจุดสิ้นสุดพื้นที่ทำงาน</translation>
     </message>
     <message>
         <source>Loop work area playback</source>
-        <translation type="unfinished"></translation>
+        <translation>เล่นพื้นที่ทำงานวนซ้ำ</translation>
     </message>
     <message>
         <source>Clear work area</source>
-        <translation type="unfinished"></translation>
+        <translation>ล้างพื้นที่ทำงาน</translation>
     </message>
     <message>
         <source>Add transform layer</source>
@@ -13799,11 +13799,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Merge adjacent clips</source>
-        <translation type="unfinished"></translation>
+        <translation>รวมคลิปที่อยู่ติดกัน</translation>
     </message>
     <message>
         <source>Freeze frame at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>หยุดภาพนิ่ง ณ เวลาปัจจุบัน</translation>
     </message>
     <message>
         <source>More edit actions</source>
@@ -14054,7 +14054,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Select covered clips</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกคลิปที่อยู่ในขอบเขต</translation>
     </message>
     <message>
         <source>Add transform layer above</source>
@@ -14082,7 +14082,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Covers</source>
-        <translation type="unfinished"></translation>
+        <translation>ครอบคลุม</translation>
     </message>
     <message>
         <source>Video</source>
@@ -14150,7 +14150,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Rename…</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อ…</translation>
     </message>
 </context>
 <context>
@@ -14384,7 +14384,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Covers</source>
-        <translation type="unfinished"></translation>
+        <translation>ครอบคลุม</translation>
     </message>
     <message>
         <source>Nothing</source>
