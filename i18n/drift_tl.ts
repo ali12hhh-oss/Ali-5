@@ -7224,7 +7224,7 @@
     </message>
     <message>
         <source>Adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>Adjustment</translation>
     </message>
     <message>
         <source>Clip name</source>
@@ -7232,7 +7232,7 @@
     </message>
     <message>
         <source>Untitled clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Clip na walang pamagat</translation>
     </message>
     <message>
         <source>Rename clip</source>
@@ -7240,19 +7240,19 @@
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Uri</translation>
     </message>
     <message>
         <source>Transform layer</source>
-        <translation type="unfinished">Layer ng pagbabagong-anyo</translation>
+        <translation>Transform layer</translation>
     </message>
     <message>
         <source>Original dimensions: %1 × %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Orihinal na sukat: %1 × %2</translation>
     </message>
     <message>
         <source>Source frame box</source>
-        <translation type="unfinished"></translation>
+        <translation>Source frame box</translation>
     </message>
     <message>
         <source>Unlock source frame ratio</source>
@@ -7272,23 +7272,23 @@
     </message>
     <message>
         <source>Edit source frame…</source>
-        <translation type="unfinished"></translation>
+        <translation>I-edit ang source frame…</translation>
     </message>
     <message>
         <source>Starts at</source>
-        <translation type="unfinished"></translation>
+        <translation>Magsisimula sa</translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished">Tagal</translation>
+        <translation>Tagal</translation>
     </message>
     <message>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>Mula</translation>
     </message>
     <message>
         <source>To</source>
-        <translation type="unfinished"></translation>
+        <translation>Hanggang</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -7300,42 +7300,42 @@
     </message>
     <message>
         <source>Which part of the original file this clip plays</source>
-        <translation type="unfinished"></translation>
+        <translation>Aling bahagi ng orihinal na file ang ipe-play ng clip na ito</translation>
     </message>
     <message>
         <source>Seconds into the file where this clip starts</source>
-        <translation type="unfinished"></translation>
+        <translation>Segundo sa file kung saan nagsisimula ang clip na ito</translation>
     </message>
     <message>
         <source>Seconds into the file where this clip ends</source>
-        <translation type="unfinished"></translation>
+        <translation>Segundo sa file kung saan nagtatapos ang clip na ito</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>File</translation>
     </message>
 </context>
 <context>
     <name>GradientStopEditor</name>
     <message>
         <source>Drag to move, tap for colour, hold or right-click to remove</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drag para ilipat, i-tap para pumili ng kulay, pindutin nang matagal o right-click para alisin</translation>
     </message>
     <message>
         <source>Move gradient stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilipat ang gradient stop</translation>
     </message>
     <message>
         <source>Add a colour stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng color stop</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga preset</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Uri</translation>
     </message>
     <message>
         <source>Linear</source>
@@ -7343,47 +7343,47 @@
     </message>
     <message>
         <source>Radial</source>
-        <translation type="unfinished"></translation>
+        <translation>Radial</translation>
     </message>
     <message>
         <source>Sweep</source>
-        <translation type="unfinished"></translation>
+        <translation>Sweep</translation>
     </message>
     <message>
         <source>Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Anggulo</translation>
     </message>
     <message>
         <source>Map to</source>
-        <translation type="unfinished"></translation>
+        <translation>I-map sa</translation>
     </message>
     <message>
         <source>What one run of the gradient spans: the whole block, each line, word or glyph</source>
-        <translation type="unfinished"></translation>
+        <translation>Saklaw ng isang gradient run: buong block, bawat linya, salita, o glyph</translation>
     </message>
     <message>
         <source>Block</source>
-        <translation type="unfinished"></translation>
+        <translation>Block</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Linya</translation>
     </message>
     <message>
         <source>Word</source>
-        <translation type="unfinished"></translation>
+        <translation>Salita</translation>
     </message>
     <message>
         <source>Glyph</source>
-        <translation type="unfinished"></translation>
+        <translation>Glyph</translation>
     </message>
     <message>
         <source>Accent run</source>
-        <translation type="unfinished"></translation>
+        <translation>Accent run</translation>
     </message>
     <message>
         <source>Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Offset</translation>
     </message>
     <message>
         <source>Speed</source>
@@ -7391,19 +7391,19 @@
     </message>
     <message>
         <source>Slides the gradient along its axis, in cycles per second</source>
-        <translation type="unfinished"></translation>
+        <translation>Inililipat ang gradient sa kahabaan ng axis nito, sa mga cycle bawat segundo</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga opsyon</translation>
     </message>
     <message>
         <source>Repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>Ulitin</translation>
     </message>
     <message>
         <source>Tile the gradient past its ends instead of clamping</source>
-        <translation type="unfinished"></translation>
+        <translation>I-tile ang gradient lampas sa mga dulo sa halip na i-clamp</translation>
     </message>
     <message>
         <source>OKLab</source>
@@ -9327,7 +9327,7 @@
     </message>
     <message>
         <source>Adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>Adjustment</translation>
     </message>
     <message>
         <source>Audio adjustment</source>
@@ -9433,7 +9433,7 @@
     </message>
     <message>
         <source>Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Anggulo</translation>
     </message>
     <message>
         <source>Adjust paint effect</source>
@@ -11525,7 +11525,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Anggulo</translation>
     </message>
     <message>
         <source>How much the extruded side fades toward black</source>
@@ -12692,11 +12692,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Word</source>
-        <translation type="unfinished"></translation>
+        <translation>Salita</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Linya</translation>
     </message>
     <message>
         <source>Forward</source>
@@ -13060,7 +13060,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Offset</translation>
     </message>
     <message>
         <source>Gap between the baseline and the rule</source>
@@ -13156,7 +13156,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished">Tagal</translation>
+        <translation>Tagal</translation>
     </message>
     <message>
         <source>Edit text animation</source>
@@ -13947,7 +13947,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>Adjustment</translation>
     </message>
     <message>
         <source>Subtitles</source>
@@ -14032,7 +14032,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>Adjustment</translation>
     </message>
     <message>
         <source>Audio</source>
@@ -14203,7 +14203,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Anggulo</translation>
     </message>
     <message>
         <source>Tilt X</source>
@@ -14394,7 +14394,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>Adjustment</translation>
     </message>
     <message>
         <source>Video</source>
@@ -14546,11 +14546,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Uri</translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished">Tagal</translation>
+        <translation>Tagal</translation>
     </message>
     <message>
         <source>Curve</source>
