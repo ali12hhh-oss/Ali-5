@@ -8086,7 +8086,7 @@
     </message>
     <message>
         <source>Multicam</source>
-        <translation type="unfinished">멀티캠</translation>
+        <translation>멀티캠</translation>
     </message>
     <message>
         <source>&amp;Help</source>
@@ -10354,11 +10354,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished">%1초</translation>
+        <translation>%1초</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished">%1분</translation>
+        <translation>%1분</translation>
     </message>
     <message>
         <source>%1 h %2 min</source>
@@ -10568,7 +10568,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 (custom, experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (사용자 지정, 실험용)</translation>
     </message>
     <message>
         <source>Original</source>
@@ -10600,7 +10600,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished">초</translation>
+        <translation>초</translation>
     </message>
     <message>
         <source>Fit</source>
@@ -10620,11 +10620,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Upscale</source>
-        <translation type="unfinished"></translation>
+        <translation>업스케일</translation>
     </message>
     <message>
         <source>Output: %1 × %2</source>
-        <translation type="unfinished"></translation>
+        <translation>출력: %1 × %2</translation>
     </message>
     <message>
         <source> — larger than 4K, which is slow to edit and export</source>
@@ -10684,11 +10684,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished">%1초</translation>
+        <translation>%1초</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished">%1분</translation>
+        <translation>%1분</translation>
     </message>
     <message>
         <source>%1 h %2 min</source>
@@ -11086,7 +11086,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Choose which graphics card Drift runs on in Windows Settings, under Display &gt; Graphics. Takes effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 설정의 디스플레이 &gt; 그래픽에서 Drift가 사용할 그래픽 카드를 선택하세요. 변경 사항은 다시 시작한 후 적용됩니다.</translation>
     </message>
     <message>
         <source>Open graphics settings</source>
@@ -11914,7 +11914,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Speed applies to video, audio and composite clips.</source>
-        <translation type="unfinished"></translation>
+        <translation>속도는 동영상, 오디오 및 합성 클립에 적용됩니다.</translation>
     </message>
     <message>
         <source>Playback speed</source>
