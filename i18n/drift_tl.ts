@@ -2409,7 +2409,7 @@
     </message>
     <message>
         <source>Clip</source>
-        <translation type="unfinished">Clip</translation>
+        <translation>Clip</translation>
     </message>
     <message>
         <source>Getting noise removal ready…</source>
@@ -2653,7 +2653,7 @@
     </message>
     <message>
         <source>Saving…</source>
-        <translation type="unfinished">Sine-save…</translation>
+        <translation>Sine-save…</translation>
     </message>
     <message>
         <source>Converting…</source>
@@ -5391,7 +5391,7 @@
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">Kopyahin</translation>
+        <translation>Kopyahin</translation>
     </message>
 </context>
 <context>
@@ -5459,7 +5459,7 @@
     <name>DebugInfoDialog</name>
     <message>
         <source>Debug info</source>
-        <translation type="unfinished">Impormasyon sa pag-debug</translation>
+        <translation>Impormasyon sa debug</translation>
     </message>
     <message>
         <source>Copy report</source>
@@ -6740,7 +6740,7 @@
     </message>
     <message>
         <source>Export cancelled.</source>
-        <translation type="unfinished">Kinansela ang pagluwas.</translation>
+        <translation>Kinansela ang pag-export.</translation>
     </message>
     <message>
         <source>Video</source>
@@ -6899,7 +6899,7 @@
     </message>
     <message>
         <source>Export finished.</source>
-        <translation type="unfinished">Tapos na ang pagluwas.</translation>
+        <translation>Tapos na ang pag-export.</translation>
     </message>
     <message>
         <source>Play</source>
@@ -7256,11 +7256,11 @@
     </message>
     <message>
         <source>Unlock source frame ratio</source>
-        <translation type="unfinished">I-unlock ang frame ratio ng pinagmulan</translation>
+        <translation>I-unlock ang ratio ng orihinal na frame</translation>
     </message>
     <message>
         <source>Lock source frame ratio</source>
-        <translation type="unfinished">I-lock ang frame ratio ng pinagmulan</translation>
+        <translation>I-lock ang ratio ng orihinal na frame</translation>
     </message>
     <message>
         <source>Width</source>
@@ -7296,7 +7296,7 @@
     </message>
     <message>
         <source>Trim</source>
-        <translation type="unfinished">I-trim</translation>
+        <translation>I-trim</translation>
     </message>
     <message>
         <source>Which part of the original file this clip plays</source>
@@ -8137,11 +8137,11 @@
     </message>
     <message>
         <source>Export finished.</source>
-        <translation type="unfinished">Tapos na ang pagluwas.</translation>
+        <translation>Tapos na ang pag-export.</translation>
     </message>
     <message>
         <source>Export cancelled.</source>
-        <translation type="unfinished">Kinansela ang pagluwas.</translation>
+        <translation>Kinansela ang pag-export.</translation>
     </message>
     <message>
         <source>Export failed. Check the save location and free space on your disk.</source>
@@ -8149,19 +8149,19 @@
     </message>
     <message>
         <source>Couldn&apos;t create the shareable copy: %1</source>
-        <translation type="unfinished">Hindi malikha ang maibabahaging kopya: %1</translation>
+        <translation>Hindi nagawa ang maibabahaging kopya: %1</translation>
     </message>
     <message>
         <source>Captions created.</source>
-        <translation type="unfinished">Nalikha ang mga caption.</translation>
+        <translation>Nagawa na ang mga caption.</translation>
     </message>
     <message>
         <source>Couldn’t create captions: %1</source>
-        <translation type="unfinished">Hindi malikha ang mga caption: %1</translation>
+        <translation>Hindi nagawa ang mga caption: %1</translation>
     </message>
     <message>
         <source>Couldn’t create captions.</source>
-        <translation type="unfinished">Hindi malikha ang mga caption.</translation>
+        <translation>Hindi nagawa ang mga caption.</translation>
     </message>
     <message>
         <source>Couldn’t install “%1”: %2</source>
@@ -8169,11 +8169,11 @@
     </message>
     <message>
         <source>Imported “%1”.</source>
-        <translation type="unfinished">Naangkat ang “%1”.</translation>
+        <translation>Na-import ang “%1”.</translation>
     </message>
     <message>
         <source>Imported from the marketplace.</source>
-        <translation type="unfinished">Naangkat mula sa marketplace.</translation>
+        <translation>Na-import mula sa marketplace.</translation>
     </message>
 </context>
 <context>
@@ -8894,11 +8894,11 @@
     </message>
     <message>
         <source>Unlock source frame ratio</source>
-        <translation type="unfinished">I-unlock ang frame ratio ng pinagmulan</translation>
+        <translation>I-unlock ang ratio ng orihinal na frame</translation>
     </message>
     <message>
         <source>Lock source frame ratio</source>
-        <translation type="unfinished">I-lock ang frame ratio ng pinagmulan</translation>
+        <translation>I-lock ang ratio ng orihinal na frame</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -8930,7 +8930,7 @@
     </message>
     <message>
         <source>Saving…</source>
-        <translation type="unfinished">Sine-save…</translation>
+        <translation>Sine-save…</translation>
     </message>
     <message>
         <source>Choose the part and framing to keep, then Next.</source>
@@ -8982,7 +8982,7 @@
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished">Paikutin</translation>
+        <translation>I-rotate</translation>
     </message>
 </context>
 <context>
@@ -9456,7 +9456,7 @@
     </message>
     <message>
         <source>Clip</source>
-        <translation type="unfinished">Clip</translation>
+        <translation>Clip</translation>
     </message>
     <message numerus="yes">
         <source>Pasting from “%1” onto %n selected clip(s):</source>
@@ -9665,7 +9665,7 @@
     </message>
     <message>
         <source>Debug info</source>
-        <translation type="unfinished">Impormasyon sa pag-debug</translation>
+        <translation>Impormasyon sa debug</translation>
     </message>
     <message>
         <source>Audio only</source>
@@ -10034,7 +10034,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Frames per second</source>
-        <translation type="unfinished">Mga larawan bawat segundo</translation>
+        <translation>Mga frame bawat segundo</translation>
     </message>
     <message>
         <source>Video: %1×%2, %3 frames per second</source>
@@ -10398,7 +10398,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Clip</source>
-        <translation type="unfinished">Clip</translation>
+        <translation>Clip</translation>
     </message>
     <message>
         <source>Cannot open file: %1</source>
@@ -13427,7 +13427,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Select multiple</source>
-        <translation type="unfinished">Pumili ng marami</translation>
+        <translation>Pumili ng marami</translation>
     </message>
     <message>
         <source>Open composite</source>
@@ -13503,11 +13503,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished">I-cut</translation>
+        <translation>Gupitin</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">Kopyahin</translation>
+        <translation>Kopyahin</translation>
     </message>
     <message>
         <source>Paste attributes…</source>
@@ -14303,7 +14303,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished">Paikutin</translation>
+        <translation>I-rotate</translation>
     </message>
     <message>
         <source>Rings on the preview turn the clip about each axis</source>
@@ -14434,7 +14434,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Clip</source>
-        <translation type="unfinished">Clip</translation>
+        <translation>Clip</translation>
     </message>
     <message numerus="yes">
         <source>+%n more</source>
@@ -14698,7 +14698,7 @@ If playback stutters, try another.</source>
     <name>UpdateDialog</name>
     <message>
         <source>Update available</source>
-        <translation type="unfinished">May available na update</translation>
+        <translation>May available na update</translation>
     </message>
     <message>
         <source>Drift %1 is available</source>
@@ -15009,7 +15009,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Frames per second</source>
-        <translation type="unfinished">Mga larawan bawat segundo</translation>
+        <translation>Mga frame bawat segundo</translation>
     </message>
     <message>
         <source>Cancel crop</source>
