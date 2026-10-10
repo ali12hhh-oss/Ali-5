@@ -5864,7 +5864,7 @@
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished">Estilo</translation>
+        <translation>Estilo</translation>
     </message>
     <message>
         <source>Colours</source>
@@ -10667,19 +10667,19 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message>
         <source>Anime and drawings</source>
-        <translation type="unfinished"></translation>
+        <translation>Anime e desenhos</translation>
     </message>
     <message>
         <source>Live action</source>
-        <translation type="unfinished"></translation>
+        <translation>Ação ao vivo</translation>
     </message>
     <message>
         <source>3D animation and games</source>
-        <translation type="unfinished"></translation>
+        <translation>Animação 3D e jogos</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">Geral</translation>
+        <translation>Geral</translation>
     </message>
     <message>
         <source>Choose an upscaler</source>
@@ -10723,7 +10723,7 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message>
         <source>No upscaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem ampliação</translation>
     </message>
     <message>
         <source>Keep the original size.</source>
@@ -13487,7 +13487,7 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message>
         <source>Enhance video…</source>
-        <translation type="unfinished"></translation>
+        <translation>Aprimorar vídeo…</translation>
     </message>
     <message>
         <source>Unlink</source>
@@ -14741,19 +14741,19 @@ Se a reprodução travar, experimente outro.</translation>
     <name>UpscaleModelCard</name>
     <message>
         <source>Anime and drawings</source>
-        <translation type="unfinished"></translation>
+        <translation>Anime e desenhos</translation>
     </message>
     <message>
         <source>Live action</source>
-        <translation type="unfinished"></translation>
+        <translation>Ação ao vivo</translation>
     </message>
     <message>
         <source>3D animation and games</source>
-        <translation type="unfinished"></translation>
+        <translation>Animação 3D e jogos</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">Geral</translation>
+        <translation>Geral</translation>
     </message>
     <message>
         <source>Before</source>
