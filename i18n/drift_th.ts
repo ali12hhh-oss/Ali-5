@@ -5868,7 +5868,7 @@
     </message>
     <message>
         <source>Licence &lt;a href=&quot;%1&quot;&gt;CC BY-NC-SA 4.0&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>สัญญาอนุญาต <a href="%1">CC BY-NC-SA 4.0</a></translation>
     </message>
     <message>
         <source>Licence %1</source>
