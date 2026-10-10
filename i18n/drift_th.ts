@@ -927,9 +927,8 @@
     </message>
     <message numerus="yes">
         <source>%n coin(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>เหรียญ %n เหรียญ</numerusform>
         </translation>
     </message>
     <message>
@@ -1731,9 +1730,8 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>คลิป %n รายการ</numerusform>
         </translation>
     </message>
     <message>
@@ -1820,9 +1818,8 @@
     <name>AndroidTransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 · คลิป %n รายการ</numerusform>
         </translation>
     </message>
     <message>
@@ -2457,9 +2454,8 @@
     </message>
     <message numerus="yes">
         <source>Imported %n subtitles</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>นำเข้าคำบรรยาย %n รายการแล้ว</numerusform>
         </translation>
     </message>
     <message>
@@ -2579,9 +2575,8 @@
     </message>
     <message numerus="yes">
         <source>Found %n scene(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>พบฉาก %n ฉาก</numerusform>
         </translation>
     </message>
     <message>
@@ -4561,16 +4556,14 @@
     </message>
     <message numerus="yes">
         <source>%n items removed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>นำรายการออกแล้ว %n รายการ</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n items moved</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ย้ายรายการแล้ว %n รายการ</numerusform>
         </translation>
     </message>
     <message>
@@ -4871,9 +4864,8 @@
     </message>
     <message numerus="yes">
         <source>%n items</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n รายการ</numerusform>
         </translation>
     </message>
     <message>
@@ -4882,9 +4874,8 @@
     </message>
     <message numerus="yes">
         <source>Removed %n items.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>นำรายการออกแล้ว %n รายการ</numerusform>
         </translation>
     </message>
 </context>
@@ -5728,16 +5719,14 @@
     </message>
     <message numerus="yes">
         <source>%n second(s) left</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>เหลืออีก %n วินาที</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) left</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>เหลืออีก %n นาที</numerusform>
         </translation>
     </message>
     <message>
@@ -5769,9 +5758,8 @@
     </message>
     <message numerus="yes">
         <source>%n active</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>กำลังทำงาน %n รายการ</numerusform>
         </translation>
     </message>
     <message>
@@ -5811,9 +5799,8 @@
     </message>
     <message numerus="yes">
         <source>%n style(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>สไตล์ %n แบบ</numerusform>
         </translation>
     </message>
     <message>
@@ -5822,9 +5809,8 @@
     </message>
     <message numerus="yes">
         <source>%n colour(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>สี %n สี</numerusform>
         </translation>
     </message>
     <message>
@@ -7714,9 +7700,8 @@
     </message>
     <message numerus="yes">
         <source>%n keyframes</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>คีย์เฟรม %n เฟรม</numerusform>
         </translation>
     </message>
     <message>
@@ -8833,9 +8818,8 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>นำเข้าไฟล์ %n ไฟล์แล้ว</numerusform>
         </translation>
     </message>
     <message>
@@ -12264,9 +12248,8 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>%n coin(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>เหรียญ %n เหรียญ</numerusform>
         </translation>
     </message>
     <message>
@@ -12328,9 +12311,8 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>%n captions</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>คำบรรยาย %n รายการ</numerusform>
         </translation>
     </message>
     <message>
@@ -14448,9 +14430,8 @@ If playback stutters, try another.</source>
     <name>TransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 · คลิป %n รายการ</numerusform>
         </translation>
     </message>
     <message>
@@ -14470,9 +14451,8 @@ If playback stutters, try another.</source>
     <name>TransformSpanBracket</name>
     <message numerus="yes">
         <source>%n track(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>แทร็ก %n แทร็ก</numerusform>
         </translation>
     </message>
     <message>
@@ -14481,9 +14461,8 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>Covers %n track(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ครอบคลุม %n แทร็ก</numerusform>
         </translation>
     </message>
 </context>
