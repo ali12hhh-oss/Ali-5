@@ -8086,7 +8086,7 @@
     </message>
     <message>
         <source>Multicam</source>
-        <translation type="unfinished">マルチカム</translation>
+        <translation>マルチカメラ</translation>
     </message>
     <message>
         <source>&amp;Help</source>
