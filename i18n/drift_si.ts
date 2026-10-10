@@ -8918,11 +8918,11 @@
     </message>
     <message>
         <source>This video is under 700 pixels on its shorter side. Upscaling it with an AI model can make it look sharper.</source>
-        <translation type="unfinished"></translation>
+        <translation>කෙටි පැත්තේ පික්සල් 700කට අඩු මෙම වීඩියෝව AI ආකෘතියකින් විභේදනය වැඩි කළ විට වඩා පැහැදිලි විය හැක.</translation>
     </message>
     <message>
         <source>This resolution is already good for most projects. You can still upscale it.</source>
-        <translation type="unfinished"></translation>
+        <translation>මෙම විභේදනය බොහෝ ව්‍යාපෘති සඳහා ප්‍රමාණවත්ය. එසේ වුවත් ඔබට එය වැඩි කළ හැක.</translation>
     </message>
     <message>
         <source>Done keeps the original video and stores this range and framing. Upscale renders them as a new video in the media bin, then opens it in the Enhance window.</source>
@@ -8934,7 +8934,7 @@
     </message>
     <message>
         <source>Choose the part and framing to keep, then Next.</source>
-        <translation type="unfinished"></translation>
+        <translation>තබාගත යුතු කොටස සහ රාමුව තෝරා ඊළඟ ක්ලික් කරන්න.</translation>
     </message>
     <message>
         <source>Save writes a new file over this item in the bin.</source>
@@ -8966,7 +8966,7 @@
     </message>
     <message>
         <source>Upscale…</source>
-        <translation type="unfinished"></translation>
+        <translation>විභේදනය වැඩි කරන්න…</translation>
     </message>
     <message>
         <source>Save</source>
@@ -10392,11 +10392,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Enhancing… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>වැඩිදියුණු කරමින්… %1%</translation>
     </message>
     <message>
         <source>Enhancing this frame… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>මෙම රාමුව වැඩිදියුණු කරමින්… %1%</translation>
     </message>
     <message>
         <source>Scanning frame %1 of %2…</source>
@@ -10607,15 +10607,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Loading this frame…</source>
-        <translation type="unfinished"></translation>
+        <translation>මෙම රාමුව පූරණය වෙමින්…</translation>
     </message>
     <message>
         <source>Working…</source>
-        <translation type="unfinished">ක්‍රියාත්මක වෙමින්…</translation>
+        <translation>ක්‍රියාත්මක වෙමින්…</translation>
     </message>
     <message>
         <source>Choose models, then Preview to compare this frame</source>
-        <translation type="unfinished"></translation>
+        <translation>ආකෘති තෝරා මෙම රාමුව සැසඳීමට පෙරදසුන ක්ලික් කරන්න</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -10651,11 +10651,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source> — larger than 4K, which is slow to edit and export</source>
-        <translation type="unfinished"></translation>
+        <translation>— 4Kට වඩා විශාල බැවින් සංස්කරණය සහ අපනයනය මන්දගාමී වේ</translation>
     </message>
     <message>
         <source>Up to about %1 on this computer&apos;s CPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>මෙම පරිගණකයේ CPU මත ආසන්න වශයෙන් %1 දක්වා.</translation>
     </message>
     <message>
         <source>Up to about %1 on a typical laptop CPU. Preview a frame for an estimate for this computer.</source>
