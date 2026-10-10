@@ -3176,199 +3176,199 @@
     </message>
     <message>
         <source>Blend mode changed</source>
-        <translation type="unfinished"></translation>
+        <translation>混合模式已更改</translation>
     </message>
     <message>
         <source>Blend mode updated</source>
-        <translation type="unfinished"></translation>
+        <translation>混合模式已更新</translation>
     </message>
     <message>
         <source>Clip speed updated</source>
-        <translation type="unfinished"></translation>
+        <translation>片段速度已更新</translation>
     </message>
     <message>
         <source>Reverse on</source>
-        <translation type="unfinished"></translation>
+        <translation>已开启倒放</translation>
     </message>
     <message>
         <source>Reverse off</source>
-        <translation type="unfinished"></translation>
+        <translation>已关闭倒放</translation>
     </message>
     <message>
         <source>Clip reversed</source>
-        <translation type="unfinished"></translation>
+        <translation>片段已倒放</translation>
     </message>
     <message>
         <source>Clip forward</source>
-        <translation type="unfinished"></translation>
+        <translation>正向播放片段</translation>
     </message>
     <message>
         <source>A clip is already being reversed</source>
-        <translation type="unfinished"></translation>
+        <translation>已有片段正在倒放</translation>
     </message>
     <message>
         <source>Could not create a reversed file</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建倒放文件</translation>
     </message>
     <message>
         <source>Reversing video…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在倒放视频…</translation>
     </message>
     <message>
         <source>Flip changed</source>
-        <translation type="unfinished"></translation>
+        <translation>翻转设置已更改</translation>
     </message>
     <message>
         <source>Clip flip updated</source>
-        <translation type="unfinished"></translation>
+        <translation>片段翻转已更新</translation>
     </message>
     <message>
         <source>Pan changed</source>
-        <translation type="unfinished"></translation>
+        <translation>平移设置已更改</translation>
     </message>
     <message>
         <source>Clip pan updated</source>
-        <translation type="unfinished"></translation>
+        <translation>片段平移已更新</translation>
     </message>
     <message>
         <source>Rotation snapped</source>
-        <translation type="unfinished"></translation>
+        <translation>旋转角度已对齐</translation>
     </message>
     <message>
         <source>Rotation set to %1°</source>
-        <translation type="unfinished"></translation>
+        <translation>旋转角度设为 %1°</translation>
     </message>
     <message>
         <source>Clips merged</source>
-        <translation type="unfinished"></translation>
+        <translation>片段已合并</translation>
     </message>
     <message>
         <source>Subtitles merged</source>
-        <translation type="unfinished"></translation>
+        <translation>字幕已合并</translation>
     </message>
     <message>
         <source>Audio separated</source>
-        <translation type="unfinished"></translation>
+        <translation>音频已分离</translation>
     </message>
     <message>
         <source>Composite %1</source>
-        <translation type="unfinished"></translation>
+        <translation>合成片段 %1</translation>
     </message>
     <message>
         <source>Composite created</source>
-        <translation type="unfinished"></translation>
+        <translation>已创建合成片段</translation>
     </message>
     <message>
         <source>Composite</source>
-        <translation type="unfinished"></translation>
+        <translation>合成片段</translation>
     </message>
     <message>
         <source>Flattening composite…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在扁平化合成片段…</translation>
     </message>
     <message>
         <source>Flattening was cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>已取消扁平化操作</translation>
     </message>
     <message>
         <source>Could not flatten the composite: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法扁平化合成片段：%1</translation>
     </message>
     <message>
         <source>The composite clip was removed before flattening finished</source>
-        <translation type="unfinished"></translation>
+        <translation>合成片段在扁平化完成前已被移除</translation>
     </message>
     <message>
         <source>The composite clip was trimmed while flattening; try again</source>
-        <translation type="unfinished"></translation>
+        <translation>扁平化期间合成片段被修剪，请重试</translation>
     </message>
     <message>
         <source>%1 (flattened)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1（已扁平化）</translation>
     </message>
     <message>
         <source>Composite flattened</source>
-        <translation type="unfinished"></translation>
+        <translation>合成片段已扁平化</translation>
     </message>
     <message>
         <source>All audio tracks separated</source>
-        <translation type="unfinished"></translation>
+        <translation>所有音轨已分离</translation>
     </message>
     <message>
         <source>Change audio track</source>
-        <translation type="unfinished"></translation>
+        <translation>更改音轨</translation>
     </message>
     <message>
         <source>Clips unlinked</source>
-        <translation type="unfinished"></translation>
+        <translation>片段已取消链接</translation>
     </message>
     <message>
         <source>Audio unlinked</source>
-        <translation type="unfinished"></translation>
+        <translation>音频已取消链接</translation>
     </message>
     <message>
         <source>Fade updated</source>
-        <translation type="unfinished"></translation>
+        <translation>淡入淡出已更新</translation>
     </message>
     <message>
         <source>Fade curve changed</source>
-        <translation type="unfinished"></translation>
+        <translation>淡入淡出曲线已更改</translation>
     </message>
     <message>
         <source>Fade curve updated</source>
-        <translation type="unfinished"></translation>
+        <translation>淡入淡出曲线已更新</translation>
     </message>
     <message>
         <source>Clip animation changed</source>
-        <translation type="unfinished"></translation>
+        <translation>片段动画已更改</translation>
     </message>
     <message>
         <source>Clip animation updated</source>
-        <translation type="unfinished"></translation>
+        <translation>片段动画已更新</translation>
     </message>
     <message>
         <source>Shape style changed</source>
-        <translation type="unfinished"></translation>
+        <translation>形状样式已更改</translation>
     </message>
     <message>
         <source>Shape style updated</source>
-        <translation type="unfinished"></translation>
+        <translation>形状样式已更新</translation>
     </message>
     <message>
         <source>3D model added</source>
-        <translation type="unfinished"></translation>
+        <translation>已添加 3D 模型</translation>
     </message>
     <message>
         <source>3D model replaced</source>
-        <translation type="unfinished"></translation>
+        <translation>已替换 3D 模型</translation>
     </message>
     <message>
         <source>3D model options</source>
-        <translation type="unfinished"></translation>
+        <translation>3D 模型选项</translation>
     </message>
     <message>
         <source>3D model options updated</source>
-        <translation type="unfinished"></translation>
+        <translation>3D 模型选项已更新</translation>
     </message>
     <message>
         <source>Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>动画</translation>
     </message>
     <message>
         <source>Animation added</source>
-        <translation type="unfinished"></translation>
+        <translation>已添加动画</translation>
     </message>
     <message>
         <source>Animation replaced</source>
-        <translation type="unfinished"></translation>
+        <translation>已替换动画</translation>
     </message>
     <message>
         <source>Animation options</source>
-        <translation type="unfinished"></translation>
+        <translation>动画选项</translation>
     </message>
     <message>
         <source>Animation options updated</source>
-        <translation type="unfinished"></translation>
+        <translation>动画选项已更新</translation>
     </message>
     <message>
         <source>Animation slot</source>
@@ -5040,7 +5040,7 @@
     </message>
     <message>
         <source>Pan changed</source>
-        <translation type="unfinished"></translation>
+        <translation>平移设置已更改</translation>
     </message>
     <message>
         <source>Centre</source>
@@ -9024,7 +9024,7 @@
     </message>
     <message>
         <source>Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>动画</translation>
     </message>
     <message>
         <source>Animation %1</source>
@@ -10042,7 +10042,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>动画</translation>
     </message>
     <message>
         <source>Audio</source>
@@ -13764,7 +13764,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Composite</source>
-        <translation type="unfinished"></translation>
+        <translation>合成片段</translation>
     </message>
     <message>
         <source>Switch between the main timeline and composite clips</source>
