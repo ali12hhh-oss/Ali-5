@@ -4730,7 +4730,7 @@
     </message>
     <message>
         <source>Collect Media to Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>将媒体收集到文件夹</translation>
     </message>
     <message>
         <source>Market</source>
@@ -4754,11 +4754,11 @@
     </message>
     <message>
         <source>Scenes</source>
-        <translation type="unfinished"></translation>
+        <translation>场景</translation>
     </message>
     <message>
         <source>Masks</source>
-        <translation type="unfinished"></translation>
+        <translation>蒙版</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -4766,7 +4766,7 @@
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>模板</translation>
     </message>
     <message>
         <source>Transitions</source>
@@ -4778,43 +4778,43 @@
     </message>
     <message>
         <source>Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>快捷键</translation>
     </message>
     <message>
         <source>Drop to import</source>
-        <translation type="unfinished"></translation>
+        <translation>拖放以导入</translation>
     </message>
     <message>
         <source>Video, audio and image files</source>
-        <translation type="unfinished"></translation>
+        <translation>视频、音频和图像文件</translation>
     </message>
     <message>
         <source>Importing…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在导入…</translation>
     </message>
     <message>
         <source>Reading media and generating thumbnails.</source>
-        <translation type="unfinished"></translation>
+        <translation>正在读取媒体并生成缩略图。</translation>
     </message>
     <message>
         <source>More emoji</source>
-        <translation type="unfinished"></translation>
+        <translation>更多表情符号</translation>
     </message>
     <message>
         <source>More import options</source>
-        <translation type="unfinished"></translation>
+        <translation>更多导入选项</translation>
     </message>
     <message>
         <source>Import Files…</source>
-        <translation type="unfinished"></translation>
+        <translation>导入文件…</translation>
     </message>
     <message>
         <source>Import Folder…</source>
-        <translation type="unfinished"></translation>
+        <translation>导入文件夹…</translation>
     </message>
     <message>
         <source>Collect Media to Folder…</source>
-        <translation type="unfinished"></translation>
+        <translation>将媒体收集到文件夹…</translation>
     </message>
     <message>
         <source>Import</source>
@@ -4822,35 +4822,35 @@
     </message>
     <message>
         <source>Import video, audio or image files</source>
-        <translation type="unfinished"></translation>
+        <translation>导入视频、音频或图像文件</translation>
     </message>
     <message>
         <source>New folder</source>
-        <translation type="unfinished"></translation>
+        <translation>新建文件夹</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>创建</translation>
     </message>
     <message>
         <source>Folder name</source>
-        <translation type="unfinished"></translation>
+        <translation>文件夹名称</translation>
     </message>
     <message>
         <source>Rename folder</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名文件夹</translation>
     </message>
     <message>
         <source>Move to folder</source>
-        <translation type="unfinished"></translation>
+        <translation>移动到文件夹</translation>
     </message>
     <message>
         <source>New Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>新建文件夹</translation>
     </message>
     <message>
         <source>Create a new folder here</source>
-        <translation type="unfinished"></translation>
+        <translation>在此处创建新文件夹</translation>
     </message>
     <message numerus="yes">
         <source>%n items</source>
@@ -4860,7 +4860,7 @@
     </message>
     <message>
         <source>Remove these items?</source>
-        <translation type="unfinished"></translation>
+        <translation>移除这些项目？</translation>
     </message>
     <message numerus="yes">
         <source>Removed %n items.</source>
@@ -4873,97 +4873,97 @@
     <name>AudioEffectBrowser</name>
     <message>
         <source>No audio effects</source>
-        <translation type="unfinished"></translation>
+        <translation>没有音频效果</translation>
     </message>
     <message>
         <source>Install the Audio Effects pack from Extras to browse presets here.</source>
-        <translation type="unfinished"></translation>
+        <translation>请从“附加内容”安装 Audio Effects 包，以便在此浏览预设。</translation>
     </message>
     <message>
         <source>Install audio effects</source>
-        <translation type="unfinished"></translation>
+        <translation>安装音频效果</translation>
     </message>
     <message>
         <source>Drag a preset onto a clip, or click to apply to the selection</source>
-        <translation type="unfinished"></translation>
+        <translation>将预设拖到片段上，或点击以应用到所选内容</translation>
     </message>
     <message>
         <source>Drag a preset onto a clip in the timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>将预设拖到时间轴中的片段上</translation>
     </message>
     <message>
         <source>Search audio effects</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索音频效果</translation>
     </message>
     <message>
         <source>No audio effects match “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有与“%1”匹配的音频效果。</translation>
     </message>
     <message>
         <source>No favorites yet. Star presets to save them here.</source>
-        <translation type="unfinished"></translation>
+        <translation>还没有收藏内容。点击预设旁的星标即可将其保存到此处。</translation>
     </message>
     <message>
         <source>Nothing in this category.</source>
-        <translation type="unfinished"></translation>
+        <translation>此类别中没有内容。</translation>
     </message>
     <message>
         <source>Apply to selected clip</source>
-        <translation type="unfinished"></translation>
+        <translation>应用到所选片段</translation>
     </message>
 </context>
 <context>
     <name>AudioEffectCatalog</name>
     <message>
         <source>Voice</source>
-        <translation type="unfinished"></translation>
+        <translation>人声</translation>
     </message>
     <message>
         <source>Transmission</source>
-        <translation type="unfinished"></translation>
+        <translation>传输</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>质感</translation>
     </message>
     <message>
         <source>Space</source>
-        <translation type="unfinished"></translation>
+        <translation>空间</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>其他</translation>
     </message>
 </context>
 <context>
     <name>AudioEffectsInspector</name>
     <message>
         <source>No audio</source>
-        <translation type="unfinished"></translation>
+        <translation>没有音频</translation>
     </message>
     <message>
         <source>Audio effects apply to clips with an audio track.</source>
-        <translation type="unfinished"></translation>
+        <translation>音频效果只能应用于带有音轨的片段。</translation>
     </message>
     <message>
         <source>No audio effects installed. Get the Audio Effects pack from Extras.</source>
-        <translation type="unfinished"></translation>
+        <translation>尚未安装音频效果。请从“附加内容”获取 Audio Effects 包。</translation>
     </message>
     <message>
         <source>Install audio effects</source>
-        <translation type="unfinished"></translation>
+        <translation>安装音频效果</translation>
     </message>
     <message>
         <source>No audio effects yet</source>
-        <translation type="unfinished"></translation>
+        <translation>还没有音频效果</translation>
     </message>
     <message>
         <source>Drag a preset from Audio FX onto this clip, or click a preset card.</source>
-        <translation type="unfinished"></translation>
+        <translation>将 Audio FX 中的预设拖到此片段上，或点击预设卡片。</translation>
     </message>
     <message>
         <source>Browse audio effects</source>
-        <translation type="unfinished"></translation>
+        <translation>浏览音频效果</translation>
     </message>
     <message>
         <source>%1 (not installed)</source>
@@ -5026,7 +5026,7 @@
     </message>
     <message>
         <source>No audio</source>
-        <translation type="unfinished"></translation>
+        <translation>没有音频</translation>
     </message>
     <message>
         <source>This clip has no audio track.</source>
@@ -5876,7 +5876,7 @@
     </message>
     <message>
         <source>Apply to selected clip</source>
-        <translation type="unfinished"></translation>
+        <translation>应用到所选片段</translation>
     </message>
     <message>
         <source>Add at playhead</source>
@@ -6199,7 +6199,7 @@
     </message>
     <message>
         <source>Drag a preset onto a clip, or click to apply to the selection</source>
-        <translation type="unfinished"></translation>
+        <translation>将预设拖到片段上，或点击以应用到所选内容</translation>
     </message>
     <message>
         <source>Click to add as adjustment layer, or drag onto a clip</source>
@@ -6227,15 +6227,15 @@
     </message>
     <message>
         <source>No favorites yet. Star presets to save them here.</source>
-        <translation type="unfinished"></translation>
+        <translation>还没有收藏内容。点击预设旁的星标即可将其保存到此处。</translation>
     </message>
     <message>
         <source>Nothing in this category.</source>
-        <translation type="unfinished"></translation>
+        <translation>此类别中没有内容。</translation>
     </message>
     <message>
         <source>Apply to selected clip</source>
-        <translation type="unfinished"></translation>
+        <translation>应用到所选片段</translation>
     </message>
     <message>
         <source>Built-in</source>
@@ -6290,7 +6290,7 @@
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>其他</translation>
     </message>
 </context>
 <context>
@@ -6388,7 +6388,7 @@
     </message>
     <message>
         <source>Nothing in this category.</source>
-        <translation type="unfinished"></translation>
+        <translation>此类别中没有内容。</translation>
     </message>
     <message>
         <source>Needs cutout</source>
@@ -6396,7 +6396,7 @@
     </message>
     <message>
         <source>Apply to selected clip</source>
-        <translation type="unfinished"></translation>
+        <translation>应用到所选片段</translation>
     </message>
 </context>
 <context>
@@ -6439,7 +6439,7 @@
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>其他</translation>
     </message>
 </context>
 <context>
@@ -8195,7 +8195,7 @@
     </message>
     <message>
         <source>Importing…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在导入…</translation>
     </message>
     <message>
         <source>Could not import that file.</source>
@@ -9352,7 +9352,7 @@
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>质感</translation>
     </message>
     <message>
         <source>Effect</source>
@@ -9969,7 +9969,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>创建</translation>
     </message>
     <message>
         <source>First clip “%1”. Choose the video size before it is placed.</source>
@@ -10068,7 +10068,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Masks</source>
-        <translation type="unfinished"></translation>
+        <translation>蒙版</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -11316,7 +11316,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>质感</translation>
     </message>
     <message>
         <source>Effect</source>
@@ -11765,7 +11765,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Nothing in this category.</source>
-        <translation type="unfinished"></translation>
+        <translation>此类别中没有内容。</translation>
     </message>
     <message>
         <source>%1 — click to add, or drag to the timeline or preview</source>
@@ -13603,7 +13603,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Importing…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在导入…</translation>
     </message>
     <message>
         <source>PAUSED </source>
@@ -14473,7 +14473,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>其他</translation>
     </message>
 </context>
 <context>
