@@ -927,9 +927,10 @@
     </message>
     <message numerus="yes">
         <source>%n coin(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n moneta</numerusform>
+            <numerusform>%n monety</numerusform>
+            <numerusform>%n monet</numerusform>
         </translation>
     </message>
     <message>
@@ -1731,9 +1732,10 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n klip</numerusform>
+            <numerusform>%n klipy</numerusform>
+            <numerusform>%n klipów</numerusform>
         </translation>
     </message>
     <message>
@@ -1820,9 +1822,10 @@
     <name>AndroidTransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 · %n klip</numerusform>
+            <numerusform>%1 · %n klipy</numerusform>
+            <numerusform>%1 · %n klipów</numerusform>
         </translation>
     </message>
     <message>
@@ -2457,9 +2460,10 @@
     </message>
     <message numerus="yes">
         <source>Imported %n subtitles</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Zaimportowano %n napisy</numerusform>
+            <numerusform>Zaimportowano %n napisy</numerusform>
+            <numerusform>Zaimportowano %n napisów</numerusform>
         </translation>
     </message>
     <message>
@@ -2579,9 +2583,10 @@
     </message>
     <message numerus="yes">
         <source>Found %n scene(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Znaleziono %n scenę</numerusform>
+            <numerusform>Znaleziono %n sceny</numerusform>
+            <numerusform>Znaleziono %n scen</numerusform>
         </translation>
     </message>
     <message>
@@ -4561,16 +4566,18 @@
     </message>
     <message numerus="yes">
         <source>%n items removed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Usunięto %n element</numerusform>
+            <numerusform>Usunięto %n elementy</numerusform>
+            <numerusform>Usunięto %n elementów</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n items moved</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Przeniesiono %n element</numerusform>
+            <numerusform>Przeniesiono %n elementy</numerusform>
+            <numerusform>Przeniesiono %n elementów</numerusform>
         </translation>
     </message>
     <message>
@@ -4871,9 +4878,10 @@
     </message>
     <message numerus="yes">
         <source>%n items</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n element</numerusform>
+            <numerusform>%n elementy</numerusform>
+            <numerusform>%n elementów</numerusform>
         </translation>
     </message>
     <message>
@@ -4882,9 +4890,10 @@
     </message>
     <message numerus="yes">
         <source>Removed %n items.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Usunięto %n element.</numerusform>
+            <numerusform>Usunięto %n elementy.</numerusform>
+            <numerusform>Usunięto %n elementów.</numerusform>
         </translation>
     </message>
 </context>
@@ -5728,16 +5737,18 @@
     </message>
     <message numerus="yes">
         <source>%n second(s) left</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Pozostała %n sekunda</numerusform>
+            <numerusform>Pozostały %n sekundy</numerusform>
+            <numerusform>Pozostało %n sekund</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) left</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Pozostała %n minuta</numerusform>
+            <numerusform>Pozostały %n minuty</numerusform>
+            <numerusform>Pozostało %n minut</numerusform>
         </translation>
     </message>
     <message>
@@ -5769,9 +5780,10 @@
     </message>
     <message numerus="yes">
         <source>%n active</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Aktywny: %n</numerusform>
+            <numerusform>Aktywne: %n</numerusform>
+            <numerusform>Aktywnych: %n</numerusform>
         </translation>
     </message>
     <message>
@@ -5811,9 +5823,10 @@
     </message>
     <message numerus="yes">
         <source>%n style(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n styl</numerusform>
+            <numerusform>%n style</numerusform>
+            <numerusform>%n stylów</numerusform>
         </translation>
     </message>
     <message>
@@ -5822,9 +5835,10 @@
     </message>
     <message numerus="yes">
         <source>%n colour(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n kolor</numerusform>
+            <numerusform>%n kolory</numerusform>
+            <numerusform>%n kolorów</numerusform>
         </translation>
     </message>
     <message>
@@ -7714,9 +7728,10 @@
     </message>
     <message numerus="yes">
         <source>%n keyframes</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n klatka kluczowa</numerusform>
+            <numerusform>%n klatki kluczowe</numerusform>
+            <numerusform>%n klatek kluczowych</numerusform>
         </translation>
     </message>
     <message>
@@ -8833,9 +8848,10 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Zaimportowano %n plik.</numerusform>
+            <numerusform>Zaimportowano %n pliki.</numerusform>
+            <numerusform>Zaimportowano %n plików.</numerusform>
         </translation>
     </message>
     <message>
@@ -12272,9 +12288,10 @@ Jeśli odtwarzanie się zacina, spróbuj innego.</translation>
     </message>
     <message numerus="yes">
         <source>%n coin(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n moneta</numerusform>
+            <numerusform>%n monety</numerusform>
+            <numerusform>%n monet</numerusform>
         </translation>
     </message>
     <message>
@@ -12336,9 +12353,10 @@ Jeśli odtwarzanie się zacina, spróbuj innego.</translation>
     </message>
     <message numerus="yes">
         <source>%n captions</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n podpis</numerusform>
+            <numerusform>%n podpisy</numerusform>
+            <numerusform>%n podpisów</numerusform>
         </translation>
     </message>
     <message>
@@ -14456,9 +14474,10 @@ Jeśli odtwarzanie się zacina, spróbuj innego.</translation>
     <name>TransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 · %n klip</numerusform>
+            <numerusform>%1 · %n klipy</numerusform>
+            <numerusform>%1 · %n klipów</numerusform>
         </translation>
     </message>
     <message>
@@ -14478,9 +14497,10 @@ Jeśli odtwarzanie się zacina, spróbuj innego.</translation>
     <name>TransformSpanBracket</name>
     <message numerus="yes">
         <source>%n track(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n ścieżka</numerusform>
+            <numerusform>%n ścieżki</numerusform>
+            <numerusform>%n ścieżek</numerusform>
         </translation>
     </message>
     <message>
@@ -14489,9 +14509,10 @@ Jeśli odtwarzanie się zacina, spróbuj innego.</translation>
     </message>
     <message numerus="yes">
         <source>Covers %n track(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Obejmuje %n ścieżkę</numerusform>
+            <numerusform>Obejmuje %n ścieżki</numerusform>
+            <numerusform>Obejmuje %n ścieżek</numerusform>
         </translation>
     </message>
 </context>
