@@ -774,7 +774,7 @@
     <name>AndroidLinkImport</name>
     <message>
         <source>Open link</source>
-        <translation type="unfinished"></translation>
+        <translation>打开链接</translation>
     </message>
     <message>
         <source>Couldn’t reach the marketplace.</source>
@@ -786,7 +786,7 @@
     </message>
     <message>
         <source>Downloading…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在下载…</translation>
     </message>
     <message>
         <source>No source in the marketplace can open links.</source>
@@ -961,7 +961,7 @@
     <name>AndroidMediaPreview</name>
     <message>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>返回</translation>
     </message>
     <message>
         <source>Save</source>
@@ -1742,7 +1742,7 @@
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>无</translation>
     </message>
     <message>
         <source>Done</source>
@@ -1789,7 +1789,7 @@
     <name>AndroidTopBar</name>
     <message>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>返回</translation>
     </message>
     <message>
         <source>Project actions</source>
@@ -1838,7 +1838,7 @@
     <name>AnimationInspector</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>无</translation>
     </message>
     <message>
         <source>Fade</source>
@@ -5097,7 +5097,7 @@
     </message>
     <message>
         <source>Install AI engine first</source>
-        <translation type="unfinished"></translation>
+        <translation>请先安装 AI 引擎</translation>
     </message>
     <message>
         <source>Auto subtitles</source>
@@ -5650,7 +5650,7 @@
     </message>
     <message>
         <source>Original</source>
-        <translation type="unfinished"></translation>
+        <translation>原始</translation>
     </message>
     <message>
         <source>Noise removed</source>
@@ -5860,7 +5860,7 @@
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>返回</translation>
     </message>
     <message>
         <source>Style</source>
@@ -6510,7 +6510,7 @@
     </message>
     <message>
         <source>Install AI engine first</source>
-        <translation type="unfinished"></translation>
+        <translation>请先安装 AI 引擎</translation>
     </message>
     <message>
         <source>Depth</source>
@@ -7588,7 +7588,7 @@
     </message>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>帧</translation>
     </message>
     <message>
         <source>Add a guide</source>
@@ -8208,7 +8208,7 @@
     </message>
     <message>
         <source>Downloading…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在下载…</translation>
     </message>
     <message>
         <source>Could not save that file.</source>
@@ -8387,7 +8387,7 @@
     <name>MasksInspector</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>无</translation>
     </message>
     <message>
         <source>Shape</source>
@@ -8502,7 +8502,7 @@
     </message>
     <message>
         <source>Install AI engine first</source>
-        <translation type="unfinished"></translation>
+        <translation>请先安装 AI 引擎</translation>
     </message>
     <message>
         <source>Add click-to-pick cutout (about 190 MB)</source>
@@ -8962,7 +8962,7 @@
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>返回</translation>
     </message>
     <message>
         <source>Upscale…</source>
@@ -8974,7 +8974,7 @@
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>下一步</translation>
     </message>
     <message>
         <source>Done</source>
@@ -9409,7 +9409,7 @@
     </message>
     <message>
         <source>Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>适合窗口</translation>
     </message>
     <message>
         <source>Tile</source>
@@ -9806,7 +9806,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Open graphics settings</source>
-        <translation type="unfinished"></translation>
+        <translation>打开图形设置</translation>
     </message>
 </context>
 <context>
@@ -10366,7 +10366,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Loading the models…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在加载模型…</translation>
     </message>
     <message>
         <source>%1 s</source>
@@ -10576,11 +10576,11 @@ If playback stutters, try another.</source>
     <name>RestoreWindow</name>
     <message>
         <source>Enhance video</source>
-        <translation type="unfinished"></translation>
+        <translation>增强视频</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>无</translation>
     </message>
     <message>
         <source>%1 (custom, experimental)</source>
@@ -10588,7 +10588,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Original</source>
-        <translation type="unfinished"></translation>
+        <translation>原始</translation>
     </message>
     <message>
         <source>Enhanced — out of date, preview again</source>
@@ -10612,7 +10612,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>帧</translation>
     </message>
     <message>
         <source>s</source>
@@ -10620,7 +10620,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>适合窗口</translation>
     </message>
     <message>
         <source>Preview one frame, then enhance the whole video. The result is added to the media bin. Enhancing is slow — minutes per second of video without a GPU.</source>
@@ -10632,7 +10632,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Remove compression</source>
-        <translation type="unfinished"></translation>
+        <translation>去除压缩伪影</translation>
     </message>
     <message>
         <source>Upscale</source>
@@ -10656,7 +10656,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Preview this frame</source>
-        <translation type="unfinished"></translation>
+        <translation>预览此帧</translation>
     </message>
     <message>
         <source>Anime and drawings</source>
@@ -10676,11 +10676,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Choose an upscaler</source>
-        <translation type="unfinished"></translation>
+        <translation>选择放大模型</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished">所有</translation>
+        <translation>全部</translation>
     </message>
     <message>
         <source>Speeds are per frame of this clip. Custom models are experimental and may not work. Drop an ONNX export (fp32 or fp16, RGB, 1x/2x/4x) into the folder; put the scale in the file name, e.g. &quot;2x_Name.onnx&quot;.</source>
@@ -10688,11 +10688,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Refresh model list</source>
-        <translation type="unfinished"></translation>
+        <translation>刷新模型列表</translation>
     </message>
     <message>
         <source>Enhance clip</source>
-        <translation type="unfinished"></translation>
+        <translation>增强片段</translation>
     </message>
     <message>
         <source>under a second</source>
@@ -10720,19 +10720,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Keep the original size.</source>
-        <translation type="unfinished"></translation>
+        <translation>保持原始尺寸。</translation>
     </message>
     <message>
         <source>Install AI engine first</source>
-        <translation type="unfinished"></translation>
+        <translation>请先安装 AI 引擎</translation>
     </message>
     <message>
         <source>Get models (openmodeldb.info)</source>
-        <translation type="unfinished"></translation>
+        <translation>获取模型 (openmodeldb.info)</translation>
     </message>
     <message>
         <source>Open custom models folder</source>
-        <translation type="unfinished"></translation>
+        <translation>打开自定义模型文件夹</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -10740,7 +10740,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">关闭</translation>
+        <translation>关闭</translation>
     </message>
 </context>
 <context>
@@ -10924,7 +10924,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>帧</translation>
     </message>
     <message>
         <source>s</source>
@@ -11106,7 +11106,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Open graphics settings</source>
-        <translation type="unfinished"></translation>
+        <translation>打开图形设置</translation>
     </message>
     <message>
         <source>Playback</source>
@@ -12271,7 +12271,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Downloading…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在下载…</translation>
     </message>
     <message>
         <source>Download again</source>
@@ -12540,7 +12540,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Install AI engine first</source>
-        <translation type="unfinished"></translation>
+        <translation>请先安装 AI 引擎</translation>
     </message>
     <message>
         <source>Needed for auto captions from speech</source>
@@ -12563,7 +12563,7 @@ If playback stutters, try another.</source>
     <name>TextAnimPresetTile</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>无</translation>
     </message>
 </context>
 <context>
@@ -12680,7 +12680,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>无</translation>
     </message>
     <message>
         <source>Whole block</source>
@@ -12728,7 +12728,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>返回</translation>
     </message>
     <message>
         <source>Bounce</source>
@@ -14749,15 +14749,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Before</source>
-        <translation type="unfinished"></translation>
+        <translation>处理前</translation>
     </message>
     <message>
         <source>After</source>
-        <translation type="unfinished"></translation>
+        <translation>处理后</translation>
     </message>
     <message>
         <source>Custom model</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义模型</translation>
     </message>
 </context>
 <context>
@@ -14828,7 +14828,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>适合窗口</translation>
     </message>
     <message>
         <source>Contain</source>
