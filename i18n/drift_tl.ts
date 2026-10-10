@@ -11702,19 +11702,19 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Speech bubble</source>
-        <translation type="unfinished"></translation>
+        <translation>Speech bubble</translation>
     </message>
     <message>
         <source>Rounded bubble</source>
-        <translation type="unfinished"></translation>
+        <translation>Rounded bubble</translation>
     </message>
     <message>
         <source>Thought bubble</source>
-        <translation type="unfinished"></translation>
+        <translation>Thought bubble</translation>
     </message>
     <message>
         <source>Callout</source>
-        <translation type="unfinished"></translation>
+        <translation>Callout</translation>
     </message>
     <message>
         <source>Star</source>
@@ -11722,15 +11722,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Burst</source>
-        <translation type="unfinished"></translation>
+        <translation>Burst</translation>
     </message>
     <message>
         <source>Lightning bolt</source>
-        <translation type="unfinished"></translation>
+        <translation>Kidlat</translation>
     </message>
     <message>
         <source>Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Ulap</translation>
     </message>
     <message>
         <source>Heart</source>
@@ -11738,11 +11738,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Cross</source>
-        <translation type="unfinished"></translation>
+        <translation>Krus</translation>
     </message>
     <message>
         <source>Banner</source>
-        <translation type="unfinished"></translation>
+        <translation>Banner</translation>
     </message>
     <message>
         <source>Basic</source>
@@ -11750,15 +11750,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga arrow</translation>
     </message>
     <message>
         <source>Bubbles</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga bubble</translation>
     </message>
     <message>
         <source>Fun</source>
-        <translation type="unfinished"></translation>
+        <translation>Masayang mga hugis</translation>
     </message>
     <message>
         <source>Corner radius</source>
@@ -11793,15 +11793,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>ShapesTab</name>
     <message>
         <source>Search shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Maghanap ng mga hugis</translation>
     </message>
     <message>
         <source>No shapes match “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang hugis na tumutugma sa “%1”.</translation>
     </message>
     <message>
         <source>No favorites yet. Star shapes to save them here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala pang paborito. Lagyan ng bituin ang mga hugis upang i-save dito.</translation>
     </message>
     <message>
         <source>Nothing in this category.</source>
@@ -11809,68 +11809,68 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>%1 — click to add, or drag to the timeline or preview</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 — i-click upang idagdag, o i-drag sa timeline o preview</translation>
     </message>
 </context>
 <context>
     <name>ShortcutCaptureField</name>
     <message>
         <source>Shortcut for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Shortcut para sa %1</translation>
     </message>
     <message>
         <source>Not set</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi nakatakda</translation>
     </message>
     <message>
         <source>Press keys…</source>
-        <translation type="unfinished"></translation>
+        <translation>Pindutin ang mga key…</translation>
     </message>
     <message>
         <source>Click to set</source>
-        <translation type="unfinished"></translation>
+        <translation>I-click upang itakda</translation>
     </message>
     <message>
         <source>“%1” is already used by %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ginagamit na ng %2 ang “%1”.</translation>
     </message>
 </context>
 <context>
     <name>ShortcutsTab</name>
     <message>
         <source>Search shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Maghanap ng mga shortcut</translation>
     </message>
     <message>
         <source>Click a shortcut, then press the keys. Esc cancels, Backspace clears.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-click ang shortcut at pindutin ang mga key. Kinakansela ng Esc; nililinis ng Backspace.</translation>
     </message>
     <message>
         <source>No shortcuts available</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang available na shortcut</translation>
     </message>
     <message>
         <source>No shortcuts match “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang shortcut na tumutugma sa “%1”</translation>
     </message>
     <message>
         <source>Try a different name or key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Subukan ang ibang pangalan o key.</translation>
     </message>
     <message>
         <source>Reset to defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>I-reset sa default</translation>
     </message>
     <message>
         <source>Shortcuts reset to defaults.</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-reset na sa default ang mga shortcut.</translation>
     </message>
 </context>
 <context>
     <name>SpeedCurveWindow</name>
     <message>
         <source>Custom speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Custom na bilis</translation>
     </message>
     <message>
         <source>Audio only</source>
@@ -11898,11 +11898,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Add point</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng punto</translation>
     </message>
     <message>
         <source>Sharp</source>
-        <translation type="unfinished"></translation>
+        <translation>Matalim</translation>
     </message>
     <message>
         <source>Smooth</source>
@@ -11910,7 +11910,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Delete point</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanggalin ang punto</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -11918,7 +11918,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Applied as a copy on a new track — the original clip is left alone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inilapat bilang kopya sa bagong track — hindi binago ang orihinal na clip.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -11937,7 +11937,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Speed applies to video, audio and composite clips.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nalalapat ang bilis sa video, audio, at composite clip.</translation>
     </message>
     <message>
         <source>Playback speed</source>
@@ -11945,11 +11945,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Custom speed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Custom na bilis…</translation>
     </message>
     <message>
         <source>Custom speed active — remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktibo ang custom na bilis — alisin</translation>
     </message>
     <message>
         <source>Speed</source>
@@ -11961,7 +11961,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Custom speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Custom na bilis</translation>
     </message>
     <message>
         <source> (reversed)</source>
@@ -11973,38 +11973,38 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Not rendered — playback may stutter</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi pa na-render — maaaring mag-stutter ang playback</translation>
     </message>
     <message>
         <source>Render</source>
-        <translation type="unfinished"></translation>
+        <translation>I-render</translation>
     </message>
 </context>
 <context>
     <name>SrtIO</name>
     <message>
         <source>Missing output</source>
-        <translation type="unfinished"></translation>
+        <translation>Nawawalang output</translation>
     </message>
     <message>
         <source>Subtitle file is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang laman ang subtitle file</translation>
     </message>
     <message>
         <source>Invalid subtitle timing line</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi wastong linya ng oras ng subtitle</translation>
     </message>
     <message>
         <source>Invalid subtitle timestamp</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi wastong timestamp ng subtitle</translation>
     </message>
     <message>
         <source>No subtitle cues found</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang nakitang subtitle cue</translation>
     </message>
     <message>
         <source>Could not open subtitle file</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabuksan ang subtitle file</translation>
     </message>
     <message>
         <source>Could not write subtitle file</source>
@@ -12015,31 +12015,31 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>StabilizeInspector</name>
     <message>
         <source>Bake a new video</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumawa ng bagong video</translation>
     </message>
     <message>
         <source>Animate with keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>I-animate gamit ang keyframe</translation>
     </message>
     <message>
         <source>Update stabilization</source>
-        <translation type="unfinished"></translation>
+        <translation>I-update ang stabilization</translation>
     </message>
     <message>
         <source>Re-apply keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilapat muli ang mga keyframe</translation>
     </message>
     <message>
         <source>Stabilize with keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>I-stabilize gamit ang mga keyframe</translation>
     </message>
     <message>
         <source>Re-stabilize video</source>
-        <translation type="unfinished"></translation>
+        <translation>I-stabilize muli ang video</translation>
     </message>
     <message>
         <source>Stabilize video</source>
-        <translation type="unfinished"></translation>
+        <translation>I-stabilize ang video</translation>
     </message>
     <message>
         <source>Smooths camera shake by writing position keyframes. Linear pans stay as two keys far apart; only direction changes get extra keys. Changing smoothness or tripod does not update the preview until you apply.</source>
@@ -12051,15 +12051,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode</translation>
     </message>
     <message>
         <source>Bake a new file, or animate the clip with sparse transform keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumawa ng bagong file o i-animate ang clip gamit ang kaunting transform key</translation>
     </message>
     <message>
         <source>Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagpapakinis</translation>
     </message>
     <message>
         <source>How many frames the smoother looks ahead and behind. Higher values hide more shake but crop the picture more.</source>
@@ -12067,7 +12067,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Tripod mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Tripod mode</translation>
     </message>
     <message>
         <source>Locks the framing as if the camera were on a tripod. Crops more aggressively than smoothing alone.</source>
@@ -12087,7 +12087,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Stabilizing…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ini-stabilize…</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -12120,11 +12120,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Open Project…</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan ang proyekto…</translation>
     </message>
     <message>
         <source>Recent Projects</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga kamakailang proyekto</translation>
     </message>
     <message>
         <source>Nothing here yet — projects you save will show up in this list.</source>
@@ -12135,15 +12135,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>StickersTab</name>
     <message>
         <source>Search stickers</source>
-        <translation type="unfinished"></translation>
+        <translation>Maghanap ng sticker</translation>
     </message>
     <message>
         <source>No sticker packs installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang naka-install na sticker pack</translation>
     </message>
     <message>
         <source>Install the emoji pack to add stickers.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-install ang emoji pack upang magdagdag ng mga sticker.</translation>
     </message>
     <message>
         <source>Get extras</source>
@@ -12151,11 +12151,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>No stickers match “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang sticker na tumutugma sa “%1”</translation>
     </message>
     <message>
         <source>No favorites yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala pang paborito</translation>
     </message>
     <message>
         <source>Nothing in this category</source>
@@ -12167,22 +12167,22 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Star stickers to save them here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lagyan ng bituin ang mga sticker upang i-save dito.</translation>
     </message>
     <message>
         <source>Pick another category.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng ibang kategorya.</translation>
     </message>
     <message>
         <source>%1 — click to add, or drag to the timeline or preview</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 — i-click upang idagdag, o i-drag sa timeline o preview</translation>
     </message>
 </context>
 <context>
     <name>StockBrowser</name>
     <message>
         <source>Save downloads to</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save ang mga download sa</translation>
     </message>
     <message>
         <source>All</source>
@@ -12190,7 +12190,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>%1 (%2 left)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2 ang natitira)</translation>
     </message>
     <message numerus="yes">
         <source>Filters — %n applied</source>
@@ -12205,23 +12205,23 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Get from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunin mula sa %1</translation>
     </message>
     <message>
         <source>Get from this link</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunin mula sa link na ito</translation>
     </message>
     <message>
         <source>Looking up that link…</source>
-        <translation type="unfinished"></translation>
+        <translation>Hinahanap ang link…</translation>
     </message>
     <message>
         <source>Couldn’t open that link</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabuksan ang link na iyon</translation>
     </message>
     <message>
         <source>Search failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabigo ang paghahanap</translation>
     </message>
     <message>
         <source>Try again</source>
@@ -12229,27 +12229,27 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>No results for “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang resulta para sa “%1”</translation>
     </message>
     <message>
         <source>Search this source</source>
-        <translation type="unfinished"></translation>
+        <translation>Maghanap sa source na ito</translation>
     </message>
     <message>
         <source>Paste a link</source>
-        <translation type="unfinished"></translation>
+        <translation>I-paste ang link</translation>
     </message>
     <message>
         <source>Try different words, another source, or clear a filter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Subukan ang ibang salita, ibang source, o alisin ang filter.</translation>
     </message>
     <message>
         <source>Type above and press Enter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-type sa itaas at pindutin ang Enter.</translation>
     </message>
     <message>
         <source>Paste a page link above and press Enter.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-paste ang link ng pahina sa itaas at pindutin ang Enter.</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -12257,18 +12257,18 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Play preview</source>
-        <translation type="unfinished"></translation>
+        <translation>I-play ang preview</translation>
     </message>
 </context>
 <context>
     <name>StockItemDetail</name>
     <message>
         <source>Back to results</source>
-        <translation type="unfinished"></translation>
+        <translation>Bumalik sa mga resulta</translation>
     </message>
     <message>
         <source>By %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ni %1</translation>
     </message>
     <message numerus="yes">
         <source>%n coin(s)</source>
@@ -12283,7 +12283,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Download again</source>
-        <translation type="unfinished"></translation>
+        <translation>I-download muli</translation>
     </message>
     <message>
         <source>Download</source>
@@ -13916,7 +13916,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Reset to defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>I-reset sa default</translation>
     </message>
     <message>
         <source>More menu</source>
@@ -14633,7 +14633,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>No favorites yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala pang paborito</translation>
     </message>
     <message>
         <source>Nothing in this category</source>
@@ -14649,7 +14649,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Pick another category.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng ibang kategorya.</translation>
     </message>
     <message>
         <source>%1 — drag onto an overlap between two clips</source>
