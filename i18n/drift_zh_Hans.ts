@@ -11072,7 +11072,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Which graphics card Drift runs on. High performance keeps video decoded on an NVIDIA card on that card; power saving uses less battery. Takes effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择 Drift 使用的显卡。高性能模式会让视频在该显卡（如 NVIDIA 显卡）上解码；省电模式耗电更少。重启后生效。</translation>
     </message>
     <message>
         <source>Choose which graphics card Drift runs on in Windows Settings, under Display &gt; Graphics. Takes effect after restart.</source>
@@ -12010,11 +12010,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Smooths camera shake by writing position keyframes. Linear pans stay as two keys far apart; only direction changes get extra keys. Changing smoothness or tripod does not update the preview until you apply.</source>
-        <translation type="unfinished"></translation>
+        <translation>通过生成位置关键帧来平滑相机抖动。匀速平移会保留相距较远的两个关键帧；只有方向变化时才会添加更多关键帧。更改平滑度或三脚架模式后，需点击应用才会更新预览。</translation>
     </message>
     <message>
         <source>Smooths camera shake. Drift scans the clip once, then renders a new video. Changing smoothness or tripod does not update the preview until you apply.</source>
-        <translation type="unfinished"></translation>
+        <translation>平滑相机抖动。Drift 会扫描一次片段，然后渲染新视频。更改平滑度或三脚架模式后，需点击应用才会更新预览。</translation>
     </message>
     <message>
         <source>Mode</source>
@@ -12030,7 +12030,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>How many frames the smoother looks ahead and behind. Higher values hide more shake but crop the picture more.</source>
-        <translation type="unfinished"></translation>
+        <translation>平滑算法向前和向后查看的帧数。数值越大，抖动抑制越强，但画面裁切也越多。</translation>
     </message>
     <message>
         <source>Tripod mode</source>
@@ -12038,15 +12038,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Locks the framing as if the camera were on a tripod. Crops more aggressively than smoothing alone.</source>
-        <translation type="unfinished"></translation>
+        <translation>锁定取景效果，如同相机固定在三脚架上。相比单纯平滑，此模式会裁切更多画面。</translation>
     </message>
     <message>
         <source>Position keys still use the last run. Update to apply these settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>位置关键帧仍使用上次运行的结果。请点击“更新”以应用这些设置。</translation>
     </message>
     <message>
         <source>Preview still uses the last run. Update to apply these settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>预览仍使用上次运行的结果。请点击“更新”以应用这些设置。</translation>
     </message>
     <message>
         <source>Remove</source>
