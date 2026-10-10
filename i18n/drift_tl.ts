@@ -7767,7 +7767,7 @@
     <name>LayoutChooserDialog</name>
     <message>
         <source>Choose your video layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Piliin ang layout ng video</translation>
     </message>
     <message>
         <source>Continue</source>
@@ -7779,19 +7779,19 @@
     </message>
     <message>
         <source>Decide later</source>
-        <translation type="unfinished"></translation>
+        <translation>Magpasya sa ibang pagkakataon</translation>
     </message>
     <message>
         <source>Pick a platform template and quality. This updates the project video size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng platform template at kalidad. Babaguhin nito ang laki ng video ng project.</translation>
     </message>
     <message>
         <source>Pick a category, then a template and quality. You can change this anytime in Settings → Choose layout.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng kategorya, pagkatapos template at kalidad. Maaari itong baguhin anumang oras sa Settings → Choose layout.</translation>
     </message>
     <message>
         <source>Template</source>
-        <translation type="unfinished">Template</translation>
+        <translation>Template</translation>
     </message>
     <message>
         <source>Quality</source>
@@ -7878,7 +7878,7 @@
     </message>
     <message>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>Parisukat</translation>
     </message>
     <message>
         <source>Landscape</source>
@@ -7890,7 +7890,7 @@
     </message>
     <message>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>Classic</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -7898,202 +7898,202 @@
     </message>
     <message>
         <source>Any size</source>
-        <translation type="unfinished"></translation>
+        <translation>Anumang laki</translation>
     </message>
     <message>
         <source>4K</source>
-        <translation type="unfinished"></translation>
+        <translation>4K</translation>
     </message>
     <message>
         <source>1440p</source>
-        <translation type="unfinished"></translation>
+        <translation>1440p</translation>
     </message>
     <message>
         <source>1080p</source>
-        <translation type="unfinished"></translation>
+        <translation>1080p</translation>
     </message>
     <message>
         <source>720p</source>
-        <translation type="unfinished"></translation>
+        <translation>720p</translation>
     </message>
 </context>
 <context>
     <name>Main</name>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>File (&amp;F)</translation>
     </message>
     <message>
         <source>&amp;New Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Bagong Project (&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Open Project…</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan ang Project… (&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Save Project</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save ang Project (&amp;S)</translation>
     </message>
     <message>
         <source>Save Project &amp;As…</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save ang Project Bilang… (&amp;A)</translation>
     </message>
     <message>
         <source>Save Project &amp;JSON…</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save ang Project JSON… (&amp;J)</translation>
     </message>
     <message>
         <source>Open Project JSON…</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan ang Project JSON…</translation>
     </message>
     <message>
         <source>&amp;Export Video…</source>
-        <translation type="unfinished"></translation>
+        <translation>I-export ang Video… (&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Package Project…</source>
-        <translation type="unfinished"></translation>
+        <translation>I-package ang Project… (&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Close Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Isara ang Project (&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>I-edit (&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>I-undo (&amp;U)</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>I-redo (&amp;R)</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>I-cut (&amp;T)</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopyahin (&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>I-paste (&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Burahin (&amp;D)</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>Piliin lahat (&amp;A)</translation>
     </message>
     <message>
         <source>Clear Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>I-clear ang napili</translation>
     </message>
     <message>
         <source>Split Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Hatiin ang clip</translation>
     </message>
     <message>
         <source>Duplicate Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>I-duplicate ang clip</translation>
     </message>
     <message>
         <source>Copy Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopyahin ang mga effect</translation>
     </message>
     <message>
         <source>Paste Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>I-paste ang mga effect</translation>
     </message>
     <message>
         <source>Paste Attributes…</source>
-        <translation type="unfinished"></translation>
+        <translation>I-paste ang mga attribute…</translation>
     </message>
     <message>
         <source>Preferences…</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga preference…</translation>
     </message>
     <message>
         <source>&amp;Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>Playback (&amp;P)</translation>
     </message>
     <message>
         <source>Play / Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>I-play / I-pause</translation>
     </message>
     <message>
         <source>Step Back One Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Bumalik ng isang frame</translation>
     </message>
     <message>
         <source>Step Forward One Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Sumulong ng isang frame</translation>
     </message>
     <message>
         <source>Previous Cut Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Naunang cut point</translation>
     </message>
     <message>
         <source>Next Cut Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Susunod na cut point</translation>
     </message>
     <message>
         <source>Go to Start of Timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumunta sa simula ng timeline</translation>
     </message>
     <message>
         <source>Toggle Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>I-toggle ang bookmark</translation>
     </message>
     <message>
         <source>Next Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Susunod na bookmark</translation>
     </message>
     <message>
         <source>Previous Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Naunang bookmark</translation>
     </message>
     <message>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>View (&amp;V)</translation>
     </message>
     <message>
         <source>Zoom &amp;In</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-zoom in (&amp;I)</translation>
     </message>
     <message>
         <source>Zoom &amp;Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-zoom out (&amp;O)</translation>
     </message>
     <message>
         <source>Toggle Fullscreen Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>I-toggle ang full-screen preview</translation>
     </message>
     <message>
         <source>Toggle Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>I-toggle ang mga guide</translation>
     </message>
     <message>
         <source>&amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Window (&amp;W)</translation>
     </message>
     <message>
         <source>Landscape Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Landscape workspace</translation>
     </message>
     <message>
         <source>Portrait Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Portrait workspace</translation>
     </message>
     <message>
         <source>Auto Workspace (Follow Canvas)</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto workspace (sumunod sa canvas)</translation>
     </message>
     <message>
         <source>Downloads</source>
@@ -8105,23 +8105,23 @@
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Tulong (&amp;H)</translation>
     </message>
     <message>
         <source>Keyboard Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga keyboard shortcut</translation>
     </message>
     <message>
         <source>Extras…</source>
-        <translation type="unfinished"></translation>
+        <translation>Extras…</translation>
     </message>
     <message>
         <source>Check for Updates…</source>
-        <translation type="unfinished"></translation>
+        <translation>Tingnan ang mga update…</translation>
     </message>
     <message>
         <source>Debug Info…</source>
-        <translation type="unfinished"></translation>
+        <translation>Debug info…</translation>
     </message>
     <message>
         <source>Still opening a project — try again in a moment.</source>
@@ -8133,7 +8133,7 @@
     </message>
     <message>
         <source>Project closed</source>
-        <translation type="unfinished"></translation>
+        <translation>Isinara ang project</translation>
     </message>
     <message>
         <source>Export finished.</source>
@@ -8145,7 +8145,7 @@
     </message>
     <message>
         <source>Export failed. Check the save location and free space on your disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabigo ang pag-export. Suriin ang lokasyon ng save at ang bakanteng espasyo sa disk.</translation>
     </message>
     <message>
         <source>Couldn&apos;t create the shareable copy: %1</source>
@@ -8180,11 +8180,11 @@
     <name>MarketClient</name>
     <message>
         <source>Marketplace is not available in this build.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi available ang marketplace sa build na ito.</translation>
     </message>
     <message>
         <source>Waiting…</source>
-        <translation type="unfinished"></translation>
+        <translation>Naghihintay…</translation>
     </message>
     <message>
         <source>Starting…</source>
@@ -8192,7 +8192,7 @@
     </message>
     <message>
         <source>Preparing…</source>
-        <translation type="unfinished"></translation>
+        <translation>Inihahanda…</translation>
     </message>
     <message>
         <source>Cancelled</source>
@@ -8200,11 +8200,11 @@
     </message>
     <message>
         <source>Could not connect the marketplace account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi makakonekta sa marketplace account.</translation>
     </message>
     <message>
         <source>Nothing is available from the marketplace right now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang available mula sa marketplace sa ngayon.</translation>
     </message>
     <message>
         <source>Downloading…</source>
@@ -8212,11 +8212,11 @@
     </message>
     <message>
         <source>Could not save that file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi na-save ang file na iyon.</translation>
     </message>
     <message>
         <source>The downloaded file did not match what the marketplace sent.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi tumugma ang na-download na file sa ipinadala ng marketplace.</translation>
     </message>
     <message>
         <source>Importing…</source>
@@ -11062,11 +11062,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>720p</source>
-        <translation type="unfinished"></translation>
+        <translation>720p</translation>
     </message>
     <message>
         <source>1080p</source>
-        <translation type="unfinished"></translation>
+        <translation>1080p</translation>
     </message>
     <message>
         <source>Size of new proxies. Proxies made at another size are not used until you create them again.</source>
@@ -11631,7 +11631,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>Parisukat</translation>
     </message>
     <message>
         <source>Ellipse</source>
