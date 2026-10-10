@@ -4747,7 +4747,7 @@
     </message>
     <message>
         <source>Collect Media to Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipunin ang media sa folder</translation>
     </message>
     <message>
         <source>Market</source>
@@ -4771,11 +4771,11 @@
     </message>
     <message>
         <source>Scenes</source>
-        <translation type="unfinished">Mga Eksena</translation>
+        <translation>Mga eksena</translation>
     </message>
     <message>
         <source>Masks</source>
-        <translation type="unfinished">Mga Maskara</translation>
+        <translation>Mga mask</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -4783,7 +4783,7 @@
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga template</translation>
     </message>
     <message>
         <source>Transitions</source>
@@ -4795,43 +4795,43 @@
     </message>
     <message>
         <source>Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga shortcut</translation>
     </message>
     <message>
         <source>Drop to import</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drop para mag-import</translation>
     </message>
     <message>
         <source>Video, audio and image files</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga video, audio, at image file</translation>
     </message>
     <message>
         <source>Importing…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ini-import…</translation>
     </message>
     <message>
         <source>Reading media and generating thumbnails.</source>
-        <translation type="unfinished"></translation>
+        <translation>Binabasa ang media at ginagawa ang mga thumbnail.</translation>
     </message>
     <message>
         <source>More emoji</source>
-        <translation type="unfinished"></translation>
+        <translation>Higit pang emoji</translation>
     </message>
     <message>
         <source>More import options</source>
-        <translation type="unfinished"></translation>
+        <translation>Higit pang opsyon sa pag-import</translation>
     </message>
     <message>
         <source>Import Files…</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-import ng mga file…</translation>
     </message>
     <message>
         <source>Import Folder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-import ng folder…</translation>
     </message>
     <message>
         <source>Collect Media to Folder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipunin ang media sa folder…</translation>
     </message>
     <message>
         <source>Import</source>
@@ -4839,35 +4839,35 @@
     </message>
     <message>
         <source>Import video, audio or image files</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-import ng video, audio, o image file</translation>
     </message>
     <message>
         <source>New folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Bagong folder</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumawa</translation>
     </message>
     <message>
         <source>Folder name</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangalan ng folder</translation>
     </message>
     <message>
         <source>Rename folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang pangalan ng folder</translation>
     </message>
     <message>
         <source>Move to folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilipat sa folder</translation>
     </message>
     <message>
         <source>New Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Bagong Folder</translation>
     </message>
     <message>
         <source>Create a new folder here</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumawa ng bagong folder dito</translation>
     </message>
     <message numerus="yes">
         <source>%n items</source>
@@ -4878,7 +4878,7 @@
     </message>
     <message>
         <source>Remove these items?</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang mga item na ito?</translation>
     </message>
     <message numerus="yes">
         <source>Removed %n items.</source>
@@ -4892,97 +4892,97 @@
     <name>AudioEffectBrowser</name>
     <message>
         <source>No audio effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang audio effect</translation>
     </message>
     <message>
         <source>Install the Audio Effects pack from Extras to browse presets here.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-install ang Audio Effects pack mula sa Extras para makita rito ang mga preset.</translation>
     </message>
     <message>
         <source>Install audio effects</source>
-        <translation type="unfinished"></translation>
+        <translation>I-install ang mga audio effect</translation>
     </message>
     <message>
         <source>Drag a preset onto a clip, or click to apply to the selection</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drag ang preset sa clip o i-click para ilapat sa napili</translation>
     </message>
     <message>
         <source>Drag a preset onto a clip in the timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drag ang preset sa clip sa timeline</translation>
     </message>
     <message>
         <source>Search audio effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Maghanap ng audio effect</translation>
     </message>
     <message>
         <source>No audio effects match “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang audio effect na tumutugma sa “%1”.</translation>
     </message>
     <message>
         <source>No favorites yet. Star presets to save them here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala pang paborito. Lagyan ng star ang mga preset para ma-save rito.</translation>
     </message>
     <message>
         <source>Nothing in this category.</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang laman ang kategoryang ito.</translation>
     </message>
     <message>
         <source>Apply to selected clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilapat sa napiling clip</translation>
     </message>
 </context>
 <context>
     <name>AudioEffectCatalog</name>
     <message>
         <source>Voice</source>
-        <translation type="unfinished"></translation>
+        <translation>Boses</translation>
     </message>
     <message>
         <source>Transmission</source>
-        <translation type="unfinished"></translation>
+        <translation>Transmission</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Texture</translation>
     </message>
     <message>
         <source>Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Space</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Iba pa</translation>
     </message>
 </context>
 <context>
     <name>AudioEffectsInspector</name>
     <message>
         <source>No audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang audio</translation>
     </message>
     <message>
         <source>Audio effects apply to clips with an audio track.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mailalapat ang audio effect sa mga clip na may audio track.</translation>
     </message>
     <message>
         <source>No audio effects installed. Get the Audio Effects pack from Extras.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala pang naka-install na audio effect. Kunin ang Audio Effects pack sa Extras.</translation>
     </message>
     <message>
         <source>Install audio effects</source>
-        <translation type="unfinished"></translation>
+        <translation>I-install ang mga audio effect</translation>
     </message>
     <message>
         <source>No audio effects yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala pang audio effect</translation>
     </message>
     <message>
         <source>Drag a preset from Audio FX onto this clip, or click a preset card.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drag ang preset mula sa Audio FX papunta sa clip na ito, o i-click ang preset card.</translation>
     </message>
     <message>
         <source>Browse audio effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Tingnan ang mga audio effect</translation>
     </message>
     <message>
         <source>%1 (not installed)</source>
@@ -5045,7 +5045,7 @@
     </message>
     <message>
         <source>No audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang audio</translation>
     </message>
     <message>
         <source>This clip has no audio track.</source>
@@ -5900,7 +5900,7 @@
     </message>
     <message>
         <source>Apply to selected clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilapat sa napiling clip</translation>
     </message>
     <message>
         <source>Add at playhead</source>
@@ -6223,7 +6223,7 @@
     </message>
     <message>
         <source>Drag a preset onto a clip, or click to apply to the selection</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drag ang preset sa clip o i-click para ilapat sa napili</translation>
     </message>
     <message>
         <source>Click to add as adjustment layer, or drag onto a clip</source>
@@ -6251,15 +6251,15 @@
     </message>
     <message>
         <source>No favorites yet. Star presets to save them here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala pang paborito. Lagyan ng star ang mga preset para ma-save rito.</translation>
     </message>
     <message>
         <source>Nothing in this category.</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang laman ang kategoryang ito.</translation>
     </message>
     <message>
         <source>Apply to selected clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilapat sa napiling clip</translation>
     </message>
     <message>
         <source>Built-in</source>
@@ -6314,7 +6314,7 @@
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Iba pa</translation>
     </message>
 </context>
 <context>
@@ -6412,7 +6412,7 @@
     </message>
     <message>
         <source>Nothing in this category.</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang laman ang kategoryang ito.</translation>
     </message>
     <message>
         <source>Needs cutout</source>
@@ -6420,7 +6420,7 @@
     </message>
     <message>
         <source>Apply to selected clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilapat sa napiling clip</translation>
     </message>
 </context>
 <context>
@@ -6463,7 +6463,7 @@
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Iba pa</translation>
     </message>
 </context>
 <context>
@@ -8220,7 +8220,7 @@
     </message>
     <message>
         <source>Importing…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ini-import…</translation>
     </message>
     <message>
         <source>Could not import that file.</source>
@@ -9381,7 +9381,7 @@
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Texture</translation>
     </message>
     <message>
         <source>Effect</source>
@@ -10002,7 +10002,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumawa</translation>
     </message>
     <message>
         <source>First clip “%1”. Choose the video size before it is placed.</source>
@@ -10101,7 +10101,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Masks</source>
-        <translation type="unfinished">Mga Maskara</translation>
+        <translation>Mga mask</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -11349,7 +11349,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Texture</translation>
     </message>
     <message>
         <source>Effect</source>
@@ -11798,7 +11798,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Nothing in this category.</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang laman ang kategoryang ito.</translation>
     </message>
     <message>
         <source>%1 — click to add, or drag to the timeline or preview</source>
@@ -13638,7 +13638,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Importing…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ini-import…</translation>
     </message>
     <message>
         <source>PAUSED </source>
@@ -14511,7 +14511,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Iba pa</translation>
     </message>
 </context>
 <context>
