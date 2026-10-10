@@ -12291,19 +12291,19 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>You have used today’s downloads from this source</source>
-        <translation type="unfinished"></translation>
+        <translation>Naubos mo na ang mga download mula sa source na ito para sa araw na ito</translation>
     </message>
     <message>
         <source>Saves to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ise-save sa %1</translation>
     </message>
     <message>
         <source>You’ll choose a folder the first time</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipili ka ng folder sa unang pagkakataon</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Baguhin</translation>
     </message>
 </context>
 <context>
@@ -12325,7 +12325,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Subtitles (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga subtitle (%1)</translation>
     </message>
 </context>
 <context>
@@ -12343,7 +12343,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>(empty)</source>
-        <translation type="unfinished"></translation>
+        <translation>(walang laman)</translation>
     </message>
 </context>
 <context>
@@ -12354,11 +12354,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>%1 captions</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 caption</translation>
     </message>
     <message>
         <source>Play the timeline — the line on screen lights up. Click any line to jump to it and edit it below.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-play ang timeline — iha-highlight ang linyang nasa screen. I-click ang anumang linya upang lumipat dito at i-edit sa ibaba.</translation>
     </message>
     <message>
         <source>Import</source>
@@ -12366,15 +12366,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Replace these captions from a .srt file</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang mga caption na ito mula sa .srt file</translation>
     </message>
     <message>
         <source>Import Subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-import ng mga subtitle</translation>
     </message>
     <message>
         <source>SubRip subtitles (*.srt)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga subtitle ng SubRip (*.srt)</translation>
     </message>
     <message>
         <source>All files (*)</source>
@@ -12386,15 +12386,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Save captions as a .srt file</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save ang mga caption bilang .srt file</translation>
     </message>
     <message>
         <source>Export Subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>I-export ang mga subtitle</translation>
     </message>
     <message>
         <source>Timestamps from the start of the video</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga timestamp mula sa simula ng video</translation>
     </message>
     <message>
         <source>Offset the exported captions by this clip&apos;s start so they match the exported video</source>
@@ -12402,66 +12402,66 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>(empty)</source>
-        <translation type="unfinished"></translation>
+        <translation>(walang laman)</translation>
     </message>
     <message>
         <source>Delete this subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanggalin ang subtitle na ito</translation>
     </message>
     <message>
         <source>Add a subtitle after this one</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng subtitle pagkatapos nito</translation>
     </message>
     <message>
         <source>No subtitles yet. Move to a time inside this clip and add one below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala pang subtitle. Lumipat sa oras sa loob ng clip na ito at magdagdag sa ibaba.</translation>
     </message>
     <message>
         <source>Type subtitle…</source>
-        <translation type="unfinished"></translation>
+        <translation>I-type ang subtitle…</translation>
     </message>
     <message>
         <source>Apply text to this subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilapat ang text sa subtitle na ito</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Simula</translation>
     </message>
     <message>
         <source>Set start to current time</source>
-        <translation type="unfinished"></translation>
+        <translation>Itakda ang simula sa kasalukuyang oras</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>Wakas</translation>
     </message>
     <message>
         <source>Set end to current time</source>
-        <translation type="unfinished"></translation>
+        <translation>Itakda ang wakas sa kasalukuyang oras</translation>
     </message>
     <message>
         <source>Delete caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanggalin ang caption</translation>
     </message>
     <message>
         <source>At %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sa %1</translation>
     </message>
     <message>
         <source>Move to a time inside this clip to add a subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumipat sa oras sa loob ng clip na ito upang magdagdag ng subtitle</translation>
     </message>
     <message>
         <source>Add subtitle at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng subtitle sa kasalukuyang oras</translation>
     </message>
 </context>
 <context>
     <name>SubtitleProgressDialog</name>
     <message>
         <source>Generating subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumagawa ng mga subtitle</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -12480,27 +12480,27 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>SubtitlesTab</name>
     <message>
         <source>Subtitle track — one clip holds many timed captions. Place it on the timeline, trim its length, then add caption lines at each moment in the clip panel.</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtitle track — maaaring maglaman ang isang clip ng maraming caption na may oras. Ilagay sa timeline, i-trim ang haba, saka magdagdag ng mga linya sa bawat sandali sa panel ng clip.</translation>
     </message>
     <message>
         <source>Add subtitle clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng subtitle clip</translation>
     </message>
     <message>
         <source>Import subtitle file</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-import ng subtitle file</translation>
     </message>
     <message>
         <source>Import a .srt file as a subtitle clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-import ng .srt file bilang subtitle clip</translation>
     </message>
     <message>
         <source>Import Subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-import ng mga subtitle</translation>
     </message>
     <message>
         <source>SubRip subtitles (*.srt)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga subtitle ng SubRip (*.srt)</translation>
     </message>
     <message>
         <source>All files (*)</source>
@@ -12508,15 +12508,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Add auto caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng awtomatikong caption</translation>
     </message>
     <message>
         <source>Creates captions from the speech in the selected clip.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumagawa ng caption mula sa pananalita sa napiling clip.</translation>
     </message>
     <message>
         <source>Select a video or audio clip on the timeline first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili muna ng video o audio clip sa timeline.</translation>
     </message>
     <message>
         <source>Shorter captions are timed by splitting each phrase evenly, so they can drift slightly out of sync with the speech.</source>
@@ -12528,7 +12528,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Select a video or audio clip first</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili muna ng video o audio clip</translation>
     </message>
     <message>
         <source>Creating captions… %1%</source>
@@ -12540,7 +12540,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Stop creating captions</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihinto ang paggawa ng caption</translation>
     </message>
     <message>
         <source>Download speech recognition (about 670 MB)</source>
@@ -12552,7 +12552,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Needed for auto captions from speech</source>
-        <translation type="unfinished"></translation>
+        <translation>Kailangan para sa awtomatikong caption mula sa pananalita</translation>
     </message>
     <message>
         <source>Recommended caption length</source>
@@ -12578,35 +12578,35 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>TextAssetsTab</name>
     <message>
         <source>Drift text style (*.drifttextstyle)</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo ng text ng Drift (*.drifttextstyle)</translation>
     </message>
     <message>
         <source>Import text style</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-import ng estilo ng text</translation>
     </message>
     <message>
         <source>Export text style</source>
-        <translation type="unfinished"></translation>
+        <translation>I-export ang estilo ng text</translation>
     </message>
     <message>
         <source>Click a style to add text at the playhead. Double-click it on the preview to edit.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-click ang estilo upang magdagdag ng text sa playhead. I-double-click ito sa preview upang i-edit.</translation>
     </message>
     <message>
         <source>My styles</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga estilo ko</translation>
     </message>
     <message>
         <source>Import a text style…</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-import ng estilo ng text…</translation>
     </message>
     <message>
         <source>Style some text, then use “Save style…” in the properties Text tab to keep it here.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-style ang text, pagkatapos gamitin ang “Save style…” sa tab na Text ng properties upang itago ito rito.</translation>
     </message>
     <message>
         <source>Style options</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga opsyon ng estilo</translation>
     </message>
     <message>
         <source>Rename…</source>
@@ -12626,42 +12626,42 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Rename text style</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang pangalan ng estilo ng text</translation>
     </message>
     <message>
         <source>Delete text style</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanggalin ang estilo ng text</translation>
     </message>
     <message>
         <source>Remove “%1” from your saved styles? Clips already using it keep their look.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang “%1” sa mga naka-save na estilo? Mananatili ang itsura ng mga clip na gumagamit na nito.</translation>
     </message>
 </context>
 <context>
     <name>TextEffects</name>
     <message>
         <source>Shine sweep</source>
-        <translation type="unfinished"></translation>
+        <translation>Shine sweep</translation>
     </message>
     <message>
         <source>Holographic shimmer</source>
-        <translation type="unfinished"></translation>
+        <translation>Holographic shimmer</translation>
     </message>
     <message>
         <source>Neon pulse</source>
-        <translation type="unfinished"></translation>
+        <translation>Neon pulse</translation>
     </message>
     <message>
         <source>Glitch</source>
-        <translation type="unfinished"></translation>
+        <translation>Glitch</translation>
     </message>
     <message>
         <source>Chrome</source>
-        <translation type="unfinished"></translation>
+        <translation>Chrome</translation>
     </message>
     <message>
         <source>Dissolve</source>
-        <translation type="unfinished"></translation>
+        <translation>Dissolve</translation>
     </message>
 </context>
 <context>
@@ -12676,7 +12676,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Edits the first gradient stop</source>
-        <translation type="unfinished"></translation>
+        <translation>I-edit ang unang gradient stop</translation>
     </message>
     <message>
         <source>Style</source>
@@ -12692,11 +12692,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Whole block</source>
-        <translation type="unfinished"></translation>
+        <translation>Buong block</translation>
     </message>
     <message>
         <source>Character</source>
-        <translation type="unfinished"></translation>
+        <translation>Character</translation>
     </message>
     <message>
         <source>Word</source>
@@ -12708,19 +12708,19 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasulong</translation>
     </message>
     <message>
         <source>Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Paatras</translation>
     </message>
     <message>
         <source>Center out</source>
-        <translation type="unfinished"></translation>
+        <translation>Mula gitna palabas</translation>
     </message>
     <message>
         <source>Random</source>
-        <translation type="unfinished"></translation>
+        <translation>Random</translation>
     </message>
     <message>
         <source>Linear</source>
@@ -12732,7 +12732,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Snappy</source>
-        <translation type="unfinished"></translation>
+        <translation>Snappy</translation>
     </message>
     <message>
         <source>Back</source>
@@ -12744,7 +12744,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Save style…</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save ang estilo…</translation>
     </message>
     <message>
         <source>Save text style</source>
@@ -12752,31 +12752,31 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>My style %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo ko %1</translation>
     </message>
     <message>
         <source>Apply to all captions</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilapat sa lahat ng caption</translation>
     </message>
     <message>
         <source>Copy this style to every other caption on this track</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopyahin ang estilong ito sa lahat ng iba pang caption sa track na ito</translation>
     </message>
     <message>
         <source>…every track</source>
-        <translation type="unfinished"></translation>
+        <translation>…bawat track</translation>
     </message>
     <message>
         <source>Copy this style to every caption in the project</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopyahin ang estilong ito sa lahat ng caption sa proyekto</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Font</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation type="unfinished"></translation>
+        <translation>Weight</translation>
     </message>
     <message>
         <source>Size</source>
@@ -12792,35 +12792,35 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Decorations</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga dekorasyon</translation>
     </message>
     <message>
         <source>Boxes and rules drawn around the text rather than on it</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga kahon at guhit sa paligid ng text sa halip na sa ibabaw nito</translation>
     </message>
     <message>
         <source>Animate</source>
-        <translation type="unfinished"></translation>
+        <translation>I-animate</translation>
     </message>
     <message>
         <source>Phase</source>
-        <translation type="unfinished"></translation>
+        <translation>Phase</translation>
     </message>
     <message>
         <source>Stagger</source>
-        <translation type="unfinished"></translation>
+        <translation>Stagger</translation>
     </message>
     <message>
         <source>Delay between one unit and the next along the cycle</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagkaantala sa pagitan ng isang unit at kasunod nito sa cycle</translation>
     </message>
     <message>
         <source>Delay between one unit starting and the next</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagkaantala sa pagitan ng pagsisimula ng isang unit at ng susunod</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagkakasunod-sunod</translation>
     </message>
     <message>
         <source>Ease</source>
@@ -12832,23 +12832,23 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Custom animator (set via MCP). Preset controls are disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Custom animator (itinakda sa pamamagitan ng MCP). Naka-disable ang mga preset control.</translation>
     </message>
     <message>
         <source>Revert to preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Ibalik sa preset</translation>
     </message>
     <message>
         <source>Drop the custom animators and go back to picking presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang custom animator at bumalik sa pagpili ng preset</translation>
     </message>
     <message>
         <source>Choose text colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng kulay ng text</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Italic</translation>
     </message>
     <message>
         <source>Italicise the text</source>
@@ -13364,7 +13364,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>My styles</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga estilo ko</translation>
     </message>
     <message>
         <source>Built-in</source>
@@ -15130,7 +15130,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Glitch</source>
-        <translation type="unfinished"></translation>
+        <translation>Glitch</translation>
     </message>
     <message>
         <source>Neon</source>
@@ -15154,7 +15154,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Chrome</source>
-        <translation type="unfinished"></translation>
+        <translation>Chrome</translation>
     </message>
     <message>
         <source>Holographic</source>
