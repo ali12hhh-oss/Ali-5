@@ -10592,23 +10592,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Enhanced — out of date, preview again</source>
-        <translation type="unfinished"></translation>
+        <translation>화질 개선 완료 — 미리보기가 오래되었습니다. 다시 미리 보세요</translation>
     </message>
     <message>
         <source>Enhanced %1 × %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 × %2로 화질 개선됨</translation>
     </message>
     <message>
         <source>Loading this frame…</source>
-        <translation type="unfinished"></translation>
+        <translation>이 프레임 불러오는 중…</translation>
     </message>
     <message>
         <source>Working…</source>
-        <translation type="unfinished">작업 중…</translation>
+        <translation>처리 중…</translation>
     </message>
     <message>
         <source>Choose models, then Preview to compare this frame</source>
-        <translation type="unfinished"></translation>
+        <translation>모델을 선택한 다음 ‘미리 보기’를 눌러 이 프레임을 비교하세요</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -10624,11 +10624,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Preview one frame, then enhance the whole video. The result is added to the media bin. Enhancing is slow — minutes per second of video without a GPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>먼저 한 프레임을 미리 본 다음 동영상 전체의 화질을 개선합니다. 결과는 미디어 목록에 추가됩니다. GPU가 없으면 동영상 1초 처리에 몇 분이 걸릴 수 있습니다.</translation>
     </message>
     <message>
         <source>Preview one frame, then enhance the part of the clip used on the timeline. The result is added to the media bin. Enhancing is slow — minutes per second of video without a GPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>먼저 한 프레임을 미리 본 다음 타임라인에서 사용하는 클립 구간의 화질을 개선합니다. 결과는 미디어 목록에 추가됩니다. GPU가 없으면 동영상 1초 처리에 몇 분이 걸릴 수 있습니다.</translation>
     </message>
     <message>
         <source>Remove compression</source>
@@ -10644,15 +10644,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source> — larger than 4K, which is slow to edit and export</source>
-        <translation type="unfinished"></translation>
+        <translation>— 4K보다 커서 편집 및 내보내기가 느려집니다</translation>
     </message>
     <message>
         <source>Up to about %1 on this computer&apos;s CPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 컴퓨터 CPU에서는 약 %1까지 가능합니다.</translation>
     </message>
     <message>
         <source>Up to about %1 on a typical laptop CPU. Preview a frame for an estimate for this computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>일반적인 노트북 CPU에서는 약 %1까지 가능합니다. 이 컴퓨터의 예상 성능을 확인하려면 프레임을 미리 보세요.</translation>
     </message>
     <message>
         <source>Preview this frame</source>
@@ -10684,7 +10684,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Speeds are per frame of this clip. Custom models are experimental and may not work. Drop an ONNX export (fp32 or fp16, RGB, 1x/2x/4x) into the folder; put the scale in the file name, e.g. &quot;2x_Name.onnx&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>속도는 이 클립의 프레임당 기준입니다. 사용자 지정 모델은 실험적이며 작동하지 않을 수 있습니다. ONNX 내보내기 파일(fp32 또는 fp16, RGB, 1x/2x/4x)을 폴더에 넣고 파일 이름에 배율을 표시하세요(예: "2x_Name.onnx").</translation>
     </message>
     <message>
         <source>Refresh model list</source>
