@@ -2484,9 +2484,9 @@
     </message>
     <message numerus="yes">
         <source>Multicam ready: %n camera(s) lined up at the start. Drag a clip to adjust its sync, then pick a shot.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>බහු කැමරා සූදානම්: ආරම්භයේ කැමරා %nක් පෙළගස්වා ඇත. සමමුහුර්තකරණය සකස් කිරීමට ක්ලිප් එක ඇද, පසුව දර්ශනයක් තෝරන්න.</numerusform>
+            <numerusform>බහු කැමරා සූදානම්: ආරම්භයේ කැමරා %nක් පෙළගස්වා ඇත. සමමුහුර්තකරණය සකස් කිරීමට ක්ලිප් එක ඇද, පසුව දර්ශනයක් තෝරන්න.</numerusform>
         </translation>
     </message>
     <message>
@@ -3732,9 +3732,9 @@
     </message>
     <message numerus="yes">
         <source>Transform layer now covers %n track(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>පරිවර්තන ස්තරය දැන් ධාවන පථ %nක් ආවරණය කරයි</numerusform>
+            <numerusform>පරිවර්තන ස්තරය දැන් ධාවන පථ %nක් ආවරණය කරයි</numerusform>
         </translation>
     </message>
     <message>
@@ -3918,9 +3918,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s); %1 skipped: %2</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>මුහුණු අංග %nක් ආනයනය කළා; %1ක් මඟ හැරුණා: %2</numerusform>
+            <numerusform>මුහුණු අංග %nක් ආනයනය කළා; %1ක් මඟ හැරුණා: %2</numerusform>
         </translation>
     </message>
     <message>
@@ -4311,9 +4311,9 @@
     </message>
     <message numerus="yes">
         <source>Media collected, but %n original(s) couldn’t be deleted</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>මාධ්‍ය එකතු කළත් මුල් ගොනු %nක් මකා දැමිය නොහැකි විය</numerusform>
+            <numerusform>මාධ්‍ය එකතු කළත් මුල් ගොනු %nක් මකා දැමිය නොහැකි විය</numerusform>
         </translation>
     </message>
     <message>
@@ -4446,9 +4446,9 @@
     </message>
     <message numerus="yes">
         <source>Applied to %n caption clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>උපසිරැසි ක්ලිප් %nකට යෙදුවා</numerusform>
+            <numerusform>උපසිරැසි ක්ලිප් %nකට යෙදුවා</numerusform>
         </translation>
     </message>
     <message>
@@ -4679,9 +4679,9 @@
     </message>
     <message numerus="yes">
         <source>Replaced with “%1”. %n clips were shortened to fit the new file.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>“%1” සමඟ ප්‍රතිස්ථාපනය කළා. නව ගොනුවට ගැළපීමට ක්ලිප් %nක් කෙටි කළා.</numerusform>
+            <numerusform>“%1” සමඟ ප්‍රතිස්ථාපනය කළා. නව ගොනුවට ගැළපීමට ක්ලිප් %nක් කෙටි කළා.</numerusform>
         </translation>
     </message>
     <message>
@@ -4718,23 +4718,23 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders — as many as one folder import takes. Import the remaining subfolders separately.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ෆෝල්ඩර %1කට ගොනු %nක් ආනයනය කළා — එක් වරකදී ෆෝල්ඩරයක් ආනයනය කිරීමේ සීමාව මෙයයි. ඉතිරි උපෆෝල්ඩර වෙන වෙනම ආනයනය කරන්න.</numerusform>
+            <numerusform>ෆෝල්ඩර %1කට ගොනු %nක් ආනයනය කළා — එක් වරකදී ෆෝල්ඩරයක් ආනයනය කිරීමේ සීමාව මෙයයි. ඉතිරි උපෆෝල්ඩර වෙන වෙනම ආනයනය කරන්න.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ෆෝල්ඩර %1කට ගොනු %nක් ආනයනය කළා. Drift ආකෘතිය හඳුනා නොගත් නිසා ගොනු %2ක් මඟ හැරුණා. උත්සාහ කිරීමට ඒවා මාධ්‍ය බඳුනට ඇද දමන්න.</numerusform>
+            <numerusform>ෆෝල්ඩර %1කට ගොනු %nක් ආනයනය කළා. Drift ආකෘතිය හඳුනා නොගත් නිසා ගොනු %2ක් මඟ හැරුණා. උත්සාහ කිරීමට ඒවා මාධ්‍ය බඳුනට ඇද දමන්න.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ෆෝල්ඩර %1කට ගොනු %nක් ආනයනය කළා.</numerusform>
+            <numerusform>ෆෝල්ඩර %1කට ගොනු %nක් ආනයනය කළා.</numerusform>
         </translation>
     </message>
     <message>
@@ -8803,9 +8803,9 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) may play back slowly. A proxy makes previewing smoother; export still uses the original.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ක්ලිප් %nක් මන්දගාමීව ධාවනය විය හැක. ප්‍රොක්සි පෙරදසුන සුමට කරයි; අපනයනයේදී මුල් ගොනුවම භාවිතා වේ.</numerusform>
+            <numerusform>ක්ලිප් %nක් මන්දගාමීව ධාවනය විය හැක. ප්‍රොක්සි පෙරදසුන සුමට කරයි; අපනයනයේදී මුල් ගොනුවම භාවිතා වේ.</numerusform>
         </translation>
     </message>
     <message>
@@ -8814,9 +8814,9 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) have a variable frame rate, which can drift out of sync with audio. Convert them to an edit-friendly format to fix it.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ක්ලිප් %nක විචල්‍ය රාමු අනුපාතයක් ඇති නිසා ශ්‍රව්‍යය සමඟ සමමුහුර්තතාව නැති විය හැක. සංස්කරණයට සුදුසු ආකෘතියකට පරිවර්තනය කරන්න.</numerusform>
+            <numerusform>ක්ලිප් %nක විචල්‍ය රාමු අනුපාතයක් ඇති නිසා ශ්‍රව්‍යය සමඟ සමමුහුර්තතාව නැති විය හැක. සංස්කරණයට සුදුසු ආකෘතියකට පරිවර්තනය කරන්න.</numerusform>
         </translation>
     </message>
     <message>
@@ -9040,9 +9040,9 @@
     </message>
     <message numerus="yes">
         <source>%n animation(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>සජීවිකරණ %nක්</numerusform>
+            <numerusform>සජීවිකරණ %nක්</numerusform>
         </translation>
     </message>
     <message>
@@ -9460,9 +9460,9 @@
     </message>
     <message numerus="yes">
         <source>Pasting from “%1” onto %n selected clip(s):</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>“%1” සිට තෝරාගත් ක්ලිප් %nකට අලවමින්:</numerusform>
+            <numerusform>“%1” සිට තෝරාගත් ක්ලිප් %nකට අලවමින්:</numerusform>
         </translation>
     </message>
     <message>
@@ -9491,9 +9491,9 @@
     </message>
     <message numerus="yes">
         <source>Video Effects (%n effect(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>වීඩියෝ ප්‍රයෝග (%n)</numerusform>
+            <numerusform>වීඩියෝ ප්‍රයෝග (%n)</numerusform>
         </translation>
     </message>
     <message>
@@ -9510,9 +9510,9 @@
     </message>
     <message numerus="yes">
         <source>Audio Effects (%n effect(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ශ්‍රව්‍ය ප්‍රයෝග (%n)</numerusform>
+            <numerusform>ශ්‍රව්‍ය ප්‍රයෝග (%n)</numerusform>
         </translation>
     </message>
     <message>
@@ -9525,9 +9525,9 @@
     </message>
     <message numerus="yes">
         <source>Transitions (%n transition(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>සංක්‍රාන්ති (%n)</numerusform>
+            <numerusform>සංක්‍රාන්ති (%n)</numerusform>
         </translation>
     </message>
     <message>
