@@ -13694,19 +13694,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>选择</translation>
     </message>
     <message>
         <source>Cut mode</source>
-        <translation type="unfinished"></translation>
+        <translation>剪切模式</translation>
     </message>
     <message>
         <source>Cut mode — click a clip to split it</source>
-        <translation type="unfinished"></translation>
+        <translation>剪切模式 — 点击片段即可将其拆分</translation>
     </message>
     <message>
         <source>Show audio on separate track</source>
-        <translation type="unfinished"></translation>
+        <translation>在单独的轨道上显示音频</translation>
     </message>
     <message>
         <source>Trim start</source>
@@ -13714,7 +13714,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Trim start — click a clip to drop everything left of the cut</source>
-        <translation type="unfinished"></translation>
+        <translation>修剪开头 — 点击片段以删除切点左侧的所有内容</translation>
     </message>
     <message>
         <source>Trim end</source>
@@ -13722,7 +13722,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Trim end — click a clip to drop everything right of the cut</source>
-        <translation type="unfinished"></translation>
+        <translation>修剪结尾 — 点击片段以删除切点右侧的所有内容</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -13734,7 +13734,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Delete clip</source>
-        <translation type="unfinished"></translation>
+        <translation>删除片段</translation>
     </message>
     <message>
         <source>Copy selection</source>
@@ -13746,7 +13746,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Duplicate clip</source>
-        <translation type="unfinished"></translation>
+        <translation>复制片段</translation>
     </message>
     <message>
         <source>Add/remove bookmark at current time</source>
@@ -13778,7 +13778,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Main</source>
-        <translation type="unfinished"></translation>
+        <translation>主轨道</translation>
     </message>
     <message>
         <source>Composite</source>
@@ -13786,23 +13786,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Switch between the main timeline and composite clips</source>
-        <translation type="unfinished"></translation>
+        <translation>在主时间轴和合成片段之间切换</translation>
     </message>
     <message>
         <source>No composite clips yet</source>
-        <translation type="unfinished"></translation>
+        <translation>尚无合成片段</translation>
     </message>
     <message>
         <source>Toggle audio mixer strip</source>
-        <translation type="unfinished"></translation>
+        <translation>切换音频混音器栏</translation>
     </message>
     <message>
         <source>Timeline overview — a minimap of the whole project; click or drag it to jump the view</source>
-        <translation type="unfinished"></translation>
+        <translation>时间轴概览 — 显示整个项目的缩略地图；点击或拖动即可跳转视图</translation>
     </message>
     <message>
         <source>Unlink video and audio</source>
-        <translation type="unfinished"></translation>
+        <translation>取消视频与音频链接</translation>
     </message>
     <message>
         <source>Merge adjacent clips</source>
@@ -13814,7 +13814,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>More edit actions</source>
-        <translation type="unfinished"></translation>
+        <translation>更多编辑操作</translation>
     </message>
     <message>
         <source>Add adjustment layer</source>
@@ -13822,11 +13822,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Customize toolbar…</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义工具栏…</translation>
     </message>
     <message>
         <source>Toggle snapping</source>
-        <translation type="unfinished"></translation>
+        <translation>切换吸附</translation>
     </message>
     <message>
         <source>Close gaps when trimming</source>
@@ -13842,15 +13842,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Timeline zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>时间轴缩放</translation>
     </message>
     <message>
         <source>Zoom %1×</source>
-        <translation type="unfinished"></translation>
+        <translation>缩放 %1×</translation>
     </message>
     <message>
         <source>Zoom level — click to reset to 1×. Ctrl+wheel over the timeline also zooms.</source>
-        <translation type="unfinished"></translation>
+        <translation>缩放级别 — 点击可重置为 1×。在时间轴上按住 Ctrl 并滚动滚轮也可缩放。</translation>
     </message>
     <message>
         <source>Zoom in</source>
@@ -13858,14 +13858,14 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Fit timeline in view</source>
-        <translation type="unfinished"></translation>
+        <translation>使时间轴适应视图</translation>
     </message>
 </context>
 <context>
     <name>TimelineToolbarCustomizeDialog</name>
     <message>
         <source>Customize timeline toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义时间轴工具栏</translation>
     </message>
     <message>
         <source>Save</source>
@@ -13873,11 +13873,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Drag items to reorder them. Items above the divider are toolbar buttons; the rest are in the More menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>拖动项目以重新排序。分隔线以上的是工具栏按钮，其余项目位于“更多”菜单中。</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation type="unfinished"></translation>
+        <translation>添加分隔符</translation>
     </message>
     <message>
         <source>Reset to defaults</source>
@@ -13885,23 +13885,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>More menu</source>
-        <translation type="unfinished"></translation>
+        <translation>更多菜单</translation>
     </message>
     <message>
         <source>— Separator —</source>
-        <translation type="unfinished"></translation>
+        <translation>— 分隔符 —</translation>
     </message>
     <message>
         <source>Move up</source>
-        <translation type="unfinished"></translation>
+        <translation>上移</translation>
     </message>
     <message>
         <source>Move down</source>
-        <translation type="unfinished"></translation>
+        <translation>下移</translation>
     </message>
     <message>
         <source>Remove separator</source>
-        <translation type="unfinished"></translation>
+        <translation>移除分隔符</translation>
     </message>
 </context>
 <context>
@@ -13912,7 +13912,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>蒙版</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -13935,18 +13935,18 @@ If playback stutters, try another.</source>
     <name>ToastHost</name>
     <message>
         <source>%1  (×%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1（×%2）</translation>
     </message>
     <message>
         <source>Dismiss</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭</translation>
     </message>
 </context>
 <context>
     <name>TrackHeaderColumn</name>
     <message>
         <source>Delete this track?</source>
-        <translation type="unfinished"></translation>
+        <translation>删除此轨道？</translation>
     </message>
     <message>
         <source>Delete track</source>
@@ -13961,15 +13961,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>This removes the empty track. You can undo afterwards.</source>
-        <translation type="unfinished"></translation>
+        <translation>这将移除空轨道。之后可以撤销。</translation>
     </message>
     <message>
         <source>Waveform</source>
-        <translation type="unfinished"></translation>
+        <translation>波形</translation>
     </message>
     <message>
         <source>Video + waveform</source>
-        <translation type="unfinished"></translation>
+        <translation>视频 + 波形</translation>
     </message>
     <message>
         <source>TF</source>
@@ -14025,35 +14025,35 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Everything below</source>
-        <translation type="unfinished"></translation>
+        <translation>以下全部</translation>
     </message>
     <message>
         <source>%1 only</source>
-        <translation type="unfinished"></translation>
+        <translation>仅 %1</translation>
     </message>
     <message>
         <source>%1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 至 %2</translation>
     </message>
     <message>
         <source>Stop recording</source>
-        <translation type="unfinished"></translation>
+        <translation>停止录制</translation>
     </message>
     <message>
         <source>Record voiceover</source>
-        <translation type="unfinished"></translation>
+        <translation>录制旁白</translation>
     </message>
     <message>
         <source>Record voiceover (mic)</source>
-        <translation type="unfinished"></translation>
+        <translation>录制旁白（麦克风）</translation>
     </message>
     <message>
         <source>Turn transform on</source>
-        <translation type="unfinished"></translation>
+        <translation>启用变换</translation>
     </message>
     <message>
         <source>Turn transform off</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭变换</translation>
     </message>
     <message>
         <source>Covers…</source>
@@ -14065,27 +14065,27 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Add transform layer above</source>
-        <translation type="unfinished"></translation>
+        <translation>在上方添加变换图层</translation>
     </message>
     <message>
         <source>Track height</source>
-        <translation type="unfinished"></translation>
+        <translation>轨道高度</translation>
     </message>
     <message>
         <source>Short</source>
-        <translation type="unfinished"></translation>
+        <translation>矮</translation>
     </message>
     <message>
         <source>Tall</source>
-        <translation type="unfinished"></translation>
+        <translation>高</translation>
     </message>
     <message>
         <source>Taller</source>
-        <translation type="unfinished"></translation>
+        <translation>更高</translation>
     </message>
     <message>
         <source>Scroll over the header to fine-tune</source>
-        <translation type="unfinished"></translation>
+        <translation>在标题栏上滚动以微调</translation>
     </message>
     <message>
         <source>Covers</source>
@@ -14097,31 +14097,31 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Drag the header to reorder this track</source>
-        <translation type="unfinished"></translation>
+        <translation>拖动标题栏以重新排列此轨道</translation>
     </message>
     <message>
         <source>Paused — click to finish recording</source>
-        <translation type="unfinished"></translation>
+        <translation>已暂停 — 点击以结束录制</translation>
     </message>
     <message>
         <source>Recording — click to finish recording</source>
-        <translation type="unfinished"></translation>
+        <translation>正在录制 — 点击以结束录制</translation>
     </message>
     <message>
         <source>Unmute track</source>
-        <translation type="unfinished"></translation>
+        <translation>取消轨道静音</translation>
     </message>
     <message>
         <source>Mute track</source>
-        <translation type="unfinished"></translation>
+        <translation>将轨道静音</translation>
     </message>
     <message>
         <source>Show one combined waveform</source>
-        <translation type="unfinished"></translation>
+        <translation>显示合并后的波形</translation>
     </message>
     <message>
         <source>Show each channel separately (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>分别显示每个声道（%1）</translation>
     </message>
     <message>
         <source>Show track</source>
@@ -14208,7 +14208,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>选择</translation>
     </message>
     <message>
         <source>Move to a time, set a value, then click the diamond to add a keyframe. With Auto keyframes on, dragging a slider or the preview also creates them.</source>
@@ -14375,15 +14375,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Everything below</source>
-        <translation type="unfinished"></translation>
+        <translation>以下全部</translation>
     </message>
     <message>
         <source>%1 only</source>
-        <translation type="unfinished"></translation>
+        <translation>仅 %1</translation>
     </message>
     <message>
         <source>%1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 至 %2</translation>
     </message>
     <message>
         <source>Moves, scales, turns and fades every track under it as one. Each clip keeps its own transform inside the group.</source>
