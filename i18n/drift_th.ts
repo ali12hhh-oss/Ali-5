@@ -52,7 +52,7 @@
     </message>
     <message>
         <source>“%1” and its downloaded data will be deleted. You can install it again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1” และข้อมูลที่ดาวน์โหลดไว้จะถูกลบ คุณสามารถติดตั้งใหม่ได้ภายหลัง</translation>
     </message>
     <message>
         <source>Import Effect</source>
@@ -72,19 +72,19 @@
     </message>
     <message>
         <source>“%1” by %2</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1” โดย %2</translation>
     </message>
     <message>
         <source>“%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1”</translation>
     </message>
     <message>
         <source>%1 was made by a user, not the Drift team, and nothing has checked it. Only install files you trust.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 สร้างโดยผู้ใช้ ไม่ใช่ทีม Drift และยังไม่มีการตรวจสอบ โปรดติดตั้งเฉพาะไฟล์ที่คุณเชื่อถือเท่านั้น</translation>
     </message>
     <message>
         <source>Could not install “%1”: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้ง “%1” ไม่ได้: %2</translation>
     </message>
     <message>
         <source>Installed “%1”</source>
@@ -172,11 +172,11 @@
     </message>
     <message>
         <source>%1 → %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 → %2</translation>
     </message>
     <message>
         <source>%1… %2%</source>
-        <translation type="unfinished"></translation>
+        <translation>%1… %2%</translation>
     </message>
     <message>
         <source>Requires Drift %1 or newer</source>
@@ -184,11 +184,11 @@
     </message>
     <message>
         <source>%1 download</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลด %1 รายการ</translation>
     </message>
     <message>
         <source>%1 items</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 รายการ</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -227,7 +227,7 @@
     </message>
     <message>
         <source>%1… %2%</source>
-        <translation type="unfinished"></translation>
+        <translation>%1… %2%</translation>
     </message>
     <message>
         <source>Don&apos;t remind me of essential addons</source>
@@ -239,7 +239,7 @@
     </message>
     <message>
         <source>%1 → %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 → %2</translation>
     </message>
     <message>
         <source>Don&apos;t remind me of future addon updates</source>
@@ -247,11 +247,11 @@
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>ซ่อน</translation>
     </message>
     <message>
         <source>Later</source>
-        <translation type="unfinished"></translation>
+        <translation>ภายหลัง</translation>
     </message>
     <message>
         <source>Installing…</source>
@@ -263,7 +263,7 @@
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดต</translation>
     </message>
     <message>
         <source>Update all</source>
@@ -271,7 +271,7 @@
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้ง</translation>
     </message>
     <message>
         <source>Install all</source>
@@ -290,7 +290,7 @@
     </message>
     <message>
         <source>Turn this on, then copy the setup for Cursor or Claude and paste it into that app.</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดตัวเลือกนี้ จากนั้นคัดลอกการตั้งค่าสำหรับ Cursor หรือ Claude แล้ววางลงในแอปนั้น</translation>
     </message>
     <message>
         <source>Access is on</source>
@@ -298,7 +298,7 @@
     </message>
     <message>
         <source>Listening on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังรับฟังที่ %1</translation>
     </message>
     <message>
         <source>New key</source>
@@ -314,7 +314,7 @@
     </message>
     <message>
         <source>Copy the setup for the assistant you use. You only need one.</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกการตั้งค่าสำหรับผู้ช่วยที่คุณใช้ เพียงชุดเดียวก็พอ</translation>
     </message>
     <message>
         <source>Copy for Cursor</source>
@@ -322,11 +322,11 @@
     </message>
     <message>
         <source>Copy a setup snippet to paste into Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกชุดการตั้งค่าไปวางใน Cursor</translation>
     </message>
     <message>
         <source>Copied for Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกสำหรับ Cursor แล้ว</translation>
     </message>
     <message>
         <source>Copy for Claude</source>
@@ -334,27 +334,27 @@
     </message>
     <message>
         <source>Copy a command to paste into Claude Code</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกคำสั่งไปวางใน Claude Code</translation>
     </message>
     <message>
         <source>Copied for Claude</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกสำหรับ Claude แล้ว</translation>
     </message>
     <message>
         <source>Paste that into the assistant. To help it use this editor, copy the how-to next and paste it into the chat.</source>
-        <translation type="unfinished"></translation>
+        <translation>วางข้อความนั้นในผู้ช่วย หากต้องการให้ผู้ช่วยใช้โปรแกรมตัดต่อนี้ได้ ให้คัดลอกคู่มือในขั้นถัดไปแล้ววางในแชต</translation>
     </message>
     <message>
         <source>Copy a how-to for the agent</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกคู่มือสำหรับเอเจนต์</translation>
     </message>
     <message>
         <source>A short list of what the agent can do here — paste it into the chat</source>
-        <translation type="unfinished"></translation>
+        <translation>รายการสั้น ๆ ของสิ่งที่เอเจนต์ทำได้ที่นี่ ให้คัดลอกไปวางในแชต</translation>
     </message>
     <message>
         <source>Copied how-to</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกคู่มือแล้ว</translation>
     </message>
     <message>
         <source>More options</source>
@@ -362,27 +362,27 @@
     </message>
     <message>
         <source>For a different assistant, copy a one-time setup. The address and key are already in the Cursor and Claude copies above.</source>
-        <translation type="unfinished"></translation>
+        <translation>หากใช้ผู้ช่วยอื่น ให้คัดลอกการตั้งค่าแบบใช้ครั้งเดียว ที่อยู่และคีย์มีอยู่ในชุดสำหรับ Cursor และ Claude ด้านบนแล้ว</translation>
     </message>
     <message>
         <source>Copy one-time setup</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกการตั้งค่าแบบใช้ครั้งเดียว</translation>
     </message>
     <message>
         <source>Add this once to the assistant’s config. Access still has to be turned on here.</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มรายการนี้ในไฟล์ตั้งค่าของผู้ช่วยเพียงครั้งเดียว แต่ยังต้องเปิดสิทธิ์เข้าถึงที่นี่</translation>
     </message>
     <message>
         <source>Copied one-time setup</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกการตั้งค่าแบบใช้ครั้งเดียวแล้ว</translation>
     </message>
     <message>
         <source>Start agent on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>เริ่มเอเจนต์เมื่อเปิดแอป</translation>
     </message>
     <message>
         <source>Skip the manual toggle next time you open Drift. Turning access off resets this.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่ต้องเปิดสวิตช์ด้วยตนเองเมื่อเปิด Drift ครั้งถัดไป การปิดสิทธิ์เข้าถึงจะรีเซ็ตตัวเลือกนี้</translation>
     </message>
     <message>
         <source>Let Cursor or Claude edit this project for you — add clips, change the timeline, and check how it looks. Only programs on this device. Off by default each time you open Drift, unless you turn on “Start agent on startup” below; turn it off here when you finish. The key stays the same between sessions, so a setup you pasted once keeps working.</source>
@@ -393,7 +393,7 @@
     <name>AgentAccessDialog</name>
     <message>
         <source>Agent access</source>
-        <translation type="unfinished"></translation>
+        <translation>สิทธิ์เข้าถึงของเอเจนต์</translation>
     </message>
     <message>
         <source>Close</source>
@@ -404,7 +404,7 @@
     <name>AndroidAddMenu</name>
     <message>
         <source>Add to timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มลงในไทม์ไลน์</translation>
     </message>
     <message>
         <source>Media</source>
@@ -412,7 +412,7 @@
     </message>
     <message>
         <source>Video, photos and audio from this device</source>
-        <translation type="unfinished"></translation>
+        <translation>วิดีโอ รูปภาพ และเสียงจากอุปกรณ์นี้</translation>
     </message>
     <message>
         <source>Market</source>
@@ -420,7 +420,7 @@
     </message>
     <message>
         <source>Stock photos, video and audio</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปภาพ วิดีโอ และเสียงสต็อก</translation>
     </message>
     <message>
         <source>Text</source>
@@ -428,15 +428,15 @@
     </message>
     <message>
         <source>A title or caption you type</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อเรื่องหรือคำบรรยายที่คุณพิมพ์</translation>
     </message>
     <message>
         <source>Subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>คำบรรยาย</translation>
     </message>
     <message>
         <source>Captions, generated or imported</source>
-        <translation type="unfinished"></translation>
+        <translation>คำบรรยายที่สร้างขึ้นหรือนำเข้า</translation>
     </message>
     <message>
         <source>Stickers</source>
@@ -444,15 +444,15 @@
     </message>
     <message>
         <source>Emoji and sticker graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>กราฟิกอีโมจิและสติกเกอร์</translation>
     </message>
     <message>
         <source>Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปร่าง</translation>
     </message>
     <message>
         <source>Boxes, circles and lines</source>
-        <translation type="unfinished"></translation>
+        <translation>สี่เหลี่ยม วงกลม และเส้น</translation>
     </message>
     <message>
         <source>Effect templates</source>
@@ -491,7 +491,7 @@
     <name>AndroidBottomRail</name>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไข</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -499,7 +499,7 @@
     </message>
     <message>
         <source>Audio FX</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์เสียง</translation>
     </message>
     <message>
         <source>Transitions</source>
@@ -511,14 +511,14 @@
     </message>
     <message>
         <source>Add to timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มลงในไทม์ไลน์</translation>
     </message>
 </context>
 <context>
     <name>AndroidBottomSheet</name>
     <message>
         <source>Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>ชีต</translation>
     </message>
     <message>
         <source>Close</source>
@@ -588,7 +588,7 @@
     <name>AndroidCropOverlay</name>
     <message>
         <source>Drag the edges to reframe · pinch to zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากขอบเพื่อจัดกรอบใหม่ · จีบนิ้วเพื่อซูม</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -666,7 +666,7 @@
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไข</translation>
     </message>
     <message>
         <source>Done</source>
@@ -822,7 +822,7 @@
     </message>
     <message>
         <source>Add to timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มลงในไทม์ไลน์</translation>
     </message>
     <message>
         <source>Keep browsing</source>
@@ -945,7 +945,7 @@
     </message>
     <message>
         <source>Extras</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่วนเสริม</translation>
     </message>
     <message>
         <source>Update available</source>
@@ -2158,7 +2158,7 @@
     </message>
     <message>
         <source>Subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>คำบรรยาย</translation>
     </message>
     <message>
         <source>Subtitle clip added</source>
@@ -2218,7 +2218,7 @@
     </message>
     <message>
         <source>Starting…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังเริ่ม…</translation>
     </message>
     <message>
         <source>Done</source>
@@ -4732,7 +4732,7 @@
     </message>
     <message>
         <source>Subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>คำบรรยาย</translation>
     </message>
     <message>
         <source>Stickers</source>
@@ -4740,7 +4740,7 @@
     </message>
     <message>
         <source>Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปร่าง</translation>
     </message>
     <message>
         <source>Scenes</source>
@@ -4764,7 +4764,7 @@
     </message>
     <message>
         <source>Audio FX</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์เสียง</translation>
     </message>
     <message>
         <source>Shortcuts</source>
@@ -6118,11 +6118,11 @@
     </message>
     <message>
         <source>Extras</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่วนเสริม</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดต</translation>
     </message>
     <message>
         <source>Drift %1 is available</source>
@@ -6130,7 +6130,7 @@
     </message>
     <message>
         <source>Agent access</source>
-        <translation type="unfinished"></translation>
+        <translation>สิทธิ์เข้าถึงของเอเจนต์</translation>
     </message>
     <message>
         <source>Export in progress (%1%) — click to view</source>
@@ -8153,7 +8153,7 @@
     </message>
     <message>
         <source>Starting…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังเริ่ม…</translation>
     </message>
     <message>
         <source>Preparing…</source>
@@ -8711,7 +8711,7 @@
     </message>
     <message>
         <source>Add to timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มลงในไทม์ไลน์</translation>
     </message>
     <message numerus="yes">
         <source>Move %n items to folder…</source>
@@ -8967,7 +8967,7 @@
     </message>
     <message>
         <source>%1… %2%</source>
-        <translation type="unfinished"></translation>
+        <translation>%1… %2%</translation>
     </message>
     <message>
         <source>used version %1</source>
@@ -8975,7 +8975,7 @@
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้ง</translation>
     </message>
     <message>
         <source>Reopen the project once they finish installing.</source>
@@ -9052,7 +9052,7 @@
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>ซ่อน</translation>
     </message>
     <message>
         <source>What plays once the animation has run its length</source>
@@ -10030,7 +10030,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>คำบรรยาย</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -10066,7 +10066,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Audio FX</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์เสียง</translation>
     </message>
     <message>
         <source>Transition</source>
@@ -11187,7 +11187,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Agent access</source>
-        <translation type="unfinished"></translation>
+        <translation>สิทธิ์เข้าถึงของเอเจนต์</translation>
     </message>
     <message>
         <source>Cloud providers</source>
@@ -12269,7 +12269,7 @@ If playback stutters, try another.</source>
     <name>SubtitleCue</name>
     <message>
         <source>Subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>คำบรรยาย</translation>
     </message>
     <message>
         <source>Subtitles (%1)</source>
@@ -12280,7 +12280,7 @@ If playback stutters, try another.</source>
     <name>SubtitleCueLane</name>
     <message>
         <source>Subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>คำบรรยาย</translation>
     </message>
     <message numerus="yes">
         <source>%n captions</source>
@@ -12297,7 +12297,7 @@ If playback stutters, try another.</source>
     <name>SubtitleEditor</name>
     <message>
         <source>Subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>คำบรรยาย</translation>
     </message>
     <message>
         <source>%1 captions</source>
@@ -13906,7 +13906,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>คำบรรยาย</translation>
     </message>
     <message>
         <source>%1, track %2</source>
@@ -14668,7 +14668,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Later</source>
-        <translation type="unfinished"></translation>
+        <translation>ภายหลัง</translation>
     </message>
     <message>
         <source>Download</source>
@@ -14814,7 +14814,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>ซ่อน</translation>
     </message>
     <message>
         <source>What plays once the animation has run its length</source>
