@@ -3601,7 +3601,7 @@
     </message>
     <message>
         <source>Stabilization analysis failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabigo ang stabilization analysis.</translation>
     </message>
     <message>
         <source>Stabilization analysis failed: %1</source>
@@ -3625,63 +3625,63 @@
     </message>
     <message>
         <source>That goes on a video, image, shape or text clip.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilagay ito sa video, image, shape o text clip.</translation>
     </message>
     <message>
         <source>Drop that onto a clip to apply it.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drop ito sa clip para ilapat.</translation>
     </message>
     <message>
         <source>Add to new track</source>
-        <translation type="unfinished"></translation>
+        <translation>Idagdag sa bagong track</translation>
     </message>
     <message>
         <source>Move clip in 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilipat ang clip sa 3D</translation>
     </message>
     <message>
         <source>Rotate clip in 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>I-rotate ang clip sa 3D</translation>
     </message>
     <message>
         <source>Scale clip</source>
-        <translation type="unfinished"></translation>
+        <translation>I-scale ang clip</translation>
     </message>
     <message>
         <source>Audio effects go on the timeline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilagay ang audio effect sa timeline.</translation>
     </message>
     <message>
         <source>Audio goes on the timeline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilagay ang audio sa timeline.</translation>
     </message>
     <message>
         <source>Drop that onto a clip in the preview.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drop ito sa clip sa preview.</translation>
     </message>
     <message>
         <source>Add to preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Idagdag sa preview</translation>
     </message>
     <message>
         <source>Enable 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>I-enable ang 3D</translation>
     </message>
     <message>
         <source>Disable 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>I-disable ang 3D</translation>
     </message>
     <message>
         <source>Clip is a 3D layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang clip ay 3D layer</translation>
     </message>
     <message>
         <source>Clip is flat</source>
-        <translation type="unfinished"></translation>
+        <translation>Flat ang clip</translation>
     </message>
     <message>
         <source>Subtitles converted to text</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-convert ang subtitles bilang text</translation>
     </message>
     <message numerus="yes">
         <source>Created %n text clips</source>
@@ -3692,23 +3692,23 @@
     </message>
     <message>
         <source>Text converted to subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-convert ang text bilang subtitles</translation>
     </message>
     <message>
         <source>Add transform layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng transform layer</translation>
     </message>
     <message>
         <source>Transform layer added</source>
-        <translation type="unfinished"></translation>
+        <translation>Naidagdag ang transform layer</translation>
     </message>
     <message>
         <source>Add transform clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng transform clip</translation>
     </message>
     <message>
         <source>Transform clip added</source>
-        <translation type="unfinished"></translation>
+        <translation>Naidagdag ang transform clip</translation>
     </message>
     <message>
         <source>Transform together</source>
@@ -3716,7 +3716,7 @@
     </message>
     <message>
         <source>Change transform span</source>
-        <translation type="unfinished"></translation>
+        <translation>Baguhin ang transform span</translation>
     </message>
     <message numerus="yes">
         <source>Transform layer now covers %n track(s)</source>
@@ -3727,63 +3727,63 @@
     </message>
     <message>
         <source>Transition added</source>
-        <translation type="unfinished"></translation>
+        <translation>Naidagdag ang transition</translation>
     </message>
     <message>
         <source>Remove transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang transition</translation>
     </message>
     <message>
         <source>Transition removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Inalis ang transition</translation>
     </message>
     <message>
         <source>Transition duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Tagal ng transition</translation>
     </message>
     <message>
         <source>Transition duration updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang tagal ng transition</translation>
     </message>
     <message>
         <source>Transition kind</source>
-        <translation type="unfinished"></translation>
+        <translation>Uri ng transition</translation>
     </message>
     <message>
         <source>Transition kind updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang uri ng transition</translation>
     </message>
     <message>
         <source>Edit transition</source>
-        <translation type="unfinished"></translation>
+        <translation>I-edit ang transition</translation>
     </message>
     <message>
         <source>Add keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng keyframe</translation>
     </message>
     <message>
         <source>Keyframe set</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-set ang keyframe</translation>
     </message>
     <message>
         <source>Remove keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang keyframe</translation>
     </message>
     <message>
         <source>Keyframe removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Naalis ang keyframe</translation>
     </message>
     <message>
         <source>Move keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilipat ang keyframe</translation>
     </message>
     <message>
         <source>Enable keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>I-enable ang keyframe</translation>
     </message>
     <message>
         <source>Disable keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>I-disable ang keyframe</translation>
     </message>
     <message>
         <source>Keyframes enabled</source>
@@ -7717,7 +7717,7 @@
     </message>
     <message>
         <source>Move keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilipat ang keyframe</translation>
     </message>
     <message>
         <source>Edit keyframe curve</source>
@@ -13435,7 +13435,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Add transform layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng transform layer</translation>
     </message>
     <message>
         <source>Select transform layer</source>
@@ -13785,7 +13785,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Add transform layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng transform layer</translation>
     </message>
     <message>
         <source>Add transform layer — moves the selected clips&apos; tracks as one</source>
@@ -14263,7 +14263,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Scale clip</source>
-        <translation type="unfinished"></translation>
+        <translation>I-scale ang clip</translation>
     </message>
     <message>
         <source>Opacity &amp; rotation</source>
@@ -14571,11 +14571,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Edit transition</source>
-        <translation type="unfinished"></translation>
+        <translation>I-edit ang transition</translation>
     </message>
     <message>
         <source>Remove transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang transition</translation>
     </message>
 </context>
 <context>
