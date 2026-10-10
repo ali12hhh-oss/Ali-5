@@ -7383,30 +7383,30 @@
     </message>
     <message>
         <source>OKLab</source>
-        <translation type="unfinished"></translation>
+        <translation>OKLab</translation>
     </message>
     <message>
         <source>Blend stops in OKLab for even, muddy-free transitions</source>
-        <translation type="unfinished"></translation>
+        <translation>ผสมจุดสีใน OKLab เพื่อให้การเปลี่ยนสีสม่ำเสมอและไม่หม่น</translation>
     </message>
     <message>
         <source>Stop colour</source>
-        <translation type="unfinished"></translation>
+        <translation>สีของจุดสี</translation>
     </message>
 </context>
 <context>
     <name>GuideEditOverlay</name>
     <message>
         <source>Release to remove</source>
-        <translation type="unfinished"></translation>
+        <translation>ปล่อยเพื่อเอาออก</translation>
     </message>
     <message>
         <source>Editing %1</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังแก้ไข %1</translation>
     </message>
     <message>
         <source>Drag from the top or left edge to add a guide, off the canvas to remove one. Shift steps by 1%.</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากจากขอบด้านบนหรือด้านซ้ายเพื่อเพิ่มเส้นไกด์ ลากออกนอกผืนงานเพื่อลบ กด Shift เพื่อขยับครั้งละ 1%</translation>
     </message>
     <message>
         <source>Done</source>
@@ -7417,82 +7417,82 @@
     <name>GuideSet</name>
     <message>
         <source>Rule of thirds</source>
-        <translation type="unfinished"></translation>
+        <translation>กฎสามส่วน</translation>
     </message>
     <message>
         <source>Center cross</source>
-        <translation type="unfinished"></translation>
+        <translation>กากบาทตรงกลาง</translation>
     </message>
     <message>
         <source>Safe margins</source>
-        <translation type="unfinished"></translation>
+        <translation>ระยะขอบปลอดภัย</translation>
     </message>
     <message>
         <source>9:16 frame</source>
-        <translation type="unfinished"></translation>
+        <translation>กรอบ 9:16</translation>
     </message>
     <message>
         <source>4:5 frame</source>
-        <translation type="unfinished"></translation>
+        <translation>กรอบ 4:5</translation>
     </message>
     <message>
         <source>1:1 frame</source>
-        <translation type="unfinished"></translation>
+        <translation>กรอบ 1:1</translation>
     </message>
 </context>
 <context>
     <name>GuidesPopover</name>
     <message>
         <source>Vertical line</source>
-        <translation type="unfinished"></translation>
+        <translation>เส้นแนวตั้ง</translation>
     </message>
     <message>
         <source>Horizontal line</source>
-        <translation type="unfinished"></translation>
+        <translation>เส้นแนวนอน</translation>
     </message>
     <message>
         <source>Margins</source>
-        <translation type="unfinished"></translation>
+        <translation>ระยะขอบ</translation>
     </message>
     <message>
         <source>Aspect frame</source>
-        <translation type="unfinished"></translation>
+        <translation>กรอบอัตราส่วนภาพ</translation>
     </message>
     <message>
         <source>Unlock so it can be dragged on the preview</source>
-        <translation type="unfinished"></translation>
+        <translation>ปลดล็อกเพื่อให้ลากบนหน้าตัวอย่างได้</translation>
     </message>
     <message>
         <source>Lock so it cannot be dragged on the preview</source>
-        <translation type="unfinished"></translation>
+        <translation>ล็อกเพื่อไม่ให้ลากบนหน้าตัวอย่างได้</translation>
     </message>
     <message>
         <source>Remove guide</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบเส้นไกด์</translation>
     </message>
     <message>
         <source>From left</source>
-        <translation type="unfinished"></translation>
+        <translation>จากด้านซ้าย</translation>
     </message>
     <message>
         <source>From top</source>
-        <translation type="unfinished"></translation>
+        <translation>จากด้านบน</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>ซ้าย</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>ขวา</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>บน</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>ล่าง</translation>
     </message>
     <message>
         <source>Guide colour</source>
