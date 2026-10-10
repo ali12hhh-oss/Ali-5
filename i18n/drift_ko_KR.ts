@@ -3680,9 +3680,9 @@
     </message>
     <message numerus="yes">
         <source>Created %n text clips</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>텍스트 클립 %n개를 만들었습니다</numerusform>
+            <numerusform>텍스트 클립 %n개를 만들었습니다</numerusform>
         </translation>
     </message>
     <message>
@@ -3893,9 +3893,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>얼굴 소품 %n개를 가져왔습니다</numerusform>
+            <numerusform>얼굴 소품 %n개를 가져왔습니다</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -4022,9 +4022,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted attributes onto %n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>클립 %n개에 속성을 붙여넣었습니다</numerusform>
+            <numerusform>클립 %n개에 속성을 붙여넣었습니다</numerusform>
         </translation>
     </message>
     <message>
@@ -4189,9 +4189,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted %n clips</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>클립 %n개를 붙여넣었습니다</numerusform>
+            <numerusform>클립 %n개를 붙여넣었습니다</numerusform>
         </translation>
     </message>
     <message>
@@ -8683,9 +8683,9 @@
     </message>
     <message numerus="yes">
         <source>Move %n items to folder…</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>항목 %n개를 폴더로 이동…</numerusform>
+            <numerusform>항목 %n개를 폴더로 이동…</numerusform>
         </translation>
     </message>
     <message>
@@ -13885,9 +13885,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>This removes the track and its %n clips. You can undo afterwards.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>트랙과 클립 %n개가 제거됩니다. 나중에 실행 취소할 수 있습니다.</numerusform>
+            <numerusform>트랙과 클립 %n개가 제거됩니다. 나중에 실행 취소할 수 있습니다.</numerusform>
         </translation>
     </message>
     <message>
