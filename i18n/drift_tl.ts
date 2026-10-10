@@ -4402,47 +4402,47 @@
     </message>
     <message>
         <source>By word</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayon sa salita</translation>
     </message>
     <message>
         <source>Kinetic</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinetic</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Light</translation>
     </message>
     <message>
         <source>Colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Kulay</translation>
     </message>
     <message>
         <source>Hold</source>
-        <translation type="unfinished"></translation>
+        <translation>I-hold</translation>
     </message>
     <message>
         <source>Imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-import</translation>
     </message>
     <message>
         <source>Apply text look</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilapat ang text look</translation>
     </message>
     <message>
         <source>Look applied</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-apply ang look</translation>
     </message>
     <message>
         <source>Adjust text look</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayusin ang text look</translation>
     </message>
     <message>
         <source>Look updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang look</translation>
     </message>
     <message>
         <source>Apply caption style</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilapat ang caption style</translation>
     </message>
     <message numerus="yes">
         <source>Applied to %n caption clip(s)</source>
@@ -4453,91 +4453,91 @@
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Pula</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Berde</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Asul</translation>
     </message>
     <message>
         <source>Alpha</source>
-        <translation type="unfinished"></translation>
+        <translation>Alpha</translation>
     </message>
     <message>
         <source>Could not unpack the bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-unpack ang bundle</translation>
     </message>
     <message>
         <source>Could not read %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabasa ang %1</translation>
     </message>
     <message>
         <source>Nothing to import</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang mai-import</translation>
     </message>
     <message>
         <source>Could not save the preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-save ang preset</translation>
     </message>
     <message>
         <source>Nudge selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Bahagyang ilipat ang napili</translation>
     </message>
     <message>
         <source>Selection nudged</source>
-        <translation type="unfinished"></translation>
+        <translation>Bahagyang nailipat ang napili</translation>
     </message>
     <message>
         <source>That save location isn’t valid</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi wasto ang lokasyon ng pag-save</translation>
     </message>
     <message>
         <source>Already saving</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagse-save na</translation>
     </message>
     <message>
         <source>Project saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-save ang proyekto</translation>
     </message>
     <message>
         <source>Shareable copy ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Handa na ang kopyang maibabahagi</translation>
     </message>
     <message>
         <source>That project location isn’t valid</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi wasto ang lokasyon ng proyekto</translation>
     </message>
     <message>
         <source>Project loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-load ang proyekto</translation>
     </message>
     <message>
         <source>Unpacking project media…</source>
-        <translation type="unfinished"></translation>
+        <translation>Inuuna-pack ang media ng proyekto…</translation>
     </message>
     <message>
         <source>No recovery file found</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang nakitang recovery file</translation>
     </message>
     <message>
         <source>Recovered unsaved work</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-recover ang hindi na-save na trabaho</translation>
     </message>
     <message>
         <source>Started new session</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagsimula ng bagong session</translation>
     </message>
     <message>
         <source>Export already in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>May kasalukuyang export na</translation>
     </message>
     <message>
         <source>Export complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Kumpleto na ang export</translation>
     </message>
     <message>
         <source>Close gap</source>
@@ -4545,11 +4545,11 @@
     </message>
     <message>
         <source>Folder created</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagawa ang folder</translation>
     </message>
     <message>
         <source>Folder renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinalitan ang pangalan ng folder</translation>
     </message>
     <message>
         <source>Folder deleted</source>
@@ -6120,7 +6120,7 @@
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Light</translation>
     </message>
     <message>
         <source>Dark</source>
@@ -6180,7 +6180,7 @@
     </message>
     <message>
         <source>Export already in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>May kasalukuyang export na</translation>
     </message>
     <message>
         <source>Multicam</source>
@@ -9389,7 +9389,7 @@
     </message>
     <message>
         <source>Colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Kulay</translation>
     </message>
     <message>
         <source>Choose the paint colour</source>
@@ -11493,7 +11493,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Kulay</translation>
     </message>
     <message>
         <source>Choose the layer colour</source>
@@ -12660,7 +12660,7 @@ If playback stutters, try another.</source>
     <name>TextInspector</name>
     <message>
         <source>Colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Kulay</translation>
     </message>
     <message>
         <source>Choose the gradient&apos;s first colour</source>
@@ -12852,7 +12852,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Adjust text look</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayusin ang text look</translation>
     </message>
     <message>
         <source>Layers</source>
@@ -13261,19 +13261,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Pula</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Berde</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Asul</translation>
     </message>
     <message>
         <source>Alpha</source>
-        <translation type="unfinished"></translation>
+        <translation>Alpha</translation>
     </message>
     <message>
         <source>Gradient angle</source>
