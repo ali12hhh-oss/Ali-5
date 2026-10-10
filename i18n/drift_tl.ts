@@ -2559,11 +2559,11 @@
     </message>
     <message>
         <source>Already looking for scenes</source>
-        <translation type="unfinished"></translation>
+        <translation>Hinahanap na ang mga eksena</translation>
     </message>
     <message>
         <source>Select a video clip to find scenes in</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng video clip para hanapan ng mga eksena</translation>
     </message>
     <message numerus="yes">
         <source>Found %n scene(s)</source>
@@ -2574,23 +2574,23 @@
     </message>
     <message>
         <source>Looking for scenes…</source>
-        <translation type="unfinished"></translation>
+        <translation>Hinahanap ang mga eksena…</translation>
     </message>
     <message>
         <source>Scene detection cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinansela ang pagtukoy ng mga eksena</translation>
     </message>
     <message>
         <source>Removing noise…</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaalis ang ingay…</translation>
     </message>
     <message>
         <source>Could not create an output file</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi makagawa ng output file</translation>
     </message>
     <message>
         <source>Media and referenced clips removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Inalis ang media at mga clip na naka-reference</translation>
     </message>
     <message numerus="yes">
         <source>%n media items and referenced clips removed</source>
@@ -2601,43 +2601,43 @@
     </message>
     <message>
         <source>Media and referenced clip removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Inalis ang media at ang naka-reference na clip</translation>
     </message>
     <message>
         <source>Your graphics driver is too old for the preview, which needs OpenGL 3.3. See Help → Debug info.</source>
-        <translation type="unfinished"></translation>
+        <translation>Masyadong luma ang graphics driver para sa preview, na nangangailangan ng OpenGL 3.3. Tingnan ang Help → Debug info.</translation>
     </message>
     <message>
         <source>Could not create a proxy for %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi makagawa ng proxy para sa %1: %2</translation>
     </message>
     <message>
         <source>Your graphics driver only provides %1; the preview needs OpenGL 3.3. See Help → Debug info.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 lang ang ibinibigay ng graphics driver; kailangan ng preview ang OpenGL 3.3. Tingnan ang Help → Debug info.</translation>
     </message>
     <message>
         <source>GPU preview rendering is unavailable on this machine. See Help → Debug info.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi available ang GPU preview rendering sa makinang ito. Tingnan ang Help → Debug info.</translation>
     </message>
     <message>
         <source>Media rotated</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniikot ang media</translation>
     </message>
     <message>
         <source>An edit is already saving</source>
-        <translation type="unfinished"></translation>
+        <translation>May ini-save nang pag-edit</translation>
     </message>
     <message>
         <source>Could not open the media file</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabuksan ang media file</translation>
     </message>
     <message>
         <source>Media trimmed</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-trim ang media</translation>
     </message>
     <message>
         <source>Trim saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-save ang trim</translation>
     </message>
     <message>
         <source>Saving…</source>
@@ -2645,31 +2645,31 @@
     </message>
     <message>
         <source>Converting…</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagko-convert…</translation>
     </message>
     <message>
         <source>Saving media…</source>
-        <translation type="unfinished"></translation>
+        <translation>Sine-save ang media…</translation>
     </message>
     <message>
         <source>Couldn’t save that edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi na-save ang pag-edit na iyon</translation>
     </message>
     <message>
         <source>Updating the library…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ina-update ang library…</translation>
     </message>
     <message>
         <source>Couldn’t update the library</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi na-update ang library</translation>
     </message>
     <message>
         <source>Media edited</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-edit ang media</translation>
     </message>
     <message>
         <source>Save project as…</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save ang proyekto bilang…</translation>
     </message>
     <message>
         <source>Paste attributes…</source>
@@ -2677,55 +2677,55 @@
     </message>
     <message>
         <source>Go to previous cut point</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumunta sa nakaraang cut point</translation>
     </message>
     <message>
         <source>Go to next cut point</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumunta sa susunod na cut point</translation>
     </message>
     <message>
         <source>Step back one frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Bumalik nang isang frame</translation>
     </message>
     <message>
         <source>Step forward one frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Sumulong nang isang frame</translation>
     </message>
     <message>
         <source>Jump back 1 second</source>
-        <translation type="unfinished"></translation>
+        <translation>Bumalik nang 1 segundo</translation>
     </message>
     <message>
         <source>Jump forward 1 second</source>
-        <translation type="unfinished"></translation>
+        <translation>Sumulong nang 1 segundo</translation>
     </message>
     <message>
         <source>Jump back 10 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Bumalik nang 10 segundo</translation>
     </message>
     <message>
         <source>Jump forward 10 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Sumulong nang 10 segundo</translation>
     </message>
     <message>
         <source>Go to start of timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumunta sa simula ng timeline</translation>
     </message>
     <message>
         <source>Delete left of the playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>Burahin ang nasa kaliwa ng playhead</translation>
     </message>
     <message>
         <source>Delete right of the playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>Burahin ang nasa kanan ng playhead</translation>
     </message>
     <message>
         <source>Increase playback speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Pataasin ang bilis ng playback</translation>
     </message>
     <message>
         <source>Decrease playback speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Pababain ang bilis ng playback</translation>
     </message>
     <message>
         <source>Zoom in</source>
@@ -2737,163 +2737,163 @@
     </message>
     <message>
         <source>The graphics card choice takes effect after you restart Drift.</source>
-        <translation type="unfinished"></translation>
+        <translation>Magkakabisa ang pagpili ng graphics card pagkatapos i-restart ang Drift.</translation>
     </message>
     <message>
         <source>No audio track available for recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang available na audio track para sa pag-record</translation>
     </message>
     <message>
         <source>Failed to create audio recording file</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi nakagawa ng audio recording file</translation>
     </message>
     <message>
         <source>Failed to start audio recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi nasimulan ang pag-record ng audio</translation>
     </message>
     <message>
         <source>Recording audio…</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagre-record ng audio…</translation>
     </message>
     <message>
         <source>Audio recording cancelled (too short)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinansela ang recording (masyadong maikli)</translation>
     </message>
     <message>
         <source>Voiceover %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Voiceover %1</translation>
     </message>
     <message>
         <source>Record audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-record ng audio</translation>
     </message>
     <message>
         <source>Recorded voiceover</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-record ang voiceover</translation>
     </message>
     <message>
         <source>Voiceover recorded</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-record na ang voiceover</translation>
     </message>
     <message>
         <source>Recording cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinansela ang recording</translation>
     </message>
     <message>
         <source>Clips moved</source>
-        <translation type="unfinished"></translation>
+        <translation>Inilipat ang mga clip</translation>
     </message>
     <message>
         <source>Select video or audio clips to create captions</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng mga video o audio clip para gumawa ng caption</translation>
     </message>
     <message>
         <source>The caption range is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang laman ang saklaw ng caption</translation>
     </message>
     <message>
         <source>No video or audio clips in that range</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang video o audio clip sa saklaw na iyon</translation>
     </message>
     <message>
         <source>One of these clips has no sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang tunog ang isa sa mga clip na ito</translation>
     </message>
     <message>
         <source>These clips overlap in time — caption them separately</source>
-        <translation type="unfinished"></translation>
+        <translation>Magkakapatong sa oras ang mga clip na ito — lagyan sila ng caption nang magkahiwalay</translation>
     </message>
     <message>
         <source>Transition curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Transition curve</translation>
     </message>
     <message>
         <source>Transition curve updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang transition curve</translation>
     </message>
     <message>
         <source>That transition is gone — open the custom curve again</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala na ang transition na iyon — buksan muli ang custom curve</translation>
     </message>
     <message>
         <source>Custom transition curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Custom transition curve</translation>
     </message>
     <message>
         <source>Custom transition curve applied</source>
-        <translation type="unfinished"></translation>
+        <translation>Inilapat ang custom transition curve</translation>
     </message>
     <message>
         <source>Select a video or image clip to estimate depth for</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng video o image clip para tantiyahin ang depth</translation>
     </message>
     <message>
         <source>Clip has no video to estimate depth for</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang video sa clip na ito para tantiyahin ang depth</translation>
     </message>
     <message>
         <source>Depth estimation needs the Depth addon</source>
-        <translation type="unfinished"></translation>
+        <translation>Kailangan ng Depth addon para tantiyahin ang depth</translation>
     </message>
     <message>
         <source>Depth is already being estimated for this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Tinatantiya na ang depth ng clip na ito</translation>
     </message>
     <message>
         <source>Estimating depth…</source>
-        <translation type="unfinished"></translation>
+        <translation>Tinatantiya ang depth…</translation>
     </message>
     <message>
         <source>Clip no longer exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala na ang clip</translation>
     </message>
     <message>
         <source>Estimate Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>Tantiyahin ang depth</translation>
     </message>
     <message>
         <source>Clear Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>I-clear ang depth</translation>
     </message>
     <message>
         <source>Building keyframes…</source>
-        <translation type="unfinished"></translation>
+        <translation>Binubuo ang mga keyframe…</translation>
     </message>
     <message>
         <source>Rendering stabilized video…</source>
-        <translation type="unfinished"></translation>
+        <translation>Nire-render ang na-stabilize na video…</translation>
     </message>
     <message>
         <source>Analyzing camera motion…</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinusuri ang galaw ng camera…</translation>
     </message>
     <message>
         <source>Stabilization cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinansela ang stabilization.</translation>
     </message>
     <message>
         <source>Stabilization analysis file is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nawawala ang stabilization analysis file.</translation>
     </message>
     <message>
         <source>Could not read camera motion from the analysis file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabasa ang galaw ng camera mula sa analysis file.</translation>
     </message>
     <message>
         <source>Stabilize with Keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>I-stabilize gamit ang mga keyframe</translation>
     </message>
     <message>
         <source>Stabilization keyframes applied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inilapat ang stabilization keyframe.</translation>
     </message>
     <message>
         <source>Change Stabilization Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Baguhin ang stabilization mode</translation>
     </message>
     <message>
         <source>Cutout</source>
-        <translation type="unfinished"></translation>
+        <translation>Cutout</translation>
     </message>
     <message>
         <source> (denoised)</source>
@@ -2901,11 +2901,11 @@
     </message>
     <message>
         <source>Remove noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang ingay</translation>
     </message>
     <message>
         <source>Noise removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Naalis ang ingay</translation>
     </message>
     <message>
         <source>This project uses &quot;%1&quot;, which isn’t installed — it won’t show. Open Extras to install it.</source>
@@ -2921,51 +2921,51 @@
     </message>
     <message>
         <source>Shape added</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagdagdag ng hugis</translation>
     </message>
     <message>
         <source>Adjustment Layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Adjustment Layer</translation>
     </message>
     <message>
         <source>Adjustment (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Adjustment (%1)</translation>
     </message>
     <message>
         <source>Add adjustment layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng adjustment layer</translation>
     </message>
     <message>
         <source>Adjustment layer added</source>
-        <translation type="unfinished"></translation>
+        <translation>Naidagdag ang adjustment layer</translation>
     </message>
     <message>
         <source>Add adjustment track</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng adjustment track</translation>
     </message>
     <message>
         <source>Adjustment track added</source>
-        <translation type="unfinished"></translation>
+        <translation>Naidagdag ang adjustment track</translation>
     </message>
     <message>
         <source>Add adjustment lane</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng adjustment lane</translation>
     </message>
     <message>
         <source>Adjustment lane added</source>
-        <translation type="unfinished"></translation>
+        <translation>Naidagdag ang adjustment lane</translation>
     </message>
     <message>
         <source>Nest adjustment in track</source>
-        <translation type="unfinished"></translation>
+        <translation>ซ嵌 adjustment sa track</translation>
     </message>
     <message>
         <source>Adjustment nested</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-nest ang adjustment</translation>
     </message>
     <message>
         <source>Detach adjustment to its own track</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihiwalay ang adjustment sa sarili nitong track</translation>
     </message>
     <message>
         <source>Adjustment detached</source>
@@ -5630,7 +5630,7 @@
     <name>DenoiseWindow</name>
     <message>
         <source>Remove noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang ingay</translation>
     </message>
     <message>
         <source>A short section of the clip is previewed here. Confirming runs the whole clip and adds the result as a new audio track above this one — the original is left untouched.</source>
@@ -5642,7 +5642,7 @@
     </message>
     <message>
         <source>Noise removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Naalis ang ingay</translation>
     </message>
     <message>
         <source>· playing</source>
@@ -6223,7 +6223,7 @@
     </message>
     <message>
         <source>Add adjustment layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng adjustment layer</translation>
     </message>
     <message>
         <source>Add an adjustment layer to apply effects across all clips underneath, or drag it to where it should go</source>
@@ -10330,7 +10330,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Could not open the media file</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabuksan ang media file</translation>
     </message>
     <message>
         <source>This file has no video to scan</source>
@@ -13833,7 +13833,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Add adjustment layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng adjustment layer</translation>
     </message>
     <message>
         <source>Customize toolbar…</source>
