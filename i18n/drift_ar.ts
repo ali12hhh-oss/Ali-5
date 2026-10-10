@@ -1735,14 +1735,7 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s)</source>
-        <translation>
-            <numerusform>%n مقطع</numerusform>
-            <numerusform>%n مقطع</numerusform>
-            <numerusform>مقطعان</numerusform>
-            <numerusform>%n مقاطع</numerusform>
-            <numerusform>%n مقطعًا</numerusform>
-            <numerusform>%n مقطع</numerusform>
-        </translation>
+        <translation>%n مقطع</translation>
     </message>
     <message>
         <source>All</source>
@@ -1828,14 +1821,7 @@
     <name>AndroidTransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>
-            <numerusform>%1 · %n مقطع</numerusform>
-            <numerusform>%1 · %n مقطع</numerusform>
-            <numerusform>%1 · مقطعان</numerusform>
-            <numerusform>%1 · %n مقاطع</numerusform>
-            <numerusform>%1 · %n مقطعًا</numerusform>
-            <numerusform>%1 · %n مقطع</numerusform>
-        </translation>
+        <translation>%1 · %n مقطع</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -2469,14 +2455,7 @@
     </message>
     <message numerus="yes">
         <source>Imported %n subtitles</source>
-        <translation>
-            <numerusform>تم استيراد %n ترجمة</numerusform>
-            <numerusform>تم استيراد ترجمة واحدة</numerusform>
-            <numerusform>تم استيراد ترجمتين</numerusform>
-            <numerusform>تم استيراد %n ترجمات</numerusform>
-            <numerusform>تم استيراد %n ترجمة</numerusform>
-            <numerusform>تم استيراد %n ترجمة</numerusform>
-        </translation>
+        <translation>تم استيراد %n ترجمة</translation>
     </message>
     <message>
         <source>No audio output devices were found, so playback will be silent.</source>
@@ -2599,14 +2578,7 @@
     </message>
     <message numerus="yes">
         <source>Found %n scene(s)</source>
-        <translation>
-            <numerusform>تم العثور على %n مشهد</numerusform>
-            <numerusform>تم العثور على مشهد واحد</numerusform>
-            <numerusform>تم العثور على مشهدين</numerusform>
-            <numerusform>تم العثور على %n مشاهد</numerusform>
-            <numerusform>تم العثور على %n مشهدًا</numerusform>
-            <numerusform>تم العثور على %n مشهد</numerusform>
-        </translation>
+        <translation>تم العثور على %n مشهد</translation>
     </message>
     <message>
         <source>Looking for scenes…</source>
@@ -4621,25 +4593,11 @@
     </message>
     <message numerus="yes">
         <source>%n items removed</source>
-        <translation>
-            <numerusform>تمت إزالة %n عنصر</numerusform>
-            <numerusform>تمت إزالة عنصر واحد</numerusform>
-            <numerusform>تمت إزالة عنصرين</numerusform>
-            <numerusform>تمت إزالة %n عناصر</numerusform>
-            <numerusform>تمت إزالة %n عنصرًا</numerusform>
-            <numerusform>تمت إزالة %n عنصر</numerusform>
-        </translation>
+        <translation>تمت إزالة %n عنصر</translation>
     </message>
     <message numerus="yes">
         <source>%n items moved</source>
-        <translation>
-            <numerusform>تم نقل %n عنصر</numerusform>
-            <numerusform>تم نقل عنصر واحد</numerusform>
-            <numerusform>تم نقل عنصرين</numerusform>
-            <numerusform>تم نقل %n عناصر</numerusform>
-            <numerusform>تم نقل %n عنصرًا</numerusform>
-            <numerusform>تم نقل %n عنصر</numerusform>
-        </translation>
+        <translation>تم نقل %n عنصر</translation>
     </message>
     <message>
         <source>Clips added</source>
@@ -4955,14 +4913,7 @@
     </message>
     <message numerus="yes">
         <source>%n items</source>
-        <translation>
-            <numerusform>%n عنصر</numerusform>
-            <numerusform>عنصر واحد</numerusform>
-            <numerusform>عنصران</numerusform>
-            <numerusform>%n عناصر</numerusform>
-            <numerusform>%n عنصرًا</numerusform>
-            <numerusform>%n عنصر</numerusform>
-        </translation>
+        <translation>%n عنصر</translation>
     </message>
     <message>
         <source>Remove these items?</source>
@@ -4970,14 +4921,7 @@
     </message>
     <message numerus="yes">
         <source>Removed %n items.</source>
-        <translation>
-            <numerusform>تمت إزالة %n عنصر.</numerusform>
-            <numerusform>تمت إزالة عنصر واحد.</numerusform>
-            <numerusform>تمت إزالة عنصرين.</numerusform>
-            <numerusform>تمت إزالة %n عناصر.</numerusform>
-            <numerusform>تمت إزالة %n عنصرًا.</numerusform>
-            <numerusform>تمت إزالة %n عنصر.</numerusform>
-        </translation>
+        <translation>تمت إزالة %n عنصر.</translation>
     </message>
 </context>
 <context>
@@ -5820,25 +5764,11 @@
     </message>
     <message numerus="yes">
         <source>%n second(s) left</source>
-        <translation>
-            <numerusform>تبقى %n ثانية</numerusform>
-            <numerusform>تبقى ثانية واحدة</numerusform>
-            <numerusform>تبقى ثانيتان</numerusform>
-            <numerusform>تبقى %n ثوانٍ</numerusform>
-            <numerusform>تبقى %n ثانية</numerusform>
-            <numerusform>تبقى %n ثانية</numerusform>
-        </translation>
+        <translation>تبقّى %n ثانية</translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) left</source>
-        <translation>
-            <numerusform>تبقى %n دقيقة</numerusform>
-            <numerusform>تبقى دقيقة واحدة</numerusform>
-            <numerusform>تبقت دقيقتان</numerusform>
-            <numerusform>تبقت %n دقائق</numerusform>
-            <numerusform>تبقت %n دقيقة</numerusform>
-            <numerusform>تبقت %n دقيقة</numerusform>
-        </translation>
+        <translation>تبقّى %n دقيقة</translation>
     </message>
     <message>
         <source>Cancelled</source>
@@ -5869,14 +5799,7 @@
     </message>
     <message numerus="yes">
         <source>%n active</source>
-        <translation>
-            <numerusform>%n نشط</numerusform>
-            <numerusform>نشط واحد</numerusform>
-            <numerusform>نشطان</numerusform>
-            <numerusform>%n نشطين</numerusform>
-            <numerusform>%n نشطًا</numerusform>
-            <numerusform>%n نشط</numerusform>
-        </translation>
+        <translation>%n نشط</translation>
     </message>
     <message>
         <source>No downloads running</source>
@@ -5915,14 +5838,7 @@
     </message>
     <message numerus="yes">
         <source>%n style(s)</source>
-        <translation>
-            <numerusform>%n نمط</numerusform>
-            <numerusform>نمط واحد</numerusform>
-            <numerusform>نمطان</numerusform>
-            <numerusform>%n أنماط</numerusform>
-            <numerusform>%n نمطًا</numerusform>
-            <numerusform>%n نمط</numerusform>
-        </translation>
+        <translation>%n نمط</translation>
     </message>
     <message>
         <source>%1 s</source>
@@ -5930,14 +5846,7 @@
     </message>
     <message numerus="yes">
         <source>%n colour(s)</source>
-        <translation>
-            <numerusform>%n لون</numerusform>
-            <numerusform>لون واحد</numerusform>
-            <numerusform>لونان</numerusform>
-            <numerusform>%n ألوان</numerusform>
-            <numerusform>%n لونًا</numerusform>
-            <numerusform>%n لون</numerusform>
-        </translation>
+        <translation>%n لون</translation>
     </message>
     <message>
         <source>Loops, %1 s</source>
@@ -6205,14 +6114,7 @@
     </message>
     <message numerus="yes">
         <source>Downloads — %n running</source>
-        <translation>
-            <numerusform>التنزيلات — %n قيد التشغيل</numerusform>
-            <numerusform>التنزيلات — تنزيل واحد قيد التشغيل</numerusform>
-            <numerusform>التنزيلات — تنزيلان قيد التشغيل</numerusform>
-            <numerusform>التنزيلات — %n تنزيلات قيد التشغيل</numerusform>
-            <numerusform>التنزيلات — %n تنزيلًا قيد التشغيل</numerusform>
-            <numerusform>التنزيلات — %n تنزيل قيد التشغيل</numerusform>
-        </translation>
+        <translation>التنزيلات — %n قيد التشغيل</translation>
     </message>
     <message>
         <source>Downloads</source>
@@ -7830,14 +7732,7 @@
     </message>
     <message numerus="yes">
         <source>%n keyframes</source>
-        <translation>
-            <numerusform>%n إطار مفتاحي</numerusform>
-            <numerusform>إطار مفتاحي واحد</numerusform>
-            <numerusform>إطاران مفتاحيان</numerusform>
-            <numerusform>%n إطارات مفتاحية</numerusform>
-            <numerusform>%n إطارًا مفتاحيًا</numerusform>
-            <numerusform>%n إطار مفتاحي</numerusform>
-        </translation>
+        <translation>%n إطارًا مفتاحيًا</translation>
     </message>
     <message>
         <source> BPM</source>
@@ -8789,14 +8684,7 @@
     </message>
     <message numerus="yes">
         <source>Create %n proxies</source>
-        <translation>
-            <numerusform>إنشاء %n نسخة وسيطة</numerusform>
-            <numerusform>إنشاء نسخة وسيطة واحدة</numerusform>
-            <numerusform>إنشاء نسختين وسيطتين</numerusform>
-            <numerusform>إنشاء %n نسخ وسيطة</numerusform>
-            <numerusform>إنشاء %n نسخة وسيطة</numerusform>
-            <numerusform>إنشاء %n نسخة وسيطة</numerusform>
-        </translation>
+        <translation>إنشاء %n نسخة وسيطة</translation>
     </message>
     <message>
         <source>Create proxy</source>
@@ -8804,14 +8692,7 @@
     </message>
     <message numerus="yes">
         <source>Remove %n proxies</source>
-        <translation>
-            <numerusform>إزالة %n نسخة وسيطة</numerusform>
-            <numerusform>إزالة نسخة وسيطة واحدة</numerusform>
-            <numerusform>إزالة نسختين وسيطتين</numerusform>
-            <numerusform>إزالة %n نسخ وسيطة</numerusform>
-            <numerusform>إزالة %n نسخة وسيطة</numerusform>
-            <numerusform>إزالة %n نسخة وسيطة</numerusform>
-        </translation>
+        <translation>إزالة %n نسخة وسيطة</translation>
     </message>
     <message>
         <source>Remove proxy</source>
@@ -8867,14 +8748,7 @@
     </message>
     <message numerus="yes">
         <source>Add %n items to timeline</source>
-        <translation>
-            <numerusform>إضافة %n عنصر إلى المخطط الزمني</numerusform>
-            <numerusform>إضافة عنصر واحد إلى المخطط الزمني</numerusform>
-            <numerusform>إضافة عنصرين إلى المخطط الزمني</numerusform>
-            <numerusform>إضافة %n عناصر إلى المخطط الزمني</numerusform>
-            <numerusform>إضافة %n عنصرًا إلى المخطط الزمني</numerusform>
-            <numerusform>إضافة %n عنصر إلى المخطط الزمني</numerusform>
-        </translation>
+        <translation>إضافة %n عنصر إلى المخطط الزمني</translation>
     </message>
     <message>
         <source>Add to timeline</source>
@@ -8897,14 +8771,7 @@
     </message>
     <message numerus="yes">
         <source>Remove %n items from project</source>
-        <translation>
-            <numerusform>إزالة %n عنصر من المشروع</numerusform>
-            <numerusform>إزالة عنصر واحد من المشروع</numerusform>
-            <numerusform>إزالة عنصرين من المشروع</numerusform>
-            <numerusform>إزالة %n عناصر من المشروع</numerusform>
-            <numerusform>إزالة %n عنصرًا من المشروع</numerusform>
-            <numerusform>إزالة %n عنصر من المشروع</numerusform>
-        </translation>
+        <translation>إزالة %n عنصر من المشروع</translation>
     </message>
 </context>
 <context>
@@ -8981,14 +8848,7 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files.</source>
-        <translation>
-            <numerusform>تم استيراد %n ملف.</numerusform>
-            <numerusform>تم استيراد ملف واحد.</numerusform>
-            <numerusform>تم استيراد ملفين.</numerusform>
-            <numerusform>تم استيراد %n ملفات.</numerusform>
-            <numerusform>تم استيراد %n ملفًا.</numerusform>
-            <numerusform>تم استيراد %n ملف.</numerusform>
-        </translation>
+        <translation>تم استيراد %n ملف.</translation>
     </message>
     <message>
         <source>Could not import that file — the format may be unsupported.</source>
@@ -8996,14 +8856,7 @@
     </message>
     <message numerus="yes">
         <source>Could not import any of the %n selected files.</source>
-        <translation>
-            <numerusform>تعذّر استيراد أي من الملفات المحددة وعددها %n.</numerusform>
-            <numerusform>تعذّر استيراد الملف المحدد.</numerusform>
-            <numerusform>تعذّر استيراد الملفين المحددين.</numerusform>
-            <numerusform>تعذّر استيراد %n ملفات محددة.</numerusform>
-            <numerusform>تعذّر استيراد %n ملفًا محددًا.</numerusform>
-            <numerusform>تعذّر استيراد الملفات المحددة وعددها %n.</numerusform>
-        </translation>
+        <translation>تعذّر استيراد أي من الملفات المحددة وعددها %n.</translation>
     </message>
 </context>
 <context>
@@ -9196,14 +9049,7 @@
     </message>
     <message numerus="yes">
         <source>%n animation(s)</source>
-        <translation>
-            <numerusform>%n حركة متحركة</numerusform>
-            <numerusform>حركة متحركة واحدة</numerusform>
-            <numerusform>حركتان متحركتان</numerusform>
-            <numerusform>%n حركات متحركة</numerusform>
-            <numerusform>%n حركة متحركة</numerusform>
-            <numerusform>%n حركة متحركة</numerusform>
-        </translation>
+        <translation>%n حركة</translation>
     </message>
     <message>
         <source>static</source>
@@ -9655,14 +9501,7 @@
     </message>
     <message numerus="yes">
         <source>Video Effects (%n effect(s))</source>
-        <translation>
-            <numerusform>مؤثرات الفيديو (%n مؤثر)</numerusform>
-            <numerusform>مؤثرات الفيديو (مؤثر واحد)</numerusform>
-            <numerusform>مؤثرات الفيديو (مؤثران)</numerusform>
-            <numerusform>مؤثرات الفيديو (%n مؤثرات)</numerusform>
-            <numerusform>مؤثرات الفيديو (%n مؤثراً)</numerusform>
-            <numerusform>مؤثرات الفيديو (%n مؤثر)</numerusform>
-        </translation>
+        <translation>مؤثرات الفيديو (%n مؤثر)</translation>
     </message>
     <message>
         <source>Video Effects (none)</source>
@@ -9678,14 +9517,7 @@
     </message>
     <message numerus="yes">
         <source>Audio Effects (%n effect(s))</source>
-        <translation>
-            <numerusform>مؤثرات الصوت (%n مؤثر)</numerusform>
-            <numerusform>مؤثرات الصوت (مؤثر واحد)</numerusform>
-            <numerusform>مؤثرات الصوت (مؤثران)</numerusform>
-            <numerusform>مؤثرات الصوت (%n مؤثرات)</numerusform>
-            <numerusform>مؤثرات الصوت (%n مؤثراً)</numerusform>
-            <numerusform>مؤثرات الصوت (%n مؤثر)</numerusform>
-        </translation>
+        <translation>مؤثرات الصوت (%n مؤثر)</translation>
     </message>
     <message>
         <source>Audio Effects (none)</source>
@@ -9697,14 +9529,7 @@
     </message>
     <message numerus="yes">
         <source>Transitions (%n transition(s))</source>
-        <translation>
-            <numerusform>الانتقالات (%n انتقال)</numerusform>
-            <numerusform>الانتقالات (انتقال واحد)</numerusform>
-            <numerusform>الانتقالات (انتقالان)</numerusform>
-            <numerusform>الانتقالات (%n انتقالات)</numerusform>
-            <numerusform>الانتقالات (%n انتقالاً)</numerusform>
-            <numerusform>الانتقالات (%n انتقال)</numerusform>
-        </translation>
+        <translation>الانتقالات (%n انتقال)</translation>
     </message>
     <message>
         <source>Replace existing effects (instead of appending)</source>
@@ -12370,14 +12195,7 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>Filters — %n applied</source>
-        <translation>
-            <numerusform>الفلاتر — تم تطبيق %n</numerusform>
-            <numerusform>الفلاتر — تم تطبيق فلتر واحد</numerusform>
-            <numerusform>الفلاتر — تم تطبيق فلترين</numerusform>
-            <numerusform>الفلاتر — تم تطبيق %n فلاتر</numerusform>
-            <numerusform>الفلاتر — تم تطبيق %n فلترًا</numerusform>
-            <numerusform>الفلاتر — تم تطبيق %n فلتر</numerusform>
-        </translation>
+        <translation>الفلاتر — تم تطبيق %n</translation>
     </message>
     <message>
         <source>Filters</source>
@@ -14638,28 +14456,14 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>+%n more</source>
-        <translation>
-            <numerusform>+%n إضافي</numerusform>
-            <numerusform>+عنصر إضافي واحد</numerusform>
-            <numerusform>+عنصران إضافيان</numerusform>
-            <numerusform>+%n عناصر إضافية</numerusform>
-            <numerusform>+%n عنصرًا إضافيًا</numerusform>
-            <numerusform>+%n إضافي</numerusform>
-        </translation>
+        <translation>%n أخرى</translation>
     </message>
 </context>
 <context>
     <name>TransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>
-            <numerusform>%1 · %n مقطع</numerusform>
-            <numerusform>%1 · %n مقطع</numerusform>
-            <numerusform>%1 · مقطعان</numerusform>
-            <numerusform>%1 · %n مقاطع</numerusform>
-            <numerusform>%1 · %n مقطعًا</numerusform>
-            <numerusform>%1 · %n مقطع</numerusform>
-        </translation>
+        <translation>%1 · %n مقطع</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -14678,14 +14482,7 @@ If playback stutters, try another.</source>
     <name>TransformSpanBracket</name>
     <message numerus="yes">
         <source>%n track(s)</source>
-        <translation>
-            <numerusform>%n مسار</numerusform>
-            <numerusform>مسار واحد</numerusform>
-            <numerusform>مساران</numerusform>
-            <numerusform>%n مسارات</numerusform>
-            <numerusform>%n مسارًا</numerusform>
-            <numerusform>%n مسار</numerusform>
-        </translation>
+        <translation>%n مسار</translation>
     </message>
     <message>
         <source>Transform layer span end</source>
@@ -14693,14 +14490,7 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>Covers %n track(s)</source>
-        <translation>
-            <numerusform>يغطي %n مسار</numerusform>
-            <numerusform>يغطي مسارًا واحدًا</numerusform>
-            <numerusform>يغطي مسارين</numerusform>
-            <numerusform>يغطي %n مسارات</numerusform>
-            <numerusform>يغطي %n مسارًا</numerusform>
-            <numerusform>يغطي %n مسار</numerusform>
-        </translation>
+        <translation>يغطي %n مسار</translation>
     </message>
 </context>
 <context>
