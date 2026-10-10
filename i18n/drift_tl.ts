@@ -2484,9 +2484,9 @@
     </message>
     <message numerus="yes">
         <source>Multicam ready: %n camera(s) lined up at the start. Drag a clip to adjust its sync, then pick a shot.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Handa na ang multicam: nakaayos sa simula ang %n camera. I-drag ang clip para ayusin ang sync, pagkatapos ay pumili ng shot.</numerusform>
+            <numerusform>Handa na ang multicam: nakaayos sa simula ang %n camera. I-drag ang clip para ayusin ang sync, pagkatapos ay pumili ng shot.</numerusform>
         </translation>
     </message>
     <message>
@@ -3732,9 +3732,9 @@
     </message>
     <message numerus="yes">
         <source>Transform layer now covers %n track(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Saklaw na ng transform layer ang %n track</numerusform>
+            <numerusform>Saklaw na ng transform layer ang %n track</numerusform>
         </translation>
     </message>
     <message>
@@ -3918,9 +3918,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s); %1 skipped: %2</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Na-import ang %n face prop; nilaktawan ang %1: %2</numerusform>
+            <numerusform>Na-import ang %n face prop; nilaktawan ang %1: %2</numerusform>
         </translation>
     </message>
     <message>
@@ -4311,9 +4311,9 @@
     </message>
     <message numerus="yes">
         <source>Media collected, but %n original(s) couldn’t be deleted</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Nakolekta ang media, pero hindi mabura ang %n orihinal</numerusform>
+            <numerusform>Nakolekta ang media, pero hindi mabura ang %n orihinal</numerusform>
         </translation>
     </message>
     <message>
@@ -4446,9 +4446,9 @@
     </message>
     <message numerus="yes">
         <source>Applied to %n caption clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Inilapat sa %n caption clip</numerusform>
+            <numerusform>Inilapat sa %n caption clip</numerusform>
         </translation>
     </message>
     <message>
@@ -4679,9 +4679,9 @@
     </message>
     <message numerus="yes">
         <source>Replaced with “%1”. %n clips were shortened to fit the new file.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Pinalitan ng “%1”. Pinaikli ang %n clip para magkasya sa bagong file.</numerusform>
+            <numerusform>Pinalitan ng “%1”. Pinaikli ang %n clip para magkasya sa bagong file.</numerusform>
         </translation>
     </message>
     <message>
@@ -4718,23 +4718,23 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders — as many as one folder import takes. Import the remaining subfolders separately.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Na-import ang %n file sa %1 folder—ito ang limitasyon sa isang pag-import ng folder. I-import nang hiwalay ang natitirang subfolder.</numerusform>
+            <numerusform>Na-import ang %n file sa %1 folder—ito ang limitasyon sa isang pag-import ng folder. I-import nang hiwalay ang natitirang subfolder.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Na-import ang %n file sa %1 folder. Nilaktawan ang %2 file dahil hindi kinikilala ng Drift ang format. I-drag ang mga ito sa media bin para subukan pa rin.</numerusform>
+            <numerusform>Na-import ang %n file sa %1 folder. Nilaktawan ang %2 file dahil hindi kinikilala ng Drift ang format. I-drag ang mga ito sa media bin para subukan pa rin.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Na-import ang %n file sa %1 folder.</numerusform>
+            <numerusform>Na-import ang %n file sa %1 folder.</numerusform>
         </translation>
     </message>
     <message>
@@ -8803,9 +8803,9 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) may play back slowly. A proxy makes previewing smoother; export still uses the original.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Maaaring mabagal ang playback ng %n clip. Mas makinis ang preview gamit ang proxy; orihinal pa rin ang ginagamit sa export.</numerusform>
+            <numerusform>Maaaring mabagal ang playback ng %n clip. Mas makinis ang preview gamit ang proxy; orihinal pa rin ang ginagamit sa export.</numerusform>
         </translation>
     </message>
     <message>
@@ -8814,9 +8814,9 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) have a variable frame rate, which can drift out of sync with audio. Convert them to an edit-friendly format to fix it.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>May variable frame rate ang %n clip kaya maaaring mawala sa sync ang audio. I-convert sa format na madaling i-edit para ayusin ito.</numerusform>
+            <numerusform>May variable frame rate ang %n clip kaya maaaring mawala sa sync ang audio. I-convert sa format na madaling i-edit para ayusin ito.</numerusform>
         </translation>
     </message>
     <message>
@@ -9040,9 +9040,9 @@
     </message>
     <message numerus="yes">
         <source>%n animation(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n animation</numerusform>
+            <numerusform>%n animation</numerusform>
         </translation>
     </message>
     <message>
@@ -9460,9 +9460,9 @@
     </message>
     <message numerus="yes">
         <source>Pasting from “%1” onto %n selected clip(s):</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Ipinapaste mula sa “%1” papunta sa %n napiling clip:</numerusform>
+            <numerusform>Ipinapaste mula sa “%1” papunta sa %n napiling clip:</numerusform>
         </translation>
     </message>
     <message>
@@ -9491,9 +9491,9 @@
     </message>
     <message numerus="yes">
         <source>Video Effects (%n effect(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Mga video effect (%n)</numerusform>
+            <numerusform>Mga video effect (%n)</numerusform>
         </translation>
     </message>
     <message>
@@ -9510,9 +9510,9 @@
     </message>
     <message numerus="yes">
         <source>Audio Effects (%n effect(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Mga audio effect (%n)</numerusform>
+            <numerusform>Mga audio effect (%n)</numerusform>
         </translation>
     </message>
     <message>
@@ -9525,9 +9525,9 @@
     </message>
     <message numerus="yes">
         <source>Transitions (%n transition(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Mga transition (%n)</numerusform>
+            <numerusform>Mga transition (%n)</numerusform>
         </translation>
     </message>
     <message>
