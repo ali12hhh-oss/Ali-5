@@ -10598,11 +10598,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Preview one frame, then enhance the whole video. The result is added to the media bin. Enhancing is slow — minutes per second of video without a GPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>ดูตัวอย่างหนึ่งเฟรมก่อน แล้วปรับปรุงวิดีโอทั้งคลิป ผลลัพธ์จะถูกเพิ่มลงในคลังสื่อ การปรับปรุงใช้เวลานาน หากไม่มี GPU อาจใช้เวลาหลายนาทีต่อวินาทีของวิดีโอ</translation>
     </message>
     <message>
         <source>Preview one frame, then enhance the part of the clip used on the timeline. The result is added to the media bin. Enhancing is slow — minutes per second of video without a GPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>ดูตัวอย่างหนึ่งเฟรมก่อน แล้วปรับปรุงเฉพาะส่วนของคลิปที่ใช้บนไทม์ไลน์ ผลลัพธ์จะถูกเพิ่มลงในคลังสื่อ หากไม่มี GPU อาจใช้เวลาหลายนาทีต่อวินาทีของวิดีโอ</translation>
     </message>
     <message>
         <source>Remove compression</source>
@@ -10626,7 +10626,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Up to about %1 on a typical laptop CPU. Preview a frame for an estimate for this computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>ประมาณไม่เกิน %1 บน CPU ของแล็ปท็อปทั่วไป ลองดูตัวอย่างหนึ่งเฟรมเพื่อประเมินความเร็วของเครื่องนี้</translation>
     </message>
     <message>
         <source>Preview this frame</source>
@@ -10733,15 +10733,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Drift will render a reversed copy of this clip so it plays back smoothly. You can keep editing while it runs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift จะเรนเดอร์สำเนาคลิปแบบย้อนกลับเพื่อให้เล่นได้อย่างราบรื่น ระหว่างนี้คุณยังแก้ไขต่อได้</translation>
     </message>
     <message>
         <source>This can take a few minutes on longer clips.</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิปที่ยาวอาจใช้เวลาหลายนาที</translation>
     </message>
     <message>
         <source>About %1 of video to render.</source>
-        <translation type="unfinished"></translation>
+        <translation>มีวิดีโอประมาณ %1 ที่ต้องเรนเดอร์</translation>
     </message>
     <message>
         <source>%1 min</source>
@@ -10783,7 +10783,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     <name>ScenesTab</name>
     <message>
         <source>Finds where the picture cuts in the selected video clip, and ranks each shot by movement and loudness. Click a shot to jump to it.</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหาจุดตัดภาพในคลิปที่เลือก และจัดอันดับแต่ละช็อตตามการเคลื่อนไหวและความดัง แตะช็อตเพื่อไปยังตำแหน่งนั้น</translation>
     </message>
     <message>
         <source>Find scenes</source>
@@ -10807,11 +10807,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Also label each shot with what is in it. Slower.</source>
-        <translation type="unfinished"></translation>
+        <translation>ระบุสิ่งที่อยู่ในแต่ละช็อตด้วย แต่จะทำงานช้าลง</translation>
     </message>
     <message>
         <source>Needs the Scene Labels add-on — install it from Extras</source>
-        <translation type="unfinished"></translation>
+        <translation>ต้องใช้ส่วนเสริม Scene Labels — ติดตั้งได้จากเมนู Extras</translation>
     </message>
     <message>
         <source>Sensitivity</source>
@@ -10835,7 +10835,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Switch between timeline order and activity ranking</source>
-        <translation type="unfinished"></translation>
+        <translation>สลับระหว่างลำดับบนไทม์ไลน์กับการจัดอันดับตามกิจกรรม</translation>
     </message>
     <message>
         <source>%1 scenes</source>
@@ -10843,7 +10843,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>These scenes are from another clip. Select it again, or run Find scenes on the current one.</source>
-        <translation type="unfinished"></translation>
+        <translation>ฉากเหล่านี้มาจากคลิปอื่น โปรดเลือกคลิปนั้นอีกครั้ง หรือเรียกใช้ค้นหาฉากกับคลิปปัจจุบัน</translation>
     </message>
     <message>
         <source>No scenes yet</source>
@@ -10855,19 +10855,19 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Run Find scenes to split this clip into its shots.</source>
-        <translation type="unfinished"></translation>
+        <translation>เรียกใช้ค้นหาฉากเพื่อแยกคลิปนี้ออกเป็นช็อตต่าง ๆ</translation>
     </message>
     <message>
         <source>Select a video clip on the timeline to scan it.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกคลิปวิดีโอบนไทม์ไลน์เพื่อสแกน</translation>
     </message>
     <message>
         <source>Scene %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ฉาก %1</translation>
     </message>
     <message>
         <source>%1 – %2  ·  %3s</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 – %2  ·  %3 วินาที</translation>
     </message>
 </context>
 <context>
@@ -10878,23 +10878,23 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Anything (click to pick)</source>
-        <translation type="unfinished"></translation>
+        <translation>อะไรก็ได้ (แตะเพื่อเลือก)</translation>
     </message>
     <message>
         <source>People (automatic)</source>
-        <translation type="unfinished"></translation>
+        <translation>บุคคล (อัตโนมัติ)</translation>
     </message>
     <message>
         <source>Best quality (slower)</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณภาพดีที่สุด (ช้ากว่า)</translation>
     </message>
     <message>
         <source>Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>เร็ว</translation>
     </message>
     <message>
         <source>Looking at this moment…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังวิเคราะห์ช่วงเวลานี้…</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -10906,15 +10906,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Left-click marks the subject, right-click marks what to exclude. Click a marker to remove it.</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิกซ้ายเพื่อทำเครื่องหมายวัตถุ คลิกขวาเพื่อทำเครื่องหมายส่วนที่ไม่ต้องการ คลิกเครื่องหมายเพื่อลบ</translation>
     </message>
     <message>
         <source>Everyone in the shot is cut out automatically — there is nothing to click.</source>
-        <translation type="unfinished"></translation>
+        <translation>ระบบจะแยกทุกคนในช็อตนี้ออกโดยอัตโนมัติ ไม่ต้องคลิก</translation>
     </message>
     <message>
         <source>Cut out</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัดแยก</translation>
     </message>
     <message>
         <source>Quality</source>
@@ -10922,31 +10922,31 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>AI: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>AI: %1</translation>
     </message>
     <message>
         <source>not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่ได้ติดตั้ง</translation>
     </message>
     <message>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>ผลลัพธ์</translation>
     </message>
     <message>
         <source>Adds a mask layer under the clip. The clip itself is left alone — flip it to the background, or remove it, from the Masks tab.</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเลเยอร์มาสก์ใต้คลิป โดยไม่เปลี่ยนแปลงตัวคลิปเอง คุณสามารถสลับให้เป็นพื้นหลังหรือลบออกได้ในแท็บ Masks</translation>
     </message>
     <message>
         <source>The cutout is only for this effect — no extra tracks are added.</source>
-        <translation type="unfinished"></translation>
+        <translation>การตัดแยกนี้ใช้กับเอฟเฟกต์นี้เท่านั้น ไม่มีการเพิ่มแทร็ก</translation>
     </message>
     <message>
         <source>Clear points</source>
-        <translation type="unfinished"></translation>
+        <translation>ล้างจุด</translation>
     </message>
     <message>
         <source>Cutting out… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังตัดแยก… %1%</translation>
     </message>
     <message>
         <source>Cut out &amp; apply effect</source>
@@ -10958,7 +10958,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Each moment is processed, so longer clips take longer.</source>
-        <translation type="unfinished"></translation>
+        <translation>ระบบประมวลผลทีละช่วงเวลา คลิปที่ยาวกว่าจึงใช้เวลานานกว่า</translation>
     </message>
 </context>
 <context>
@@ -10984,7 +10984,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Show alignment guides over the preview</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงเส้นช่วยจัดแนวบนหน้าต่างแสดงตัวอย่าง</translation>
     </message>
     <message>
         <source>Background</source>
@@ -10992,47 +10992,47 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Solid color</source>
-        <translation type="unfinished"></translation>
+        <translation>สีทึบ</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>เบลอ</translation>
     </message>
     <message>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>โปร่งใส</translation>
     </message>
     <message>
         <source>Fill behind clips that don’t cover the whole screen</source>
-        <translation type="unfinished"></translation>
+        <translation>เติมพื้นหลังบริเวณที่คลิปไม่ครอบคลุมเต็มหน้าจอ</translation>
     </message>
     <message>
         <source>Choose background colour</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกสีพื้นหลัง</translation>
     </message>
     <message>
         <source>Blur strength</source>
-        <translation type="unfinished"></translation>
+        <translation>ความแรงของการเบลอ</translation>
     </message>
     <message>
         <source>Use proxies for preview</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้ไฟล์พร็อกซีสำหรับการแสดงตัวอย่าง</translation>
     </message>
     <message>
         <source>Play clips from their low-resolution proxies where one exists. Export always uses the original media.</source>
-        <translation type="unfinished"></translation>
+        <translation>หากมีไฟล์พร็อกซีความละเอียดต่ำ ระบบจะใช้ไฟล์นั้นเล่นคลิป แต่การส่งออกจะใช้สื่อต้นฉบับเสมอ</translation>
     </message>
     <message>
         <source>Proxy resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>ความละเอียดพร็อกซี</translation>
     </message>
     <message>
         <source>360p</source>
-        <translation type="unfinished"></translation>
+        <translation>360p</translation>
     </message>
     <message>
         <source>540p</source>
-        <translation type="unfinished"></translation>
+        <translation>540p</translation>
     </message>
     <message>
         <source>720p</source>
@@ -11044,31 +11044,31 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Size of new proxies. Proxies made at another size are not used until you create them again.</source>
-        <translation type="unfinished"></translation>
+        <translation>ขนาดของไฟล์พร็อกซีใหม่ ไฟล์พร็อกซีที่สร้างด้วยขนาดอื่นจะไม่ถูกใช้จนกว่าจะสร้างใหม่</translation>
     </message>
     <message>
         <source>Faster preview (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงตัวอย่างเร็วขึ้น (รุ่นทดลอง)</translation>
     </message>
     <message>
         <source>Can make playback smoother by keeping video on the graphics card. Turn it off if the picture looks wrong. Takes effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>ช่วยให้เล่นวิดีโอราบรื่นขึ้นโดยเก็บวิดีโอไว้ในการ์ดจอ หากภาพผิดปกติให้ปิด ตัวเลือกนี้มีผลหลังรีสตาร์ต</translation>
     </message>
     <message>
         <source>Graphics card</source>
-        <translation type="unfinished"></translation>
+        <translation>การ์ดกราฟิก</translation>
     </message>
     <message>
         <source>Windows default</source>
-        <translation type="unfinished"></translation>
+        <translation>ค่าเริ่มต้นของ Windows</translation>
     </message>
     <message>
         <source>Power saving (integrated GPU)</source>
-        <translation type="unfinished"></translation>
+        <translation>ประหยัดพลังงาน (GPU ในตัว)</translation>
     </message>
     <message>
         <source>High performance (discrete GPU)</source>
-        <translation type="unfinished"></translation>
+        <translation>ประสิทธิภาพสูง (GPU แยก)</translation>
     </message>
     <message>
         <source>Which graphics card Drift runs on. High performance keeps video decoded on an NVIDIA card on that card; power saving uses less battery. Takes effect after restart.</source>
@@ -11088,23 +11088,23 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Audio output</source>
-        <translation type="unfinished"></translation>
+        <translation>เอาต์พุตเสียง</translation>
     </message>
     <message>
         <source>Where playback is heard. “System default” follows whatever your computer is set to, including when that changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกอุปกรณ์ที่ใช้เล่นเสียง “ค่าเริ่มต้นของระบบ” จะใช้ตามการตั้งค่าคอมพิวเตอร์ รวมถึงเมื่อมีการเปลี่ยนแปลง</translation>
     </message>
     <message>
         <source>Microphone input</source>
-        <translation type="unfinished"></translation>
+        <translation>อินพุตไมโครโฟน</translation>
     </message>
     <message>
         <source>Audio device used for recording voiceovers onto audio tracks.</source>
-        <translation type="unfinished"></translation>
+        <translation>อุปกรณ์เสียงสำหรับบันทึกเสียงบรรยายลงในแทร็กเสียง</translation>
     </message>
     <message>
         <source>Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>อินเทอร์เฟซ</translation>
     </message>
     <message>
         <source>Size</source>
@@ -11112,31 +11112,31 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>100% (system)</source>
-        <translation type="unfinished"></translation>
+        <translation>100% (ระบบ)</translation>
     </message>
     <message>
         <source>Makes buttons, text, and icons larger. This is extra scale on top of the size already set in your display settings. Takes effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำให้ปุ่ม ข้อความ และไอคอนใหญ่ขึ้น เป็นการเพิ่มสเกลจากค่าที่ตั้งไว้ในหน้าจอ และมีผลหลังรีสตาร์ต</translation>
     </message>
     <message>
         <source>Restart Drift to apply this size.</source>
-        <translation type="unfinished"></translation>
+        <translation>รีสตาร์ต Drift เพื่อใช้ขนาดนี้</translation>
     </message>
     <message>
         <source>Horizontal mouse-wheel pan</source>
-        <translation type="unfinished"></translation>
+        <translation>เลื่อนแนวนอนด้วยล้อเมาส์</translation>
     </message>
     <message>
         <source>Scroll pans left and right along the timeline. Shift+scroll moves between tracks. Middle-click drag also pans.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลื่อนเพื่อเลื่อนไทม์ไลน์ไปทางซ้ายหรือขวา กด Shift พร้อมเลื่อนเพื่อเปลี่ยนแทร็ก หรือกดปุ่มกลางของเมาส์ค้างแล้วลาก</translation>
     </message>
     <message>
         <source>Haptic feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>การตอบสนองแบบสั่น</translation>
     </message>
     <message>
         <source>Vibrate on taps, snaps, and edits. Uses this device’s own haptic effects when it has them.</source>
-        <translation type="unfinished"></translation>
+        <translation>สั่นเมื่อแตะ ดูดติดตำแหน่ง และแก้ไข โดยใช้เอฟเฟกต์การสั่นของอุปกรณ์หากรองรับ</translation>
     </message>
     <message>
         <source>Language</source>
@@ -11148,11 +11148,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>App</source>
-        <translation type="unfinished"></translation>
+        <translation>แอป</translation>
     </message>
     <message>
         <source>Reopen last project on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดโปรเจกต์ล่าสุดอีกครั้งเมื่อเริ่มแอป</translation>
     </message>
     <message>
         <source>Automatically restore the last open project on startup. Closing still asks you to save; a crash snapshot never overwrites your save file.</source>
@@ -11487,7 +11487,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>เบลอ</translation>
     </message>
     <message>
         <source>Spread</source>
@@ -12438,7 +12438,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>This can take a few minutes on longer clips.</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิปที่ยาวอาจใช้เวลาหลายนาที</translation>
     </message>
 </context>
 <context>
@@ -12909,7 +12909,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Choose background colour</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกสีพื้นหลัง</translation>
     </message>
     <message>
         <source>Padding</source>
@@ -13202,7 +13202,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>เบลอ</translation>
     </message>
     <message>
         <source>Width</source>
