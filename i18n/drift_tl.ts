@@ -5352,11 +5352,11 @@
     <name>CloudProviders</name>
     <message>
         <source>No key set</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang nakatakdang key</translation>
     </message>
     <message>
         <source>Key works</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumagana ang key</translation>
     </message>
 </context>
 <context>
@@ -10340,7 +10340,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Identifying objects in scene %1 of %2…</source>
-        <translation type="unfinished"></translation>
+        <translation>Tinutukoy ang mga bagay sa eksena %1 sa %2…</translation>
     </message>
     <message>
         <source>Nothing to scan in this clip</source>
@@ -10368,7 +10368,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Estimating depth, frame %1 of %2…</source>
-        <translation type="unfinished"></translation>
+        <translation>Tinatantiya ang lalim, frame %1 sa %2…</translation>
     </message>
     <message>
         <source>Loading the models…</source>
@@ -10380,23 +10380,23 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 h %2 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 oras %2 min</translation>
     </message>
     <message>
         <source>Enhancing… %1% — about %2 left</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinapahusay… %1% — humigit-kumulang %2 pa</translation>
     </message>
     <message>
         <source>Enhancing… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinapahusay… %1%</translation>
     </message>
     <message>
         <source>Enhancing this frame… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinapahusay ang frame na ito… %1%</translation>
     </message>
     <message>
         <source>Scanning frame %1 of %2…</source>
@@ -10408,51 +10408,51 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Cannot open file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabuksan ang file: %1</translation>
     </message>
     <message>
         <source>File is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang laman ang file</translation>
     </message>
     <message>
         <source>Failed to decompress Premiere project archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi na-decompress ang archive ng Premiere project</translation>
     </message>
     <message>
         <source>XML parse error at line %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Error sa pagbasa ng XML sa linya %1: %2</translation>
     </message>
     <message>
         <source>Imported Premiere Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-import ang Premiere Project</translation>
     </message>
     <message>
         <source>V%1</source>
-        <translation type="unfinished"></translation>
+        <translation>V%1</translation>
     </message>
     <message>
         <source>A%1</source>
-        <translation type="unfinished"></translation>
+        <translation>A%1</translation>
     </message>
     <message>
         <source>Not a valid ZIP archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi wastong ZIP archive</translation>
     </message>
     <message>
         <source>MOGRT archive is empty or invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang laman o hindi wastong MOGRT archive</translation>
     </message>
     <message>
         <source>Could not open file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabuksan ang file: %1</translation>
     </message>
     <message>
         <source>Invalid or corrupt MLT / Kdenlive project</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi wasto o sira ang MLT / Kdenlive project</translation>
     </message>
     <message>
         <source>Failed to parse MLT XML document</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-parse ang MLT XML document</translation>
     </message>
     <message>
         <source>Root element is not &lt;mlt&gt;</source>
@@ -10460,7 +10460,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>XML parse error at line %1, column %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Error sa pagbasa ng XML sa linya %1, column %2: %3</translation>
     </message>
     <message>
         <source>Root element is &lt;%1&gt;, expected &lt;fcpxml&gt;</source>
@@ -10468,23 +10468,23 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Cannot open DaVinci Resolve project archive: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabuksan ang archive ng DaVinci Resolve project: %1</translation>
     </message>
     <message>
         <source>DaVinci Resolve project archive is empty or invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang laman o hindi wastong archive ng DaVinci Resolve project</translation>
     </message>
     <message>
         <source>No edit events found in EDL</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang nakitang edit event sa EDL</translation>
     </message>
     <message>
         <source>Failed to parse OpenTimelineIO JSON: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-parse ang OpenTimelineIO JSON: %1</translation>
     </message>
     <message>
         <source>Not an OpenTimelineIO Timeline or Stack (schema: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ito OpenTimelineIO Timeline o Stack (schema: %1)</translation>
     </message>
 </context>
 <context>
@@ -10503,11 +10503,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Previous projects</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga nakaraang proyekto</translation>
     </message>
     <message>
         <source>No previous projects</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang nakaraang proyekto</translation>
     </message>
     <message>
         <source> (missing)</source>
@@ -10516,19 +10516,20 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <message>
         <source>This file has been moved or deleted:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Inilipat o tinanggal ang file na ito:
+%1</translation>
     </message>
     <message>
         <source>Initialize new project</source>
-        <translation type="unfinished"></translation>
+        <translation>Simulan ang bagong proyekto</translation>
     </message>
     <message>
         <source>Open project…</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan ang proyekto…</translation>
     </message>
     <message>
         <source>Save as…</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save bilang…</translation>
     </message>
     <message>
         <source>Save with media…</source>
@@ -10710,11 +10711,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 h %2 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 oras %2 min</translation>
     </message>
     <message>
         <source>%1 s per frame</source>
@@ -10777,7 +10778,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 s</source>
@@ -10887,15 +10888,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Run Find scenes to split this clip into its shots.</source>
-        <translation type="unfinished"></translation>
+        <translation>Patakbuhin ang Find scenes upang hatiin ang clip na ito sa mga kuha nito.</translation>
     </message>
     <message>
         <source>Select a video clip on the timeline to scan it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng video clip sa timeline upang i-scan ito.</translation>
     </message>
     <message>
         <source>Scene %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksena %1</translation>
     </message>
     <message>
         <source>%1 – %2  ·  %3s</source>
@@ -10910,15 +10911,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Anything (click to pick)</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuman (i-click upang pumili)</translation>
     </message>
     <message>
         <source>People (automatic)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga tao (awtomatiko)</translation>
     </message>
     <message>
         <source>Best quality (slower)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinakamahusay na kalidad (mas mabagal)</translation>
     </message>
     <message>
         <source>Fast</source>
@@ -10926,7 +10927,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Looking at this moment…</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinusuri ang sandaling ito…</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -10938,15 +10939,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Left-click marks the subject, right-click marks what to exclude. Click a marker to remove it.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-left-click upang markahan ang paksa, i-right-click upang markahan ang hindi isasama. I-click ang marker upang alisin ito.</translation>
     </message>
     <message>
         <source>Everyone in the shot is cut out automatically — there is nothing to click.</source>
-        <translation type="unfinished"></translation>
+        <translation>Awtomatikong ihihiwalay ang lahat ng tao sa kuha — wala nang kailangang i-click.</translation>
     </message>
     <message>
         <source>Cut out</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihiwalay</translation>
     </message>
     <message>
         <source>Quality</source>
@@ -10954,15 +10955,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>AI: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>AI: %1</translation>
     </message>
     <message>
         <source>not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>hindi naka-install</translation>
     </message>
     <message>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Resulta</translation>
     </message>
     <message>
         <source>Adds a mask layer under the clip. The clip itself is left alone — flip it to the background, or remove it, from the Masks tab.</source>
@@ -10974,11 +10975,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Clear points</source>
-        <translation type="unfinished"></translation>
+        <translation>I-clear ang mga punto</translation>
     </message>
     <message>
         <source>Cutting out… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Inihihiwalay… %1%</translation>
     </message>
     <message>
         <source>Cut out &amp; apply effect</source>
@@ -11024,15 +11025,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Solid color</source>
-        <translation type="unfinished"></translation>
+        <translation>Solid na kulay</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>Palabuin</translation>
     </message>
     <message>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Transparent</translation>
     </message>
     <message>
         <source>Fill behind clips that don’t cover the whole screen</source>
@@ -11040,15 +11041,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Choose background colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng kulay ng background</translation>
     </message>
     <message>
         <source>Blur strength</source>
-        <translation type="unfinished"></translation>
+        <translation>Lakas ng blur</translation>
     </message>
     <message>
         <source>Use proxies for preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumamit ng proxy para sa preview</translation>
     </message>
     <message>
         <source>Play clips from their low-resolution proxies where one exists. Export always uses the original media.</source>
@@ -11056,7 +11057,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Proxy resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolusyon ng proxy</translation>
     </message>
     <message>
         <source>360p</source>
@@ -11088,11 +11089,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Graphics card</source>
-        <translation type="unfinished"></translation>
+        <translation>Graphics card</translation>
     </message>
     <message>
         <source>Windows default</source>
-        <translation type="unfinished"></translation>
+        <translation>Default ng Windows</translation>
     </message>
     <message>
         <source>Power saving (integrated GPU)</source>
@@ -11120,7 +11121,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Audio output</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio output</translation>
     </message>
     <message>
         <source>Where playback is heard. “System default” follows whatever your computer is set to, including when that changes.</source>
@@ -11128,7 +11129,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Microphone input</source>
-        <translation type="unfinished"></translation>
+        <translation>Input ng mikropono</translation>
     </message>
     <message>
         <source>Audio device used for recording voiceovers onto audio tracks.</source>
@@ -11136,7 +11137,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Interface</translation>
     </message>
     <message>
         <source>Size</source>
@@ -11180,11 +11181,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>App</source>
-        <translation type="unfinished"></translation>
+        <translation>App</translation>
     </message>
     <message>
         <source>Reopen last project on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan muli ang huling proyekto sa pagsisimula</translation>
     </message>
     <message>
         <source>Automatically restore the last open project on startup. Closing still asks you to save; a crash snapshot never overwrites your save file.</source>
@@ -11519,7 +11520,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>Palabuin</translation>
     </message>
     <message>
         <source>Spread</source>
@@ -12102,7 +12103,8 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <message>
         <source>This file has been moved or deleted:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Inilipat o tinanggal ang file na ito:
+%1</translation>
     </message>
     <message>
         <source>Remove from recents</source>
@@ -12942,7 +12944,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Choose background colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng kulay ng background</translation>
     </message>
     <message>
         <source>Padding</source>
@@ -13235,7 +13237,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>Palabuin</translation>
     </message>
     <message>
         <source>Width</source>
