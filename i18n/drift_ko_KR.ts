@@ -927,9 +927,8 @@
     </message>
     <message numerus="yes">
         <source>%n coin(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>코인 %n개</numerusform>
         </translation>
     </message>
     <message>
@@ -1731,9 +1730,8 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>클립 %n개</numerusform>
         </translation>
     </message>
     <message>
@@ -1820,9 +1818,8 @@
     <name>AndroidTransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 · 클립 %n개</numerusform>
         </translation>
     </message>
     <message>
@@ -2457,9 +2454,8 @@
     </message>
     <message numerus="yes">
         <source>Imported %n subtitles</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>자막 %n개를 가져왔습니다</numerusform>
         </translation>
     </message>
     <message>
@@ -2579,9 +2575,8 @@
     </message>
     <message numerus="yes">
         <source>Found %n scene(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>장면 %n개를 찾았습니다</numerusform>
         </translation>
     </message>
     <message>
@@ -4561,16 +4556,14 @@
     </message>
     <message numerus="yes">
         <source>%n items removed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>항목 %n개를 삭제했습니다</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n items moved</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>항목 %n개를 이동했습니다</numerusform>
         </translation>
     </message>
     <message>
@@ -4871,9 +4864,8 @@
     </message>
     <message numerus="yes">
         <source>%n items</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>항목 %n개</numerusform>
         </translation>
     </message>
     <message>
@@ -4882,9 +4874,8 @@
     </message>
     <message numerus="yes">
         <source>Removed %n items.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>항목 %n개를 삭제했습니다.</numerusform>
         </translation>
     </message>
 </context>
@@ -5728,16 +5719,14 @@
     </message>
     <message numerus="yes">
         <source>%n second(s) left</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>남은 시간 %n초</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) left</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>남은 시간 %n분</numerusform>
         </translation>
     </message>
     <message>
@@ -5769,9 +5758,8 @@
     </message>
     <message numerus="yes">
         <source>%n active</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>활성 %n개</numerusform>
         </translation>
     </message>
     <message>
@@ -5811,9 +5799,8 @@
     </message>
     <message numerus="yes">
         <source>%n style(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>스타일 %n개</numerusform>
         </translation>
     </message>
     <message>
@@ -5822,9 +5809,8 @@
     </message>
     <message numerus="yes">
         <source>%n colour(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>색상 %n개</numerusform>
         </translation>
     </message>
     <message>
@@ -7714,9 +7700,8 @@
     </message>
     <message numerus="yes">
         <source>%n keyframes</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>키프레임 %n개</numerusform>
         </translation>
     </message>
     <message>
@@ -8833,9 +8818,8 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>파일 %n개를 가져왔습니다.</numerusform>
         </translation>
     </message>
     <message>
@@ -12264,9 +12248,8 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>%n coin(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>코인 %n개</numerusform>
         </translation>
     </message>
     <message>
@@ -12328,9 +12311,8 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>%n captions</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>캡션 %n개</numerusform>
         </translation>
     </message>
     <message>
@@ -14448,9 +14430,8 @@ If playback stutters, try another.</source>
     <name>TransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 · 클립 %n개</numerusform>
         </translation>
     </message>
     <message>
@@ -14470,9 +14451,8 @@ If playback stutters, try another.</source>
     <name>TransformSpanBracket</name>
     <message numerus="yes">
         <source>%n track(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>트랙 %n개</numerusform>
         </translation>
     </message>
     <message>
@@ -14481,9 +14461,8 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>Covers %n track(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>트랙 %n개를 포함합니다</numerusform>
         </translation>
     </message>
 </context>
