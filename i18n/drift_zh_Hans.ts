@@ -5306,7 +5306,7 @@
     </message>
     <message>
         <source>Overlay</source>
-        <translation type="unfinished"></translation>
+        <translation>叠加</translation>
     </message>
     <message>
         <source>Add</source>
@@ -5314,19 +5314,19 @@
     </message>
     <message>
         <source>Darken</source>
-        <translation type="unfinished"></translation>
+        <translation>变暗</translation>
     </message>
     <message>
         <source>Lighten</source>
-        <translation type="unfinished"></translation>
+        <translation>变亮</translation>
     </message>
     <message>
         <source>How this clip blends with the layers below</source>
-        <translation type="unfinished"></translation>
+        <translation>此片段与下方图层的混合方式</translation>
     </message>
     <message>
         <source>Reset to Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>重置为正常</translation>
     </message>
 </context>
 <context>
@@ -5344,23 +5344,23 @@
     <name>CollectMediaDialog</name>
     <message>
         <source>Collecting media</source>
-        <translation type="unfinished"></translation>
+        <translation>正在收集媒体</translation>
     </message>
     <message>
         <source>Collect media to folder</source>
-        <translation type="unfinished"></translation>
+        <translation>将媒体收集到文件夹</translation>
     </message>
     <message>
         <source>Gathering your media into one folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>正在将媒体整理到一个文件夹中。</translation>
     </message>
     <message>
         <source>Every file this project uses goes into Video, Audio, Images, Derived and Other folders inside “%1”, and the project is relinked to them.</source>
-        <translation type="unfinished"></translation>
+        <translation>此项目使用的所有文件都会放入“%1”中的 Video、Audio、Images、Derived 和 Other 文件夹，并将项目重新链接到这些文件。</translation>
     </message>
     <message>
         <source>Copy leaves the originals where they are. Move deletes them once everything has landed, and clears undo history.</source>
-        <translation type="unfinished"></translation>
+        <translation>复制会保留原始文件。移动会在所有文件成功转移后删除原件，并清除撤销历史记录。</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5368,7 +5368,7 @@
     </message>
     <message>
         <source>Move</source>
-        <translation type="unfinished"></translation>
+        <translation>移动</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -5379,49 +5379,49 @@
     <name>ColorEyedropper</name>
     <message>
         <source>Drag to a colour and lift to pick it</source>
-        <translation type="unfinished"></translation>
+        <translation>拖动到所需颜色后松开以选取</translation>
     </message>
     <message>
         <source>Click a colour to pick it. Esc cancels.</source>
-        <translation type="unfinished"></translation>
+        <translation>点击颜色以选取。按 Esc 取消。</translation>
     </message>
 </context>
 <context>
     <name>ColorSwatchField</name>
     <message>
         <source>Choose colour</source>
-        <translation type="unfinished"></translation>
+        <translation>选择颜色</translation>
     </message>
     <message>
         <source>Enter a color like #FF0000</source>
-        <translation type="unfinished"></translation>
+        <translation>输入颜色值，例如 #FF0000</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>选择颜色</translation>
     </message>
 </context>
 <context>
     <name>CropOverlay</name>
     <message>
         <source>Drag the edges to reframe</source>
-        <translation type="unfinished"></translation>
+        <translation>拖动边缘重新取景</translation>
     </message>
     <message>
         <source>Ctrl + scroll to zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>按 Ctrl 并滚动以缩放</translation>
     </message>
     <message>
         <source>Middle-drag to pan</source>
-        <translation type="unfinished"></translation>
+        <translation>按住鼠标中键拖动以平移</translation>
     </message>
     <message>
         <source>Fit view</source>
-        <translation type="unfinished"></translation>
+        <translation>适应视图</translation>
     </message>
     <message>
         <source>Recentre and reset zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>重新居中并重置缩放</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -5429,7 +5429,7 @@
     </message>
     <message>
         <source>Reset crop to the full video size</source>
-        <translation type="unfinished"></translation>
+        <translation>将裁剪重置为完整视频尺寸</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -5444,7 +5444,7 @@
     </message>
     <message>
         <source>Copy report</source>
-        <translation type="unfinished"></translation>
+        <translation>复制报告</translation>
     </message>
     <message>
         <source>Close</source>
@@ -5452,171 +5452,171 @@
     </message>
     <message>
         <source>Copied to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>已复制到剪贴板</translation>
     </message>
     <message>
         <source>Unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>不可用</translation>
     </message>
     <message>
         <source>Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>播放</translation>
     </message>
     <message>
         <source>Video decoders</source>
-        <translation type="unfinished"></translation>
+        <translation>视频解码器</translation>
     </message>
     <message>
         <source>Codec Name</source>
-        <translation type="unfinished"></translation>
+        <translation>编解码器名称</translation>
     </message>
     <message>
         <source>Software Decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>软件解码</translation>
     </message>
     <message>
         <source>Hardware Decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>硬件解码</translation>
     </message>
     <message>
         <source>Video encoders</source>
-        <translation type="unfinished"></translation>
+        <translation>视频编码器</translation>
     </message>
     <message>
         <source>Software Encoding</source>
-        <translation type="unfinished"></translation>
+        <translation>软件编码</translation>
     </message>
     <message>
         <source>Hardware Encoding</source>
-        <translation type="unfinished"></translation>
+        <translation>硬件编码</translation>
     </message>
     <message>
         <source>Software: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>软件：%1</translation>
     </message>
     <message>
         <source>Hardware: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>硬件：%1</translation>
     </message>
     <message>
         <source>Supported</source>
-        <translation type="unfinished"></translation>
+        <translation>支持</translation>
     </message>
     <message>
         <source>Not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>不支持</translation>
     </message>
     <message>
         <source>Checks</source>
-        <translation type="unfinished"></translation>
+        <translation>检查项</translation>
     </message>
     <message>
         <source>Open Add-ons</source>
-        <translation type="unfinished"></translation>
+        <translation>打开附加组件</translation>
     </message>
     <message>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>系统</translation>
     </message>
     <message>
         <source>Delivered well above displayed means frames are being produced that the display never shows — a cadence problem rather than a slow machine.</source>
-        <translation type="unfinished"></translation>
+        <translation>“输出帧数”远高于“显示帧数”表示生成了显示器从未显示的帧，这是帧节奏问题，而非设备运行缓慢。</translation>
     </message>
     <message>
         <source>Show live stats on the preview</source>
-        <translation type="unfinished"></translation>
+        <translation>在预览中显示实时统计信息</translation>
     </message>
     <message>
         <source>Stays on after this dialog closes, so you can watch the numbers while the timeline plays.</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭此对话框后仍会显示，方便你在时间轴播放时观察数据。</translation>
     </message>
     <message>
         <source>Where the time goes</source>
-        <translation type="unfinished"></translation>
+        <translation>耗时分布</translation>
     </message>
     <message>
         <source>Decodes a fixed 1080p60 clip, and the first clip on the timeline, through each stage of the preview. Takes a few seconds.</source>
-        <translation type="unfinished"></translation>
+        <translation>通过预览的各个阶段解码固定的 1080p60 片段和时间轴上的第一个片段。需要几秒钟。</translation>
     </message>
     <message>
         <source>Measuring…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在测量…</translation>
     </message>
     <message>
         <source>Run test</source>
-        <translation type="unfinished"></translation>
+        <translation>运行测试</translation>
     </message>
     <message>
         <source>Reference clip (1080p60)</source>
-        <translation type="unfinished"></translation>
+        <translation>参考片段（1080p60）</translation>
     </message>
     <message>
         <source>Timeline clip</source>
-        <translation type="unfinished"></translation>
+        <translation>时间轴片段</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation>来源</translation>
     </message>
     <message>
         <source>Decoder</source>
-        <translation type="unfinished"></translation>
+        <translation>解码器</translation>
     </message>
     <message>
         <source> (hardware)</source>
-        <translation type="unfinished"></translation>
+        <translation>（硬件）</translation>
     </message>
     <message>
         <source> (software)</source>
-        <translation type="unfinished"></translation>
+        <translation>（软件）</translation>
     </message>
     <message>
         <source>Preview upload</source>
-        <translation type="unfinished"></translation>
+        <translation>预览上传</translation>
     </message>
     <message>
         <source>Decode</source>
-        <translation type="unfinished"></translation>
+        <translation>解码</translation>
     </message>
     <message>
         <source>Readback to CPU costs</source>
-        <translation type="unfinished"></translation>
+        <translation>回读到 CPU 的耗时</translation>
     </message>
     <message>
         <source>Compositing costs</source>
-        <translation type="unfinished"></translation>
+        <translation>合成耗时</translation>
     </message>
     <message>
         <source>Total per frame</source>
-        <translation type="unfinished"></translation>
+        <translation>每帧总耗时</translation>
     </message>
     <message>
         <source>Budget at this frame rate</source>
-        <translation type="unfinished"></translation>
+        <translation>此帧率下的时间预算</translation>
     </message>
     <message>
         <source>Findings</source>
-        <translation type="unfinished"></translation>
+        <translation>检测结果</translation>
     </message>
     <message>
         <source>Nothing stood out. Turn on the live stats above, play the timeline for a few seconds, then reopen this.</source>
-        <translation type="unfinished"></translation>
+        <translation>未发现明显问题。请启用上方的实时统计信息，播放时间轴几秒钟后再打开此页面。</translation>
     </message>
     <message>
         <source>Need help? Copy the report above when you file an issue.</source>
-        <translation type="unfinished"></translation>
+        <translation>需要帮助？提交问题时请复制上方报告。</translation>
     </message>
     <message>
         <source>Report a bug</source>
-        <translation type="unfinished"></translation>
+        <translation>报告错误</translation>
     </message>
     <message>
         <source>Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>文档</translation>
     </message>
     <message>
         <source>Questions and support on Discord</source>
-        <translation type="unfinished"></translation>
+        <translation>在 Discord 上提问并获取支持</translation>
     </message>
 </context>
 <context>
@@ -5627,7 +5627,7 @@
     </message>
     <message>
         <source>A short section of the clip is previewed here. Confirming runs the whole clip and adds the result as a new audio track above this one — the original is left untouched.</source>
-        <translation type="unfinished"></translation>
+        <translation>此处会预览片段的一小部分。确认后将处理整个片段，并把结果作为新的音轨添加到当前音轨上方；原始内容不会更改。</translation>
     </message>
     <message>
         <source>Original</source>
@@ -5639,7 +5639,7 @@
     </message>
     <message>
         <source>· playing</source>
-        <translation type="unfinished"></translation>
+        <translation>· 正在播放</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -5651,7 +5651,7 @@
     </message>
     <message>
         <source>Preview from</source>
-        <translation type="unfinished"></translation>
+        <translation>预览起始位置</translation>
     </message>
     <message>
         <source>s</source>
@@ -5900,7 +5900,7 @@
     </message>
     <message>
         <source>Choose colour</source>
-        <translation type="unfinished"></translation>
+        <translation>选择颜色</translation>
     </message>
 </context>
 <context>
@@ -9030,7 +9030,7 @@
     </message>
     <message>
         <source>Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>播放</translation>
     </message>
     <message>
         <source>Animation</source>
@@ -9581,7 +9581,7 @@
     </message>
     <message>
         <source>Preview upload</source>
-        <translation type="unfinished"></translation>
+        <translation>预览上传</translation>
     </message>
     <message>
         <source>Playhead update (median)</source>
@@ -11077,7 +11077,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>播放</translation>
     </message>
     <message>
         <source>Audio output</source>
@@ -11336,7 +11336,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Overlay</source>
-        <translation type="unfinished"></translation>
+        <translation>叠加</translation>
     </message>
     <message>
         <source>Add</source>
@@ -11344,11 +11344,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Darken</source>
-        <translation type="unfinished"></translation>
+        <translation>变暗</translation>
     </message>
     <message>
         <source>Lighten</source>
-        <translation type="unfinished"></translation>
+        <translation>变亮</translation>
     </message>
     <message>
         <source>Centre</source>
@@ -13343,7 +13343,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Enter a color like #FF0000</source>
-        <translation type="unfinished"></translation>
+        <translation>输入颜色值，例如 #FF0000</translation>
     </message>
     <message>
         <source>Hex colour</source>
@@ -14260,7 +14260,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Move</source>
-        <translation type="unfinished"></translation>
+        <translation>移动</translation>
     </message>
     <message>
         <source>Arrows on the preview move the clip along each axis</source>
@@ -14786,7 +14786,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>播放</translation>
     </message>
     <message>
         <source>Fit</source>
