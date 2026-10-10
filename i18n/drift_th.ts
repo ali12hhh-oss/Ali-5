@@ -4542,11 +4542,11 @@
     </message>
     <message>
         <source>Folder deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบโฟลเดอร์แล้ว</translation>
     </message>
     <message>
         <source>Media moved</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้ายสื่อแล้ว</translation>
     </message>
     <message numerus="yes">
         <source>%n items removed</source>
@@ -4562,55 +4562,55 @@
     </message>
     <message>
         <source>Clips added</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มคลิปแล้ว</translation>
     </message>
     <message>
         <source>Folder moved</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้ายโฟลเดอร์แล้ว</translation>
     </message>
     <message>
         <source>Track renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อแทร็กแล้ว</translation>
     </message>
     <message>
         <source>Orientation changed</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนแนววางแล้ว</translation>
     </message>
     <message>
         <source>Clip orientation set to %1°</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าแนววางคลิปเป็น %1°</translation>
     </message>
 </context>
 <context>
     <name>AssetCategoryChips</name>
     <message>
         <source>Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>รายการโปรด</translation>
     </message>
 </context>
 <context>
     <name>AssetFavoriteButton</name>
     <message>
         <source>Remove from favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>นำออกจากรายการโปรด</translation>
     </message>
     <message>
         <source>Add to favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มในรายการโปรด</translation>
     </message>
 </context>
 <context>
     <name>AssetLibrary</name>
     <message>
         <source>Media files (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์สื่อ (%1)</translation>
     </message>
 </context>
 <context>
     <name>AssetsPanel</name>
     <message>
         <source>Remove this media?</source>
-        <translation type="unfinished"></translation>
+        <translation>นำสื่อนี้ออกหรือไม่</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -4618,11 +4618,11 @@
     </message>
     <message>
         <source>“%1” will be removed from this project. The file on disk is not deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1” จะถูกนำออกจากโปรเจกต์นี้ แต่ไฟล์บนดิสก์จะไม่ถูกลบ</translation>
     </message>
     <message>
         <source>Removed “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>นำ “%1” ออกแล้ว</translation>
     </message>
     <message>
         <source>Rename media</source>
@@ -4638,31 +4638,31 @@
     </message>
     <message>
         <source>Media name</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อสื่อ</translation>
     </message>
     <message>
         <source>Replace Media</source>
-        <translation type="unfinished"></translation>
+        <translation>แทนที่สื่อ</translation>
     </message>
     <message>
         <source>Export Image</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกรูปภาพ</translation>
     </message>
     <message>
         <source>PNG image (*.png)</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปภาพ PNG (*.png)</translation>
     </message>
     <message>
         <source>JPEG image (*.jpg *.jpeg)</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปภาพ JPEG (*.jpg *.jpeg)</translation>
     </message>
     <message>
         <source>Exported “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออก “%1” แล้ว</translation>
     </message>
     <message>
         <source>Couldn’t export that image.</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกรูปภาพนั้นไม่ได้</translation>
     </message>
     <message numerus="yes">
         <source>Replaced with “%1”. %n clips were shortened to fit the new file.</source>
@@ -4672,19 +4672,19 @@
     </message>
     <message>
         <source>Replaced with “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>แทนที่ด้วย “%1” แล้ว</translation>
     </message>
     <message>
         <source>“%1” is now in an edit-friendly format.</source>
-        <translation type="unfinished"></translation>
+        <translation>ตอนนี้ “%1” อยู่ในรูปแบบที่แก้ไขได้สะดวกแล้ว</translation>
     </message>
     <message>
         <source>Saved “%1”. Drag it onto the timeline.</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึก “%1” แล้ว ลากไปวางบนไทม์ไลน์</translation>
     </message>
     <message>
         <source>Import Media</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าสื่อ</translation>
     </message>
     <message>
         <source>Media</source>
@@ -4692,15 +4692,15 @@
     </message>
     <message>
         <source>“%1” is used by 1 clip on the timeline. Removing this media will also remove that clip and any transitions connected to it. The file on disk is not deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>มี 1 คลิปบนไทม์ไลน์ใช้ “%1” อยู่ การนำสื่อนี้ออกจะลบคลิปนั้นและทรานซิชันที่เชื่อมต่อด้วย แต่จะไม่ลบไฟล์บนดิสก์</translation>
     </message>
     <message>
         <source>“%1” is used by %2 clips on the timeline. Removing this media will also remove those clips and any transitions connected to them. The files on disk are not deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>มี %2 คลิปบนไทม์ไลน์ใช้ “%1” อยู่ การนำสื่อนี้ออกจะลบคลิปเหล่านั้นและทรานซิชันที่เชื่อมต่อด้วย แต่จะไม่ลบไฟล์บนดิสก์</translation>
     </message>
     <message>
         <source>Couldn’t import that folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าโฟลเดอร์นั้นไม่ได้</translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders — as many as one folder import takes. Import the remaining subfolders separately.</source>
@@ -4722,11 +4722,11 @@
     </message>
     <message>
         <source>All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์ทั้งหมด (*)</translation>
     </message>
     <message>
         <source>Import Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าโฟลเดอร์</translation>
     </message>
     <message>
         <source>Collect Media to Folder</source>
@@ -6021,7 +6021,7 @@
     </message>
     <message>
         <source>All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์ทั้งหมด (*)</translation>
     </message>
     <message>
         <source>Save Project As</source>
@@ -8750,7 +8750,7 @@
     </message>
     <message>
         <source>Import Media</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าสื่อ</translation>
     </message>
     <message>
         <source>Could not open that file. This package cannot read files dropped from other apps — use Import to pick them instead.</source>
