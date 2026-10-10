@@ -3690,10 +3690,7 @@
     </message>
     <message numerus="yes">
         <source>Created %n text clips</source>
-        <translation>
-            <numerusform>Создано текстовых клипов: %n</numerusform>
-            <numerusform>Создано текстовых клипов: %n</numerusform>
-        </translation>
+        <translation><numerusform>已创建 %n 个文本片段</numerusform><numerusform>已创建 %n 个文本片段</numerusform></translation>
     </message>
     <message>
         <source>Text converted to subtitles</source>
@@ -3903,10 +3900,7 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s)</source>
-        <translation>
-            <numerusform>Импортировано элементов оформления лица: %n</numerusform>
-            <numerusform>Импортировано элементов оформления лица: %n</numerusform>
-        </translation>
+        <translation><numerusform>已导入 %n 个面部装饰</numerusform><numerusform>已导入 %n 个面部装饰</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s); %1 skipped: %2</source>
@@ -4032,10 +4026,7 @@
     </message>
     <message numerus="yes">
         <source>Pasted attributes onto %n clip(s)</source>
-        <translation>
-            <numerusform>Атрибуты вставлены в клипы: %n</numerusform>
-            <numerusform>Атрибуты вставлены в клипы: %n</numerusform>
-        </translation>
+        <translation><numerusform>已将属性粘贴到 %n 个片段</numerusform><numerusform>已将属性粘贴到 %n 个片段</numerusform></translation>
     </message>
     <message>
         <source>Pasted effects use “%1”, which isn’t installed — it won’t show. Open Extras to install it.</source>
@@ -4199,10 +4190,7 @@
     </message>
     <message numerus="yes">
         <source>Pasted %n clips</source>
-        <translation>
-            <numerusform>Вставлено клипов: %n</numerusform>
-            <numerusform>Вставлено клипов: %n</numerusform>
-        </translation>
+        <translation><numerusform>已粘贴 %n 个片段</numerusform><numerusform>已粘贴 %n 个片段</numerusform></translation>
     </message>
     <message>
         <source>Saved a copy</source>
@@ -8725,10 +8713,7 @@
     </message>
     <message numerus="yes">
         <source>Move %n items to folder…</source>
-        <translation>
-            <numerusform>Переместить в папку элементов: %n…</numerusform>
-            <numerusform>Переместить в папку элементов: %n…</numerusform>
-        </translation>
+        <translation><numerusform>将 %n 个项目移至文件夹…</numerusform><numerusform>将 %n 个项目移至文件夹…</numerusform></translation>
     </message>
     <message>
         <source>Convert to edit-friendly format</source>
@@ -13954,10 +13939,7 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>This removes the track and its %n clips. You can undo afterwards.</source>
-        <translation>
-            <numerusform>Будут удалены дорожка и её клипы: %n. Это можно отменить.</numerusform>
-            <numerusform>Будут удалены дорожка и её клипы: %n. Это можно отменить.</numerusform>
-        </translation>
+        <translation><numerusform>这将删除该轨道及其 %n 个片段。之后仍可撤销。</numerusform><numerusform>这将删除该轨道及其 %n 个片段。之后仍可撤销。</numerusform></translation>
     </message>
     <message>
         <source>This removes the empty track. You can undo afterwards.</source>
