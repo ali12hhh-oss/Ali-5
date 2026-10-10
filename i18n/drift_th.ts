@@ -2964,27 +2964,27 @@
     </message>
     <message>
         <source>Adjustment detached</source>
-        <translation type="unfinished"></translation>
+        <translation>แยกการปรับแต่งแล้ว</translation>
     </message>
     <message>
         <source>Unlink adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการเชื่อมโยงการปรับแต่ง</translation>
     </message>
     <message>
         <source>Adjustment unlinked</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการเชื่อมโยงการปรับแต่งแล้ว</translation>
     </message>
     <message>
         <source>Link adjustment to clip</source>
-        <translation type="unfinished"></translation>
+        <translation>เชื่อมโยงการปรับแต่งกับคลิป</translation>
     </message>
     <message>
         <source>Adjustment linked</source>
-        <translation type="unfinished"></translation>
+        <translation>เชื่อมโยงการปรับแต่งแล้ว</translation>
     </message>
     <message>
         <source>Install the emoji sticker pack to add emoji</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้งชุดสติกเกอร์อีโมจิเพื่อเพิ่มอีโมจิ</translation>
     </message>
     <message>
         <source>Frame rate</source>
@@ -2992,99 +2992,99 @@
     </message>
     <message>
         <source>Project setup</source>
-        <translation type="unfinished"></translation>
+        <translation>การตั้งค่าโปรเจกต์</translation>
     </message>
     <message>
         <source>Project setup updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตการตั้งค่าโปรเจกต์แล้ว</translation>
     </message>
     <message>
         <source>Crop canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>ครอบตัดพื้นที่ทำงาน</translation>
     </message>
     <message>
         <source>Video size cropped to %1×%2</source>
-        <translation type="unfinished"></translation>
+        <translation>ครอบตัดขนาดวิดีโอเป็น %1×%2 แล้ว</translation>
     </message>
     <message>
         <source>Change background</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนพื้นหลัง</translation>
     </message>
     <message>
         <source>Background updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตพื้นหลังแล้ว</translation>
     </message>
     <message>
         <source>Edit clip</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขคลิป</translation>
     </message>
     <message>
         <source>Turn on Auto keyframes to move this</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดใช้คีย์เฟรมอัตโนมัติเพื่อย้ายรายการนี้</translation>
     </message>
     <message>
         <source>Move clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้ายคลิป</translation>
     </message>
     <message>
         <source>Turn on Auto keyframes to resize this</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดใช้คีย์เฟรมอัตโนมัติเพื่อปรับขนาด</translation>
     </message>
     <message>
         <source>Resize clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ปรับขนาดคลิป</translation>
     </message>
     <message>
         <source>Turn on Auto keyframes to change this</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดใช้คีย์เฟรมอัตโนมัติเพื่อเปลี่ยนรายการนี้</translation>
     </message>
     <message>
         <source>Transform clip</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงรูปแบบคลิป</translation>
     </message>
     <message>
         <source>Turn on Auto keyframes to rotate this</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดใช้คีย์เฟรมอัตโนมัติเพื่อหมุนรายการนี้</translation>
     </message>
     <message>
         <source>Rotate clip</source>
-        <translation type="unfinished"></translation>
+        <translation>หมุนคลิป</translation>
     </message>
     <message>
         <source>Turn on Auto keyframes to edit this</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดใช้คีย์เฟรมอัตโนมัติเพื่อแก้ไขรายการนี้</translation>
     </message>
     <message>
         <source>Edit keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขคีย์เฟรม</translation>
     </message>
     <message>
         <source>Edit effect</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขเอฟเฟกต์</translation>
     </message>
     <message>
         <source>Speed changed</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนความเร็วแล้ว</translation>
     </message>
     <message>
         <source>Adjust fade</source>
-        <translation type="unfinished"></translation>
+        <translation>ปรับการเฟด</translation>
     </message>
     <message>
         <source>Mask changed</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนมาสก์แล้ว</translation>
     </message>
     <message>
         <source>Start updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตจุดเริ่มต้นแล้ว</translation>
     </message>
     <message>
         <source>Duration updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตระยะเวลาแล้ว</translation>
     </message>
     <message>
         <source>Text updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตข้อความแล้ว</translation>
     </message>
     <message>
         <source>Rename clip</source>
@@ -3092,87 +3092,87 @@
     </message>
     <message>
         <source>Clip renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อคลิปแล้ว</translation>
     </message>
     <message>
         <source>Edit text</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขข้อความ</translation>
     </message>
     <message>
         <source>Subtitles updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตคำบรรยายแล้ว</translation>
     </message>
     <message>
         <source>Adjust subtitle timing</source>
-        <translation type="unfinished"></translation>
+        <translation>ปรับเวลาแสดงคำบรรยาย</translation>
     </message>
     <message>
         <source>Subtitle cue updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตรายการคำบรรยายแล้ว</translation>
     </message>
     <message>
         <source>Edit text style</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขรูปแบบข้อความ</translation>
     </message>
     <message>
         <source>Text style updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตรูปแบบข้อความแล้ว</translation>
     </message>
     <message>
         <source>Apply text preset</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้ค่าข้อความสำเร็จรูป</translation>
     </message>
     <message>
         <source>Text preset applied</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้ค่าข้อความสำเร็จรูปแล้ว</translation>
     </message>
     <message>
         <source>Could not save the text style</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกรูปแบบข้อความไม่ได้</translation>
     </message>
     <message>
         <source>Save text style</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกรูปแบบข้อความ</translation>
     </message>
     <message>
         <source>Text style saved</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกรูปแบบข้อความแล้ว</translation>
     </message>
     <message>
         <source>Could not rename the text style</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อรูปแบบข้อความไม่ได้</translation>
     </message>
     <message>
         <source>Text style renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อรูปแบบข้อความแล้ว</translation>
     </message>
     <message>
         <source>Could not delete the text style</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบรูปแบบข้อความไม่ได้</translation>
     </message>
     <message>
         <source>Text style deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบรูปแบบข้อความแล้ว</translation>
     </message>
     <message>
         <source>Could not export the text style</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกรูปแบบข้อความไม่ได้</translation>
     </message>
     <message>
         <source>Text style exported</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกรูปแบบข้อความแล้ว</translation>
     </message>
     <message>
         <source>Could not import the text style</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้ารูปแบบข้อความไม่ได้</translation>
     </message>
     <message>
         <source>Text style imported</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้ารูปแบบข้อความแล้ว</translation>
     </message>
     <message>
         <source>Resize text</source>
-        <translation type="unfinished"></translation>
+        <translation>ปรับขนาดข้อความ</translation>
     </message>
     <message>
         <source>Blend mode changed</source>
@@ -8337,7 +8337,7 @@
     <name>MaskOverlay</name>
     <message>
         <source>Mask changed</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนมาสก์แล้ว</translation>
     </message>
     <message>
         <source>Drag a mask from the Masks tab onto a clip to edit it here</source>
@@ -11907,7 +11907,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Speed changed</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนความเร็วแล้ว</translation>
     </message>
     <message>
         <source>Custom speed</source>
@@ -12695,7 +12695,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Save text style</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกรูปแบบข้อความ</translation>
     </message>
     <message>
         <source>My style %1</source>
@@ -13502,7 +13502,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Adjust fade</source>
-        <translation type="unfinished"></translation>
+        <translation>ปรับการเฟด</translation>
     </message>
     <message>
         <source>Fade in %1s</source>
