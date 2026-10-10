@@ -4702,7 +4702,7 @@
     </message>
     <message>
         <source>Media</source>
-        <translation type="unfinished">Media</translation>
+        <translation>Media</translation>
     </message>
     <message>
         <source>“%1” is used by 1 clip on the timeline. Removing this media will also remove that clip and any transitions connected to it. The file on disk is not deleted.</source>
@@ -4755,7 +4755,7 @@
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">Teksto</translation>
+        <translation>Text</translation>
     </message>
     <message>
         <source>Subtitles</source>
@@ -4763,7 +4763,7 @@
     </message>
     <message>
         <source>Stickers</source>
-        <translation type="unfinished">Mga Sticker</translation>
+        <translation>Mga sticker</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -5029,7 +5029,7 @@
     <name>AudioInspector</name>
     <message>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume</translation>
     </message>
     <message>
         <source>Recommended caption length</source>
@@ -5290,7 +5290,7 @@
     <name>BinBreadcrumb</name>
     <message>
         <source>Media</source>
-        <translation type="unfinished">Media</translation>
+        <translation>Media</translation>
     </message>
 </context>
 <context>
@@ -7208,7 +7208,7 @@
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">Teksto</translation>
+        <translation>Text</translation>
     </message>
     <message>
         <source>Subtitle</source>
@@ -7646,7 +7646,7 @@
     </message>
     <message>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume</translation>
     </message>
     <message>
         <source>Mask X</source>
@@ -9315,7 +9315,7 @@
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">Teksto</translation>
+        <translation>Text</translation>
     </message>
     <message>
         <source>Subtitle</source>
@@ -10057,7 +10057,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">Teksto</translation>
+        <translation>Text</translation>
     </message>
     <message>
         <source>Shape</source>
@@ -12960,7 +12960,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">Teksto</translation>
+        <translation>Text</translation>
     </message>
     <message>
         <source>Type your text…</source>
@@ -14040,7 +14040,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">Teksto</translation>
+        <translation>Text</translation>
     </message>
     <message>
         <source>Subtitle</source>
@@ -14382,7 +14382,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">Teksto</translation>
+        <translation>Text</translation>
     </message>
     <message>
         <source>Subtitle</source>
