@@ -1316,7 +1316,7 @@
     </message>
     <message>
         <source>Timeline</source>
-        <translation>Timeline</translation>
+        <translation>Sequenza temporale</translation>
     </message>
     <message>
         <source>Snapping</source>
@@ -3529,7 +3529,7 @@
     </message>
     <message>
         <source>Rendering…</source>
-        <translation>Rendering…</translation>
+        <translation>Rendering in corso…</translation>
     </message>
     <message>
         <source>Render Trimmed Copy</source>
