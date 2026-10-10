@@ -8101,7 +8101,7 @@
     </message>
     <message>
         <source>Multicam</source>
-        <translation type="unfinished">Multicâmera</translation>
+        <translation>Multicâmara</translation>
     </message>
     <message>
         <source>&amp;Help</source>
@@ -10376,11 +10376,11 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished">%1 s</translation>
+        <translation>%1 s</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished">%1 min</translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 h %2 min</source>
@@ -10623,7 +10623,7 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished">s</translation>
+        <translation>s</translation>
     </message>
     <message>
         <source>Fit</source>
@@ -10643,11 +10643,11 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message>
         <source>Upscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Aumentar resolução</translation>
     </message>
     <message>
         <source>Output: %1 × %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Saída: %1 × %2</translation>
     </message>
     <message>
         <source> — larger than 4K, which is slow to edit and export</source>
@@ -10703,23 +10703,23 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message>
         <source>under a second</source>
-        <translation type="unfinished"></translation>
+        <translation>menos de um segundo</translation>
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished">%1 s</translation>
+        <translation>%1 s</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished">%1 min</translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 h %2 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 h %2 min</translation>
     </message>
     <message>
         <source>%1 s per frame</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 s por fotograma</translation>
     </message>
     <message>
         <source>No upscaling</source>
@@ -11109,7 +11109,7 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message>
         <source>Choose which graphics card Drift runs on in Windows Settings, under Display &gt; Graphics. Takes effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolha a placa gráfica usada pelo Drift em Definições do Windows &gt; Ecrã &gt; Gráficos. A alteração produz efeito após reiniciar.</translation>
     </message>
     <message>
         <source>Open graphics settings</source>
@@ -11937,7 +11937,7 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message>
         <source>Speed applies to video, audio and composite clips.</source>
-        <translation type="unfinished"></translation>
+        <translation>A velocidade aplica-se a clipes de vídeo, áudio e compostos.</translation>
     </message>
     <message>
         <source>Playback speed</source>
