@@ -2600,10 +2600,7 @@
     </message>
     <message numerus="yes">
         <source>%n media items and referenced clips removed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>メディア項目 %n 件と参照クリップを削除しました</translation>
     </message>
     <message>
         <source>Media and referenced clip removed</source>
