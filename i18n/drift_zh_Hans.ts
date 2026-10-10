@@ -11669,19 +11669,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Speech bubble</source>
-        <translation type="unfinished"></translation>
+        <translation>对话气泡</translation>
     </message>
     <message>
         <source>Rounded bubble</source>
-        <translation type="unfinished"></translation>
+        <translation>圆角气泡</translation>
     </message>
     <message>
         <source>Thought bubble</source>
-        <translation type="unfinished"></translation>
+        <translation>思考气泡</translation>
     </message>
     <message>
         <source>Callout</source>
-        <translation type="unfinished"></translation>
+        <translation>标注框</translation>
     </message>
     <message>
         <source>Star</source>
@@ -11689,15 +11689,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Burst</source>
-        <translation type="unfinished"></translation>
+        <translation>爆炸形</translation>
     </message>
     <message>
         <source>Lightning bolt</source>
-        <translation type="unfinished"></translation>
+        <translation>闪电</translation>
     </message>
     <message>
         <source>Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>云朵</translation>
     </message>
     <message>
         <source>Heart</source>
@@ -11705,11 +11705,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Cross</source>
-        <translation type="unfinished"></translation>
+        <translation>十字形</translation>
     </message>
     <message>
         <source>Banner</source>
-        <translation type="unfinished"></translation>
+        <translation>横幅</translation>
     </message>
     <message>
         <source>Basic</source>
@@ -11717,15 +11717,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头</translation>
     </message>
     <message>
         <source>Bubbles</source>
-        <translation type="unfinished"></translation>
+        <translation>气泡</translation>
     </message>
     <message>
         <source>Fun</source>
-        <translation type="unfinished"></translation>
+        <translation>趣味形状</translation>
     </message>
     <message>
         <source>Corner radius</source>
@@ -11760,15 +11760,15 @@ If playback stutters, try another.</source>
     <name>ShapesTab</name>
     <message>
         <source>Search shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索形状</translation>
     </message>
     <message>
         <source>No shapes match “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有与“%1”匹配的形状。</translation>
     </message>
     <message>
         <source>No favorites yet. Star shapes to save them here.</source>
-        <translation type="unfinished"></translation>
+        <translation>暂无收藏。点击形状旁的星标即可将其保存到此处。</translation>
     </message>
     <message>
         <source>Nothing in this category.</source>
@@ -11776,68 +11776,68 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 — click to add, or drag to the timeline or preview</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 — 点击添加，或拖动到时间轴或预览区</translation>
     </message>
 </context>
 <context>
     <name>ShortcutCaptureField</name>
     <message>
         <source>Shortcut for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 的快捷键</translation>
     </message>
     <message>
         <source>Not set</source>
-        <translation type="unfinished"></translation>
+        <translation>未设置</translation>
     </message>
     <message>
         <source>Press keys…</source>
-        <translation type="unfinished"></translation>
+        <translation>请按下按键…</translation>
     </message>
     <message>
         <source>Click to set</source>
-        <translation type="unfinished"></translation>
+        <translation>点击设置</translation>
     </message>
     <message>
         <source>“%1” is already used by %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1”已被 %2 使用。</translation>
     </message>
 </context>
 <context>
     <name>ShortcutsTab</name>
     <message>
         <source>Search shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索快捷键</translation>
     </message>
     <message>
         <source>Click a shortcut, then press the keys. Esc cancels, Backspace clears.</source>
-        <translation type="unfinished"></translation>
+        <translation>点击快捷键项，然后按下组合键。按 Esc 取消，按 Backspace 清除。</translation>
     </message>
     <message>
         <source>No shortcuts available</source>
-        <translation type="unfinished"></translation>
+        <translation>没有可用的快捷键</translation>
     </message>
     <message>
         <source>No shortcuts match “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>没有与“%1”匹配的快捷键</translation>
     </message>
     <message>
         <source>Try a different name or key.</source>
-        <translation type="unfinished"></translation>
+        <translation>请尝试其他名称或按键。</translation>
     </message>
     <message>
         <source>Reset to defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>恢复默认设置</translation>
     </message>
     <message>
         <source>Shortcuts reset to defaults.</source>
-        <translation type="unfinished"></translation>
+        <translation>快捷键已恢复为默认设置。</translation>
     </message>
 </context>
 <context>
     <name>SpeedCurveWindow</name>
     <message>
         <source>Custom speed</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义速度</translation>
     </message>
     <message>
         <source>Audio only</source>
@@ -11865,11 +11865,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Add point</source>
-        <translation type="unfinished"></translation>
+        <translation>添加控制点</translation>
     </message>
     <message>
         <source>Sharp</source>
-        <translation type="unfinished"></translation>
+        <translation>尖锐</translation>
     </message>
     <message>
         <source>Smooth</source>
@@ -11877,7 +11877,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Delete point</source>
-        <translation type="unfinished"></translation>
+        <translation>删除控制点</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -11885,7 +11885,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Applied as a copy on a new track — the original clip is left alone.</source>
-        <translation type="unfinished"></translation>
+        <translation>已作为副本应用到新轨道，原始片段不会更改。</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -11904,7 +11904,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Speed applies to video, audio and composite clips.</source>
-        <translation type="unfinished"></translation>
+        <translation>速度设置适用于视频、音频和合成片段。</translation>
     </message>
     <message>
         <source>Playback speed</source>
@@ -11912,11 +11912,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Custom speed…</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义速度…</translation>
     </message>
     <message>
         <source>Custom speed active — remove</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义速度已启用 — 移除</translation>
     </message>
     <message>
         <source>Speed</source>
@@ -11928,7 +11928,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Custom speed</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义速度</translation>
     </message>
     <message>
         <source> (reversed)</source>
@@ -11940,38 +11940,38 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Not rendered — playback may stutter</source>
-        <translation type="unfinished"></translation>
+        <translation>尚未渲染 — 播放时可能卡顿</translation>
     </message>
     <message>
         <source>Render</source>
-        <translation type="unfinished"></translation>
+        <translation>渲染</translation>
     </message>
 </context>
 <context>
     <name>SrtIO</name>
     <message>
         <source>Missing output</source>
-        <translation type="unfinished"></translation>
+        <translation>缺少输出文件</translation>
     </message>
     <message>
         <source>Subtitle file is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>字幕文件为空</translation>
     </message>
     <message>
         <source>Invalid subtitle timing line</source>
-        <translation type="unfinished"></translation>
+        <translation>字幕时间码行无效</translation>
     </message>
     <message>
         <source>Invalid subtitle timestamp</source>
-        <translation type="unfinished"></translation>
+        <translation>字幕时间戳无效</translation>
     </message>
     <message>
         <source>No subtitle cues found</source>
-        <translation type="unfinished"></translation>
+        <translation>未找到字幕条目</translation>
     </message>
     <message>
         <source>Could not open subtitle file</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开字幕文件</translation>
     </message>
     <message>
         <source>Could not write subtitle file</source>
@@ -11982,31 +11982,31 @@ If playback stutters, try another.</source>
     <name>StabilizeInspector</name>
     <message>
         <source>Bake a new video</source>
-        <translation type="unfinished"></translation>
+        <translation>生成新视频文件</translation>
     </message>
     <message>
         <source>Animate with keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>使用关键帧制作动画</translation>
     </message>
     <message>
         <source>Update stabilization</source>
-        <translation type="unfinished"></translation>
+        <translation>更新防抖处理</translation>
     </message>
     <message>
         <source>Re-apply keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>重新应用关键帧</translation>
     </message>
     <message>
         <source>Stabilize with keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>使用关键帧进行防抖</translation>
     </message>
     <message>
         <source>Re-stabilize video</source>
-        <translation type="unfinished"></translation>
+        <translation>重新稳定视频</translation>
     </message>
     <message>
         <source>Stabilize video</source>
-        <translation type="unfinished"></translation>
+        <translation>视频防抖</translation>
     </message>
     <message>
         <source>Smooths camera shake by writing position keyframes. Linear pans stay as two keys far apart; only direction changes get extra keys. Changing smoothness or tripod does not update the preview until you apply.</source>
@@ -12018,15 +12018,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>模式</translation>
     </message>
     <message>
         <source>Bake a new file, or animate the clip with sparse transform keys</source>
-        <translation type="unfinished"></translation>
+        <translation>生成新文件，或使用稀疏变换关键帧为片段制作动画</translation>
     </message>
     <message>
         <source>Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>平滑度</translation>
     </message>
     <message>
         <source>How many frames the smoother looks ahead and behind. Higher values hide more shake but crop the picture more.</source>
@@ -12034,7 +12034,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Tripod mode</source>
-        <translation type="unfinished"></translation>
+        <translation>三脚架模式</translation>
     </message>
     <message>
         <source>Locks the framing as if the camera were on a tripod. Crops more aggressively than smoothing alone.</source>
@@ -12054,7 +12054,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Stabilizing…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在防抖…</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -12087,11 +12087,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Open Project…</source>
-        <translation type="unfinished"></translation>
+        <translation>打开项目…</translation>
     </message>
     <message>
         <source>Recent Projects</source>
-        <translation type="unfinished"></translation>
+        <translation>最近的项目</translation>
     </message>
     <message>
         <source>Nothing here yet — projects you save will show up in this list.</source>
@@ -12102,15 +12102,15 @@ If playback stutters, try another.</source>
     <name>StickersTab</name>
     <message>
         <source>Search stickers</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索贴纸</translation>
     </message>
     <message>
         <source>No sticker packs installed</source>
-        <translation type="unfinished"></translation>
+        <translation>未安装贴纸包</translation>
     </message>
     <message>
         <source>Install the emoji pack to add stickers.</source>
-        <translation type="unfinished"></translation>
+        <translation>安装表情包即可添加贴纸。</translation>
     </message>
     <message>
         <source>Get extras</source>
@@ -12118,11 +12118,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>No stickers match “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>没有与“%1”匹配的贴纸</translation>
     </message>
     <message>
         <source>No favorites yet</source>
-        <translation type="unfinished"></translation>
+        <translation>暂无收藏</translation>
     </message>
     <message>
         <source>Nothing in this category</source>
@@ -12134,22 +12134,22 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Star stickers to save them here.</source>
-        <translation type="unfinished"></translation>
+        <translation>点击贴纸旁的星标即可将其收藏到此处。</translation>
     </message>
     <message>
         <source>Pick another category.</source>
-        <translation type="unfinished"></translation>
+        <translation>请选择其他类别。</translation>
     </message>
     <message>
         <source>%1 — click to add, or drag to the timeline or preview</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 — 点击添加，或拖动到时间轴或预览区</translation>
     </message>
 </context>
 <context>
     <name>StockBrowser</name>
     <message>
         <source>Save downloads to</source>
-        <translation type="unfinished"></translation>
+        <translation>将下载内容保存到</translation>
     </message>
     <message>
         <source>All</source>
@@ -12157,7 +12157,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 (%2 left)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1（剩余 %2）</translation>
     </message>
     <message numerus="yes">
         <source>Filters — %n applied</source>
@@ -12172,23 +12172,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Get from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>从 %1 获取</translation>
     </message>
     <message>
         <source>Get from this link</source>
-        <translation type="unfinished"></translation>
+        <translation>从此链接获取</translation>
     </message>
     <message>
         <source>Looking up that link…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在查找此链接…</translation>
     </message>
     <message>
         <source>Couldn’t open that link</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开该链接</translation>
     </message>
     <message>
         <source>Search failed</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索失败</translation>
     </message>
     <message>
         <source>Try again</source>
@@ -12196,27 +12196,27 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>No results for “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>没有“%1”的搜索结果</translation>
     </message>
     <message>
         <source>Search this source</source>
-        <translation type="unfinished"></translation>
+        <translation>在此来源中搜索</translation>
     </message>
     <message>
         <source>Paste a link</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴链接</translation>
     </message>
     <message>
         <source>Try different words, another source, or clear a filter.</source>
-        <translation type="unfinished"></translation>
+        <translation>请尝试其他关键词、更换来源或清除筛选条件。</translation>
     </message>
     <message>
         <source>Type above and press Enter.</source>
-        <translation type="unfinished"></translation>
+        <translation>在上方输入内容并按 Enter。</translation>
     </message>
     <message>
         <source>Paste a page link above and press Enter.</source>
-        <translation type="unfinished"></translation>
+        <translation>在上方粘贴网页链接并按 Enter。</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -12224,18 +12224,18 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Play preview</source>
-        <translation type="unfinished"></translation>
+        <translation>播放预览</translation>
     </message>
 </context>
 <context>
     <name>StockItemDetail</name>
     <message>
         <source>Back to results</source>
-        <translation type="unfinished"></translation>
+        <translation>返回结果</translation>
     </message>
     <message>
         <source>By %1</source>
-        <translation type="unfinished"></translation>
+        <translation>作者：%1</translation>
     </message>
     <message numerus="yes">
         <source>%n coin(s)</source>
@@ -12249,7 +12249,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Download again</source>
-        <translation type="unfinished"></translation>
+        <translation>重新下载</translation>
     </message>
     <message>
         <source>Download</source>
@@ -13881,7 +13881,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Reset to defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>恢复默认设置</translation>
     </message>
     <message>
         <source>More menu</source>
@@ -14595,7 +14595,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>No favorites yet</source>
-        <translation type="unfinished"></translation>
+        <translation>暂无收藏</translation>
     </message>
     <message>
         <source>Nothing in this category</source>
@@ -14611,7 +14611,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Pick another category.</source>
-        <translation type="unfinished"></translation>
+        <translation>请选择其他类别。</translation>
     </message>
     <message>
         <source>%1 — drag onto an overlap between two clips</source>
