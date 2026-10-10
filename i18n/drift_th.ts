@@ -11072,7 +11072,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Which graphics card Drift runs on. High performance keeps video decoded on an NVIDIA card on that card; power saving uses less battery. Takes effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกการ์ดกราฟิกที่ Drift ใช้ โหมดประสิทธิภาพสูงจะถอดรหัสวิดีโอบนการ์ด NVIDIA ส่วนนั้น ส่วนโหมดประหยัดพลังงานใช้แบตเตอรี่น้อยกว่า มีผลหลังรีสตาร์ต</translation>
     </message>
     <message>
         <source>Choose which graphics card Drift runs on in Windows Settings, under Display &gt; Graphics. Takes effect after restart.</source>
@@ -12010,11 +12010,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Smooths camera shake by writing position keyframes. Linear pans stay as two keys far apart; only direction changes get extra keys. Changing smoothness or tripod does not update the preview until you apply.</source>
-        <translation type="unfinished"></translation>
+        <translation>ลดการสั่นของกล้องด้วยการสร้างคีย์เฟรมตำแหน่ง การแพนแบบเส้นตรงจะใช้คีย์สองจุดที่ห่างกัน และเพิ่มคีย์เฉพาะเมื่อทิศทางเปลี่ยน การเปลี่ยนความนุ่มนวลหรือโหมดขาตั้งกล้องจะไม่อัปเดตตัวอย่างจนกว่าจะกดใช้</translation>
     </message>
     <message>
         <source>Smooths camera shake. Drift scans the clip once, then renders a new video. Changing smoothness or tripod does not update the preview until you apply.</source>
-        <translation type="unfinished"></translation>
+        <translation>ลดการสั่นของกล้อง Drift จะสแกนคลิปหนึ่งครั้งแล้วเรนเดอร์วิดีโอใหม่ การเปลี่ยนความนุ่มนวลหรือโหมดขาตั้งกล้องจะไม่อัปเดตตัวอย่างจนกว่าจะกดใช้</translation>
     </message>
     <message>
         <source>Mode</source>
@@ -12030,7 +12030,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>How many frames the smoother looks ahead and behind. Higher values hide more shake but crop the picture more.</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเฟรมที่ตัวปรับความนุ่มนวลตรวจดูทั้งก่อนและหลัง ค่าสูงช่วยลดการสั่นได้มากขึ้น แต่จะครอปภาพมากขึ้น</translation>
     </message>
     <message>
         <source>Tripod mode</source>
@@ -12038,15 +12038,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Locks the framing as if the camera were on a tripod. Crops more aggressively than smoothing alone.</source>
-        <translation type="unfinished"></translation>
+        <translation>ล็อกกรอบภาพเสมือนติดตั้งกล้องบนขาตั้ง ครอปภาพมากกว่าการปรับความนุ่มนวลเพียงอย่างเดียว</translation>
     </message>
     <message>
         <source>Position keys still use the last run. Update to apply these settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>คีย์ตำแหน่งยังใช้ผลจากการทำงานครั้งก่อน กดอัปเดตเพื่อใช้การตั้งค่านี้</translation>
     </message>
     <message>
         <source>Preview still uses the last run. Update to apply these settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวอย่างยังใช้ผลจากการทำงานครั้งก่อน กดอัปเดตเพื่อใช้การตั้งค่านี้</translation>
     </message>
     <message>
         <source>Remove</source>
