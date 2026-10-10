@@ -3176,199 +3176,199 @@
     </message>
     <message>
         <source>Blend mode changed</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนโหมดผสมแล้ว</translation>
     </message>
     <message>
         <source>Blend mode updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตโหมดผสมแล้ว</translation>
     </message>
     <message>
         <source>Clip speed updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตความเร็วคลิปแล้ว</translation>
     </message>
     <message>
         <source>Reverse on</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดการเล่นย้อนกลับแล้ว</translation>
     </message>
     <message>
         <source>Reverse off</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดการเล่นย้อนกลับแล้ว</translation>
     </message>
     <message>
         <source>Clip reversed</source>
-        <translation type="unfinished"></translation>
+        <translation>เล่นคลิปย้อนกลับแล้ว</translation>
     </message>
     <message>
         <source>Clip forward</source>
-        <translation type="unfinished"></translation>
+        <translation>เล่นคลิปไปข้างหน้า</translation>
     </message>
     <message>
         <source>A clip is already being reversed</source>
-        <translation type="unfinished"></translation>
+        <translation>มีคลิปกำลังเล่นย้อนกลับอยู่แล้ว</translation>
     </message>
     <message>
         <source>Could not create a reversed file</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างไฟล์วิดีโอย้อนกลับไม่ได้</translation>
     </message>
     <message>
         <source>Reversing video…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังเล่นวิดีโอย้อนกลับ…</translation>
     </message>
     <message>
         <source>Flip changed</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนการพลิกภาพแล้ว</translation>
     </message>
     <message>
         <source>Clip flip updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตการพลิกคลิปแล้ว</translation>
     </message>
     <message>
         <source>Pan changed</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนการแพนแล้ว</translation>
     </message>
     <message>
         <source>Clip pan updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตการแพนคลิปแล้ว</translation>
     </message>
     <message>
         <source>Rotation snapped</source>
-        <translation type="unfinished"></translation>
+        <translation>ปรับมุมหมุนให้ตรงแล้ว</translation>
     </message>
     <message>
         <source>Rotation set to %1°</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าการหมุนเป็น %1°</translation>
     </message>
     <message>
         <source>Clips merged</source>
-        <translation type="unfinished"></translation>
+        <translation>รวมคลิปแล้ว</translation>
     </message>
     <message>
         <source>Subtitles merged</source>
-        <translation type="unfinished"></translation>
+        <translation>รวมคำบรรยายแล้ว</translation>
     </message>
     <message>
         <source>Audio separated</source>
-        <translation type="unfinished"></translation>
+        <translation>แยกเสียงแล้ว</translation>
     </message>
     <message>
         <source>Composite %1</source>
-        <translation type="unfinished"></translation>
+        <translation>คอมโพสิต %1</translation>
     </message>
     <message>
         <source>Composite created</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างคอมโพสิตแล้ว</translation>
     </message>
     <message>
         <source>Composite</source>
-        <translation type="unfinished"></translation>
+        <translation>คอมโพสิต</translation>
     </message>
     <message>
         <source>Flattening composite…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังทำให้คอมโพสิตเป็นเลเยอร์เดียว…</translation>
     </message>
     <message>
         <source>Flattening was cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการทำให้เป็นเลเยอร์เดียวแล้ว</translation>
     </message>
     <message>
         <source>Could not flatten the composite: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำให้คอมโพสิตเป็นเลเยอร์เดียวไม่ได้: %1</translation>
     </message>
     <message>
         <source>The composite clip was removed before flattening finished</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิปคอมโพสิตถูกลบก่อนทำให้เป็นเลเยอร์เดียวเสร็จ</translation>
     </message>
     <message>
         <source>The composite clip was trimmed while flattening; try again</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิปคอมโพสิตถูกตัดแต่งระหว่างการทำให้เป็นเลเยอร์เดียว โปรดลองอีกครั้ง</translation>
     </message>
     <message>
         <source>%1 (flattened)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (ทำให้เป็นเลเยอร์เดียวแล้ว)</translation>
     </message>
     <message>
         <source>Composite flattened</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำให้คอมโพสิตเป็นเลเยอร์เดียวแล้ว</translation>
     </message>
     <message>
         <source>All audio tracks separated</source>
-        <translation type="unfinished"></translation>
+        <translation>แยกแทร็กเสียงทั้งหมดแล้ว</translation>
     </message>
     <message>
         <source>Change audio track</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนแทร็กเสียง</translation>
     </message>
     <message>
         <source>Clips unlinked</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการเชื่อมโยงคลิปแล้ว</translation>
     </message>
     <message>
         <source>Audio unlinked</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการเชื่อมโยงเสียงแล้ว</translation>
     </message>
     <message>
         <source>Fade updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตการเฟดแล้ว</translation>
     </message>
     <message>
         <source>Fade curve changed</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนเส้นโค้งการเฟดแล้ว</translation>
     </message>
     <message>
         <source>Fade curve updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตเส้นโค้งการเฟดแล้ว</translation>
     </message>
     <message>
         <source>Clip animation changed</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนแอนิเมชันคลิปแล้ว</translation>
     </message>
     <message>
         <source>Clip animation updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตแอนิเมชันคลิปแล้ว</translation>
     </message>
     <message>
         <source>Shape style changed</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนรูปแบบรูปร่างแล้ว</translation>
     </message>
     <message>
         <source>Shape style updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตรูปแบบรูปร่างแล้ว</translation>
     </message>
     <message>
         <source>3D model added</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มโมเดล 3D แล้ว</translation>
     </message>
     <message>
         <source>3D model replaced</source>
-        <translation type="unfinished"></translation>
+        <translation>แทนที่โมเดล 3D แล้ว</translation>
     </message>
     <message>
         <source>3D model options</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวเลือกโมเดล 3D</translation>
     </message>
     <message>
         <source>3D model options updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตตัวเลือกโมเดล 3D แล้ว</translation>
     </message>
     <message>
         <source>Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>แอนิเมชัน</translation>
     </message>
     <message>
         <source>Animation added</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มแอนิเมชันแล้ว</translation>
     </message>
     <message>
         <source>Animation replaced</source>
-        <translation type="unfinished"></translation>
+        <translation>แทนที่แอนิเมชันแล้ว</translation>
     </message>
     <message>
         <source>Animation options</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวเลือกแอนิเมชัน</translation>
     </message>
     <message>
         <source>Animation options updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตตัวเลือกแอนิเมชันแล้ว</translation>
     </message>
     <message>
         <source>Animation slot</source>
@@ -5040,7 +5040,7 @@
     </message>
     <message>
         <source>Pan changed</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนการแพนแล้ว</translation>
     </message>
     <message>
         <source>Centre</source>
@@ -9024,7 +9024,7 @@
     </message>
     <message>
         <source>Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>แอนิเมชัน</translation>
     </message>
     <message>
         <source>Animation %1</source>
@@ -10042,7 +10042,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>แอนิเมชัน</translation>
     </message>
     <message>
         <source>Audio</source>
@@ -13764,7 +13764,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Composite</source>
-        <translation type="unfinished"></translation>
+        <translation>คอมโพสิต</translation>
     </message>
     <message>
         <source>Switch between the main timeline and composite clips</source>
