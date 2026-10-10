@@ -14910,15 +14910,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Template inputs the animation declares. Overrides are per clip.</source>
-        <translation type="unfinished"></translation>
+        <translation>อินพุตเทมเพลตที่แอนิเมชันประกาศไว้ การตั้งค่าทับแยกตามคลิป</translation>
     </message>
     <message>
         <source>Not rendered</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่ได้เรนเดอร์</translation>
     </message>
     <message>
         <source>Expression on %1 (drawn static)</source>
-        <translation type="unfinished"></translation>
+        <translation>นิพจน์บน %1 (วาดเป็นภาพนิ่ง)</translation>
     </message>
 </context>
 <context>
@@ -14959,15 +14959,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Choose layout…</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกเลย์เอาต์…</translation>
     </message>
     <message>
         <source>Pick a platform template (YouTube, Instagram, TikTok, …) and quality</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกเทมเพลตแพลตฟอร์ม (YouTube, Instagram, TikTok ฯลฯ) และคุณภาพ</translation>
     </message>
     <message>
         <source>Change the video size. Clips keep their current size and position.</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนขนาดวิดีโอ คลิปจะคงขนาดและตำแหน่งปัจจุบันไว้</translation>
     </message>
     <message>
         <source>Width</source>
@@ -14983,7 +14983,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Cancel crop</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการครอป</translation>
     </message>
     <message>
         <source>Crop video size</source>
@@ -14995,11 +14995,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Changing size doesn’t shrink your clips — anything outside the new edges is cut off.</source>
-        <translation type="unfinished"></translation>
+        <translation>การเปลี่ยนขนาดจะไม่ย่อคลิป ส่วนที่อยู่นอกขอบใหม่จะถูกตัดออก</translation>
     </message>
     <message>
         <source>Clips keep their length. A higher rate samples more pictures per second from the same footage.</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิปจะคงความยาวเดิม อัตราที่สูงขึ้นจะสุ่มภาพต่อวินาทีจากฟุตเทจเดียวกันมากขึ้น</translation>
     </message>
 </context>
 <context>
@@ -15029,19 +15029,19 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Input microphone: %1 (click to switch)</source>
-        <translation type="unfinished"></translation>
+        <translation>ไมโครโฟนอินพุต: %1 (คลิกเพื่อสลับ)</translation>
     </message>
     <message>
         <source>Mic gain</source>
-        <translation type="unfinished"></translation>
+        <translation>เกนไมโครโฟน</translation>
     </message>
     <message>
         <source>Voice input gain: %1% (adjust voice level)</source>
-        <translation type="unfinished"></translation>
+        <translation>เกนเสียงพูดเข้า: %1% (ปรับระดับเสียงพูด)</translation>
     </message>
     <message>
         <source>Live voice level: %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>ระดับเสียงพูดสด: %1%</translation>
     </message>
     <message>
         <source>Resume recording</source>
@@ -15053,18 +15053,18 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Done — finish recording and save to track</source>
-        <translation type="unfinished"></translation>
+        <translation>เสร็จสิ้น — จบการบันทึกและบันทึกลงแทร็ก</translation>
     </message>
     <message>
         <source>Cancel — discard recording</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก — ทิ้งการบันทึก</translation>
     </message>
 </context>
 <context>
     <name>drift</name>
     <message>
         <source>Plain</source>
-        <translation type="unfinished"></translation>
+        <translation>เรียบ</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -15072,23 +15072,23 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Lift</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกขึ้น</translation>
     </message>
     <message>
         <source>Hollow</source>
-        <translation type="unfinished"></translation>
+        <translation>โปร่ง</translation>
     </message>
     <message>
         <source>Splice</source>
-        <translation type="unfinished"></translation>
+        <translation>ประกบ</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>เส้นขอบ</translation>
     </message>
     <message>
         <source>Echo</source>
-        <translation type="unfinished"></translation>
+        <translation>เสียงสะท้อน</translation>
     </message>
     <message>
         <source>Glitch</source>
@@ -15096,7 +15096,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Neon</source>
-        <translation type="unfinished"></translation>
+        <translation>นีออน</translation>
     </message>
     <message>
         <source>Background</source>
@@ -15112,7 +15112,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Shine</source>
-        <translation type="unfinished"></translation>
+        <translation>แวววาว</translation>
     </message>
     <message>
         <source>Chrome</source>
@@ -15120,48 +15120,54 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Holographic</source>
-        <translation type="unfinished"></translation>
+        <translation>โฮโลแกรม</translation>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่ทราบ</translation>
     </message>
     <message>
         <source>No OpenGL driver</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พบไดรเวอร์ OpenGL</translation>
     </message>
     <message>
         <source>Drift could not create an OpenGL context, so it cannot draw its interface or render the preview.
 
 Install or update your graphics driver.</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift ไม่สามารถสร้าง OpenGL context ได้ จึงไม่สามารถวาดอินเทอร์เฟซหรือเรนเดอร์ตัวอย่างได้
+
+โปรดติดตั้งหรืออัปเดตไดรเวอร์กราฟิก</translation>
     </message>
     <message>
         <source>OpenGL context unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถใช้ OpenGL context ได้</translation>
     </message>
     <message>
         <source>Drift could not create an OpenGL 3.3 core profile context, though this driver reports OpenGL %1.%2 (%3).
 
 The video preview cannot render. Updating your graphics driver may help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift ไม่สามารถสร้าง OpenGL 3.3 core profile context ได้ แม้ไดรเวอร์จะแจ้งว่าใช้ OpenGL %1.%2 (%3)
+
+ไม่สามารถเรนเดอร์ตัวอย่างวิดีโอได้ การอัปเดตไดรเวอร์กราฟิกอาจช่วยได้</translation>
     </message>
     <message>
         <source>Graphics driver is too old</source>
-        <translation type="unfinished"></translation>
+        <translation>ไดรเวอร์กราฟิกเก่าเกินไป</translation>
     </message>
     <message>
         <source>Drift needs OpenGL 3.3, but this graphics driver only provides OpenGL %1.%2 (%3).
 
 The video preview cannot render, and Drift may not start at all. Update your graphics driver, or run Drift on a machine with a newer GPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift ต้องใช้ OpenGL 3.3 แต่ไดรเวอร์กราฟิกนี้รองรับเพียง OpenGL %1.%2 (%3)
+
+ไม่สามารถเรนเดอร์ตัวอย่างวิดีโอได้ และ Drift อาจเริ่มทำงานไม่ได้เลย โปรดอัปเดตไดรเวอร์หรือใช้เครื่องที่มี GPU รุ่นใหม่กว่า</translation>
     </message>
     <message>
         <source>Drift is not drawing its window</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift ไม่ได้วาดหน้าต่าง</translation>
     </message>
     <message>
         <source>Drift has been running for %1 seconds but its window has not drawn anything yet.
