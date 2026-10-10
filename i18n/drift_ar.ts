@@ -8017,15 +8017,15 @@
     </message>
     <message>
         <source>&amp;Save Project</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;حفظ المشروع</translation>
     </message>
     <message>
         <source>Save Project &amp;As…</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ المشروع &amp;باسم…</translation>
     </message>
     <message>
         <source>Save Project &amp;JSON…</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ المشروع بصيغة &amp;JSON…</translation>
     </message>
     <message>
         <source>Open Project JSON…</source>
@@ -8033,47 +8033,47 @@
     </message>
     <message>
         <source>&amp;Export Video…</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;تصدير الفيديو…</translation>
     </message>
     <message>
         <source>&amp;Package Project…</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;تجميع المشروع…</translation>
     </message>
     <message>
         <source>&amp;Close Project</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;إغلاق المشروع</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;تحرير</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;تراجع</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;إعادة</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>ق&amp;ص</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;نسخ</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;لصق</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;حذف</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديد &amp;الكل</translation>
     </message>
     <message>
         <source>Clear Selection</source>
@@ -8105,7 +8105,7 @@
     </message>
     <message>
         <source>&amp;Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;تشغيل</translation>
     </message>
     <message>
         <source>Play / Pause</source>
@@ -8145,15 +8145,15 @@
     </message>
     <message>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;عرض</translation>
     </message>
     <message>
         <source>Zoom &amp;In</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;تكبير</translation>
     </message>
     <message>
         <source>Zoom &amp;Out</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;تصغير</translation>
     </message>
     <message>
         <source>Toggle Fullscreen Preview</source>
@@ -8165,7 +8165,7 @@
     </message>
     <message>
         <source>&amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;نافذة</translation>
     </message>
     <message>
         <source>Landscape Workspace</source>
@@ -8185,11 +8185,11 @@
     </message>
     <message>
         <source>Multicam</source>
-        <translation type="unfinished">كاميرات متعددة</translation>
+        <translation>تعدد الكاميرات</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;مساعدة</translation>
     </message>
     <message>
         <source>Keyboard Shortcuts</source>
@@ -8197,7 +8197,7 @@
     </message>
     <message>
         <source>Extras…</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافات…</translation>
     </message>
     <message>
         <source>Check for Updates…</source>
@@ -9022,7 +9022,7 @@
     </message>
     <message>
         <source>%1p</source>
-        <translation type="unfinished"></translation>
+        <translation>%1p</translation>
     </message>
     <message>
         <source>Length %1</source>
@@ -9920,7 +9920,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Set Drift to High performance in Windows Settings &gt; Display &gt; Graphics, then restart Drift.</source>
-        <translation type="unfinished"></translation>
+        <translation>اضبط Drift على «أداء عالٍ» من إعدادات Windows &gt; العرض &gt; الرسومات، ثم أعد تشغيل Drift.</translation>
     </message>
     <message>
         <source>Open graphics settings</source>
@@ -10488,15 +10488,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished">%1 s</translation>
+        <translation>%1 ث</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished">%1 min</translation>
+        <translation>%1 د</translation>
     </message>
     <message>
         <source>%1 h %2 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 س %2 د</translation>
     </message>
     <message>
         <source>Enhancing… %1% — about %2 left</source>
@@ -10703,7 +10703,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 (custom, experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (مخصص، تجريبي)</translation>
     </message>
     <message>
         <source>Original</source>
@@ -10735,7 +10735,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished">s</translation>
+        <translation>ث</translation>
     </message>
     <message>
         <source>Fit</source>
@@ -10755,11 +10755,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Upscale</source>
-        <translation type="unfinished"></translation>
+        <translation>رفع الدقة</translation>
     </message>
     <message>
         <source>Output: %1 × %2</source>
-        <translation type="unfinished"></translation>
+        <translation>الإخراج: %1 × %2</translation>
     </message>
     <message>
         <source> — larger than 4K, which is slow to edit and export</source>
@@ -10815,23 +10815,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>under a second</source>
-        <translation type="unfinished"></translation>
+        <translation>أقل من ثانية</translation>
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished">%1 s</translation>
+        <translation>%1 ث</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished">%1 min</translation>
+        <translation>%1 د</translation>
     </message>
     <message>
         <source>%1 h %2 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 س %2 د</translation>
     </message>
     <message>
         <source>%1 s per frame</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ث لكل إطار</translation>
     </message>
     <message>
         <source>No upscaling</source>
@@ -11221,7 +11221,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Choose which graphics card Drift runs on in Windows Settings, under Display &gt; Graphics. Takes effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر بطاقة الرسومات التي يستخدمها Drift من إعدادات Windows &gt; العرض &gt; الرسومات. يسري التغيير بعد إعادة التشغيل.</translation>
     </message>
     <message>
         <source>Open graphics settings</source>
@@ -12049,7 +12049,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Speed applies to video, audio and composite clips.</source>
-        <translation type="unfinished"></translation>
+        <translation>تنطبق السرعة على مقاطع الفيديو والصوت والمقاطع المركبة.</translation>
     </message>
     <message>
         <source>Playback speed</source>
