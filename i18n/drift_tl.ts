@@ -7748,7 +7748,7 @@
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Magpatuloy</translation>
     </message>
     <message>
         <source>Close</source>
@@ -7771,7 +7771,7 @@
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Magpatuloy</translation>
     </message>
     <message>
         <source>Cancel</source>
