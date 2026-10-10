@@ -4165,23 +4165,23 @@
     </message>
     <message>
         <source>Bookmark updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตบุ๊กมาร์กแล้ว</translation>
     </message>
     <message>
         <source>No video at the current time</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีวิดีโอในเวลาปัจจุบัน</translation>
     </message>
     <message>
         <source>Couldn’t capture a still frame</source>
-        <translation type="unfinished"></translation>
+        <translation>จับภาพนิ่งไม่ได้</translation>
     </message>
     <message>
         <source>Capturing freeze frame…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังจับภาพเฟรมค้าง…</translation>
     </message>
     <message>
         <source>Freeze frame added</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเฟรมค้างแล้ว</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -4196,63 +4196,63 @@
     </message>
     <message>
         <source>Saved a copy</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกสำเนาแล้ว</translation>
     </message>
     <message>
         <source>Couldn’t write %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>เขียน %1 ไม่ได้: %2</translation>
     </message>
     <message>
         <source>Project JSON saved</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึก JSON ของโปรเจกต์แล้ว</translation>
     </message>
     <message>
         <source>Still opening a project — try again in a moment.</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังเปิดโปรเจกต์อยู่ โปรดลองอีกครั้งในอีกสักครู่</translation>
     </message>
     <message>
         <source>Couldn’t read %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>อ่าน %1 ไม่ได้: %2</translation>
     </message>
     <message>
         <source>Project JSON loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>โหลด JSON ของโปรเจกต์แล้ว</translation>
     </message>
     <message>
         <source>Failed to open Premiere Pro project</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดโปรเจกต์ Premiere Pro ไม่สำเร็จ</translation>
     </message>
     <message>
         <source>Premiere Pro project imported: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าโปรเจกต์ Premiere Pro แล้ว: %1</translation>
     </message>
     <message>
         <source>That template location isn’t valid</source>
-        <translation type="unfinished"></translation>
+        <translation>ตำแหน่งเทมเพลตไม่ถูกต้อง</translation>
     </message>
     <message>
         <source>Failed to unpack Motion Graphics Template</source>
-        <translation type="unfinished"></translation>
+        <translation>แตกไฟล์ Motion Graphics Template ไม่สำเร็จ</translation>
     </message>
     <message>
         <source>Failed to apply template to project</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้เทมเพลตกับโปรเจกต์ไม่สำเร็จ</translation>
     </message>
     <message>
         <source>Import template: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าเทมเพลต: %1</translation>
     </message>
     <message>
         <source>Template imported: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าเทมเพลตแล้ว: %1</translation>
     </message>
     <message>
         <source>Failed to open Kdenlive / MLT project</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดโปรเจกต์ Kdenlive / MLT ไม่สำเร็จ</translation>
     </message>
     <message>
         <source>Kdenlive project imported: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าโปรเจกต์ Kdenlive แล้ว: %1</translation>
     </message>
     <message>
         <source>Failed to open DaVinci Resolve project / timeline</source>
@@ -8090,7 +8090,7 @@
     </message>
     <message>
         <source>Still opening a project — try again in a moment.</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังเปิดโปรเจกต์อยู่ โปรดลองอีกครั้งในอีกสักครู่</translation>
     </message>
     <message>
         <source>Open Project</source>
