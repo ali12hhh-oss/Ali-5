@@ -2480,9 +2480,8 @@
     </message>
     <message numerus="yes">
         <source>Multicam ready: %n camera(s) lined up at the start. Drag a clip to adjust its sync, then pick a shot.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>멀티캠 준비 완료: 시작 지점에 카메라 %n대가 정렬되었습니다. 클립을 드래그해 동기화를 조정한 다음 샷을 선택하세요.</numerusform>
         </translation>
     </message>
     <message>
@@ -3727,9 +3726,8 @@
     </message>
     <message numerus="yes">
         <source>Transform layer now covers %n track(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>변형 레이어가 현재 트랙 %n개를 포함합니다</numerusform>
         </translation>
     </message>
     <message>
@@ -3913,9 +3911,8 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s); %1 skipped: %2</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>얼굴 소품 %n개를 가져왔습니다. %1개 건너뜀: %2</numerusform>
         </translation>
     </message>
     <message>
@@ -4306,9 +4303,8 @@
     </message>
     <message numerus="yes">
         <source>Media collected, but %n original(s) couldn’t be deleted</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>미디어를 모았지만 원본 파일 %n개를 삭제하지 못했습니다</numerusform>
         </translation>
     </message>
     <message>
@@ -4441,9 +4437,8 @@
     </message>
     <message numerus="yes">
         <source>Applied to %n caption clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>자막 클립 %n개에 적용했습니다</numerusform>
         </translation>
     </message>
     <message>
@@ -4672,9 +4667,8 @@
     </message>
     <message numerus="yes">
         <source>Replaced with “%1”. %n clips were shortened to fit the new file.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>“%1”(으)로 바꿨습니다. 새 파일에 맞게 클립 %n개를 줄였습니다.</numerusform>
         </translation>
     </message>
     <message>
@@ -4711,23 +4705,20 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders — as many as one folder import takes. Import the remaining subfolders separately.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>폴더 %1개에 파일 %n개를 가져왔습니다. 한 번에 가져올 수 있는 폴더 수에 도달했습니다. 나머지 하위 폴더는 따로 가져오세요.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>폴더 %1개에 파일 %n개를 가져왔습니다. Drift가 형식을 인식하지 못해 파일 %2개를 건너뛰었습니다. 그래도 시도하려면 미디어 빈으로 드래그하세요.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>폴더 %1개에 파일 %n개를 가져왔습니다.</numerusform>
         </translation>
     </message>
     <message>
@@ -8788,9 +8779,8 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) may play back slowly. A proxy makes previewing smoother; export still uses the original.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>클립 %n개는 재생이 느릴 수 있습니다. 프록시를 사용하면 미리보기가 부드러워지며 내보내기에는 원본이 사용됩니다.</numerusform>
         </translation>
     </message>
     <message>
@@ -8799,9 +8789,8 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) have a variable frame rate, which can drift out of sync with audio. Convert them to an edit-friendly format to fix it.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>클립 %n개는 가변 프레임 레이트를 사용하므로 오디오와 동기화가 어긋날 수 있습니다. 편집에 적합한 형식으로 변환해 해결하세요.</numerusform>
         </translation>
     </message>
     <message>
@@ -9024,9 +9013,8 @@
     </message>
     <message numerus="yes">
         <source>%n animation(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>애니메이션 %n개</numerusform>
         </translation>
     </message>
     <message>
@@ -9444,9 +9432,8 @@
     </message>
     <message numerus="yes">
         <source>Pasting from “%1” onto %n selected clip(s):</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>“%1”에서 선택한 클립 %n개에 붙여넣는 중:</numerusform>
         </translation>
     </message>
     <message>
@@ -9475,9 +9462,8 @@
     </message>
     <message numerus="yes">
         <source>Video Effects (%n effect(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>비디오 효과(%n개)</numerusform>
         </translation>
     </message>
     <message>
@@ -9494,9 +9480,8 @@
     </message>
     <message numerus="yes">
         <source>Audio Effects (%n effect(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>오디오 효과(%n개)</numerusform>
         </translation>
     </message>
     <message>
@@ -9509,9 +9494,8 @@
     </message>
     <message numerus="yes">
         <source>Transitions (%n transition(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>전환 효과(%n개)</numerusform>
         </translation>
     </message>
     <message>
