@@ -2600,7 +2600,9 @@
     </message>
     <message numerus="yes">
         <source>%n media items and referenced clips removed</source>
-        <translation>メディア項目 %n 件と参照クリップを削除しました</translation>
+        <translation>
+            <numerusform>メディア項目 %n 件と参照クリップを削除しました</numerusform>
+        </translation>
     </message>
     <message>
         <source>Media and referenced clip removed</source>
@@ -6067,7 +6069,9 @@
     </message>
     <message numerus="yes">
         <source>Downloads — %n running</source>
-        <translation>ダウンロード — %n 件実行中</translation>
+        <translation>
+            <numerusform>ダウンロード — %n 件実行中</numerusform>
+        </translation>
     </message>
     <message>
         <source>Downloads</source>
@@ -8639,7 +8643,9 @@
     </message>
     <message numerus="yes">
         <source>Create %n proxies</source>
-        <translation>プロキシを %n 個作成</translation>
+        <translation>
+            <numerusform>プロキシを %n 個作成</numerusform>
+        </translation>
     </message>
     <message>
         <source>Create proxy</source>
@@ -8647,7 +8653,9 @@
     </message>
     <message numerus="yes">
         <source>Remove %n proxies</source>
-        <translation>プロキシを %n 個削除</translation>
+        <translation>
+            <numerusform>プロキシを %n 個削除</numerusform>
+        </translation>
     </message>
     <message>
         <source>Remove proxy</source>
@@ -8703,7 +8711,9 @@
     </message>
     <message numerus="yes">
         <source>Add %n items to timeline</source>
-        <translation>タイムラインに項目を %n 件追加</translation>
+        <translation>
+            <numerusform>タイムラインに項目を %n 件追加</numerusform>
+        </translation>
     </message>
     <message>
         <source>Add to timeline</source>
@@ -8722,7 +8732,9 @@
     </message>
     <message numerus="yes">
         <source>Remove %n items from project</source>
-        <translation>プロジェクトから項目を %n 件削除</translation>
+        <translation>
+            <numerusform>プロジェクトから項目を %n 件削除</numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -8799,7 +8811,9 @@
     </message>
     <message numerus="yes">
         <source>Could not import any of the %n selected files.</source>
-        <translation>選択した %n 個のファイルを読み込めませんでした。</translation>
+        <translation>
+            <numerusform>選択した %n 個のファイルを読み込めませんでした。</numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -12141,7 +12155,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>Filters — %n applied</source>
-        <translation>フィルター — %n 件適用済み</translation>
+        <translation>
+            <numerusform>フィルター — %n 件適用済み</numerusform>
+        </translation>
     </message>
     <message>
         <source>Filters</source>
@@ -14388,7 +14404,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>+%n more</source>
-        <translation>ほか %n 件</translation>
+        <translation>
+            <numerusform>ほか %n 件</numerusform>
+        </translation>
     </message>
 </context>
 <context>
