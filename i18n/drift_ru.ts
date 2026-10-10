@@ -8962,7 +8962,7 @@
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Назад</translation>
     </message>
     <message>
         <source>Upscale…</source>
@@ -8974,11 +8974,11 @@
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Далее</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished">Готово</translation>
+        <translation>Готово</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -9812,7 +9812,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Open graphics settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть настройки графики</translation>
     </message>
 </context>
 <context>
@@ -10372,7 +10372,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Loading the models…</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка моделей…</translation>
     </message>
     <message>
         <source>%1 s</source>
@@ -10583,11 +10583,11 @@ If playback stutters, try another.</source>
     <name>RestoreWindow</name>
     <message>
         <source>Enhance video</source>
-        <translation type="unfinished"></translation>
+        <translation>Улучшить видео</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Нет</translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <source>%1 (custom, experimental)</source>
@@ -10595,7 +10595,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Original</source>
-        <translation type="unfinished">Оригинал</translation>
+        <translation>Оригинал</translation>
     </message>
     <message>
         <source>Enhanced — out of date, preview again</source>
@@ -10619,7 +10619,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Кадр</translation>
     </message>
     <message>
         <source>s</source>
@@ -10627,7 +10627,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Вписать</translation>
     </message>
     <message>
         <source>Preview one frame, then enhance the whole video. The result is added to the media bin. Enhancing is slow — minutes per second of video without a GPU.</source>
@@ -10639,7 +10639,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Remove compression</source>
-        <translation type="unfinished"></translation>
+        <translation>Убрать артефакты сжатия</translation>
     </message>
     <message>
         <source>Upscale</source>
@@ -10663,7 +10663,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Preview this frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Предпросмотр этого кадра</translation>
     </message>
     <message>
         <source>Anime and drawings</source>
@@ -10683,11 +10683,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Choose an upscaler</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите средство увеличения разрешения</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished">Все</translation>
+        <translation>Все</translation>
     </message>
     <message>
         <source>Speeds are per frame of this clip. Custom models are experimental and may not work. Drop an ONNX export (fp32 or fp16, RGB, 1x/2x/4x) into the folder; put the scale in the file name, e.g. &quot;2x_Name.onnx&quot;.</source>
@@ -10695,11 +10695,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Refresh model list</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить список моделей</translation>
     </message>
     <message>
         <source>Enhance clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Улучшить клип</translation>
     </message>
     <message>
         <source>under a second</source>
@@ -10727,27 +10727,27 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Keep the original size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить исходный размер.</translation>
     </message>
     <message>
         <source>Install AI engine first</source>
-        <translation type="unfinished">Сначала установите движок ИИ</translation>
+        <translation>Сначала установите ИИ-движок</translation>
     </message>
     <message>
         <source>Get models (openmodeldb.info)</source>
-        <translation type="unfinished"></translation>
+        <translation>Получить модели (openmodeldb.info)</translation>
     </message>
     <message>
         <source>Open custom models folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть папку пользовательских моделей</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished">Остановить</translation>
+        <translation>Остановить</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Закрыть</translation>
+        <translation>Закрыть</translation>
     </message>
 </context>
 <context>
@@ -11113,7 +11113,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Open graphics settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть настройки графики</translation>
     </message>
     <message>
         <source>Playback</source>
@@ -14757,15 +14757,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Before</source>
-        <translation type="unfinished"></translation>
+        <translation>До</translation>
     </message>
     <message>
         <source>After</source>
-        <translation type="unfinished"></translation>
+        <translation>После</translation>
     </message>
     <message>
         <source>Custom model</source>
-        <translation type="unfinished"></translation>
+        <translation>Пользовательская модель</translation>
     </message>
 </context>
 <context>
