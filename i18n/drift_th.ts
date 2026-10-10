@@ -60,7 +60,7 @@
     </message>
     <message>
         <source>Drift effect (*.driftfx)</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์ Drift (*.driftfx)</translation>
     </message>
     <message>
         <source>Install this transition?</source>
@@ -124,43 +124,43 @@
     </message>
     <message>
         <source>Import effect file…</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าไฟล์เอฟเฟกต์…</translation>
     </message>
     <message>
         <source>Checking for extras…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังตรวจสอบส่วนเสริม…</translation>
     </message>
     <message>
         <source>How AI runs</source>
-        <translation type="unfinished"></translation>
+        <translation>วิธีทำงานของ AI</translation>
     </message>
     <message>
         <source>Automatic picks the fastest option you have installed, and uses this computer if the graphics card can&apos;t help.</source>
-        <translation type="unfinished"></translation>
+        <translation>โหมดอัตโนมัติจะเลือกตัวเลือกที่เร็วที่สุดจากที่ติดตั้งไว้ และจะใช้คอมพิวเตอร์เครื่องนี้หากการ์ดกราฟิกไม่สามารถช่วยได้</translation>
     </message>
     <message>
         <source>Install an AI Engine below to unlock auto captions, subject cutout, funny face effects, and noise removal.</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้ง AI Engine ด้านล่างเพื่อใช้งานคำบรรยายอัตโนมัติ การแยกวัตถุ เอฟเฟกต์ใบหน้าตลก และการลดเสียงรบกวน</translation>
     </message>
     <message>
         <source>Restart Drift for this to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>รีสตาร์ต Drift เพื่อให้การเปลี่ยนแปลงมีผล</translation>
     </message>
     <message>
         <source>Can&apos;t reach the download store</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถเชื่อมต่อร้านดาวน์โหลดได้</translation>
     </message>
     <message>
         <source>Nothing in this category</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีรายการในหมวดหมู่นี้</translation>
     </message>
     <message>
         <source>Check your connection and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>ตรวจสอบการเชื่อมต่อแล้วลองอีกครั้ง</translation>
     </message>
     <message>
         <source>Pick another category above.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกหมวดหมู่อื่นด้านบน</translation>
     </message>
     <message>
         <source>Retry</source>
@@ -180,7 +180,7 @@
     </message>
     <message>
         <source>Requires Drift %1 or newer</source>
-        <translation type="unfinished"></translation>
+        <translation>ต้องใช้ Drift %1 หรือเวอร์ชันใหม่กว่า</translation>
     </message>
     <message>
         <source>%1 download</source>
@@ -204,26 +204,26 @@
     </message>
     <message>
         <source>Delete this pack&apos;s downloaded data</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบข้อมูลที่ดาวน์โหลดของแพ็กนี้</translation>
     </message>
 </context>
 <context>
     <name>AddonStartupDialog</name>
     <message>
         <source>Extra packs</source>
-        <translation type="unfinished"></translation>
+        <translation>แพ็กเสริม</translation>
     </message>
     <message>
         <source>Pack updates available</source>
-        <translation type="unfinished"></translation>
+        <translation>มีอัปเดตสำหรับแพ็ก</translation>
     </message>
     <message>
         <source>Recommended packs</source>
-        <translation type="unfinished"></translation>
+        <translation>แพ็กที่แนะนำ</translation>
     </message>
     <message>
         <source>Install the essential packs for effects, transitions, and audio. You can keep using Drift without them — installing unlocks updates when they improve.</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้งแพ็กที่จำเป็นสำหรับเอฟเฟกต์ ทรานซิชัน และเสียง คุณยังใช้ Drift ได้โดยไม่ต้องติดตั้ง แต่การติดตั้งจะช่วยให้รับการอัปเดตเมื่อมีการปรับปรุง</translation>
     </message>
     <message>
         <source>%1… %2%</source>
@@ -231,11 +231,11 @@
     </message>
     <message>
         <source>Don&apos;t remind me of essential addons</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่ต้องเตือนเกี่ยวกับส่วนเสริมที่จำเป็น</translation>
     </message>
     <message>
         <source>Updates are available for packs you already have installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>มีอัปเดตสำหรับแพ็กที่คุณติดตั้งไว้แล้ว</translation>
     </message>
     <message>
         <source>%1 → %2</source>
@@ -243,7 +243,7 @@
     </message>
     <message>
         <source>Don&apos;t remind me of future addon updates</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่ต้องเตือนเกี่ยวกับการอัปเดตส่วนเสริมในอนาคต</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -255,11 +255,11 @@
     </message>
     <message>
         <source>Installing…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังติดตั้ง…</translation>
     </message>
     <message>
         <source>Install &amp; update</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้งและอัปเดต</translation>
     </message>
     <message>
         <source>Update</source>
@@ -267,7 +267,7 @@
     </message>
     <message>
         <source>Update all</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตทั้งหมด</translation>
     </message>
     <message>
         <source>Install</source>
@@ -275,18 +275,18 @@
     </message>
     <message>
         <source>Install all</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้งทั้งหมด</translation>
     </message>
 </context>
 <context>
     <name>AgentAccessControls</name>
     <message>
         <source>Allow for this session</source>
-        <translation type="unfinished"></translation>
+        <translation>อนุญาตสำหรับเซสชันนี้</translation>
     </message>
     <message>
         <source>Let an assistant on this device edit this project until you turn it off or quit.</source>
-        <translation type="unfinished"></translation>
+        <translation>อนุญาตให้ผู้ช่วยบนอุปกรณ์นี้แก้ไขโปรเจกต์ได้จนกว่าคุณจะปิดสิทธิ์หรือออกจากแอป</translation>
     </message>
     <message>
         <source>Turn this on, then copy the setup for Cursor or Claude and paste it into that app.</source>
@@ -294,7 +294,7 @@
     </message>
     <message>
         <source>Access is on</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดใช้งานการเข้าถึงแล้ว</translation>
     </message>
     <message>
         <source>Listening on %1</source>
@@ -302,15 +302,15 @@
     </message>
     <message>
         <source>New key</source>
-        <translation type="unfinished"></translation>
+        <translation>คีย์ใหม่</translation>
     </message>
     <message>
         <source>Replace the key. Every assistant set up with the old one stops working until you copy the setup again.</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนคีย์ ผู้ช่วยทุกตัวที่ตั้งค่าด้วยคีย์เดิมจะหยุดทำงานจนกว่าคุณจะคัดลอกการตั้งค่าใหม่</translation>
     </message>
     <message>
         <source>New key made — copy the setup again</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างคีย์ใหม่แล้ว — คัดลอกการตั้งค่าอีกครั้ง</translation>
     </message>
     <message>
         <source>Copy the setup for the assistant you use. You only need one.</source>
@@ -318,7 +318,7 @@
     </message>
     <message>
         <source>Copy for Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกสำหรับ Cursor</translation>
     </message>
     <message>
         <source>Copy a setup snippet to paste into Cursor</source>
@@ -330,7 +330,7 @@
     </message>
     <message>
         <source>Copy for Claude</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกสำหรับ Claude</translation>
     </message>
     <message>
         <source>Copy a command to paste into Claude Code</source>
@@ -358,7 +358,7 @@
     </message>
     <message>
         <source>More options</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวเลือกเพิ่มเติม</translation>
     </message>
     <message>
         <source>For a different assistant, copy a one-time setup. The address and key are already in the Cursor and Claude copies above.</source>
@@ -1296,7 +1296,7 @@
     </message>
     <message>
         <source>Close gap</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดช่องว่าง</translation>
     </message>
     <message>
         <source>Close gap after clip</source>
@@ -1550,15 +1550,15 @@
     </message>
     <message>
         <source>Name, resolution and timebase</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อ ความละเอียด และฐานเวลา</translation>
     </message>
     <message>
         <source>Multicam</source>
-        <translation type="unfinished"></translation>
+        <translation>หลายกล้อง</translation>
     </message>
     <message>
         <source>Sync and switch between angles</source>
-        <translation type="unfinished"></translation>
+        <translation>ซิงก์และสลับระหว่างมุมกล้อง</translation>
     </message>
     <message>
         <source>App settings</source>
@@ -1566,7 +1566,7 @@
     </message>
     <message>
         <source>Appearance, extras and agent access</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปลักษณ์ ส่วนเสริม และการเข้าถึงของเอเจนต์</translation>
     </message>
 </context>
 <context>
@@ -1577,7 +1577,7 @@
     </message>
     <message>
         <source>Pick a clip, start now</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกคลิปเพื่อเริ่มทันที</translation>
     </message>
     <message>
         <source>New project</source>
@@ -1585,11 +1585,11 @@
     </message>
     <message>
         <source>Choose a canvas, start empty</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกพื้นที่ทำงานเพื่อเริ่มจากโปรเจกต์ว่าง</translation>
     </message>
     <message>
         <source>Create polished videos fast</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างวิดีโอคุณภาพดีได้อย่างรวดเร็ว</translation>
     </message>
     <message>
         <source>Recent projects</source>
@@ -1651,23 +1651,23 @@
     <name>AndroidTimeline</name>
     <message>
         <source>Save effect preset</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกพรีเซ็ตเอฟเฟกต์</translation>
     </message>
     <message>
         <source>Convert to subtitle?</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงเป็นคำบรรยายหรือไม่</translation>
     </message>
     <message>
         <source>Convert</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลง</translation>
     </message>
     <message>
         <source>The selected text clips will be replaced by one subtitle clip. Every caption will use the position and style of the first text clip.</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิปข้อความที่เลือกจะถูกแทนที่ด้วยคลิปคำบรรยายหนึ่งคลิป คำบรรยายทั้งหมดจะใช้ตำแหน่งและรูปแบบของคลิปข้อความแรก</translation>
     </message>
     <message>
         <source>Rename clip</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อคลิป</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -1679,11 +1679,11 @@
     </message>
     <message>
         <source>Clip name</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อคลิป</translation>
     </message>
     <message>
         <source>Rename bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อบุ๊กมาร์ก</translation>
     </message>
     <message>
         <source>Label</source>
@@ -1691,7 +1691,7 @@
     </message>
     <message>
         <source>Bookmark name</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อบุ๊กมาร์ก</translation>
     </message>
     <message>
         <source>Bookmark</source>
@@ -1707,15 +1707,15 @@
     </message>
     <message>
         <source>Previewing from a low-resolution proxy. Export uses the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังแสดงตัวอย่างจากพร็อกซีความละเอียดต่ำ การส่งออกจะใช้ไฟล์ต้นฉบับ</translation>
     </message>
     <message>
         <source>Edit-friendly</source>
-        <translation type="unfinished"></translation>
+        <translation>เหมาะสำหรับการตัดต่อ</translation>
     </message>
     <message>
         <source>Converted to a constant frame rate for smooth editing</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงเป็นอัตราเฟรมคงที่เพื่อให้ตัดต่อได้ลื่นไหล</translation>
     </message>
     <message>
         <source>Variable frame rate. This clip can drift out of sync with its audio. Right-click it and choose Convert to edit-friendly format.</source>
@@ -1750,15 +1750,15 @@
     </message>
     <message>
         <source>Add new track</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มแทร็กใหม่</translation>
     </message>
     <message>
         <source>Go to bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>ไปยังบุ๊กมาร์ก</translation>
     </message>
     <message>
         <source>Move to playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้ายไปยังหัวอ่าน</translation>
     </message>
     <message>
         <source>Rename…</source>
@@ -1778,7 +1778,7 @@
     </message>
     <message>
         <source>Close gap</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดช่องว่าง</translation>
     </message>
     <message>
         <source>New track</source>
@@ -1813,7 +1813,7 @@
     </message>
     <message>
         <source>Show export progress</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงความคืบหน้าการส่งออก</translation>
     </message>
 </context>
 <context>
@@ -1827,7 +1827,7 @@
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงรูปทรง</translation>
     </message>
     <message>
         <source>Select %1</source>
@@ -1846,19 +1846,19 @@
     </message>
     <message>
         <source>Slide up</source>
-        <translation type="unfinished"></translation>
+        <translation>เลื่อนขึ้น</translation>
     </message>
     <message>
         <source>Slide down</source>
-        <translation type="unfinished"></translation>
+        <translation>เลื่อนลง</translation>
     </message>
     <message>
         <source>Slide left</source>
-        <translation type="unfinished"></translation>
+        <translation>เลื่อนไปทางซ้าย</translation>
     </message>
     <message>
         <source>Slide right</source>
-        <translation type="unfinished"></translation>
+        <translation>เลื่อนไปทางขวา</translation>
     </message>
     <message>
         <source>Zoom in</source>
@@ -1870,19 +1870,19 @@
     </message>
     <message>
         <source>Pop</source>
-        <translation type="unfinished"></translation>
+        <translation>เด้ง</translation>
     </message>
     <message>
         <source>Spin CW</source>
-        <translation type="unfinished"></translation>
+        <translation>หมุนตามเข็มนาฬิกา</translation>
     </message>
     <message>
         <source>Spin CCW</source>
-        <translation type="unfinished"></translation>
+        <translation>หมุนทวนเข็มนาฬิกา</translation>
     </message>
     <message>
         <source>Bounce</source>
-        <translation type="unfinished"></translation>
+        <translation>เด้งกลับ</translation>
     </message>
     <message>
         <source>Linear</source>
@@ -1902,19 +1902,19 @@
     </message>
     <message>
         <source>Bezier</source>
-        <translation type="unfinished"></translation>
+        <translation>เบซิเยร์</translation>
     </message>
     <message>
         <source>Not available</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พร้อมใช้งาน</translation>
     </message>
     <message>
         <source>Animation applies to video, image, shape, text, and audio.</source>
-        <translation type="unfinished"></translation>
+        <translation>แอนิเมชันใช้ได้กับวิดีโอ รูปภาพ รูปร่าง ข้อความ และเสียง</translation>
     </message>
     <message>
         <source>Fade in / out (volume)</source>
-        <translation type="unfinished"></translation>
+        <translation>เฟดเข้า / ออก (ระดับเสียง)</translation>
     </message>
     <message>
         <source>Style</source>
@@ -1922,7 +1922,7 @@
     </message>
     <message>
         <source>Pick how the clip enters and leaves. Fade is one option — same style controls as slide or zoom.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกวิธีที่คลิปเริ่มต้นและสิ้นสุด เฟดเป็นหนึ่งในตัวเลือก โดยใช้การควบคุมรูปแบบเดียวกับการเลื่อนหรือซูม</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -3105,7 +3105,7 @@
     </message>
     <message>
         <source>Rename clip</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อคลิป</translation>
     </message>
     <message>
         <source>Clip renamed</source>
@@ -4541,7 +4541,7 @@
     </message>
     <message>
         <source>Close gap</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดช่องว่าง</translation>
     </message>
     <message>
         <source>Folder created</source>
@@ -6184,7 +6184,7 @@
     </message>
     <message>
         <source>Multicam</source>
-        <translation type="unfinished"></translation>
+        <translation>หลายกล้อง</translation>
     </message>
     <message>
         <source>Workspace</source>
@@ -7108,7 +7108,7 @@
     </message>
     <message>
         <source>Bezier</source>
-        <translation type="unfinished"></translation>
+        <translation>เบซิเยร์</translation>
     </message>
     <message>
         <source>Linear</source>
@@ -7228,7 +7228,7 @@
     </message>
     <message>
         <source>Clip name</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อคลิป</translation>
     </message>
     <message>
         <source>Untitled clip</source>
@@ -7236,7 +7236,7 @@
     </message>
     <message>
         <source>Rename clip</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อคลิป</translation>
     </message>
     <message>
         <source>Type</source>
@@ -8101,7 +8101,7 @@
     </message>
     <message>
         <source>Multicam</source>
-        <translation type="unfinished"></translation>
+        <translation>หลายกล้อง</translation>
     </message>
     <message>
         <source>&amp;Help</source>
@@ -8703,11 +8703,11 @@
     </message>
     <message>
         <source>Edit-friendly</source>
-        <translation type="unfinished"></translation>
+        <translation>เหมาะสำหรับการตัดต่อ</translation>
     </message>
     <message>
         <source>Converted to a constant frame rate for smooth editing</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงเป็นอัตราเฟรมคงที่เพื่อให้ตัดต่อได้ลื่นไหล</translation>
     </message>
     <message>
         <source>Collapse folder</source>
@@ -8821,7 +8821,7 @@
     </message>
     <message>
         <source>Convert</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลง</translation>
     </message>
     <message>
         <source>Imported %1 of %2 files. The rest could not be opened — this package cannot read files dropped from other apps. Use Import instead.</source>
@@ -8993,7 +8993,7 @@
     </message>
     <message>
         <source>Install all</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้งทั้งหมด</translation>
     </message>
     <message>
         <source>Skip</source>
@@ -9209,7 +9209,7 @@
     <name>MulticamWindow</name>
     <message>
         <source>Multicam</source>
-        <translation type="unfinished"></translation>
+        <translation>หลายกล้อง</translation>
     </message>
     <message>
         <source>Pick the camera. Cuts stay staged until you save.</source>
@@ -9335,7 +9335,7 @@
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงรูปทรง</translation>
     </message>
     <message>
         <source>New track</source>
@@ -10077,7 +10077,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงรูปทรง</translation>
     </message>
     <message>
         <source>Stabilization</source>
@@ -10129,7 +10129,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Save effect preset</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกพรีเซ็ตเอฟเฟกต์</translation>
     </message>
     <message>
         <source>Save effect as preset</source>
@@ -11210,7 +11210,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Extra packs</source>
-        <translation type="unfinished"></translation>
+        <translation>แพ็กเสริม</translation>
     </message>
     <message>
         <source>Remind about essential packs</source>
@@ -11926,7 +11926,7 @@ If playback stutters, try another.</source>
     <name>SpeedFadeInspector</name>
     <message>
         <source>Not available</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พร้อมใช้งาน</translation>
     </message>
     <message>
         <source>Speed applies to video, audio and composite clips.</source>
@@ -12104,7 +12104,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Create polished videos fast</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างวิดีโอคุณภาพดีได้อย่างรวดเร็ว</translation>
     </message>
     <message>
         <source>New Project</source>
@@ -12151,7 +12151,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Nothing in this category</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีรายการในหมวดหมู่นี้</translation>
     </message>
     <message>
         <source>Try a different name.</source>
@@ -12732,7 +12732,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Bounce</source>
-        <translation type="unfinished"></translation>
+        <translation>เด้งกลับ</translation>
     </message>
     <message>
         <source>Save style…</source>
@@ -13582,15 +13582,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Previewing from a low-resolution proxy. Export uses the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังแสดงตัวอย่างจากพร็อกซีความละเอียดต่ำ การส่งออกจะใช้ไฟล์ต้นฉบับ</translation>
     </message>
     <message>
         <source>Edit-friendly</source>
-        <translation type="unfinished"></translation>
+        <translation>เหมาะสำหรับการตัดต่อ</translation>
     </message>
     <message>
         <source>Converted to a constant frame rate for smooth editing</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงเป็นอัตราเฟรมคงที่เพื่อให้ตัดต่อได้ลื่นไหล</translation>
     </message>
     <message>
         <source>Variable frame rate. This clip can drift out of sync with its audio. Right-click it and choose Convert to edit-friendly format.</source>
@@ -13602,11 +13602,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Save effect preset</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกพรีเซ็ตเอฟเฟกต์</translation>
     </message>
     <message>
         <source>Add new track</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มแทร็กใหม่</translation>
     </message>
     <message>
         <source>Click or drag to seek</source>
@@ -13614,7 +13614,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Go to bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>ไปยังบุ๊กมาร์ก</translation>
     </message>
     <message>
         <source>Rename…</source>
@@ -13650,7 +13650,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Rename bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อบุ๊กมาร์ก</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -13662,7 +13662,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Bookmark name</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อบุ๊กมาร์ก</translation>
     </message>
     <message>
         <source>Bookmark</source>
@@ -13670,19 +13670,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Convert to subtitle?</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงเป็นคำบรรยายหรือไม่</translation>
     </message>
     <message>
         <source>Convert</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลง</translation>
     </message>
     <message>
         <source>The selected text clips will be replaced by one subtitle clip. Every caption will use the position and style of the first text clip.</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิปข้อความที่เลือกจะถูกแทนที่ด้วยคลิปคำบรรยายหนึ่งคลิป คำบรรยายทั้งหมดจะใช้ตำแหน่งและรูปแบบของคลิปข้อความแรก</translation>
     </message>
     <message>
         <source>Rename clip</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อคลิป</translation>
     </message>
     <message>
         <source>Name</source>
@@ -13690,7 +13690,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Clip name</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อคลิป</translation>
     </message>
     <message>
         <source>My look</source>
@@ -13943,7 +13943,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงรูปทรง</translation>
     </message>
     <message>
         <source>Adjustment</source>
@@ -14028,7 +14028,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงรูปทรง</translation>
     </message>
     <message>
         <source>Adjustment</source>
@@ -14359,7 +14359,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงรูปทรง</translation>
     </message>
     <message>
         <source>3D layer</source>
@@ -14374,7 +14374,7 @@ If playback stutters, try another.</source>
     <name>TransformLayerCard</name>
     <message>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงรูปทรง</translation>
     </message>
     <message>
         <source>Audio</source>
@@ -14455,7 +14455,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงรูปทรง</translation>
     </message>
     <message>
         <source>Select %1</source>
@@ -14574,7 +14574,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Bezier</source>
-        <translation type="unfinished"></translation>
+        <translation>เบซิเยร์</translation>
     </message>
     <message>
         <source>On</source>
@@ -14629,7 +14629,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Nothing in this category</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีรายการในหมวดหมู่นี้</translation>
     </message>
     <message>
         <source>Try a different name.</source>
