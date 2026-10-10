@@ -1730,7 +1730,9 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s)</source>
-        <translation>%n คลิป</translation>
+        <translation>
+            <numerusform>%n คลิป</numerusform>
+        </translation>
     </message>
     <message>
         <source>All</source>
@@ -1816,7 +1818,9 @@
     <name>AndroidTransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>%1 · %n คลิป</translation>
+        <translation>
+            <numerusform>%1 · %n คลิป</numerusform>
+        </translation>
     </message>
     <message>
         <source>Transform</source>
@@ -2450,7 +2454,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n subtitles</source>
-        <translation>นำเข้าคำบรรยาย %n รายการแล้ว</translation>
+        <translation>
+            <numerusform>นำเข้าคำบรรยาย %n รายการแล้ว</numerusform>
+        </translation>
     </message>
     <message>
         <source>No audio output devices were found, so playback will be silent.</source>
@@ -2474,7 +2480,9 @@
     </message>
     <message numerus="yes">
         <source>Multicam ready: %n camera(s) lined up at the start. Drag a clip to adjust its sync, then pick a shot.</source>
-        <translation>พร้อมใช้หลายกล้อง: จัดแนวกล้อง %n ตัวไว้ที่จุดเริ่มแล้ว ลากคลิปเพื่อปรับการซิงก์ จากนั้นเลือกช็อต</translation>
+        <translation>
+            <numerusform>พร้อมใช้หลายกล้อง: จัดแนวกล้อง %n ตัวไว้ที่จุดเริ่มแล้ว ลากคลิปเพื่อปรับการซิงก์ จากนั้นเลือกช็อต</numerusform>
+        </translation>
     </message>
     <message>
         <source>Select at least two video clips on different tracks.</source>
@@ -2592,7 +2600,9 @@
     </message>
     <message numerus="yes">
         <source>%n media items and referenced clips removed</source>
-        <translation>ลบรายการสื่อ %n รายการและคลิปที่อ้างอิงแล้ว</translation>
+        <translation>
+            <numerusform>ลบรายการสื่อ %n รายการและคลิปที่อ้างอิงแล้ว</numerusform>
+        </translation>
     </message>
     <message>
         <source>Media and referenced clip removed</source>
@@ -14403,7 +14413,9 @@ If playback stutters, try another.</source>
     <name>TransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>%1 · %n คลิป</translation>
+        <translation>
+            <numerusform>%1 · %n คลิป</numerusform>
+        </translation>
     </message>
     <message>
         <source>Transform</source>
