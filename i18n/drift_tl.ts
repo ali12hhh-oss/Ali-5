@@ -1827,7 +1827,7 @@
     </message>
     <message>
         <source>Transform</source>
-        <translation>Transform</translation>
+        <translation>Baguhin</translation>
     </message>
     <message>
         <source>Select %1</source>
@@ -1898,7 +1898,7 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation>Custom</translation>
+        <translation>Pasadyang</translation>
     </message>
     <message>
         <source>Bezier</source>
@@ -1934,7 +1934,7 @@
     </message>
     <message>
         <source>Out</source>
-        <translation>Out</translation>
+        <translation>Palabas</translation>
     </message>
     <message>
         <source>Edit custom curve…</source>
@@ -2105,7 +2105,7 @@
     </message>
     <message>
         <source>Cut tool</source>
-        <translation>Cut tool</translation>
+        <translation>Tool sa pagputol</translation>
     </message>
     <message>
         <source>Faster preview takes effect after you restart Drift.</source>
@@ -2937,7 +2937,7 @@
     </message>
     <message>
         <source>Adjustment Layer</source>
-        <translation>Adjustment Layer</translation>
+        <translation>Layer ng pagsasaayos</translation>
     </message>
     <message>
         <source>Adjustment (%1)</source>
@@ -3277,7 +3277,7 @@
     </message>
     <message>
         <source>Composite</source>
-        <translation>Composite</translation>
+        <translation>Pagsamahin</translation>
     </message>
     <message>
         <source>Flattening composite…</source>
@@ -3389,7 +3389,7 @@
     </message>
     <message>
         <source>Animation slot</source>
-        <translation>Animation slot</translation>
+        <translation>Puwang ng animation</translation>
     </message>
     <message>
         <source>Animation slot updated</source>
@@ -3421,7 +3421,7 @@
     </message>
     <message>
         <source>Freeform</source>
-        <translation>Freeform</translation>
+        <translation>Malayang hugis</translation>
     </message>
     <message>
         <source>Add mask</source>
@@ -4410,7 +4410,7 @@
     </message>
     <message>
         <source>Light</source>
-        <translation>Light</translation>
+        <translation>Liwanag</translation>
     </message>
     <message>
         <source>Colour</source>
@@ -4751,11 +4751,11 @@
     </message>
     <message>
         <source>Market</source>
-        <translation>Market</translation>
+        <translation>Pamilihan</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>Text</translation>
+        <translation>Teksto</translation>
     </message>
     <message>
         <source>Subtitles</source>
@@ -4947,7 +4947,7 @@
     </message>
     <message>
         <source>Space</source>
-        <translation>Space</translation>
+        <translation>Espasyo</translation>
     </message>
     <message>
         <source>Other</source>
@@ -5029,7 +5029,7 @@
     <name>AudioInspector</name>
     <message>
         <source>Volume</source>
-        <translation>Volume</translation>
+        <translation>Lakas ng tunog</translation>
     </message>
     <message>
         <source>Recommended caption length</source>
@@ -5053,7 +5053,7 @@
     </message>
     <message>
         <source>Pan</source>
-        <translation>Pan</translation>
+        <translation>I-pan</translation>
     </message>
     <message>
         <source>C</source>
@@ -5208,7 +5208,7 @@
     </message>
     <message>
         <source>Master volume</source>
-        <translation>Master volume</translation>
+        <translation>Pangunahing lakas ng tunog</translation>
     </message>
     <message>
         <source>%1 volume</source>
@@ -5305,7 +5305,7 @@
     </message>
     <message>
         <source>Blend mode</source>
-        <translation>Blend mode</translation>
+        <translation>Mode ng paghahalo</translation>
     </message>
     <message>
         <source>How this clip&apos;s colours combine with the tracks beneath it.</source>
@@ -5479,7 +5479,7 @@
     </message>
     <message>
         <source>Playback</source>
-        <translation>Playback</translation>
+        <translation>Pag-playback</translation>
     </message>
     <message>
         <source>Video decoders</source>
@@ -5535,7 +5535,7 @@
     </message>
     <message>
         <source>System</source>
-        <translation>System</translation>
+        <translation>Sistema</translation>
     </message>
     <message>
         <source>Delivered well above displayed means frames are being produced that the display never shows — a cadence problem rather than a slow machine.</source>
@@ -5571,11 +5571,11 @@
     </message>
     <message>
         <source>Timeline clip</source>
-        <translation>Timeline clip</translation>
+        <translation>Clip sa timeline</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation>Source</translation>
+        <translation>Pinagmulan</translation>
     </message>
     <message>
         <source>Decoder</source>
@@ -5595,7 +5595,7 @@
     </message>
     <message>
         <source>Decode</source>
-        <translation>Decode</translation>
+        <translation>I-decode</translation>
     </message>
     <message>
         <source>Readback to CPU costs</source>
@@ -5693,7 +5693,7 @@
     </message>
     <message>
         <source>Focus</source>
-        <translation>Focus</translation>
+        <translation>Pokus</translation>
     </message>
     <message>
         <source>Pick focus</source>
@@ -6104,7 +6104,7 @@
     </message>
     <message>
         <source>Video</source>
-        <translation>Video</translation>
+        <translation>Bidyo</translation>
     </message>
     <message>
         <source>Video size and layout</source>
@@ -6120,7 +6120,7 @@
     </message>
     <message>
         <source>Light</source>
-        <translation>Light</translation>
+        <translation>Liwanag</translation>
     </message>
     <message>
         <source>Dark</source>
@@ -6196,15 +6196,15 @@
     </message>
     <message>
         <source>Landscape</source>
-        <translation>Landscape</translation>
+        <translation>Pahalang</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation>Portrait</translation>
+        <translation>Patayo</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation>Theme</translation>
+        <translation>Tema</translation>
     </message>
 </context>
 <context>
@@ -6263,7 +6263,7 @@
     </message>
     <message>
         <source>Built-in</source>
-        <translation>Built-in</translation>
+        <translation>Naka-built-in</translation>
     </message>
 </context>
 <context>
@@ -6294,7 +6294,7 @@
     </message>
     <message>
         <source>Funny Face</source>
-        <translation>Funny Face</translation>
+        <translation>Nakakatawang mukha</translation>
     </message>
     <message>
         <source>Beauty &amp; Makeup</source>
@@ -6302,11 +6302,11 @@
     </message>
     <message>
         <source>Face Props</source>
-        <translation>Face Props</translation>
+        <translation>Mga aksesorya sa mukha</translation>
     </message>
     <message>
         <source>Artistic</source>
-        <translation>Artistic</translation>
+        <translation>Masining</translation>
     </message>
     <message>
         <source>Depth &amp; Lighting</source>
@@ -6431,15 +6431,15 @@
     </message>
     <message>
         <source>Dreamy</source>
-        <translation>Dreamy</translation>
+        <translation>Parang panaginip</translation>
     </message>
     <message>
         <source>Cinematic</source>
-        <translation>Cinematic</translation>
+        <translation>Pang-sine</translation>
     </message>
     <message>
         <source>Clone</source>
-        <translation>Clone</translation>
+        <translation>Kopya</translation>
     </message>
     <message>
         <source>Anime</source>
@@ -6459,7 +6459,7 @@
     </message>
     <message>
         <source>Transition</source>
-        <translation>Transition</translation>
+        <translation>Transisyon</translation>
     </message>
     <message>
         <source>Other</source>
@@ -6514,7 +6514,7 @@
     </message>
     <message>
         <source>Depth</source>
-        <translation>Depth</translation>
+        <translation>Lalim</translation>
     </message>
     <message>
         <source>Depth effects follow one clip&apos;s depth. Add this to a clip rather than to an adjustment layer.</source>
@@ -6554,7 +6554,7 @@
     </message>
     <message>
         <source>Auto keyframes</source>
-        <translation>Auto keyframes</translation>
+        <translation>Mga awtomatikong keyframe</translation>
     </message>
     <message>
         <source>No effects yet</source>
@@ -6716,7 +6716,7 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation>Custom</translation>
+        <translation>Pasadyang</translation>
     </message>
     <message>
         <source>Custom…</source>
@@ -6744,7 +6744,7 @@
     </message>
     <message>
         <source>Video</source>
-        <translation>Video</translation>
+        <translation>Bidyo</translation>
     </message>
     <message>
         <source>Audio</source>
@@ -7196,7 +7196,7 @@
     <name>GeneralInspector</name>
     <message>
         <source>Video</source>
-        <translation>Video</translation>
+        <translation>Bidyo</translation>
     </message>
     <message>
         <source>Audio</source>
@@ -7208,7 +7208,7 @@
     </message>
     <message>
         <source>Text</source>
-        <translation>Text</translation>
+        <translation>Teksto</translation>
     </message>
     <message>
         <source>Subtitle</source>
@@ -7224,7 +7224,7 @@
     </message>
     <message>
         <source>Adjustment</source>
-        <translation>Adjustment</translation>
+        <translation>Pagsasaayos</translation>
     </message>
     <message>
         <source>Clip name</source>
@@ -7540,7 +7540,7 @@
     </message>
     <message>
         <source>Built-in</source>
-        <translation>Built-in</translation>
+        <translation>Naka-built-in</translation>
     </message>
     <message>
         <source>From project</source>
@@ -7622,23 +7622,23 @@
     </message>
     <message>
         <source>Rotation</source>
-        <translation>Rotation</translation>
+        <translation>Pag-ikot</translation>
     </message>
     <message>
         <source>Tilt X</source>
-        <translation>Tilt X</translation>
+        <translation>Ikiling X</translation>
     </message>
     <message>
         <source>Tilt Y</source>
-        <translation>Tilt Y</translation>
+        <translation>Ikiling Y</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation>Depth</translation>
+        <translation>Lalim</translation>
     </message>
     <message>
         <source>Perspective</source>
-        <translation>Perspective</translation>
+        <translation>Perspektibo</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -7646,7 +7646,7 @@
     </message>
     <message>
         <source>Volume</source>
-        <translation>Volume</translation>
+        <translation>Lakas ng tunog</translation>
     </message>
     <message>
         <source>Mask X</source>
@@ -7882,11 +7882,11 @@
     </message>
     <message>
         <source>Landscape</source>
-        <translation>Landscape</translation>
+        <translation>Pahalang</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation>Portrait</translation>
+        <translation>Patayo</translation>
     </message>
     <message>
         <source>Classic</source>
@@ -7894,7 +7894,7 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation>Custom</translation>
+        <translation>Pasadyang</translation>
     </message>
     <message>
         <source>Any size</source>
@@ -8415,7 +8415,7 @@
     </message>
     <message>
         <source>Freeform</source>
-        <translation>Freeform</translation>
+        <translation>Malayang hugis</translation>
     </message>
     <message>
         <source>Combine</source>
@@ -8459,7 +8459,7 @@
     </message>
     <message>
         <source>Rotation</source>
-        <translation>Rotation</translation>
+        <translation>Pag-ikot</translation>
     </message>
     <message>
         <source>Feather</source>
@@ -8565,7 +8565,7 @@
     </message>
     <message>
         <source>Video</source>
-        <translation>Video</translation>
+        <translation>Bidyo</translation>
     </message>
     <message>
         <source>Audio</source>
@@ -9059,7 +9059,7 @@
     </message>
     <message>
         <source>Playback</source>
-        <translation>Playback</translation>
+        <translation>Pag-playback</translation>
     </message>
     <message>
         <source>Animation</source>
@@ -9099,7 +9099,7 @@
     </message>
     <message>
         <source>Start offset</source>
-        <translation>Start offset</translation>
+        <translation>Panimulang offset</translation>
     </message>
     <message>
         <source>Pose</source>
@@ -9115,7 +9115,7 @@
     </message>
     <message>
         <source>Depth</source>
-        <translation>Depth</translation>
+        <translation>Lalim</translation>
     </message>
     <message>
         <source>Rotation X</source>
@@ -9174,7 +9174,7 @@
     </message>
     <message>
         <source>Depth</source>
-        <translation>Depth</translation>
+        <translation>Lalim</translation>
     </message>
     <message>
         <source>Rotation X</source>
@@ -9273,7 +9273,7 @@
     </message>
     <message>
         <source>Seek</source>
-        <translation>Seek</translation>
+        <translation>Hanapin</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9307,7 +9307,7 @@
     <name>NewTrackMenu</name>
     <message>
         <source>Video</source>
-        <translation>Video</translation>
+        <translation>Bidyo</translation>
     </message>
     <message>
         <source>Audio</source>
@@ -9315,7 +9315,7 @@
     </message>
     <message>
         <source>Text</source>
-        <translation>Text</translation>
+        <translation>Teksto</translation>
     </message>
     <message>
         <source>Subtitle</source>
@@ -9327,7 +9327,7 @@
     </message>
     <message>
         <source>Adjustment</source>
-        <translation>Adjustment</translation>
+        <translation>Pagsasaayos</translation>
     </message>
     <message>
         <source>Audio adjustment</source>
@@ -9335,7 +9335,7 @@
     </message>
     <message>
         <source>Transform</source>
-        <translation>Transform</translation>
+        <translation>Baguhin</translation>
     </message>
     <message>
         <source>New track</source>
@@ -9421,7 +9421,7 @@
     </message>
     <message>
         <source>Cover</source>
-        <translation>Cover</translation>
+        <translation>Takip</translation>
     </message>
     <message>
         <source>Stretch one copy of the image over the layer</source>
@@ -9429,7 +9429,7 @@
     </message>
     <message>
         <source>Scale</source>
-        <translation>Scale</translation>
+        <translation>Sukat</translation>
     </message>
     <message>
         <source>Angle</source>
@@ -9677,7 +9677,7 @@
     </message>
     <message>
         <source>Seek</source>
-        <translation>Seek</translation>
+        <translation>Hanapin</translation>
     </message>
 </context>
 <context>
@@ -10028,7 +10028,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Custom</translation>
+        <translation>Pasadyang</translation>
     </message>
     <message>
         <source>Width</source>
@@ -10063,7 +10063,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>Text</translation>
+        <translation>Teksto</translation>
     </message>
     <message>
         <source>Shape</source>
@@ -10083,7 +10083,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Transform</source>
-        <translation>Transform</translation>
+        <translation>Baguhin</translation>
     </message>
     <message>
         <source>Stabilization</source>
@@ -10119,7 +10119,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Transition</source>
-        <translation>Transition</translation>
+        <translation>Transisyon</translation>
     </message>
     <message>
         <source>It&apos;s empty here</source>
@@ -11117,7 +11117,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Playback</source>
-        <translation>Playback</translation>
+        <translation>Pag-playback</translation>
     </message>
     <message>
         <source>Audio output</source>
@@ -11332,7 +11332,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Stroke</source>
-        <translation>Stroke</translation>
+        <translation>Guhit</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -11340,11 +11340,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Glow</source>
-        <translation>Glow</translation>
+        <translation>Kislap</translation>
     </message>
     <message>
         <source>Extrude</source>
-        <translation>Extrude</translation>
+        <translation>I-extrude</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -11524,11 +11524,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Spread</source>
-        <translation>Spread</translation>
+        <translation>Pagkalat</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation>Depth</translation>
+        <translation>Lalim</translation>
     </message>
     <message>
         <source>Angle</source>
@@ -11559,7 +11559,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Stroke</source>
-        <translation>Stroke</translation>
+        <translation>Guhit</translation>
     </message>
     <message>
         <source>Swapping the shape keeps its position, size, style and effects.</source>
@@ -11583,11 +11583,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Glow</source>
-        <translation>Glow</translation>
+        <translation>Kislap</translation>
     </message>
     <message>
         <source>Extrude</source>
-        <translation>Extrude</translation>
+        <translation>I-extrude</translation>
     </message>
     <message>
         <source>No layers. Add a fill to start.</source>
@@ -11599,7 +11599,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Corner radius</source>
-        <translation>Corner radius</translation>
+        <translation>Radius ng sulok</translation>
     </message>
     <message>
         <source>Points</source>
@@ -11607,7 +11607,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Inner radius</source>
-        <translation>Inner radius</translation>
+        <translation>Panloob na radius</translation>
     </message>
     <message>
         <source>Head size</source>
@@ -11762,11 +11762,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Corner radius</source>
-        <translation>Corner radius</translation>
+        <translation>Radius ng sulok</translation>
     </message>
     <message>
         <source>Inner radius</source>
-        <translation>Inner radius</translation>
+        <translation>Panloob na radius</translation>
     </message>
     <message>
         <source>Head size</source>
@@ -12622,7 +12622,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Built-in</source>
-        <translation>Built-in</translation>
+        <translation>Naka-built-in</translation>
     </message>
     <message>
         <source>Rename text style</source>
@@ -12784,11 +12784,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Stroke</source>
-        <translation>Stroke</translation>
+        <translation>Guhit</translation>
     </message>
     <message>
         <source>Extrude</source>
-        <translation>Extrude</translation>
+        <translation>I-extrude</translation>
     </message>
     <message>
         <source>Decorations</source>
@@ -12880,7 +12880,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Bend</source>
-        <translation>Bend</translation>
+        <translation>Baluktot</translation>
     </message>
     <message>
         <source>Align left</source>
@@ -12956,7 +12956,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Corner radius</source>
-        <translation>Corner radius</translation>
+        <translation>Radius ng sulok</translation>
     </message>
     <message>
         <source>Roundness of the background box corners</source>
@@ -12964,11 +12964,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Glow</source>
-        <translation>Glow</translation>
+        <translation>Kislap</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>Text</translation>
+        <translation>Teksto</translation>
     </message>
     <message>
         <source>Type your text…</source>
@@ -13140,7 +13140,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Out</source>
-        <translation>Out</translation>
+        <translation>Palabas</translation>
     </message>
     <message>
         <source>Loop</source>
@@ -13179,7 +13179,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>TextLookPicker</name>
     <message>
         <source>Custom</source>
-        <translation>Custom</translation>
+        <translation>Pasadyang</translation>
     </message>
     <message>
         <source>Aa</source>
@@ -13245,7 +13245,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Spread</source>
-        <translation>Spread</translation>
+        <translation>Pagkalat</translation>
     </message>
     <message>
         <source>Trim start</source>
@@ -13313,7 +13313,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Stroke</source>
-        <translation>Stroke</translation>
+        <translation>Guhit</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -13321,11 +13321,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Glow</source>
-        <translation>Glow</translation>
+        <translation>Kislap</translation>
     </message>
     <message>
         <source>Extrude</source>
-        <translation>Extrude</translation>
+        <translation>I-extrude</translation>
     </message>
     <message>
         <source>Text size</source>
@@ -13345,14 +13345,14 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Bend</source>
-        <translation>Bend</translation>
+        <translation>Baluktot</translation>
     </message>
 </context>
 <context>
     <name>TextStylePackPicker</name>
     <message>
         <source>Custom</source>
-        <translation>Custom</translation>
+        <translation>Pasadyang</translation>
     </message>
     <message>
         <source>Text preset</source>
@@ -13368,14 +13368,14 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Built-in</source>
-        <translation>Built-in</translation>
+        <translation>Naka-built-in</translation>
     </message>
 </context>
 <context>
     <name>TextStylePackThumb</name>
     <message>
         <source>Custom</source>
-        <translation>Custom</translation>
+        <translation>Pasadyang</translation>
     </message>
 </context>
 <context>
@@ -13817,7 +13817,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Composite</source>
-        <translation>Composite</translation>
+        <translation>Pagsamahin</translation>
     </message>
     <message>
         <source>Switch between the main timeline and composite clips</source>
@@ -13951,11 +13951,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Transform</source>
-        <translation>Transform</translation>
+        <translation>Baguhin</translation>
     </message>
     <message>
         <source>Adjustment</source>
-        <translation>Adjustment</translation>
+        <translation>Pagsasaayos</translation>
     </message>
     <message>
         <source>Subtitles</source>
@@ -14036,11 +14036,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Transform</source>
-        <translation>Transform</translation>
+        <translation>Baguhin</translation>
     </message>
     <message>
         <source>Adjustment</source>
-        <translation>Adjustment</translation>
+        <translation>Pagsasaayos</translation>
     </message>
     <message>
         <source>Audio</source>
@@ -14048,7 +14048,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>Text</translation>
+        <translation>Teksto</translation>
     </message>
     <message>
         <source>Subtitle</source>
@@ -14128,7 +14128,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation>Video</translation>
+        <translation>Bidyo</translation>
     </message>
     <message>
         <source>Drag the header to reorder this track</source>
@@ -14215,19 +14215,19 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Tilt X</source>
-        <translation>Tilt X</translation>
+        <translation>Ikiling X</translation>
     </message>
     <message>
         <source>Tilt Y</source>
-        <translation>Tilt Y</translation>
+        <translation>Ikiling Y</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation>Depth</translation>
+        <translation>Lalim</translation>
     </message>
     <message>
         <source>Perspective</source>
-        <translation>Perspective</translation>
+        <translation>Perspektibo</translation>
     </message>
     <message>
         <source>Video only</source>
@@ -14251,7 +14251,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Auto keyframes</source>
-        <translation>Auto keyframes</translation>
+        <translation>Mga awtomatikong keyframe</translation>
     </message>
     <message>
         <source>Position (px)</source>
@@ -14271,7 +14271,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Scale</source>
-        <translation>Scale</translation>
+        <translation>Sukat</translation>
     </message>
     <message>
         <source>Edit width and height separately</source>
@@ -14367,7 +14367,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Transform</source>
-        <translation>Transform</translation>
+        <translation>Baguhin</translation>
     </message>
     <message>
         <source>3D layer</source>
@@ -14382,7 +14382,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>TransformLayerCard</name>
     <message>
         <source>Transform</source>
-        <translation>Transform</translation>
+        <translation>Baguhin</translation>
     </message>
     <message>
         <source>Audio</source>
@@ -14390,7 +14390,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>Text</translation>
+        <translation>Teksto</translation>
     </message>
     <message>
         <source>Subtitle</source>
@@ -14402,11 +14402,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Adjustment</source>
-        <translation>Adjustment</translation>
+        <translation>Pagsasaayos</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation>Video</translation>
+        <translation>Bidyo</translation>
     </message>
     <message>
         <source>Everything below</source>
@@ -14463,7 +14463,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Transform</source>
-        <translation>Transform</translation>
+        <translation>Baguhin</translation>
     </message>
     <message>
         <source>Select %1</source>
@@ -14578,7 +14578,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Custom</translation>
+        <translation>Pasadyang</translation>
     </message>
     <message>
         <source>Bezier</source>
@@ -14832,7 +14832,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Playback</source>
-        <translation>Playback</translation>
+        <translation>Pag-playback</translation>
     </message>
     <message>
         <source>Fit</source>
@@ -14844,7 +14844,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Cover</source>
-        <translation>Cover</translation>
+        <translation>Takip</translation>
     </message>
     <message>
         <source>Stretch</source>
@@ -14880,7 +14880,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Start offset</source>
-        <translation>Start offset</translation>
+        <translation>Panimulang offset</translation>
     </message>
     <message>
         <source>Appearance</source>
@@ -14912,7 +14912,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Stroke</source>
-        <translation>Stroke</translation>
+        <translation>Guhit</translation>
     </message>
     <message>
         <source>Stroke width</source>
@@ -14967,7 +14967,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Stroke</source>
-        <translation>Stroke</translation>
+        <translation>Guhit</translation>
     </message>
     <message>
         <source>Stroke width</source>
@@ -14993,7 +14993,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>VideoSizeControls</name>
     <message>
         <source>Custom</source>
-        <translation>Custom</translation>
+        <translation>Pasadyang</translation>
     </message>
     <message>
         <source>Choose layout…</source>
@@ -15044,7 +15044,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>VideoSizeDialog</name>
     <message>
         <source>Video</source>
-        <translation>Video</translation>
+        <translation>Bidyo</translation>
     </message>
     <message>
         <source>Close</source>
