@@ -8910,11 +8910,11 @@
     </message>
     <message>
         <source>%1p</source>
-        <translation>Substituir</translation>
+        <translation>%1p</translation>
     </message>
     <message>
         <source>Length %1</source>
-        <translation>Excluir</translation>
+        <translation>Duração %1</translation>
     </message>
     <message>
         <source>This video is under 700 pixels on its shorter side. Upscaling it with an AI model can make it look sharper.</source>
@@ -10384,11 +10384,11 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message>
         <source>%1 h %2 min</source>
-        <translation>Não há clipe no momento atual</translation>
+        <translation>%1 h %2 min</translation>
     </message>
     <message>
         <source>Enhancing… %1% — about %2 left</source>
-        <translation>A prévia por GPU não está disponível</translation>
+        <translation>Aprimorando… %1% — faltam cerca de %2</translation>
     </message>
     <message>
         <source>Enhancing… %1%</source>
@@ -10396,7 +10396,7 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message>
         <source>Enhancing this frame… %1%</source>
-        <translation>Guias</translation>
+        <translation>Aprimorando este quadro… %1%</translation>
     </message>
     <message>
         <source>Scanning frame %1 of %2…</source>
@@ -10591,7 +10591,7 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message>
         <source>%1 (custom, experimental)</source>
-        <translation>Quadro anterior</translation>
+        <translation>%1 (personalizado, experimental)</translation>
     </message>
     <message>
         <source>Original</source>
@@ -10603,7 +10603,7 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message>
         <source>Enhanced %1 × %2</source>
-        <translation>Reproduzir</translation>
+        <translation>Aprimorado: %1 × %2</translation>
     </message>
     <message>
         <source>Loading this frame…</source>
