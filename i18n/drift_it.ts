@@ -1731,10 +1731,7 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s)</source>
-        <translation>
-            <numerusform>%n clip</numerusform>
-            <numerusform>%n clip</numerusform>
-        </translation>
+        <translation>%n clip</translation>
     </message>
     <message>
         <source>All</source>
@@ -1820,10 +1817,7 @@
     <name>AndroidTransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>
-            <numerusform>%1 · %n clip</numerusform>
-            <numerusform>%1 · %n clip</numerusform>
-        </translation>
+        <translation>%1 · %n clip</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -2457,10 +2451,7 @@
     </message>
     <message numerus="yes">
         <source>Imported %n subtitles</source>
-        <translation>
-            <numerusform>Importato %n sottotitolo</numerusform>
-            <numerusform>Importati %n sottotitoli</numerusform>
-        </translation>
+        <translation>Importati %n sottotitoli</translation>
     </message>
     <message>
         <source>No audio output devices were found, so playback will be silent.</source>
@@ -2579,10 +2570,7 @@
     </message>
     <message numerus="yes">
         <source>Found %n scene(s)</source>
-        <translation>
-            <numerusform>Trovata %n scena</numerusform>
-            <numerusform>Trovate %n scene</numerusform>
-        </translation>
+        <translation>Trovate %n scene</translation>
     </message>
     <message>
         <source>Looking for scenes…</source>
@@ -4561,17 +4549,11 @@
     </message>
     <message numerus="yes">
         <source>%n items removed</source>
-        <translation>
-            <numerusform>Rimosso %n elemento</numerusform>
-            <numerusform>Rimossi %n elementi</numerusform>
-        </translation>
+        <translation>Rimossi %n elementi</translation>
     </message>
     <message numerus="yes">
         <source>%n items moved</source>
-        <translation>
-            <numerusform>Spostato %n elemento</numerusform>
-            <numerusform>Spostati %n elementi</numerusform>
-        </translation>
+        <translation>Spostati %n elementi</translation>
     </message>
     <message>
         <source>Clips added</source>
@@ -4871,10 +4853,7 @@
     </message>
     <message numerus="yes">
         <source>%n items</source>
-        <translation>
-            <numerusform>%n elemento</numerusform>
-            <numerusform>%n elementi</numerusform>
-        </translation>
+        <translation>%n elementi</translation>
     </message>
     <message>
         <source>Remove these items?</source>
@@ -4882,10 +4861,7 @@
     </message>
     <message numerus="yes">
         <source>Removed %n items.</source>
-        <translation>
-            <numerusform>Rimosso %n elemento.</numerusform>
-            <numerusform>Rimossi %n elementi.</numerusform>
-        </translation>
+        <translation>Rimossi %n elementi.</translation>
     </message>
 </context>
 <context>
@@ -5728,17 +5704,11 @@
     </message>
     <message numerus="yes">
         <source>%n second(s) left</source>
-        <translation>
-            <numerusform>Rimane %n secondo</numerusform>
-            <numerusform>Rimangono %n secondi</numerusform>
-        </translation>
+        <translation>%n secondi rimanenti</translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) left</source>
-        <translation>
-            <numerusform>Rimane %n minuto</numerusform>
-            <numerusform>Rimangono %n minuti</numerusform>
-        </translation>
+        <translation>%n minuti rimanenti</translation>
     </message>
     <message>
         <source>Cancelled</source>
@@ -5769,10 +5739,7 @@
     </message>
     <message numerus="yes">
         <source>%n active</source>
-        <translation>
-            <numerusform>%n attivo</numerusform>
-            <numerusform>%n attivi</numerusform>
-        </translation>
+        <translation>%n attivi</translation>
     </message>
     <message>
         <source>No downloads running</source>
@@ -5811,10 +5778,7 @@
     </message>
     <message numerus="yes">
         <source>%n style(s)</source>
-        <translation>
-            <numerusform>%n stile</numerusform>
-            <numerusform>%n stili</numerusform>
-        </translation>
+        <translation>%n stili</translation>
     </message>
     <message>
         <source>%1 s</source>
@@ -5822,10 +5786,7 @@
     </message>
     <message numerus="yes">
         <source>%n colour(s)</source>
-        <translation>
-            <numerusform>%n colore</numerusform>
-            <numerusform>%n colori</numerusform>
-        </translation>
+        <translation>%n colori</translation>
     </message>
     <message>
         <source>Loops, %1 s</source>
@@ -6093,10 +6054,7 @@
     </message>
     <message numerus="yes">
         <source>Downloads — %n running</source>
-        <translation>
-            <numerusform>Download — %n in corso</numerusform>
-            <numerusform>Download — %n in corso</numerusform>
-        </translation>
+        <translation>Download — %n in corso</translation>
     </message>
     <message>
         <source>Downloads</source>
@@ -7714,10 +7672,7 @@
     </message>
     <message numerus="yes">
         <source>%n keyframes</source>
-        <translation>
-            <numerusform>%n fotogramma chiave</numerusform>
-            <numerusform>%n fotogrammi chiave</numerusform>
-        </translation>
+        <translation>%n fotogrammi chiave</translation>
     </message>
     <message>
         <source> BPM</source>
@@ -8669,10 +8624,7 @@
     </message>
     <message numerus="yes">
         <source>Create %n proxies</source>
-        <translation>
-            <numerusform>Crea %n proxy</numerusform>
-            <numerusform>Crea %n proxy</numerusform>
-        </translation>
+        <translation>Crea %n proxy</translation>
     </message>
     <message>
         <source>Create proxy</source>
@@ -8680,10 +8632,7 @@
     </message>
     <message numerus="yes">
         <source>Remove %n proxies</source>
-        <translation>
-            <numerusform>Rimuovi %n proxy</numerusform>
-            <numerusform>Rimuovi %n proxy</numerusform>
-        </translation>
+        <translation>Rimuovi %n proxy</translation>
     </message>
     <message>
         <source>Remove proxy</source>
@@ -8739,10 +8688,7 @@
     </message>
     <message numerus="yes">
         <source>Add %n items to timeline</source>
-        <translation>
-            <numerusform>Aggiungi %n elemento alla timeline</numerusform>
-            <numerusform>Aggiungi %n elementi alla timeline</numerusform>
-        </translation>
+        <translation>Aggiungi %n elementi alla timeline</translation>
     </message>
     <message>
         <source>Add to timeline</source>
@@ -8761,10 +8707,7 @@
     </message>
     <message numerus="yes">
         <source>Remove %n items from project</source>
-        <translation>
-            <numerusform>Rimuovi %n elemento dal progetto</numerusform>
-            <numerusform>Rimuovi %n elementi dal progetto</numerusform>
-        </translation>
+        <translation>Rimuovi %n elementi dal progetto</translation>
     </message>
 </context>
 <context>
@@ -8833,10 +8776,7 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files.</source>
-        <translation>
-            <numerusform>Importato %n file.</numerusform>
-            <numerusform>Importati %n file.</numerusform>
-        </translation>
+        <translation>Importati %n file.</translation>
     </message>
     <message>
         <source>Could not import that file — the format may be unsupported.</source>
@@ -8844,10 +8784,7 @@
     </message>
     <message numerus="yes">
         <source>Could not import any of the %n selected files.</source>
-        <translation>
-            <numerusform>Impossibile importare il file selezionato.</numerusform>
-            <numerusform>Impossibile importare i %n file selezionati.</numerusform>
-        </translation>
+        <translation>Impossibile importare tutti i %n file selezionati.</translation>
     </message>
 </context>
 <context>
@@ -9040,10 +8977,7 @@
     </message>
     <message numerus="yes">
         <source>%n animation(s)</source>
-        <translation>
-            <numerusform>%n animazione</numerusform>
-            <numerusform>%n animazioni</numerusform>
-        </translation>
+        <translation>%n animazioni</translation>
     </message>
     <message>
         <source>static</source>
@@ -9491,10 +9425,7 @@
     </message>
     <message numerus="yes">
         <source>Video Effects (%n effect(s))</source>
-        <translation>
-            <numerusform>Effetti video (%n effetto)</numerusform>
-            <numerusform>Effetti video (%n effetti)</numerusform>
-        </translation>
+        <translation>Effetti video (%n effetti)</translation>
     </message>
     <message>
         <source>Video Effects (none)</source>
@@ -9510,10 +9441,7 @@
     </message>
     <message numerus="yes">
         <source>Audio Effects (%n effect(s))</source>
-        <translation>
-            <numerusform>Effetti audio (%n effetto)</numerusform>
-            <numerusform>Effetti audio (%n effetti)</numerusform>
-        </translation>
+        <translation>Effetti audio (%n effetti)</translation>
     </message>
     <message>
         <source>Audio Effects (none)</source>
@@ -9525,10 +9453,7 @@
     </message>
     <message numerus="yes">
         <source>Transitions (%n transition(s))</source>
-        <translation>
-            <numerusform>Transizioni (%n transizione)</numerusform>
-            <numerusform>Transizioni (%n transizioni)</numerusform>
-        </translation>
+        <translation>Transizioni (%n transizioni)</translation>
     </message>
     <message>
         <source>Replace existing effects (instead of appending)</source>
@@ -12194,10 +12119,7 @@ Se la riproduzione va a scatti, prova un&apos;altra opzione.</translation>
     </message>
     <message numerus="yes">
         <source>Filters — %n applied</source>
-        <translation>
-            <numerusform>Filtri — %n applicato</numerusform>
-            <numerusform>Filtri — %n applicati</numerusform>
-        </translation>
+        <translation>Filtri — %n applicati</translation>
     </message>
     <message>
         <source>Filters</source>
@@ -14446,20 +14368,14 @@ Se la riproduzione va a scatti, prova un&apos;altra opzione.</translation>
     </message>
     <message numerus="yes">
         <source>+%n more</source>
-        <translation>
-            <numerusform>+%n altro</numerusform>
-            <numerusform>+%n altri</numerusform>
-        </translation>
+        <translation>Altri %n</translation>
     </message>
 </context>
 <context>
     <name>TransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>
-            <numerusform>%1 · %n clip</numerusform>
-            <numerusform>%1 · %n clip</numerusform>
-        </translation>
+        <translation>%1 · %n clip</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -14478,10 +14394,7 @@ Se la riproduzione va a scatti, prova un&apos;altra opzione.</translation>
     <name>TransformSpanBracket</name>
     <message numerus="yes">
         <source>%n track(s)</source>
-        <translation>
-            <numerusform>%n traccia</numerusform>
-            <numerusform>%n tracce</numerusform>
-        </translation>
+        <translation>%n tracce</translation>
     </message>
     <message>
         <source>Transform layer span end</source>
@@ -14489,10 +14402,7 @@ Se la riproduzione va a scatti, prova un&apos;altra opzione.</translation>
     </message>
     <message numerus="yes">
         <source>Covers %n track(s)</source>
-        <translation>
-            <numerusform>Copre %n traccia</numerusform>
-            <numerusform>Copre %n tracce</numerusform>
-        </translation>
+        <translation>Copre %n tracce</translation>
     </message>
 </context>
 <context>
