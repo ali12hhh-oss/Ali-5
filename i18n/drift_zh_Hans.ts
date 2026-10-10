@@ -7496,7 +7496,7 @@
     </message>
     <message>
         <source>Guide colour</source>
-        <translation type="unfinished"></translation>
+        <translation>参考线颜色</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -7504,15 +7504,15 @@
     </message>
     <message>
         <source>Show guides</source>
-        <translation type="unfinished"></translation>
+        <translation>显示参考线</translation>
     </message>
     <message>
         <source>Guide sets</source>
-        <translation type="unfinished"></translation>
+        <translation>参考线组</translation>
     </message>
     <message>
         <source>Show this set</source>
-        <translation type="unfinished"></translation>
+        <translation>显示此组</translation>
     </message>
     <message>
         <source>Built-in</source>
@@ -7520,31 +7520,31 @@
     </message>
     <message>
         <source>From project</source>
-        <translation type="unfinished"></translation>
+        <translation>来自项目</translation>
     </message>
     <message>
         <source>New guide set</source>
-        <translation type="unfinished"></translation>
+        <translation>新建参考线组</translation>
     </message>
     <message>
         <source>Duplicate set</source>
-        <translation type="unfinished"></translation>
+        <translation>复制组</translation>
     </message>
     <message>
         <source>Save to my guide sets</source>
-        <translation type="unfinished"></translation>
+        <translation>保存到我的参考线组</translation>
     </message>
     <message>
         <source>Delete set</source>
-        <translation type="unfinished"></translation>
+        <translation>删除组</translation>
     </message>
     <message>
         <source>Set name</source>
-        <translation type="unfinished"></translation>
+        <translation>组名称</translation>
     </message>
     <message>
         <source>Edit on preview</source>
-        <translation type="unfinished"></translation>
+        <translation>在预览中编辑</translation>
     </message>
     <message>
         <source>Built-in sets can&apos;t be changed. Duplicate one to make an editable copy.</source>
@@ -7552,15 +7552,15 @@
     </message>
     <message>
         <source>This set came with the project. Save it to your guide sets to edit it.</source>
-        <translation type="unfinished"></translation>
+        <translation>此组随项目提供。将其保存到你的参考线组后即可编辑。</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>水平</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -7568,25 +7568,25 @@
     </message>
     <message>
         <source>Add a guide</source>
-        <translation type="unfinished"></translation>
+        <translation>添加参考线</translation>
     </message>
 </context>
 <context>
     <name>JobRegistry</name>
     <message>
         <source>Queued</source>
-        <translation type="unfinished"></translation>
+        <translation>已排队</translation>
     </message>
 </context>
 <context>
     <name>KeyframeGraph</name>
     <message>
         <source>X position</source>
-        <translation type="unfinished"></translation>
+        <translation>X 位置</translation>
     </message>
     <message>
         <source>Y position</source>
-        <translation type="unfinished"></translation>
+        <translation>Y 位置</translation>
     </message>
     <message>
         <source>Width</source>
@@ -7602,11 +7602,11 @@
     </message>
     <message>
         <source>Tilt X</source>
-        <translation type="unfinished"></translation>
+        <translation>X 倾斜</translation>
     </message>
     <message>
         <source>Tilt Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Y 倾斜</translation>
     </message>
     <message>
         <source>Depth</source>
@@ -7614,7 +7614,7 @@
     </message>
     <message>
         <source>Perspective</source>
-        <translation type="unfinished"></translation>
+        <translation>透视</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -7626,19 +7626,19 @@
     </message>
     <message>
         <source>Mask X</source>
-        <translation type="unfinished"></translation>
+        <translation>蒙版 X</translation>
     </message>
     <message>
         <source>Mask Y</source>
-        <translation type="unfinished"></translation>
+        <translation>蒙版 Y</translation>
     </message>
     <message>
         <source>Mask width</source>
-        <translation type="unfinished"></translation>
+        <translation>蒙版宽度</translation>
     </message>
     <message>
         <source>Mask height</source>
-        <translation type="unfinished"></translation>
+        <translation>蒙版高度</translation>
     </message>
     <message>
         <source>Mask rotation</source>
@@ -9733,7 +9733,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Guide sets</source>
-        <translation type="unfinished"></translation>
+        <translation>参考线组</translation>
     </message>
     <message>
         <source>Keep mask handles on the preview while another clip is selected</source>
@@ -10973,7 +10973,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Show guides</source>
-        <translation type="unfinished"></translation>
+        <translation>显示参考线</translation>
     </message>
     <message>
         <source>Show alignment guides over the preview</source>
@@ -14172,11 +14172,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Tilt X</source>
-        <translation type="unfinished"></translation>
+        <translation>X 倾斜</translation>
     </message>
     <message>
         <source>Tilt Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Y 倾斜</translation>
     </message>
     <message>
         <source>Depth</source>
@@ -14184,7 +14184,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Perspective</source>
-        <translation type="unfinished"></translation>
+        <translation>透视</translation>
     </message>
     <message>
         <source>Video only</source>
