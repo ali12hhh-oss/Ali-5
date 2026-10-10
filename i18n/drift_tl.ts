@@ -7407,30 +7407,30 @@
     </message>
     <message>
         <source>OKLab</source>
-        <translation type="unfinished"></translation>
+        <translation>OKLab</translation>
     </message>
     <message>
         <source>Blend stops in OKLab for even, muddy-free transitions</source>
-        <translation type="unfinished"></translation>
+        <translation>I-blend ang mga color stop sa OKLab para pantay ang transition at hindi maputik ang kulay</translation>
     </message>
     <message>
         <source>Stop colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Kulay ng stop</translation>
     </message>
 </context>
 <context>
     <name>GuideEditOverlay</name>
     <message>
         <source>Release to remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitawan para alisin</translation>
     </message>
     <message>
         <source>Editing %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ini-edit ang %1</translation>
     </message>
     <message>
         <source>Drag from the top or left edge to add a guide, off the canvas to remove one. Shift steps by 1%.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drag mula sa itaas o kaliwang gilid para magdagdag ng guide; i-drag palabas ng canvas para alisin ito. Hawakan ang Shift para gumalaw nang 1% bawat hakbang.</translation>
     </message>
     <message>
         <source>Done</source>
@@ -7441,82 +7441,82 @@
     <name>GuideSet</name>
     <message>
         <source>Rule of thirds</source>
-        <translation type="unfinished"></translation>
+        <translation>Rule of thirds</translation>
     </message>
     <message>
         <source>Center cross</source>
-        <translation type="unfinished"></translation>
+        <translation>Krus sa gitna</translation>
     </message>
     <message>
         <source>Safe margins</source>
-        <translation type="unfinished"></translation>
+        <translation>Safe margins</translation>
     </message>
     <message>
         <source>9:16 frame</source>
-        <translation type="unfinished"></translation>
+        <translation>9:16 frame</translation>
     </message>
     <message>
         <source>4:5 frame</source>
-        <translation type="unfinished"></translation>
+        <translation>4:5 frame</translation>
     </message>
     <message>
         <source>1:1 frame</source>
-        <translation type="unfinished"></translation>
+        <translation>1:1 frame</translation>
     </message>
 </context>
 <context>
     <name>GuidesPopover</name>
     <message>
         <source>Vertical line</source>
-        <translation type="unfinished"></translation>
+        <translation>Patayong linya</translation>
     </message>
     <message>
         <source>Horizontal line</source>
-        <translation type="unfinished"></translation>
+        <translation>Pahalang na linya</translation>
     </message>
     <message>
         <source>Margins</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga margin</translation>
     </message>
     <message>
         <source>Aspect frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Aspect frame</translation>
     </message>
     <message>
         <source>Unlock so it can be dragged on the preview</source>
-        <translation type="unfinished"></translation>
+        <translation>I-unlock para ma-drag sa preview</translation>
     </message>
     <message>
         <source>Lock so it cannot be dragged on the preview</source>
-        <translation type="unfinished"></translation>
+        <translation>I-lock para hindi ma-drag sa preview</translation>
     </message>
     <message>
         <source>Remove guide</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang guide</translation>
     </message>
     <message>
         <source>From left</source>
-        <translation type="unfinished"></translation>
+        <translation>Mula sa kaliwa</translation>
     </message>
     <message>
         <source>From top</source>
-        <translation type="unfinished"></translation>
+        <translation>Mula sa itaas</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaliwa</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanan</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Itaas</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Ibaba</translation>
     </message>
     <message>
         <source>Guide colour</source>
