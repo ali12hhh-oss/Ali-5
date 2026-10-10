@@ -2606,10 +2606,7 @@
     </message>
     <message numerus="yes">
         <source>%n media items and referenced clips removed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>%n itens de mídia e clipes referenciados removidos</translation>
     </message>
     <message>
         <source>Media and referenced clip removed</source>
