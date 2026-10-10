@@ -2602,14 +2602,7 @@
     </message>
     <message numerus="yes">
         <source>%n media items and referenced clips removed</source>
-        <translation>
-            <numerusform>تمت إزالة %n عنصر وسائط ومقاطع مرتبطة</numerusform>
-            <numerusform>تمت إزالة عنصر وسائط ومقطع مرتبط</numerusform>
-            <numerusform>تمت إزالة عنصري وسائط ومقطعين مرتبطين</numerusform>
-            <numerusform>تمت إزالة %n عناصر وسائط ومقاطع مرتبطة</numerusform>
-            <numerusform>تمت إزالة %n عنصر وسائط ومقاطع مرتبطة</numerusform>
-            <numerusform>تمت إزالة %n عنصر وسائط ومقاطع مرتبطة</numerusform>
-        </translation>
+        <translation>تمت إزالة %n من عناصر الوسائط والمقاطع المرتبطة بها</translation>
     </message>
     <message>
         <source>Media and referenced clip removed</source>
