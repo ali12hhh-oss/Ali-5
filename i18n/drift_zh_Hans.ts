@@ -4165,23 +4165,23 @@
     </message>
     <message>
         <source>Bookmark updated</source>
-        <translation type="unfinished"></translation>
+        <translation>书签已更新</translation>
     </message>
     <message>
         <source>No video at the current time</source>
-        <translation type="unfinished"></translation>
+        <translation>当前时间没有视频</translation>
     </message>
     <message>
         <source>Couldn’t capture a still frame</source>
-        <translation type="unfinished"></translation>
+        <translation>无法截取静帧</translation>
     </message>
     <message>
         <source>Capturing freeze frame…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在截取定格帧…</translation>
     </message>
     <message>
         <source>Freeze frame added</source>
-        <translation type="unfinished"></translation>
+        <translation>已添加定格帧</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -4196,63 +4196,63 @@
     </message>
     <message>
         <source>Saved a copy</source>
-        <translation type="unfinished"></translation>
+        <translation>已保存副本</translation>
     </message>
     <message>
         <source>Couldn’t write %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无法写入 %1：%2</translation>
     </message>
     <message>
         <source>Project JSON saved</source>
-        <translation type="unfinished"></translation>
+        <translation>项目 JSON 已保存</translation>
     </message>
     <message>
         <source>Still opening a project — try again in a moment.</source>
-        <translation type="unfinished"></translation>
+        <translation>项目仍在打开，请稍后重试。</translation>
     </message>
     <message>
         <source>Couldn’t read %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无法读取 %1：%2</translation>
     </message>
     <message>
         <source>Project JSON loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>已加载项目 JSON</translation>
     </message>
     <message>
         <source>Failed to open Premiere Pro project</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开 Premiere Pro 项目</translation>
     </message>
     <message>
         <source>Premiere Pro project imported: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>已导入 Premiere Pro 项目：%1</translation>
     </message>
     <message>
         <source>That template location isn’t valid</source>
-        <translation type="unfinished"></translation>
+        <translation>模板位置无效</translation>
     </message>
     <message>
         <source>Failed to unpack Motion Graphics Template</source>
-        <translation type="unfinished"></translation>
+        <translation>无法解压动态图形模板</translation>
     </message>
     <message>
         <source>Failed to apply template to project</source>
-        <translation type="unfinished"></translation>
+        <translation>无法将模板应用到项目</translation>
     </message>
     <message>
         <source>Import template: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>导入模板：%1</translation>
     </message>
     <message>
         <source>Template imported: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>已导入模板：%1</translation>
     </message>
     <message>
         <source>Failed to open Kdenlive / MLT project</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开 Kdenlive / MLT 项目</translation>
     </message>
     <message>
         <source>Kdenlive project imported: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>已导入 Kdenlive 项目：%1</translation>
     </message>
     <message>
         <source>Failed to open DaVinci Resolve project / timeline</source>
@@ -8090,7 +8090,7 @@
     </message>
     <message>
         <source>Still opening a project — try again in a moment.</source>
-        <translation type="unfinished"></translation>
+        <translation>项目仍在打开，请稍后重试。</translation>
     </message>
     <message>
         <source>Open Project</source>
