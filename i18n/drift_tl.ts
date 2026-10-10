@@ -4263,39 +4263,39 @@
     </message>
     <message>
         <source>Failed to open DaVinci Resolve project / timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabuksan ang DaVinci Resolve project/timeline</translation>
     </message>
     <message>
         <source>DaVinci Resolve project imported: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-import ang DaVinci Resolve project: %1</translation>
     </message>
     <message>
         <source>Failed to open Edit Decision List (.edl)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabuksan ang Edit Decision List (.edl)</translation>
     </message>
     <message>
         <source>EDL imported: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-import ang EDL: %1</translation>
     </message>
     <message>
         <source>Failed to open OpenTimelineIO (.otio) sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabuksan ang OpenTimelineIO (.otio) sequence</translation>
     </message>
     <message>
         <source>OpenTimelineIO imported: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-import ang OpenTimelineIO: %1</translation>
     </message>
     <message>
         <source>That folder isn’t valid</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi wasto ang folder na iyon</translation>
     </message>
     <message>
         <source>All media is already in that folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Nasa folder na iyon ang lahat ng media</translation>
     </message>
     <message>
         <source>Collect media</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipunin ang media</translation>
     </message>
     <message numerus="yes">
         <source>Media collected, but %n original(s) couldn’t be deleted</source>
@@ -4306,87 +4306,87 @@
     </message>
     <message>
         <source>Media moved and relinked</source>
-        <translation type="unfinished"></translation>
+        <translation>Inilipat at muling ini-link ang media</translation>
     </message>
     <message>
         <source>Media copied and relinked</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinopya at muling ini-link ang media</translation>
     </message>
     <message>
         <source>Exporting…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ini-export…</translation>
     </message>
     <message>
         <source>Opening your video…</source>
-        <translation type="unfinished"></translation>
+        <translation>Binubuksan ang video…</translation>
     </message>
     <message>
         <source>Nothing on this device can play that file</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang app sa device na ito na makakapag-play ng file na iyon</translation>
     </message>
     <message>
         <source>Getting your video ready to share…</source>
-        <translation type="unfinished"></translation>
+        <translation>Inihahanda ang video para maibahagi…</translation>
     </message>
     <message>
         <source>Nothing on this device can share that file</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang app sa device na ito na makakapagbahagi ng file na iyon</translation>
     </message>
     <message>
         <source>Remove silence</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang katahimikan</translation>
     </message>
     <message>
         <source>Add layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng layer</translation>
     </message>
     <message>
         <source>Remove layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang layer</translation>
     </message>
     <message>
         <source>Duplicate layer</source>
-        <translation type="unfinished"></translation>
+        <translation>I-duplicate ang layer</translation>
     </message>
     <message>
         <source>Reorder layers</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayusin muli ang pagkakasunod ng mga layer</translation>
     </message>
     <message>
         <source>Edit layer</source>
-        <translation type="unfinished"></translation>
+        <translation>I-edit ang layer</translation>
     </message>
     <message>
         <source>Layer added</source>
-        <translation type="unfinished"></translation>
+        <translation>Naidagdag ang layer</translation>
     </message>
     <message>
         <source>Layer removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Naalis ang layer</translation>
     </message>
     <message>
         <source>Layer duplicated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-duplicate ang layer</translation>
     </message>
     <message>
         <source>Layer moved</source>
-        <translation type="unfinished"></translation>
+        <translation>Inilipat ang layer</translation>
     </message>
     <message>
         <source>Edit text animation</source>
-        <translation type="unfinished"></translation>
+        <translation>I-edit ang text animation</translation>
     </message>
     <message>
         <source>Text animation updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang text animation</translation>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Basic</translation>
     </message>
     <message>
         <source>By character</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayon sa character</translation>
     </message>
     <message>
         <source>By word</source>
@@ -11421,11 +11421,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Duplicate layer</source>
-        <translation type="unfinished"></translation>
+        <translation>I-duplicate ang layer</translation>
     </message>
     <message>
         <source>Remove layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang layer</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -11552,7 +11552,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Add layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng layer</translation>
     </message>
     <message>
         <source>Add a fill, stroke, shadow, glow or extrude layer</source>
@@ -11727,7 +11727,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Basic</translation>
     </message>
     <message>
         <source>Arrows</source>
@@ -12848,7 +12848,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Add layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng layer</translation>
     </message>
     <message>
         <source>Add a fill, stroke, shadow, glow or extrude layer</source>
@@ -13148,7 +13148,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Edit text animation</source>
-        <translation type="unfinished"></translation>
+        <translation>I-edit ang text animation</translation>
     </message>
     <message>
         <source>By</source>
@@ -14476,7 +14476,7 @@ If playback stutters, try another.</source>
     <name>TransitionCatalog</name>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Basic</translation>
     </message>
     <message>
         <source>Grid &amp; Geometric</source>
