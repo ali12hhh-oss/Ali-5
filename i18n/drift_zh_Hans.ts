@@ -6130,7 +6130,7 @@
     </message>
     <message>
         <source>Agent access</source>
-        <translation type="unfinished"></translation>
+        <translation>代理访问权限</translation>
     </message>
     <message>
         <source>Export in progress (%1%) — click to view</source>
@@ -11187,7 +11187,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Agent access</source>
-        <translation type="unfinished"></translation>
+        <translation>代理访问权限</translation>
     </message>
     <message>
         <source>Cloud providers</source>
