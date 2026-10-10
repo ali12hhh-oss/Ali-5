@@ -2594,10 +2594,7 @@
     </message>
     <message numerus="yes">
         <source>%n media items and referenced clips removed</source>
-        <translation>
-            <numerusform>Se eliminó %n elemento multimedia y sus clips vinculados</numerusform>
-            <numerusform>Se eliminaron %n elementos multimedia y sus clips vinculados</numerusform>
-        </translation>
+        <translation>Se eliminaron %n elementos multimedia y los clips relacionados</translation>
     </message>
     <message>
         <source>Media and referenced clip removed</source>
