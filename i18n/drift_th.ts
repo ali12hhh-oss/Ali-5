@@ -6926,82 +6926,82 @@
     </message>
     <message>
         <source>param “%1” must be a number</source>
-        <translation type="unfinished"></translation>
+        <translation>พารามิเตอร์ “%1” ต้องเป็นตัวเลข</translation>
     </message>
     <message>
         <source>param “occlusion” must be true or false</source>
-        <translation type="unfinished"></translation>
+        <translation>พารามิเตอร์ “occlusion” ต้องเป็น true หรือ false</translation>
     </message>
     <message>
         <source>variants must be a list</source>
-        <translation type="unfinished"></translation>
+        <translation>variants ต้องเป็นรายการ</translation>
     </message>
     <message>
         <source>a variant must be an object</source>
-        <translation type="unfinished"></translation>
+        <translation>variant ต้องเป็นออบเจ็กต์</translation>
     </message>
     <message>
         <source>invalid variant id “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>รหัส variant “%1” ไม่ถูกต้อง</translation>
     </message>
     <message>
         <source>a variant must name a .glb model in the prop folder</source>
-        <translation type="unfinished"></translation>
+        <translation>variant ต้องระบุโมเดล .glb ในโฟลเดอร์ prop</translation>
     </message>
     <message>
         <source>a variant thumbnail must be a file in the prop folder</source>
-        <translation type="unfinished"></translation>
+        <translation>ภาพขนาดย่อของ variant ต้องเป็นไฟล์ในโฟลเดอร์ prop</translation>
     </message>
     <message>
         <source>a variant names the same file twice</source>
-        <translation type="unfinished"></translation>
+        <translation>variant ระบุไฟล์เดียวกันซ้ำสองครั้ง</translation>
     </message>
     <message>
         <source>Could not open %1</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิด %1 ไม่ได้</translation>
     </message>
     <message>
         <source>%1 is not a .zip archive. Other archive formats are not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ไม่ใช่ไฟล์ ZIP ไม่รองรับรูปแบบไฟล์บีบอัดอื่น</translation>
     </message>
     <message>
         <source>%1 has too many files</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 มีไฟล์มากเกินไป</translation>
     </message>
     <message>
         <source>No face props (prop.json) found in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พบ face prop (prop.json) ใน %1</translation>
     </message>
     <message>
         <source>%1 has too many props</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 มี prop มากเกินไป</translation>
     </message>
     <message>
         <source>%1 is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พบ %1</translation>
     </message>
     <message>
         <source>%1 is too large or damaged</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ใหญ่เกินไปหรือเสียหาย</translation>
     </message>
     <message>
         <source>%1 is too large or unreadable</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ใหญ่เกินไปหรืออ่านไม่ได้</translation>
     </message>
     <message>
         <source>“%1” is not an imported face prop</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1” ไม่ใช่ face prop ที่นำเข้าแล้ว</translation>
     </message>
     <message>
         <source>Could not delete “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบ “%1” ไม่ได้</translation>
     </message>
 </context>
 <context>
     <name>FacePropPicker</name>
     <message>
         <source>Prop</source>
-        <translation type="unfinished"></translation>
+        <translation>พร็อพ</translation>
     </message>
     <message>
         <source>Import</source>
@@ -7009,27 +7009,27 @@
     </message>
     <message>
         <source>Import face props from a .zip</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้า face prop จากไฟล์ .zip</translation>
     </message>
     <message>
         <source>Import Face Props</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้า Face Props</translation>
     </message>
     <message>
         <source>Zip archives (*.zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์ ZIP (*.zip)</translation>
     </message>
     <message>
         <source>Import zip…</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้า ZIP…</translation>
     </message>
     <message>
         <source>Import folder…</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าโฟลเดอร์…</translation>
     </message>
     <message>
         <source>No face props installed. Import a .zip from Drift-Assets, or any folder of props that carry a prop.json.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่ได้ติดตั้ง face prop ให้นำเข้าไฟล์ .zip จาก Drift-Assets หรือโฟลเดอร์ prop ที่มี prop.json</translation>
     </message>
     <message>
         <source>Custom model: %1 (missing)</source>
