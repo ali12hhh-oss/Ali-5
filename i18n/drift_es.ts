@@ -8918,15 +8918,15 @@
     </message>
     <message>
         <source>This video is under 700 pixels on its shorter side. Upscaling it with an AI model can make it look sharper.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este vídeo mide menos de 700 píxeles en su lado más corto. Ampliar su resolución con un modelo de IA puede darle más nitidez.</translation>
     </message>
     <message>
         <source>This resolution is already good for most projects. You can still upscale it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta resolución ya es adecuada para la mayoría de los proyectos. Aun así, puedes ampliarla.</translation>
     </message>
     <message>
         <source>Done keeps the original video and stores this range and framing. Upscale renders them as a new video in the media bin, then opens it in the Enhance window.</source>
-        <translation type="unfinished"></translation>
+        <translation>«Listo» conserva el vídeo original y guarda este rango y encuadre. «Ampliar resolución» los procesa como un vídeo nuevo en la biblioteca multimedia y luego lo abre en la ventana de mejora.</translation>
     </message>
     <message>
         <source>Saving…</source>
@@ -8934,7 +8934,7 @@
     </message>
     <message>
         <source>Choose the part and framing to keep, then Next.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elige la parte y el encuadre que quieres conservar y pulsa Siguiente.</translation>
     </message>
     <message>
         <source>Save writes a new file over this item in the bin.</source>
@@ -8966,7 +8966,7 @@
     </message>
     <message>
         <source>Upscale…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ampliar resolución…</translation>
     </message>
     <message>
         <source>Save</source>
@@ -10388,15 +10388,15 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message>
         <source>Enhancing… %1% — about %2 left</source>
-        <translation type="unfinished"></translation>
+        <translation>Mejorando… %1% — quedan aproximadamente %2</translation>
     </message>
     <message>
         <source>Enhancing… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Mejorando… %1%</translation>
     </message>
     <message>
         <source>Enhancing this frame… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Mejorando este fotograma… %1%</translation>
     </message>
     <message>
         <source>Scanning frame %1 of %2…</source>
@@ -10599,23 +10599,23 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message>
         <source>Enhanced — out of date, preview again</source>
-        <translation type="unfinished"></translation>
+        <translation>Mejorado: la vista previa está desactualizada; vuelve a previsualizar</translation>
     </message>
     <message>
         <source>Enhanced %1 × %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Mejorado a %1 × %2</translation>
     </message>
     <message>
         <source>Loading this frame…</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando este fotograma…</translation>
     </message>
     <message>
         <source>Working…</source>
-        <translation type="unfinished">Trabajando…</translation>
+        <translation>Procesando…</translation>
     </message>
     <message>
         <source>Choose models, then Preview to compare this frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Elige los modelos y pulsa Previsualizar para comparar este fotograma</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -10631,11 +10631,11 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message>
         <source>Preview one frame, then enhance the whole video. The result is added to the media bin. Enhancing is slow — minutes per second of video without a GPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>Previsualiza un fotograma y después mejora todo el vídeo. El resultado se añade a la biblioteca multimedia. Sin GPU, el proceso es lento: puede tardar minutos por cada segundo de vídeo.</translation>
     </message>
     <message>
         <source>Preview one frame, then enhance the part of the clip used on the timeline. The result is added to the media bin. Enhancing is slow — minutes per second of video without a GPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>Previsualiza un fotograma y luego mejora la parte del clip que se usa en la línea de tiempo. El resultado se añade a la biblioteca multimedia. Sin GPU, el proceso puede tardar minutos por segundo de vídeo.</translation>
     </message>
     <message>
         <source>Remove compression</source>
@@ -10651,15 +10651,15 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message>
         <source> — larger than 4K, which is slow to edit and export</source>
-        <translation type="unfinished"></translation>
+        <translation>— superior a 4K, lo que ralentiza la edición y la exportación</translation>
     </message>
     <message>
         <source>Up to about %1 on this computer&apos;s CPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hasta aproximadamente %1 con la CPU de este equipo.</translation>
     </message>
     <message>
         <source>Up to about %1 on a typical laptop CPU. Preview a frame for an estimate for this computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hasta aproximadamente %1 en la CPU de un portátil típico. Previsualiza un fotograma para estimar el rendimiento en este equipo.</translation>
     </message>
     <message>
         <source>Preview this frame</source>
@@ -10691,7 +10691,7 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message>
         <source>Speeds are per frame of this clip. Custom models are experimental and may not work. Drop an ONNX export (fp32 or fp16, RGB, 1x/2x/4x) into the folder; put the scale in the file name, e.g. &quot;2x_Name.onnx&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Las velocidades se calculan por fotograma del clip. Los modelos personalizados son experimentales y pueden fallar. Coloca en la carpeta un archivo ONNX exportado (fp32 o fp16, RGB, 1x/2x/4x) e incluye la escala en el nombre, por ejemplo, "2x_Name.onnx".</translation>
     </message>
     <message>
         <source>Refresh model list</source>
