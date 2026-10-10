@@ -4704,7 +4704,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders — as many as one folder import takes. Import the remaining subfolders separately.</source>
-        <translation>%1 個のフォルダーに %n 個のファイルを読み込みました。これは1回のフォルダー読み込みの上限です。残りのサブフォルダーは個別に読み込んでください。</translation>
+        <translation>
+            <numerusform>%1 個のフォルダーに %n 個のファイルを読み込みました。これは1回のフォルダー読み込みの上限です。残りのサブフォルダーは個別に読み込んでください。</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</source>
