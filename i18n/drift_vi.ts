@@ -2600,9 +2600,9 @@
     </message>
     <message numerus="yes">
         <source>%n media items and referenced clips removed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Đã xóa %n mục phương tiện và clip được tham chiếu</numerusform>
+            <numerusform>Đã xóa %n mục phương tiện và clip được tham chiếu</numerusform>
         </translation>
     </message>
     <message>
@@ -3691,9 +3691,9 @@
     </message>
     <message numerus="yes">
         <source>Created %n text clips</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Đã tạo %n clip văn bản</numerusform>
+            <numerusform>Đã tạo %n clip văn bản</numerusform>
         </translation>
     </message>
     <message>
@@ -3904,9 +3904,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Đã nhập %n phụ kiện khuôn mặt</numerusform>
+            <numerusform>Đã nhập %n phụ kiện khuôn mặt</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -4033,9 +4033,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted attributes onto %n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Đã dán thuộc tính vào %n clip</numerusform>
+            <numerusform>Đã dán thuộc tính vào %n clip</numerusform>
         </translation>
     </message>
     <message>
@@ -4200,9 +4200,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted %n clips</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Đã dán %n clip</numerusform>
+            <numerusform>Đã dán %n clip</numerusform>
         </translation>
     </message>
     <message>
@@ -6070,9 +6070,9 @@
     </message>
     <message numerus="yes">
         <source>Downloads — %n running</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Tải xuống — đang chạy: %n</numerusform>
+            <numerusform>Tải xuống — đang chạy: %n</numerusform>
         </translation>
     </message>
     <message>
@@ -7957,15 +7957,15 @@
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dán</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Xóa</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>Chọn &amp;tất cả</translation>
     </message>
     <message>
         <source>Clear Selection</source>
@@ -7997,7 +7997,7 @@
     </message>
     <message>
         <source>&amp;Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Phát lại</translation>
     </message>
     <message>
         <source>Play / Pause</source>
@@ -8037,15 +8037,15 @@
     </message>
     <message>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Xem</translation>
     </message>
     <message>
         <source>Zoom &amp;In</source>
-        <translation type="unfinished"></translation>
+        <translation>Phóng &amp;to</translation>
     </message>
     <message>
         <source>Zoom &amp;Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Thu &amp;nhỏ</translation>
     </message>
     <message>
         <source>Toggle Fullscreen Preview</source>
@@ -8057,7 +8057,7 @@
     </message>
     <message>
         <source>&amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cửa sổ</translation>
     </message>
     <message>
         <source>Landscape Workspace</source>
@@ -8073,15 +8073,15 @@
     </message>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished">Tải xuống</translation>
+        <translation>Tải xuống</translation>
     </message>
     <message>
         <source>Multicam</source>
-        <translation type="unfinished">Đa góc quay</translation>
+        <translation>Đa camera</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Trợ giúp</translation>
     </message>
     <message>
         <source>Keyboard Shortcuts</source>
@@ -8089,7 +8089,7 @@
     </message>
     <message>
         <source>Extras…</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiện ích…</translation>
     </message>
     <message>
         <source>Check for Updates…</source>
@@ -8645,9 +8645,9 @@
     </message>
     <message numerus="yes">
         <source>Create %n proxies</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Tạo %n proxy</numerusform>
+            <numerusform>Tạo %n proxy</numerusform>
         </translation>
     </message>
     <message>
@@ -8656,9 +8656,9 @@
     </message>
     <message numerus="yes">
         <source>Remove %n proxies</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Xóa %n proxy</numerusform>
+            <numerusform>Xóa %n proxy</numerusform>
         </translation>
     </message>
     <message>
@@ -8715,9 +8715,9 @@
     </message>
     <message numerus="yes">
         <source>Add %n items to timeline</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Thêm %n mục vào dòng thời gian</numerusform>
+            <numerusform>Thêm %n mục vào dòng thời gian</numerusform>
         </translation>
     </message>
     <message>
@@ -8726,9 +8726,9 @@
     </message>
     <message numerus="yes">
         <source>Move %n items to folder…</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Chuyển %n mục vào thư mục…</numerusform>
+            <numerusform>Chuyển %n mục vào thư mục…</numerusform>
         </translation>
     </message>
     <message>
@@ -8737,9 +8737,9 @@
     </message>
     <message numerus="yes">
         <source>Remove %n items from project</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Xóa %n mục khỏi dự án</numerusform>
+            <numerusform>Xóa %n mục khỏi dự án</numerusform>
         </translation>
     </message>
 </context>
@@ -8817,9 +8817,9 @@
     </message>
     <message numerus="yes">
         <source>Could not import any of the %n selected files.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Không thể nhập bất kỳ tệp nào trong số %n tệp đã chọn.</numerusform>
+            <numerusform>Không thể nhập bất kỳ tệp nào trong số %n tệp đã chọn.</numerusform>
         </translation>
     </message>
 </context>
@@ -12162,9 +12162,9 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     </message>
     <message numerus="yes">
         <source>Filters — %n applied</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Bộ lọc — đã áp dụng %n</numerusform>
+            <numerusform>Bộ lọc — đã áp dụng %n</numerusform>
         </translation>
     </message>
     <message>
@@ -13955,9 +13955,9 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     </message>
     <message numerus="yes">
         <source>This removes the track and its %n clips. You can undo afterwards.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Thao tác này xóa track và %n clip của nó. Bạn có thể hoàn tác sau đó.</numerusform>
+            <numerusform>Thao tác này xóa track và %n clip của nó. Bạn có thể hoàn tác sau đó.</numerusform>
         </translation>
     </message>
     <message>
@@ -14412,9 +14412,9 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     </message>
     <message numerus="yes">
         <source>+%n more</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>+ thêm %n</numerusform>
+            <numerusform>+ thêm %n</numerusform>
         </translation>
     </message>
 </context>
