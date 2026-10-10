@@ -3525,7 +3525,7 @@
     </message>
     <message>
         <source>%1 (trimmed)</source>
-        <translation>ප්‍රයෝග සැකිලි</translation>
+        <translation>%1 (කැපූ)</translation>
     </message>
     <message>
         <source>Rendering…</source>
@@ -3581,11 +3581,11 @@
     </message>
     <message>
         <source>%1 (enhanced %2x)</source>
-        <translation>දර්ශන</translation>
+        <translation>%1 (වැඩිදියුණු කළ %2x)</translation>
     </message>
     <message>
         <source>%1 (enhanced)</source>
-        <translation>මෙම සංස්කරණයේ කොටස් අතර මාරු වන්න</translation>
+        <translation>%1 (වැඩිදියුණු කළ)</translation>
     </message>
     <message>
         <source>Enhance Video</source>
@@ -6638,7 +6638,7 @@
     </message>
     <message>
         <source>Face %1</source>
-        <translation>ස්තරය පරිවර්තනය කරන්න</translation>
+        <translation>මුහුණ %1</translation>
     </message>
     <message>
         <source>Anything in “%1” nearer than Distance passes in front of this layer.</source>
@@ -6966,7 +6966,7 @@
     </message>
     <message>
         <source>invalid variant id “%1”</source>
-        <translation>කාලසීමාව</translation>
+        <translation>අවලංගු ප්‍රභේද ID “%1”</translation>
     </message>
     <message>
         <source>a variant must name a .glb model in the prop folder</source>
@@ -7969,7 +7969,7 @@
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation>ගුණාත්මකභාවය: %1</translation>
+        <translation>නැවත කරන්න (&amp;R)</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
