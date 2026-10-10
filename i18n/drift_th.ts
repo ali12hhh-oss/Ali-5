@@ -8552,71 +8552,71 @@
     </message>
     <message>
         <source>Vector</source>
-        <translation type="unfinished"></translation>
+        <translation>เวกเตอร์</translation>
     </message>
     <message>
         <source>3D</source>
-        <translation type="unfinished"></translation>
+        <translation>3D</translation>
     </message>
     <message>
         <source>Search media</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหาสื่อ</translation>
     </message>
     <message>
         <source>Grid view</source>
-        <translation type="unfinished"></translation>
+        <translation>มุมมองตาราง</translation>
     </message>
     <message>
         <source>List view</source>
-        <translation type="unfinished"></translation>
+        <translation>มุมมองรายการ</translation>
     </message>
     <message>
         <source>Tree view</source>
-        <translation type="unfinished"></translation>
+        <translation>มุมมองแบบต้นไม้</translation>
     </message>
     <message>
         <source>Sort by name</source>
-        <translation type="unfinished"></translation>
+        <translation>เรียงตามชื่อ</translation>
     </message>
     <message>
         <source>Sort by type</source>
-        <translation type="unfinished"></translation>
+        <translation>เรียงตามประเภท</translation>
     </message>
     <message>
         <source>Expand all</source>
-        <translation type="unfinished"></translation>
+        <translation>ขยายทั้งหมด</translation>
     </message>
     <message>
         <source>Collapse all</source>
-        <translation type="unfinished"></translation>
+        <translation>ยุบทั้งหมด</translation>
     </message>
     <message>
         <source>No media match “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีสื่อที่ตรงกับ “%1”</translation>
     </message>
     <message>
         <source>Try a different name.</source>
-        <translation type="unfinished"></translation>
+        <translation>ลองใช้ชื่ออื่น</translation>
     </message>
     <message>
         <source>Creating proxy for %1 (%2 more)</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังสร้างพร็อกซีสำหรับ %1 (อีก %2 รายการ)</translation>
     </message>
     <message>
         <source>Creating proxy for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังสร้างพร็อกซีสำหรับ %1</translation>
     </message>
     <message>
         <source>Stop creating proxies</source>
-        <translation type="unfinished"></translation>
+        <translation>หยุดสร้างพร็อกซี</translation>
     </message>
     <message>
         <source>Converting %1 to an edit-friendly format</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังแปลง %1 เป็นรูปแบบที่แก้ไขได้สะดวก</translation>
     </message>
     <message>
         <source>Stop converting</source>
-        <translation type="unfinished"></translation>
+        <translation>หยุดการแปลง</translation>
     </message>
     <message>
         <source>Rename…</source>
@@ -8624,7 +8624,7 @@
     </message>
     <message>
         <source>%1 — drag to the timeline, right-click to preview</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 — ลากไปยังไทม์ไลน์ คลิกขวาเพื่อดูตัวอย่าง</translation>
     </message>
     <message>
         <source>Open composite</source>
@@ -8632,15 +8632,15 @@
     </message>
     <message>
         <source>Preview and edit…</source>
-        <translation type="unfinished"></translation>
+        <translation>ดูตัวอย่างและแก้ไข…</translation>
     </message>
     <message>
         <source>Trim, crop and upscale…</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัดแต่ง ครอบตัด และเพิ่มความละเอียด…</translation>
     </message>
     <message>
         <source>Replace media…</source>
-        <translation type="unfinished"></translation>
+        <translation>แทนที่สื่อ…</translation>
     </message>
     <message numerus="yes">
         <source>Create %n proxies</source>
@@ -8651,7 +8651,7 @@
     </message>
     <message>
         <source>Create proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างพร็อกซี</translation>
     </message>
     <message numerus="yes">
         <source>Remove %n proxies</source>
@@ -8662,15 +8662,15 @@
     </message>
     <message>
         <source>Remove proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบพร็อกซี</translation>
     </message>
     <message>
         <source>Export image…</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกรูปภาพ…</translation>
     </message>
     <message>
         <source>Remove from project</source>
-        <translation type="unfinished"></translation>
+        <translation>นำออกจากโปรเจกต์</translation>
     </message>
     <message>
         <source>Proxy</source>
@@ -12122,7 +12122,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Try a different name.</source>
-        <translation type="unfinished"></translation>
+        <translation>ลองใช้ชื่ออื่น</translation>
     </message>
     <message>
         <source>Star stickers to save them here.</source>
@@ -14595,7 +14595,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Try a different name.</source>
-        <translation type="unfinished"></translation>
+        <translation>ลองใช้ชื่ออื่น</translation>
     </message>
     <message>
         <source>Star transitions to save them here.</source>
