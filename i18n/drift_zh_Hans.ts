@@ -778,7 +778,7 @@
     </message>
     <message>
         <source>Couldn’t reach the marketplace.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法连接到素材市场。</translation>
     </message>
     <message>
         <source>“%1” is ready.</source>
@@ -802,11 +802,11 @@
     </message>
     <message>
         <source>Loading sources…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在加载来源…</translation>
     </message>
     <message>
         <source>Asking that source…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在查询该来源…</translation>
     </message>
     <message>
         <source>Try again</source>
@@ -897,7 +897,7 @@
     </message>
     <message>
         <source>Couldn’t install “%1”: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无法安装“%1”：%2</translation>
     </message>
     <message>
         <source>Imported “%1”.</source>
@@ -1016,15 +1016,15 @@
     </message>
     <message>
         <source>Save keeps your changes as a new file in this project.</source>
-        <translation type="unfinished"></translation>
+        <translation>保存会将更改作为此项目中的新文件保留。</translation>
     </message>
     <message>
         <source>Save keeps the original video and stores this framing.</source>
-        <translation type="unfinished"></translation>
+        <translation>保存会保留原视频，并保存当前取景设置。</translation>
     </message>
     <message>
         <source>Nothing changed yet. Trim or crop above, or go back and drag this onto the timeline.</source>
-        <translation type="unfinished"></translation>
+        <translation>尚未进行任何更改。请在上方修剪或裁剪，或返回并将此项拖到时间轴上。</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1071,7 +1071,7 @@
     </message>
     <message>
         <source>Paste attributes…</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴属性…</translation>
     </message>
     <message>
         <source>Apply what you copied from another clip</source>
@@ -1079,39 +1079,39 @@
     </message>
     <message>
         <source>Rename…</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名…</translation>
     </message>
     <message>
         <source>Change the clip&apos;s name</source>
-        <translation type="unfinished"></translation>
+        <translation>更改片段名称</translation>
     </message>
     <message>
         <source>Open composite</source>
-        <translation type="unfinished"></translation>
+        <translation>打开复合片段</translation>
     </message>
     <message>
         <source>Edit the clips inside</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑其中的片段</translation>
     </message>
     <message>
         <source>Flatten composite</source>
-        <translation type="unfinished"></translation>
+        <translation>扁平化复合片段</translation>
     </message>
     <message>
         <source>Render it into a single video clip</source>
-        <translation type="unfinished"></translation>
+        <translation>将其渲染为单个视频片段</translation>
     </message>
     <message>
         <source>Make composite</source>
-        <translation type="unfinished"></translation>
+        <translation>创建复合片段</translation>
     </message>
     <message>
         <source>Group the selected clips into one</source>
-        <translation type="unfinished"></translation>
+        <translation>将所选片段组合为一个整体</translation>
     </message>
     <message>
         <source>Transform together</source>
-        <translation type="unfinished"></translation>
+        <translation>一起变换</translation>
     </message>
     <message>
         <source>Move, scale or tilt the selected clips&apos; tracks as one</source>
@@ -1119,15 +1119,15 @@
     </message>
     <message>
         <source>Select transform layer</source>
-        <translation type="unfinished"></translation>
+        <translation>选择变换图层</translation>
     </message>
     <message>
         <source>The layer moving this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>控制此片段移动的图层</translation>
     </message>
     <message>
         <source>Select covered clips</source>
-        <translation type="unfinished"></translation>
+        <translation>选择受覆盖的片段</translation>
     </message>
     <message>
         <source>Every clip this layer moves</source>
@@ -1135,23 +1135,23 @@
     </message>
     <message>
         <source>Covers</source>
-        <translation type="unfinished"></translation>
+        <translation>覆盖范围</translation>
     </message>
     <message>
         <source>Choose which tracks this layer moves</source>
-        <translation type="unfinished"></translation>
+        <translation>选择此图层要移动的轨道</translation>
     </message>
     <message>
         <source>Unlink</source>
-        <translation type="unfinished"></translation>
+        <translation>取消关联</translation>
     </message>
     <message>
         <source>Edit video and its audio separately</source>
-        <translation type="unfinished"></translation>
+        <translation>分别编辑视频和音频</translation>
     </message>
     <message>
         <source>Separate all audio tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>分离所有音轨</translation>
     </message>
     <message>
         <source>One audio clip per audio track in the file</source>
@@ -1159,23 +1159,23 @@
     </message>
     <message>
         <source>Convert to edit-friendly format</source>
-        <translation type="unfinished"></translation>
+        <translation>转换为便于编辑的格式</translation>
     </message>
     <message>
         <source>Smoother editing for phone and screen recordings</source>
-        <translation type="unfinished"></translation>
+        <translation>让手机和屏幕录制内容的编辑更流畅</translation>
     </message>
     <message>
         <source>Merge subtitle clips</source>
-        <translation type="unfinished"></translation>
+        <translation>合并字幕片段</translation>
     </message>
     <message>
         <source>Join the selected subtitle clips</source>
-        <translation type="unfinished"></translation>
+        <translation>合并所选字幕片段</translation>
     </message>
     <message>
         <source>Merge all subtitles on this track</source>
-        <translation type="unfinished"></translation>
+        <translation>合并此轨道上的所有字幕</translation>
     </message>
     <message>
         <source>Join every subtitle clip on the track</source>
@@ -1183,31 +1183,31 @@
     </message>
     <message>
         <source>Convert to text clips</source>
-        <translation type="unfinished"></translation>
+        <translation>转换为文本片段</translation>
     </message>
     <message>
         <source>One text clip per cue</source>
-        <translation type="unfinished"></translation>
+        <translation>每条字幕对应一个文本片段</translation>
     </message>
     <message>
         <source>Convert to subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>转换为字幕</translation>
     </message>
     <message>
         <source>Turn text clips into subtitle cues</source>
-        <translation type="unfinished"></translation>
+        <translation>将文本片段转换为字幕条目</translation>
     </message>
     <message>
         <source>Unlink from clip</source>
-        <translation type="unfinished"></translation>
+        <translation>取消与片段的关联</translation>
     </message>
     <message>
         <source>Stop following the clip it is attached to</source>
-        <translation type="unfinished"></translation>
+        <translation>不再跟随其附着的片段</translation>
     </message>
     <message>
         <source>Move to its own track</source>
-        <translation type="unfinished"></translation>
+        <translation>移至独立轨道</translation>
     </message>
     <message>
         <source>Take the adjustment out of this lane</source>
@@ -1219,79 +1219,79 @@
     </message>
     <message>
         <source>Copy effects</source>
-        <translation type="unfinished"></translation>
+        <translation>复制效果</translation>
     </message>
     <message>
         <source>Keep this clip&apos;s effects to paste</source>
-        <translation type="unfinished"></translation>
+        <translation>复制此片段的效果以便粘贴</translation>
     </message>
     <message>
         <source>Paste effects</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴效果</translation>
     </message>
     <message>
         <source>Add the copied effects to this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>将复制的效果添加到此片段</translation>
     </message>
     <message>
         <source>Save effects as preset…</source>
-        <translation type="unfinished"></translation>
+        <translation>将效果保存为预设…</translation>
     </message>
     <message>
         <source>Reuse this look on other clips</source>
-        <translation type="unfinished"></translation>
+        <translation>在其他片段中重复使用此效果风格</translation>
     </message>
     <message>
         <source>Trim &amp; timing</source>
-        <translation type="unfinished"></translation>
+        <translation>修剪与时间</translation>
     </message>
     <message>
         <source>Split all tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>分割所有轨道</translation>
     </message>
     <message>
         <source>Cut every clip under the playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>切开播放头下方的所有片段</translation>
     </message>
     <message>
         <source>Trim start</source>
-        <translation type="unfinished"></translation>
+        <translation>修剪开头</translation>
     </message>
     <message>
         <source>Drop everything before the playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>删除播放头之前的所有内容</translation>
     </message>
     <message>
         <source>Trim end</source>
-        <translation type="unfinished"></translation>
+        <translation>修剪结尾</translation>
     </message>
     <message>
         <source>Drop everything after the playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>删除播放头之后的所有内容</translation>
     </message>
     <message>
         <source>Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>速度</translation>
     </message>
     <message>
         <source>Change how fast this clip plays</source>
-        <translation type="unfinished"></translation>
+        <translation>更改此片段的播放速度</translation>
     </message>
     <message>
         <source>Freeze frame</source>
-        <translation type="unfinished"></translation>
+        <translation>定格画面</translation>
     </message>
     <message>
         <source>Freeze frame at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>定格当前时间的画面</translation>
     </message>
     <message>
         <source>Merge</source>
-        <translation type="unfinished"></translation>
+        <translation>合并</translation>
     </message>
     <message>
         <source>Merge adjacent clips</source>
-        <translation type="unfinished"></translation>
+        <translation>合并相邻片段</translation>
     </message>
     <message>
         <source>Close gap</source>
@@ -1299,7 +1299,7 @@
     </message>
     <message>
         <source>Close gap after clip</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭片段后的间隙</translation>
     </message>
     <message>
         <source>Audio</source>
@@ -1307,7 +1307,7 @@
     </message>
     <message>
         <source>Separate audio</source>
-        <translation type="unfinished"></translation>
+        <translation>分离音频</translation>
     </message>
     <message>
         <source>Separate audio from video</source>
@@ -1359,11 +1359,11 @@
     </message>
     <message>
         <source>Paste at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴到当前时间</translation>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>书签</translation>
     </message>
     <message>
         <source>Add or remove a bookmark here</source>
@@ -1387,7 +1387,7 @@
     </message>
     <message>
         <source>Clear work area</source>
-        <translation type="unfinished"></translation>
+        <translation>清除工作区</translation>
     </message>
     <message>
         <source>Shorter layers</source>
@@ -1674,7 +1674,7 @@
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <source>Clip name</source>
@@ -1686,7 +1686,7 @@
     </message>
     <message>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>标签</translation>
     </message>
     <message>
         <source>Bookmark name</source>
@@ -1694,15 +1694,15 @@
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>书签</translation>
     </message>
     <message>
         <source>My look</source>
-        <translation type="unfinished"></translation>
+        <translation>我的风格</translation>
     </message>
     <message>
         <source>Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>代理文件</translation>
     </message>
     <message>
         <source>Previewing from a low-resolution proxy. Export uses the original.</source>
@@ -1726,7 +1726,7 @@
     </message>
     <message>
         <source>Keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>关键帧</translation>
     </message>
     <message numerus="yes">
         <source>%n clip(s)</source>
@@ -1760,7 +1760,7 @@
     </message>
     <message>
         <source>Rename…</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名…</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -1780,7 +1780,7 @@
     </message>
     <message>
         <source>New track</source>
-        <translation type="unfinished"></translation>
+        <translation>新建轨道</translation>
     </message>
 </context>
 <context>
@@ -1923,15 +1923,15 @@
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>清除</translation>
     </message>
     <message>
         <source>In</source>
-        <translation type="unfinished"></translation>
+        <translation>入点</translation>
     </message>
     <message>
         <source>Out</source>
-        <translation type="unfinished"></translation>
+        <translation>出点</translation>
     </message>
     <message>
         <source>Edit custom curve…</source>
@@ -1946,23 +1946,23 @@
     <name>AppController</name>
     <message>
         <source>Media removed</source>
-        <translation type="unfinished"></translation>
+        <translation>媒体已移除</translation>
     </message>
     <message>
         <source>Rename media</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名媒体</translation>
     </message>
     <message>
         <source>Media renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>媒体已重命名</translation>
     </message>
     <message>
         <source>That file could not be read.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法读取该文件。</translation>
     </message>
     <message>
         <source>That file is already in this project.</source>
-        <translation type="unfinished"></translation>
+        <translation>该文件已在此项目中。</translation>
     </message>
     <message>
         <source>Converting %1 to an edit-friendly format…</source>
@@ -1970,7 +1970,7 @@
     </message>
     <message>
         <source>That media is no longer in this project.</source>
-        <translation type="unfinished"></translation>
+        <translation>该媒体已不在此项目中。</translation>
     </message>
     <message>
         <source>“%1” is %2, but this slot holds %3.</source>
@@ -1978,7 +1978,7 @@
     </message>
     <message>
         <source>Media replaced</source>
-        <translation type="unfinished"></translation>
+        <translation>媒体已替换</translation>
     </message>
     <message>
         <source>New project</source>
@@ -1990,15 +1990,15 @@
     </message>
     <message>
         <source>Save project</source>
-        <translation type="unfinished"></translation>
+        <translation>保存项目</translation>
     </message>
     <message>
         <source>Play/Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>播放/暂停</translation>
     </message>
     <message>
         <source>Delete selection</source>
-        <translation type="unfinished"></translation>
+        <translation>删除所选内容</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -2010,55 +2010,55 @@
     </message>
     <message>
         <source>Copy selection</source>
-        <translation type="unfinished"></translation>
+        <translation>复制所选内容</translation>
     </message>
     <message>
         <source>Cut selection</source>
-        <translation type="unfinished"></translation>
+        <translation>剪切所选内容</translation>
     </message>
     <message>
         <source>Paste at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴到当前时间</translation>
     </message>
     <message>
         <source>Duplicate selected clip</source>
-        <translation type="unfinished"></translation>
+        <translation>复制所选片段</translation>
     </message>
     <message>
         <source>Split at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>在当前时间分割</translation>
     </message>
     <message>
         <source>Merge adjacent clips</source>
-        <translation type="unfinished"></translation>
+        <translation>合并相邻片段</translation>
     </message>
     <message>
         <source>Separate audio</source>
-        <translation type="unfinished"></translation>
+        <translation>分离音频</translation>
     </message>
     <message>
         <source>Unlink audio</source>
-        <translation type="unfinished"></translation>
+        <translation>取消音频关联</translation>
     </message>
     <message>
         <source>Clear selection</source>
-        <translation type="unfinished"></translation>
+        <translation>清除选择</translation>
     </message>
     <message>
         <source>Select all clips</source>
-        <translation type="unfinished"></translation>
+        <translation>选择所有片段</translation>
     </message>
     <message>
         <source>Move selection left a little</source>
-        <translation type="unfinished"></translation>
+        <translation>将所选内容稍微左移</translation>
     </message>
     <message>
         <source>Move selection right a little</source>
-        <translation type="unfinished"></translation>
+        <translation>将所选内容稍微右移</translation>
     </message>
     <message>
         <source>Toggle guides</source>
-        <translation type="unfinished"></translation>
+        <translation>切换参考线</translation>
     </message>
     <message>
         <source>Add/remove bookmark at current time</source>
@@ -2066,19 +2066,19 @@
     </message>
     <message>
         <source>Go to next bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>转到下一个书签</translation>
     </message>
     <message>
         <source>Go to previous bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>转到上一个书签</translation>
     </message>
     <message>
         <source>Mark work area in</source>
-        <translation type="unfinished"></translation>
+        <translation>标记工作区起点</translation>
     </message>
     <message>
         <source>Mark work area out</source>
-        <translation type="unfinished"></translation>
+        <translation>标记工作区终点</translation>
     </message>
     <message>
         <source>Go to work area in</source>
@@ -2090,19 +2090,19 @@
     </message>
     <message>
         <source>Clear work area</source>
-        <translation type="unfinished"></translation>
+        <translation>清除工作区</translation>
     </message>
     <message>
         <source>Loop work area playback</source>
-        <translation type="unfinished"></translation>
+        <translation>循环播放工作区</translation>
     </message>
     <message>
         <source>Select tool</source>
-        <translation type="unfinished"></translation>
+        <translation>选择工具</translation>
     </message>
     <message>
         <source>Cut tool</source>
-        <translation type="unfinished"></translation>
+        <translation>剪切工具</translation>
     </message>
     <message>
         <source>Faster preview takes effect after you restart Drift.</source>
@@ -2110,31 +2110,31 @@
     </message>
     <message>
         <source>System default</source>
-        <translation type="unfinished"></translation>
+        <translation>系统默认</translation>
     </message>
     <message>
         <source>Clip added</source>
-        <translation type="unfinished"></translation>
+        <translation>已添加片段</translation>
     </message>
     <message>
         <source>Clip added on new track</source>
-        <translation type="unfinished"></translation>
+        <translation>已在新轨道上添加片段</translation>
     </message>
     <message>
         <source>Clip deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>已删除片段</translation>
     </message>
     <message>
         <source>Clip moved</source>
-        <translation type="unfinished"></translation>
+        <translation>已移动片段</translation>
     </message>
     <message>
         <source>Nothing to split here — move to a clip first</source>
-        <translation type="unfinished"></translation>
+        <translation>此处没有可分割的内容，请先移到某个片段上</translation>
     </message>
     <message>
         <source>Split clip</source>
-        <translation type="unfinished"></translation>
+        <translation>分割片段</translation>
     </message>
     <message>
         <source>Split left</source>
@@ -2679,7 +2679,7 @@
     </message>
     <message>
         <source>Paste attributes…</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴属性…</translation>
     </message>
     <message>
         <source>Go to previous cut point</source>
@@ -3535,7 +3535,7 @@
     </message>
     <message>
         <source>Select transform layer</source>
-        <translation type="unfinished"></translation>
+        <translation>选择变换图层</translation>
     </message>
     <message>
         <source>3D gizmo: move</source>
@@ -3718,7 +3718,7 @@
     </message>
     <message>
         <source>Transform together</source>
-        <translation type="unfinished"></translation>
+        <translation>一起变换</translation>
     </message>
     <message>
         <source>Change transform span</source>
@@ -4021,7 +4021,7 @@
     </message>
     <message>
         <source>Paste effects</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴效果</translation>
     </message>
     <message>
         <source>Copy a clip and select target clips first</source>
@@ -4627,7 +4627,7 @@
     </message>
     <message>
         <source>Rename media</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名媒体</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -4635,7 +4635,7 @@
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <source>Media name</source>
@@ -5841,7 +5841,7 @@
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>样式</translation>
     </message>
     <message>
         <source>Colours</source>
@@ -6066,7 +6066,7 @@
     </message>
     <message>
         <source>Save project</source>
-        <translation type="unfinished"></translation>
+        <translation>保存项目</translation>
     </message>
     <message numerus="yes">
         <source>Downloads — %n running</source>
@@ -6330,7 +6330,7 @@
     </message>
     <message>
         <source>Rename…</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名…</translation>
     </message>
     <message>
         <source>Export…</source>
@@ -6603,7 +6603,7 @@
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>清除</translation>
     </message>
     <message>
         <source>Pick %1</source>
@@ -6635,7 +6635,7 @@
     </message>
     <message>
         <source>Paste effects</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴效果</translation>
     </message>
 </context>
 <context>
@@ -7364,7 +7364,7 @@
     </message>
     <message>
         <source>Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>速度</translation>
     </message>
     <message>
         <source>Slides the gradient along its axis, in cycles per second</source>
@@ -7651,7 +7651,7 @@
     </message>
     <message>
         <source>Keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>关键帧</translation>
     </message>
     <message>
         <source>Analyzing…</source>
@@ -8141,7 +8141,7 @@
     </message>
     <message>
         <source>Couldn’t install “%1”: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无法安装“%1”：%2</translation>
     </message>
     <message>
         <source>Imported “%1”.</source>
@@ -8294,7 +8294,7 @@
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>清除</translation>
     </message>
 </context>
 <context>
@@ -8329,7 +8329,7 @@
     </message>
     <message>
         <source>Loading sources…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在加载来源…</translation>
     </message>
     <message>
         <source>Couldn’t reach the marketplace</source>
@@ -8621,7 +8621,7 @@
     </message>
     <message>
         <source>Rename…</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名…</translation>
     </message>
     <message>
         <source>%1 — drag to the timeline, right-click to preview</source>
@@ -8629,7 +8629,7 @@
     </message>
     <message>
         <source>Open composite</source>
-        <translation type="unfinished"></translation>
+        <translation>打开复合片段</translation>
     </message>
     <message>
         <source>Preview and edit…</source>
@@ -8675,7 +8675,7 @@
     </message>
     <message>
         <source>Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>代理文件</translation>
     </message>
     <message>
         <source>Edit-friendly</source>
@@ -8733,7 +8733,7 @@
     </message>
     <message>
         <source>Convert to edit-friendly format</source>
-        <translation type="unfinished"></translation>
+        <translation>转换为便于编辑的格式</translation>
     </message>
     <message numerus="yes">
         <source>Remove %n items from project</source>
@@ -8915,7 +8915,7 @@
     </message>
     <message>
         <source>Save keeps the original video and stores this framing.</source>
-        <translation type="unfinished"></translation>
+        <translation>保存会保留原视频，并保存当前取景设置。</translation>
     </message>
     <message>
         <source>Nothing to save — drag this item onto the timeline when you are ready.</source>
@@ -9268,7 +9268,7 @@
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <source>My style</source>
@@ -9311,7 +9311,7 @@
     </message>
     <message>
         <source>New track</source>
-        <translation type="unfinished"></translation>
+        <translation>新建轨道</translation>
     </message>
 </context>
 <context>
@@ -9730,7 +9730,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Toggle guides</source>
-        <translation type="unfinished"></translation>
+        <translation>切换参考线</translation>
     </message>
     <message>
         <source>Guide sets</source>
@@ -10061,7 +10061,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>速度</translation>
     </message>
     <message>
         <source>Blending</source>
@@ -10105,7 +10105,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>My look</source>
-        <translation type="unfinished"></translation>
+        <translation>我的风格</translation>
     </message>
 </context>
 <context>
@@ -10793,7 +10793,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>清除</translation>
     </message>
     <message>
         <source>Identify objects</source>
@@ -11242,7 +11242,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>清除</translation>
     </message>
     <message>
         <source>Allow sending audio and text to %1</source>
@@ -11437,11 +11437,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Trim start</source>
-        <translation type="unfinished"></translation>
+        <translation>修剪开头</translation>
     </message>
     <message>
         <source>Trim end</source>
-        <translation type="unfinished"></translation>
+        <translation>修剪结尾</translation>
     </message>
     <message>
         <source>Sketchy</source>
@@ -11914,7 +11914,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>速度</translation>
     </message>
     <message>
         <source>Speed changed</source>
@@ -12568,7 +12568,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Rename…</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名…</translation>
     </message>
     <message>
         <source>Export…</source>
@@ -12638,7 +12638,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>样式</translation>
     </message>
     <message>
         <source>Aa</source>
@@ -13094,11 +13094,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>In</source>
-        <translation type="unfinished"></translation>
+        <translation>入点</translation>
     </message>
     <message>
         <source>Out</source>
-        <translation type="unfinished"></translation>
+        <translation>出点</translation>
     </message>
     <message>
         <source>Loop</source>
@@ -13207,11 +13207,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Trim start</source>
-        <translation type="unfinished"></translation>
+        <translation>修剪开头</translation>
     </message>
     <message>
         <source>Trim end</source>
-        <translation type="unfinished"></translation>
+        <translation>修剪结尾</translation>
     </message>
     <message>
         <source>Dash offset</source>
@@ -13397,19 +13397,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Open composite</source>
-        <translation type="unfinished"></translation>
+        <translation>打开复合片段</translation>
     </message>
     <message>
         <source>Flatten composite</source>
-        <translation type="unfinished"></translation>
+        <translation>扁平化复合片段</translation>
     </message>
     <message>
         <source>Make composite</source>
-        <translation type="unfinished"></translation>
+        <translation>创建复合片段</translation>
     </message>
     <message>
         <source>Transform together</source>
-        <translation type="unfinished"></translation>
+        <translation>一起变换</translation>
     </message>
     <message>
         <source>Add transform layer</source>
@@ -13417,7 +13417,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Select transform layer</source>
-        <translation type="unfinished"></translation>
+        <translation>选择变换图层</translation>
     </message>
     <message>
         <source>Covers…</source>
@@ -13425,23 +13425,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Select covered clips</source>
-        <translation type="unfinished"></translation>
+        <translation>选择受覆盖的片段</translation>
     </message>
     <message>
         <source>Split at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>在当前时间分割</translation>
     </message>
     <message>
         <source>Separate audio</source>
-        <translation type="unfinished"></translation>
+        <translation>分离音频</translation>
     </message>
     <message>
         <source>Separate all audio tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>分离所有音轨</translation>
     </message>
     <message>
         <source>Convert to edit-friendly format</source>
-        <translation type="unfinished"></translation>
+        <translation>转换为便于编辑的格式</translation>
     </message>
     <message>
         <source>Enhance video…</source>
@@ -13449,23 +13449,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Unlink</source>
-        <translation type="unfinished"></translation>
+        <translation>取消关联</translation>
     </message>
     <message>
         <source>Merge subtitle clips</source>
-        <translation type="unfinished"></translation>
+        <translation>合并字幕片段</translation>
     </message>
     <message>
         <source>Merge all subtitles on this track</source>
-        <translation type="unfinished"></translation>
+        <translation>合并此轨道上的所有字幕</translation>
     </message>
     <message>
         <source>Convert to text clips</source>
-        <translation type="unfinished"></translation>
+        <translation>转换为文本片段</translation>
     </message>
     <message>
         <source>Convert to subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>转换为字幕</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -13477,7 +13477,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Paste attributes…</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴属性…</translation>
     </message>
     <message>
         <source>Duplicate</source>
@@ -13485,27 +13485,27 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Rename…</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名…</translation>
     </message>
     <message>
         <source>Copy effects</source>
-        <translation type="unfinished"></translation>
+        <translation>复制效果</translation>
     </message>
     <message>
         <source>Paste effects</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴效果</translation>
     </message>
     <message>
         <source>Save effects as preset…</source>
-        <translation type="unfinished"></translation>
+        <translation>将效果保存为预设…</translation>
     </message>
     <message>
         <source>Unlink from clip</source>
-        <translation type="unfinished"></translation>
+        <translation>取消与片段的关联</translation>
     </message>
     <message>
         <source>Move to its own track</source>
-        <translation type="unfinished"></translation>
+        <translation>移至独立轨道</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -13544,7 +13544,7 @@ If playback stutters, try another.</source>
     <name>TimelinePanel</name>
     <message>
         <source>Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>代理文件</translation>
     </message>
     <message>
         <source>Previewing from a low-resolution proxy. Export uses the original.</source>
@@ -13584,7 +13584,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Rename…</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名…</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -13600,7 +13600,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>New track</source>
-        <translation type="unfinished"></translation>
+        <translation>新建轨道</translation>
     </message>
     <message>
         <source>Importing…</source>
@@ -13624,7 +13624,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>标签</translation>
     </message>
     <message>
         <source>Bookmark name</source>
@@ -13632,7 +13632,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>书签</translation>
     </message>
     <message>
         <source>Convert to subtitle?</source>
@@ -13652,7 +13652,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <source>Clip name</source>
@@ -13660,7 +13660,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>My look</source>
-        <translation type="unfinished"></translation>
+        <translation>我的风格</translation>
     </message>
     <message>
         <source>Close Gap</source>
@@ -13703,7 +13703,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Trim start</source>
-        <translation type="unfinished"></translation>
+        <translation>修剪开头</translation>
     </message>
     <message>
         <source>Trim start — click a clip to drop everything left of the cut</source>
@@ -13711,7 +13711,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Trim end</source>
-        <translation type="unfinished"></translation>
+        <translation>修剪结尾</translation>
     </message>
     <message>
         <source>Trim end — click a clip to drop everything right of the cut</source>
@@ -13731,11 +13731,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Copy selection</source>
-        <translation type="unfinished"></translation>
+        <translation>复制所选内容</translation>
     </message>
     <message>
         <source>Paste at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴到当前时间</translation>
     </message>
     <message>
         <source>Duplicate clip</source>
@@ -13747,19 +13747,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Mark work area in</source>
-        <translation type="unfinished"></translation>
+        <translation>标记工作区起点</translation>
     </message>
     <message>
         <source>Mark work area out</source>
-        <translation type="unfinished"></translation>
+        <translation>标记工作区终点</translation>
     </message>
     <message>
         <source>Loop work area playback</source>
-        <translation type="unfinished"></translation>
+        <translation>循环播放工作区</translation>
     </message>
     <message>
         <source>Clear work area</source>
-        <translation type="unfinished"></translation>
+        <translation>清除工作区</translation>
     </message>
     <message>
         <source>Add transform layer</source>
@@ -13799,11 +13799,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Merge adjacent clips</source>
-        <translation type="unfinished"></translation>
+        <translation>合并相邻片段</translation>
     </message>
     <message>
         <source>Freeze frame at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>定格当前时间的画面</translation>
     </message>
     <message>
         <source>More edit actions</source>
@@ -14054,7 +14054,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Select covered clips</source>
-        <translation type="unfinished"></translation>
+        <translation>选择受覆盖的片段</translation>
     </message>
     <message>
         <source>Add transform layer above</source>
@@ -14082,7 +14082,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Covers</source>
-        <translation type="unfinished"></translation>
+        <translation>覆盖范围</translation>
     </message>
     <message>
         <source>Video</source>
@@ -14150,7 +14150,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Rename…</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名…</translation>
     </message>
 </context>
 <context>
@@ -14384,7 +14384,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Covers</source>
-        <translation type="unfinished"></translation>
+        <translation>覆盖范围</translation>
     </message>
     <message>
         <source>Nothing</source>
