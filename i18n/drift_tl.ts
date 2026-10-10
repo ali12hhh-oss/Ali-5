@@ -11037,7 +11037,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Fill behind clips that don’t cover the whole screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Lagyan ng background ang bahaging hindi natatakpan ng clip</translation>
     </message>
     <message>
         <source>Choose background colour</source>
@@ -11053,7 +11053,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Play clips from their low-resolution proxies where one exists. Export always uses the original media.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kung may low-resolution proxy, iyon ang gagamitin sa pag-play ng clip. Palaging orihinal na media ang ginagamit sa export.</translation>
     </message>
     <message>
         <source>Proxy resolution</source>
@@ -11077,15 +11077,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Size of new proxies. Proxies made at another size are not used until you create them again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Laki ng mga bagong proxy. Hindi gagamitin ang mga proxy na may ibang laki hangga't hindi muling ginagawa.</translation>
     </message>
     <message>
         <source>Faster preview (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mas mabilis na preview (eksperimental)</translation>
     </message>
     <message>
         <source>Can make playback smoother by keeping video on the graphics card. Turn it off if the picture looks wrong. Takes effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maaaring gawing mas maayos ang playback sa pamamagitan ng pagpapanatili ng video sa graphics card. I-off kung mali ang larawan. Magkakabisa pagkatapos mag-restart.</translation>
     </message>
     <message>
         <source>Graphics card</source>
@@ -11105,7 +11105,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Which graphics card Drift runs on. High performance keeps video decoded on an NVIDIA card on that card; power saving uses less battery. Takes effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinipili kung aling graphics card ang gagamitin ng Drift. Sa high performance, sa NVIDIA card na iyon dine-decode ang video; mas kaunting baterya ang ginagamit ng power saving. Magkakabisa pagkatapos mag-restart.</translation>
     </message>
     <message>
         <source>Choose which graphics card Drift runs on in Windows Settings, under Display &gt; Graphics. Takes effect after restart.</source>
@@ -11169,7 +11169,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Vibrate on taps, snaps, and edits. Uses this device’s own haptic effects when it has them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-vibrate sa pag-tap, pag-snap, at pag-edit. Gagamitin ang sariling haptic effect ng device kung mayroon.</translation>
     </message>
     <message>
         <source>Language</source>
@@ -12043,11 +12043,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Smooths camera shake by writing position keyframes. Linear pans stay as two keys far apart; only direction changes get extra keys. Changing smoothness or tripod does not update the preview until you apply.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinapakinis ang pagyanig ng camera sa pamamagitan ng position keyframe. Dalawang key na magkalayo ang ginagamit sa linear pan; nagdaragdag lang kapag nagbabago ang direksiyon. Hindi maa-update ang preview kapag binago ang smoothing o tripod hangga't hindi inilalapat.</translation>
     </message>
     <message>
         <source>Smooths camera shake. Drift scans the clip once, then renders a new video. Changing smoothness or tripod does not update the preview until you apply.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinapakinis ang pagyanig ng camera. Minsan lang i-scan ng Drift ang clip at magre-render ng bagong video. Hindi maa-update ang preview kapag binago ang smoothing o tripod hangga't hindi inilalapat.</translation>
     </message>
     <message>
         <source>Mode</source>
@@ -12063,7 +12063,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>How many frames the smoother looks ahead and behind. Higher values hide more shake but crop the picture more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilang frame ang tinitingnan ng smoother sa unahan at likuran. Mas mataas na halaga ang mas nakakabawas ng pagyanig ngunit mas nagka-crop ng larawan.</translation>
     </message>
     <message>
         <source>Tripod mode</source>
@@ -12071,15 +12071,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Locks the framing as if the camera were on a tripod. Crops more aggressively than smoothing alone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nilalock ang framing na para bang nasa tripod ang camera. Mas malaki ang crop kumpara sa smoothing lamang.</translation>
     </message>
     <message>
         <source>Position keys still use the last run. Update to apply these settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ginagamit pa rin ng position key ang huling run. I-update upang mailapat ang mga setting na ito.</translation>
     </message>
     <message>
         <source>Preview still uses the last run. Update to apply these settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ginagamit pa rin ng preview ang huling run. I-update upang mailapat ang mga setting na ito.</translation>
     </message>
     <message>
         <source>Remove</source>
