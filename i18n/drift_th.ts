@@ -12257,19 +12257,19 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>You have used today’s downloads from this source</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณใช้โควตาดาวน์โหลดของแหล่งนี้สำหรับวันนี้หมดแล้ว</translation>
     </message>
     <message>
         <source>Saves to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกไปที่ %1</translation>
     </message>
     <message>
         <source>You’ll choose a folder the first time</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณจะเลือกโฟลเดอร์ในครั้งแรก</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยน</translation>
     </message>
 </context>
 <context>
@@ -12291,7 +12291,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Subtitles (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>คำบรรยาย (%1)</translation>
     </message>
 </context>
 <context>
@@ -12308,7 +12308,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>(empty)</source>
-        <translation type="unfinished"></translation>
+        <translation>(ว่าง)</translation>
     </message>
 </context>
 <context>
@@ -12319,11 +12319,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>%1 captions</source>
-        <translation type="unfinished"></translation>
+        <translation>คำบรรยาย %1 รายการ</translation>
     </message>
     <message>
         <source>Play the timeline — the line on screen lights up. Click any line to jump to it and edit it below.</source>
-        <translation type="unfinished"></translation>
+        <translation>เล่นไทม์ไลน์เพื่อให้บรรทัดที่กำลังแสดงสว่างขึ้น คลิกบรรทัดใดก็ได้เพื่อไปยังเวลานั้นและแก้ไขด้านล่าง</translation>
     </message>
     <message>
         <source>Import</source>
@@ -12331,15 +12331,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Replace these captions from a .srt file</source>
-        <translation type="unfinished"></translation>
+        <translation>แทนที่คำบรรยายเหล่านี้จากไฟล์ .srt</translation>
     </message>
     <message>
         <source>Import Subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าคำบรรยาย</translation>
     </message>
     <message>
         <source>SubRip subtitles (*.srt)</source>
-        <translation type="unfinished"></translation>
+        <translation>คำบรรยาย SubRip (*.srt)</translation>
     </message>
     <message>
         <source>All files (*)</source>
@@ -12351,15 +12351,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Save captions as a .srt file</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกคำบรรยายเป็นไฟล์ .srt</translation>
     </message>
     <message>
         <source>Export Subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกคำบรรยาย</translation>
     </message>
     <message>
         <source>Timestamps from the start of the video</source>
-        <translation type="unfinished"></translation>
+        <translation>เวลาจะนับจากจุดเริ่มต้นของวิดีโอ</translation>
     </message>
     <message>
         <source>Offset the exported captions by this clip&apos;s start so they match the exported video</source>
@@ -12367,66 +12367,66 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>(empty)</source>
-        <translation type="unfinished"></translation>
+        <translation>(ว่าง)</translation>
     </message>
     <message>
         <source>Delete this subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบคำบรรยายนี้</translation>
     </message>
     <message>
         <source>Add a subtitle after this one</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มคำบรรยายต่อจากรายการนี้</translation>
     </message>
     <message>
         <source>No subtitles yet. Move to a time inside this clip and add one below.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่มีคำบรรยาย เลื่อนไปยังเวลาภายในคลิปนี้แล้วเพิ่มรายการด้านล่าง</translation>
     </message>
     <message>
         <source>Type subtitle…</source>
-        <translation type="unfinished"></translation>
+        <translation>พิมพ์คำบรรยาย…</translation>
     </message>
     <message>
         <source>Apply text to this subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้ข้อความกับคำบรรยายนี้</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>เริ่ม</translation>
     </message>
     <message>
         <source>Set start to current time</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งเวลาเริ่มต้นเป็นเวลาปัจจุบัน</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>สิ้นสุด</translation>
     </message>
     <message>
         <source>Set end to current time</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งเวลาสิ้นสุดเป็นเวลาปัจจุบัน</translation>
     </message>
     <message>
         <source>Delete caption</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบบรรทัดคำบรรยาย</translation>
     </message>
     <message>
         <source>At %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่ %1</translation>
     </message>
     <message>
         <source>Move to a time inside this clip to add a subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>เลื่อนไปยังเวลาภายในคลิปนี้เพื่อเพิ่มคำบรรยาย</translation>
     </message>
     <message>
         <source>Add subtitle at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มคำบรรยาย ณ เวลาปัจจุบัน</translation>
     </message>
 </context>
 <context>
     <name>SubtitleProgressDialog</name>
     <message>
         <source>Generating subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังสร้างคำบรรยาย</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -12445,27 +12445,27 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     <name>SubtitlesTab</name>
     <message>
         <source>Subtitle track — one clip holds many timed captions. Place it on the timeline, trim its length, then add caption lines at each moment in the clip panel.</source>
-        <translation type="unfinished"></translation>
+        <translation>แทร็กคำบรรยายหนึ่งคลิปเก็บคำบรรยายหลายรายการพร้อมเวลา วางบนไทม์ไลน์ ปรับความยาว แล้วเพิ่มบรรทัดคำบรรยายตามช่วงเวลาในแผงคลิป</translation>
     </message>
     <message>
         <source>Add subtitle clip</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มคลิปคำบรรยาย</translation>
     </message>
     <message>
         <source>Import subtitle file</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าไฟล์คำบรรยาย</translation>
     </message>
     <message>
         <source>Import a .srt file as a subtitle clip</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าไฟล์ .srt เป็นคลิปคำบรรยาย</translation>
     </message>
     <message>
         <source>Import Subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าคำบรรยาย</translation>
     </message>
     <message>
         <source>SubRip subtitles (*.srt)</source>
-        <translation type="unfinished"></translation>
+        <translation>คำบรรยาย SubRip (*.srt)</translation>
     </message>
     <message>
         <source>All files (*)</source>
@@ -12473,15 +12473,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Add auto caption</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มคำบรรยายอัตโนมัติ</translation>
     </message>
     <message>
         <source>Creates captions from the speech in the selected clip.</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างคำบรรยายจากเสียงพูดในคลิปที่เลือก</translation>
     </message>
     <message>
         <source>Select a video or audio clip on the timeline first.</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรดเลือกคลิปวิดีโอหรือเสียงบนไทม์ไลน์ก่อน</translation>
     </message>
     <message>
         <source>Shorter captions are timed by splitting each phrase evenly, so they can drift slightly out of sync with the speech.</source>
@@ -12493,7 +12493,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Select a video or audio clip first</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรดเลือกคลิปวิดีโอหรือเสียงก่อน</translation>
     </message>
     <message>
         <source>Creating captions… %1%</source>
@@ -12505,7 +12505,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Stop creating captions</source>
-        <translation type="unfinished"></translation>
+        <translation>หยุดสร้างคำบรรยาย</translation>
     </message>
     <message>
         <source>Download speech recognition (about 670 MB)</source>
@@ -12517,7 +12517,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Needed for auto captions from speech</source>
-        <translation type="unfinished"></translation>
+        <translation>จำเป็นสำหรับการสร้างคำบรรยายอัตโนมัติจากเสียงพูด</translation>
     </message>
     <message>
         <source>Recommended caption length</source>
@@ -12543,35 +12543,35 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     <name>TextAssetsTab</name>
     <message>
         <source>Drift text style (*.drifttextstyle)</source>
-        <translation type="unfinished"></translation>
+        <translation>สไตล์ข้อความ Drift (*.drifttextstyle)</translation>
     </message>
     <message>
         <source>Import text style</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าสไตล์ข้อความ</translation>
     </message>
     <message>
         <source>Export text style</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกสไตล์ข้อความ</translation>
     </message>
     <message>
         <source>Click a style to add text at the playhead. Double-click it on the preview to edit.</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิกสไตล์เพื่อเพิ่มข้อความที่ตำแหน่งหัวอ่าน ดับเบิลคลิกข้อความในตัวอย่างเพื่อแก้ไข</translation>
     </message>
     <message>
         <source>My styles</source>
-        <translation type="unfinished"></translation>
+        <translation>สไตล์ของฉัน</translation>
     </message>
     <message>
         <source>Import a text style…</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าสไตล์ข้อความ…</translation>
     </message>
     <message>
         <source>Style some text, then use “Save style…” in the properties Text tab to keep it here.</source>
-        <translation type="unfinished"></translation>
+        <translation>จัดรูปแบบข้อความ แล้วเลือก “บันทึกสไตล์…” ในแท็บ Text ของคุณสมบัติเพื่อเก็บไว้ที่นี่</translation>
     </message>
     <message>
         <source>Style options</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวเลือกสไตล์</translation>
     </message>
     <message>
         <source>Rename…</source>
@@ -12591,42 +12591,42 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Rename text style</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อสไตล์ข้อความ</translation>
     </message>
     <message>
         <source>Delete text style</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบสไตล์ข้อความ</translation>
     </message>
     <message>
         <source>Remove “%1” from your saved styles? Clips already using it keep their look.</source>
-        <translation type="unfinished"></translation>
+        <translation>นำ “%1” ออกจากสไตล์ที่บันทึกไว้หรือไม่ คลิปที่ใช้อยู่จะคงรูปลักษณ์เดิม</translation>
     </message>
 </context>
 <context>
     <name>TextEffects</name>
     <message>
         <source>Shine sweep</source>
-        <translation type="unfinished"></translation>
+        <translation>แสงเงาวิ่งผ่าน</translation>
     </message>
     <message>
         <source>Holographic shimmer</source>
-        <translation type="unfinished"></translation>
+        <translation>ประกายโฮโลแกรม</translation>
     </message>
     <message>
         <source>Neon pulse</source>
-        <translation type="unfinished"></translation>
+        <translation>แสงนีออนเต้น</translation>
     </message>
     <message>
         <source>Glitch</source>
-        <translation type="unfinished"></translation>
+        <translation>กลิตช์</translation>
     </message>
     <message>
         <source>Chrome</source>
-        <translation type="unfinished"></translation>
+        <translation>โครเมียม</translation>
     </message>
     <message>
         <source>Dissolve</source>
-        <translation type="unfinished"></translation>
+        <translation>ละลาย</translation>
     </message>
 </context>
 <context>
@@ -12641,7 +12641,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Edits the first gradient stop</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขจุดสีแรกของการไล่สี</translation>
     </message>
     <message>
         <source>Style</source>
@@ -12657,11 +12657,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Whole block</source>
-        <translation type="unfinished"></translation>
+        <translation>ทั้งบล็อก</translation>
     </message>
     <message>
         <source>Character</source>
-        <translation type="unfinished"></translation>
+        <translation>อักขระ</translation>
     </message>
     <message>
         <source>Word</source>
@@ -12673,19 +12673,19 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>ไปข้างหน้า</translation>
     </message>
     <message>
         <source>Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้อนกลับ</translation>
     </message>
     <message>
         <source>Center out</source>
-        <translation type="unfinished"></translation>
+        <translation>จากกลางออกไป</translation>
     </message>
     <message>
         <source>Random</source>
-        <translation type="unfinished"></translation>
+        <translation>สุ่ม</translation>
     </message>
     <message>
         <source>Linear</source>
@@ -12697,7 +12697,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Snappy</source>
-        <translation type="unfinished"></translation>
+        <translation>ฉับไว</translation>
     </message>
     <message>
         <source>Back</source>
@@ -12709,7 +12709,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Save style…</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกสไตล์…</translation>
     </message>
     <message>
         <source>Save text style</source>
@@ -12717,31 +12717,31 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>My style %1</source>
-        <translation type="unfinished"></translation>
+        <translation>สไตล์ของฉัน %1</translation>
     </message>
     <message>
         <source>Apply to all captions</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้กับคำบรรยายทั้งหมด</translation>
     </message>
     <message>
         <source>Copy this style to every other caption on this track</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกสไตล์นี้ไปยังคำบรรยายอื่นทั้งหมดในแทร็กนี้</translation>
     </message>
     <message>
         <source>…every track</source>
-        <translation type="unfinished"></translation>
+        <translation>…ทุกแทร็ก</translation>
     </message>
     <message>
         <source>Copy this style to every caption in the project</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกสไตล์นี้ไปยังคำบรรยายทั้งหมดในโปรเจกต์</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>แบบอักษร</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation type="unfinished"></translation>
+        <translation>น้ำหนักตัวอักษร</translation>
     </message>
     <message>
         <source>Size</source>
@@ -12757,35 +12757,35 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Decorations</source>
-        <translation type="unfinished"></translation>
+        <translation>การตกแต่ง</translation>
     </message>
     <message>
         <source>Boxes and rules drawn around the text rather than on it</source>
-        <translation type="unfinished"></translation>
+        <translation>กล่องและเส้นที่วาดรอบข้อความแทนที่จะวาดบนข้อความ</translation>
     </message>
     <message>
         <source>Animate</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำแอนิเมชัน</translation>
     </message>
     <message>
         <source>Phase</source>
-        <translation type="unfinished"></translation>
+        <translation>เฟส</translation>
     </message>
     <message>
         <source>Stagger</source>
-        <translation type="unfinished"></translation>
+        <translation>เหลื่อมเวลา</translation>
     </message>
     <message>
         <source>Delay between one unit and the next along the cycle</source>
-        <translation type="unfinished"></translation>
+        <translation>ระยะหน่วงระหว่างแต่ละหน่วยในรอบการทำงาน</translation>
     </message>
     <message>
         <source>Delay between one unit starting and the next</source>
-        <translation type="unfinished"></translation>
+        <translation>ระยะหน่วงระหว่างการเริ่มของแต่ละหน่วย</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation>ลำดับ</translation>
     </message>
     <message>
         <source>Ease</source>
@@ -12797,23 +12797,23 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Custom animator (set via MCP). Preset controls are disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวสร้างแอนิเมชันแบบกำหนดเอง (ตั้งค่าผ่าน MCP) ปิดการควบคุมค่าที่ตั้งไว้ล่วงหน้า</translation>
     </message>
     <message>
         <source>Revert to preset</source>
-        <translation type="unfinished"></translation>
+        <translation>กลับไปใช้ค่าที่ตั้งไว้</translation>
     </message>
     <message>
         <source>Drop the custom animators and go back to picking presets</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบตัวสร้างแอนิเมชันแบบกำหนดเองแล้วกลับไปเลือกค่าที่ตั้งไว้</translation>
     </message>
     <message>
         <source>Choose text colour</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกสีข้อความ</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวเอียง</translation>
     </message>
     <message>
         <source>Italicise the text</source>
@@ -13329,7 +13329,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>My styles</source>
-        <translation type="unfinished"></translation>
+        <translation>สไตล์ของฉัน</translation>
     </message>
     <message>
         <source>Built-in</source>
@@ -15092,7 +15092,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Glitch</source>
-        <translation type="unfinished"></translation>
+        <translation>กลิตช์</translation>
     </message>
     <message>
         <source>Neon</source>
@@ -15116,7 +15116,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Chrome</source>
-        <translation type="unfinished"></translation>
+        <translation>โครเมียม</translation>
     </message>
     <message>
         <source>Holographic</source>
