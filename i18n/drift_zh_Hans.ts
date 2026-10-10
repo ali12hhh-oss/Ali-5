@@ -12817,11 +12817,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Italicise the text</source>
-        <translation type="unfinished"></translation>
+        <translation>将文本设为斜体</translation>
     </message>
     <message>
         <source>%1 has no italic face</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 没有可用的斜体字形</translation>
     </message>
     <message>
         <source>Adjust text look</source>
@@ -12845,51 +12845,51 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Bend</source>
-        <translation type="unfinished"></translation>
+        <translation>弯曲</translation>
     </message>
     <message>
         <source>Align left</source>
-        <translation type="unfinished"></translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <source>Align centre</source>
-        <translation type="unfinished"></translation>
+        <translation>居中对齐</translation>
     </message>
     <message>
         <source>Align right</source>
-        <translation type="unfinished"></translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <source>Align top</source>
-        <translation type="unfinished"></translation>
+        <translation>顶部对齐</translation>
     </message>
     <message>
         <source>Align middle</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直居中</translation>
     </message>
     <message>
         <source>Align bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>底部对齐</translation>
     </message>
     <message>
         <source>Line height</source>
-        <translation type="unfinished"></translation>
+        <translation>行高</translation>
     </message>
     <message>
         <source>Letter spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>字间距</translation>
     </message>
     <message>
         <source>Wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>换行</translation>
     </message>
     <message>
         <source>Word wrap</source>
-        <translation type="unfinished"></translation>
+        <translation>自动换行</translation>
     </message>
     <message>
         <source>Wrap long lines inside the text box instead of overflowing</source>
-        <translation type="unfinished"></translation>
+        <translation>将长行限制在文本框内换行，而不是溢出边界</translation>
     </message>
     <message>
         <source>Width</source>
@@ -12905,7 +12905,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Draw a filled box behind the text</source>
-        <translation type="unfinished"></translation>
+        <translation>在文本后方绘制填充色方框</translation>
     </message>
     <message>
         <source>Choose background colour</source>
@@ -12913,11 +12913,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Padding</source>
-        <translation type="unfinished"></translation>
+        <translation>内边距</translation>
     </message>
     <message>
         <source>Space between the text and the edge of its background box</source>
-        <translation type="unfinished"></translation>
+        <translation>文本与背景框边缘之间的间距</translation>
     </message>
     <message>
         <source>Corner radius</source>
@@ -12925,7 +12925,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Roundness of the background box corners</source>
-        <translation type="unfinished"></translation>
+        <translation>背景框圆角程度</translation>
     </message>
     <message>
         <source>Glow</source>
@@ -12937,7 +12937,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Type your text…</source>
-        <translation type="unfinished"></translation>
+        <translation>输入文本…</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -12945,27 +12945,27 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Apply the text to this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>将文本应用到此片段</translation>
     </message>
     <message>
         <source>Edit in Style</source>
-        <translation type="unfinished"></translation>
+        <translation>在“样式”中编辑</translation>
     </message>
     <message>
         <source>The text is painted with an image; change it on the Style page</source>
-        <translation type="unfinished"></translation>
+        <translation>文本使用图像填充；请在“样式”页面更改</translation>
     </message>
     <message>
         <source>The text is painted with an effect; change it on the Style page</source>
-        <translation type="unfinished"></translation>
+        <translation>文本使用效果填充；请在“样式”页面更改</translation>
     </message>
     <message>
         <source>Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>间距</translation>
     </message>
     <message>
         <source>Line height, letter spacing, wrapping and bend</source>
-        <translation type="unfinished"></translation>
+        <translation>行高、字间距、换行和弯曲</translation>
     </message>
     <message>
         <source>Preset</source>
@@ -12973,11 +12973,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>A whole text style — font, colour and effect — applied in one tap</source>
-        <translation type="unfinished"></translation>
+        <translation>一键应用完整文本样式，包括字体、颜色和效果</translation>
     </message>
     <message>
         <source>Font, colour and effect in one tap. Save your own to reuse it.</source>
-        <translation type="unfinished"></translation>
+        <translation>一键应用字体、颜色和效果。保存自定义样式以便重复使用。</translation>
     </message>
     <message>
         <source>Save this text&apos;s style as a reusable preset</source>
@@ -12989,23 +12989,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Shadow, outline, neon and friends — a recipe that builds the layers below</source>
-        <translation type="unfinished"></translation>
+        <translation>阴影、描边、霓虹等组合效果——会生成下方的图层</translation>
     </message>
     <message>
         <source>Shadow, outline, neon… built as layers you can fine-tune below.</source>
-        <translation type="unfinished"></translation>
+        <translation>阴影、描边、霓虹等效果会构建为图层，可在下方微调。</translation>
     </message>
     <message>
         <source>No layers. Pick an effect above or add a fill to start.</source>
-        <translation type="unfinished"></translation>
+        <translation>暂无图层。选择上方的效果或添加填充以开始。</translation>
     </message>
     <message>
         <source>Word highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>单词高亮</translation>
     </message>
     <message>
         <source>Filled pill behind every word, sized to the word itself</source>
-        <translation type="unfinished"></translation>
+        <translation>在每个单词后添加与单词大小匹配的实色圆角底框</translation>
     </message>
     <message>
         <source>Thickness</source>
@@ -13013,23 +13013,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>How far the pill extends past the word</source>
-        <translation type="unfinished"></translation>
+        <translation>圆角底框超出单词的距离</translation>
     </message>
     <message>
         <source>Highlight colour</source>
-        <translation type="unfinished"></translation>
+        <translation>高亮颜色</translation>
     </message>
     <message>
         <source>Choose highlight colour</source>
-        <translation type="unfinished"></translation>
+        <translation>选择高亮颜色</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>下划线</translation>
     </message>
     <message>
         <source>Draw a rule under each line of text</source>
-        <translation type="unfinished"></translation>
+        <translation>在每行文本下方绘制一条线</translation>
     </message>
     <message>
         <source>Offset</source>
@@ -13037,67 +13037,67 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Gap between the baseline and the rule</source>
-        <translation type="unfinished"></translation>
+        <translation>基线与下划线之间的距离</translation>
     </message>
     <message>
         <source>Underline colour</source>
-        <translation type="unfinished"></translation>
+        <translation>下划线颜色</translation>
     </message>
     <message>
         <source>Choose underline colour</source>
-        <translation type="unfinished"></translation>
+        <translation>选择下划线颜色</translation>
     </message>
     <message>
         <source>Word accent</source>
-        <translation type="unfinished"></translation>
+        <translation>单词强调</translation>
     </message>
     <message>
         <source>Style some words differently from the rest, chosen by rule</source>
-        <translation type="unfinished"></translation>
+        <translation>根据规则为部分单词设置不同于其他文本的样式</translation>
     </message>
     <message>
         <source>Accent colour</source>
-        <translation type="unfinished"></translation>
+        <translation>强调颜色</translation>
     </message>
     <message>
         <source>Recolour the words the rule picks out</source>
-        <translation type="unfinished"></translation>
+        <translation>为规则选中的单词重新着色</translation>
     </message>
     <message>
         <source>Choose accent colour</source>
-        <translation type="unfinished"></translation>
+        <translation>选择强调颜色</translation>
     </message>
     <message>
         <source>Accent size</source>
-        <translation type="unfinished"></translation>
+        <translation>强调文字大小</translation>
     </message>
     <message>
         <source>Size of the accented words relative to the rest of the line</source>
-        <translation type="unfinished"></translation>
+        <translation>强调单词相对于该行其他文本的大小</translation>
     </message>
     <message>
         <source>Accent outline</source>
-        <translation type="unfinished"></translation>
+        <translation>强调文字描边</translation>
     </message>
     <message>
         <source>Give the accented words their own outline</source>
-        <translation type="unfinished"></translation>
+        <translation>为强调的单词添加独立描边</translation>
     </message>
     <message>
         <source>Choose accent outline colour</source>
-        <translation type="unfinished"></translation>
+        <translation>选择强调描边颜色</translation>
     </message>
     <message>
         <source>Accent pill</source>
-        <translation type="unfinished"></translation>
+        <translation>强调底框</translation>
     </message>
     <message>
         <source>Highlight only the accented words, instead of every word</source>
-        <translation type="unfinished"></translation>
+        <translation>只高亮强调的单词，而不是所有单词</translation>
     </message>
     <message>
         <source>Choose accent highlight colour</source>
-        <translation type="unfinished"></translation>
+        <translation>选择强调高亮颜色</translation>
     </message>
     <message>
         <source>In</source>
@@ -13113,7 +13113,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Plays for every caption</source>
-        <translation type="unfinished"></translation>
+        <translation>每条字幕都播放</translation>
     </message>
     <message>
         <source>All</source>
@@ -13121,11 +13121,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Preview this animation</source>
-        <translation type="unfinished"></translation>
+        <translation>预览此动画</translation>
     </message>
     <message>
         <source>Period</source>
-        <translation type="unfinished"></translation>
+        <translation>周期</translation>
     </message>
     <message>
         <source>Duration</source>
@@ -13137,7 +13137,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>By</source>
-        <translation type="unfinished"></translation>
+        <translation>间隔</translation>
     </message>
 </context>
 <context>
@@ -13152,7 +13152,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Text effect</source>
-        <translation type="unfinished"></translation>
+        <translation>文本效果</translation>
     </message>
     <message>
         <source>Close</source>
@@ -13167,7 +13167,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Text for this slot</source>
-        <translation type="unfinished"></translation>
+        <translation>此占位项的文本</translation>
     </message>
     <message>
         <source>Change image…</source>
@@ -13179,7 +13179,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Slot Image</source>
-        <translation type="unfinished"></translation>
+        <translation>占位图像</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.webp)</source>
@@ -13226,11 +13226,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Sketch length</source>
-        <translation type="unfinished"></translation>
+        <translation>素描线长度</translation>
     </message>
     <message>
         <source>Sketch deviation</source>
-        <translation type="unfinished"></translation>
+        <translation>素描偏差</translation>
     </message>
     <message>
         <source>Red</source>
@@ -13250,27 +13250,27 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Gradient angle</source>
-        <translation type="unfinished"></translation>
+        <translation>渐变角度</translation>
     </message>
     <message>
         <source>Gradient offset</source>
-        <translation type="unfinished"></translation>
+        <translation>渐变偏移</translation>
     </message>
     <message>
         <source>Gradient scale</source>
-        <translation type="unfinished"></translation>
+        <translation>渐变缩放</translation>
     </message>
     <message>
         <source>Centre X</source>
-        <translation type="unfinished"></translation>
+        <translation>中心 X</translation>
     </message>
     <message>
         <source>Centre Y</source>
-        <translation type="unfinished"></translation>
+        <translation>中心 Y</translation>
     </message>
     <message>
         <source>Stop %1</source>
-        <translation type="unfinished"></translation>
+        <translation>色标 %1</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -13294,23 +13294,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Text size</source>
-        <translation type="unfinished"></translation>
+        <translation>文本大小</translation>
     </message>
     <message>
         <source>Letter spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>字间距</translation>
     </message>
     <message>
         <source>Line height</source>
-        <translation type="unfinished"></translation>
+        <translation>行高</translation>
     </message>
     <message>
         <source>Box padding</source>
-        <translation type="unfinished"></translation>
+        <translation>文本框内边距</translation>
     </message>
     <message>
         <source>Bend</source>
-        <translation type="unfinished"></translation>
+        <translation>弯曲</translation>
     </message>
 </context>
 <context>
@@ -13321,7 +13321,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Text preset</source>
-        <translation type="unfinished"></translation>
+        <translation>文本预设</translation>
     </message>
     <message>
         <source>Close</source>
@@ -13347,7 +13347,7 @@ If playback stutters, try another.</source>
     <name>ThemedColorDialog</name>
     <message>
         <source>Original colour</source>
-        <translation type="unfinished"></translation>
+        <translation>原始颜色</translation>
     </message>
     <message>
         <source>Enter a color like #FF0000</source>
@@ -13355,11 +13355,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Hex colour</source>
-        <translation type="unfinished"></translation>
+        <translation>十六进制颜色值</translation>
     </message>
     <message>
         <source>Pick a colour from the window</source>
-        <translation type="unfinished"></translation>
+        <translation>从窗口中选取颜色</translation>
     </message>
 </context>
 <context>
@@ -13377,26 +13377,26 @@ If playback stutters, try another.</source>
     <name>ThemedNumberField</name>
     <message>
         <source>Allowed range: %1 – %2%3</source>
-        <translation type="unfinished"></translation>
+        <translation>允许范围：%1 – %2%3</translation>
     </message>
     <message>
         <source>Value clamped to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>数值已限制为 %1</translation>
     </message>
     <message>
         <source>Enter a number</source>
-        <translation type="unfinished"></translation>
+        <translation>请输入数字</translation>
     </message>
 </context>
 <context>
     <name>TimelineClipItem</name>
     <message>
         <source>%1, track %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1，轨道 %2</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>属性</translation>
     </message>
     <message>
         <source>Select multiple</source>
@@ -13428,7 +13428,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Covers…</source>
-        <translation type="unfinished"></translation>
+        <translation>覆盖…</translation>
     </message>
     <message>
         <source>Select covered clips</source>
@@ -13452,7 +13452,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Enhance video…</source>
-        <translation type="unfinished"></translation>
+        <translation>增强视频…</translation>
     </message>
     <message>
         <source>Unlink</source>
@@ -13488,7 +13488,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Duplicate</source>
-        <translation type="unfinished"></translation>
+        <translation>复制</translation>
     </message>
     <message>
         <source>Rename…</source>
@@ -13524,27 +13524,27 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Fade in %1s</source>
-        <translation type="unfinished"></translation>
+        <translation>淡入 %1 秒</translation>
     </message>
     <message>
         <source>Fade out %1s</source>
-        <translation type="unfinished"></translation>
+        <translation>淡出 %1 秒</translation>
     </message>
     <message>
         <source>Drag to trim the start</source>
-        <translation type="unfinished"></translation>
+        <translation>拖动以裁剪开头</translation>
     </message>
     <message>
         <source>Trim clip</source>
-        <translation type="unfinished"></translation>
+        <translation>裁剪片段</translation>
     </message>
     <message>
         <source>Drag to trim the end</source>
-        <translation type="unfinished"></translation>
+        <translation>拖动以裁剪结尾</translation>
     </message>
     <message>
         <source>Split item at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>在当前时间拆分项目</translation>
     </message>
 </context>
 <context>
@@ -13583,7 +13583,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Click or drag to seek</source>
-        <translation type="unfinished"></translation>
+        <translation>点击或拖动以定位播放位置</translation>
     </message>
     <message>
         <source>Go to bookmark</source>
@@ -13603,7 +13603,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Drag media here from the library, or add an empty track to start.</source>
-        <translation type="unfinished"></translation>
+        <translation>从媒体库将媒体拖到此处，或添加空轨道以开始。</translation>
     </message>
     <message>
         <source>New track</source>
@@ -13671,7 +13671,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Close Gap</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭间隙</translation>
     </message>
 </context>
 <context>
@@ -13690,7 +13690,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Select — normal editing</source>
-        <translation type="unfinished"></translation>
+        <translation>选择 — 普通编辑</translation>
     </message>
     <message>
         <source>Select</source>
@@ -13928,7 +13928,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1, track %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1，轨道 %2</translation>
     </message>
 </context>
 <context>
@@ -14057,7 +14057,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Covers…</source>
-        <translation type="unfinished"></translation>
+        <translation>覆盖…</translation>
     </message>
     <message>
         <source>Select covered clips</source>
