@@ -14762,35 +14762,35 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>SVG drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>ภาพวาด SVG</translation>
     </message>
     <message>
         <source>Lottie animation</source>
-        <translation type="unfinished"></translation>
+        <translation>แอนิเมชัน Lottie</translation>
     </message>
     <message>
         <source>%1×%2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1×%2</translation>
     </message>
     <message>
         <source>%1 s at %2 fps</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 วินาที ที่ %2 fps</translation>
     </message>
     <message>
         <source>still</source>
-        <translation type="unfinished"></translation>
+        <translation>ภาพนิ่ง</translation>
     </message>
     <message>
         <source>inline document</source>
-        <translation type="unfinished"></translation>
+        <translation>เอกสารแบบฝังในตัว</translation>
     </message>
     <message>
         <source>Replace document…</source>
-        <translation type="unfinished"></translation>
+        <translation>แทนที่เอกสาร…</translation>
     </message>
     <message>
         <source>Load another .json or .svg; position, length, fit and loop stay</source>
-        <translation type="unfinished"></translation>
+        <translation>โหลดไฟล์ .json หรือ .svg อื่น โดยคงตำแหน่ง ความยาว การปรับพอดี และการวนซ้ำไว้</translation>
     </message>
     <message>
         <source>Playback</source>
@@ -14802,7 +14802,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Contain</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงให้พอดี</translation>
     </message>
     <message>
         <source>Cover</source>
@@ -14810,11 +14810,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>ยืด</translation>
     </message>
     <message>
         <source>How the drawing fills the clip box</source>
-        <translation type="unfinished"></translation>
+        <translation>วิธีเติมภาพวาดภายในกรอบคลิป</translation>
     </message>
     <message>
         <source>After the end</source>
@@ -14846,19 +14846,19 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>ลักษณะที่ปรากฏ</translation>
     </message>
     <message>
         <source>Recolour the whole drawing, or one element the file names by id. Drawing-wide colours replace paints the file already has; outlines drawn with no fill stay hollow.</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนสีทั้งภาพวาดหรือองค์ประกอบที่ระบุด้วย ID ในไฟล์ สีทั้งภาพจะแทนที่สีเดิมของไฟล์ ส่วนเส้นขอบที่ไม่มีสีเติมจะยังคงโปร่ง</translation>
     </message>
     <message>
         <source>Target</source>
-        <translation type="unfinished"></translation>
+        <translation>เป้าหมาย</translation>
     </message>
     <message>
         <source>Whole drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>ภาพวาดทั้งหมด</translation>
     </message>
     <message>
         <source> (defs)</source>
@@ -14866,7 +14866,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Which part of the drawing the rows below restyle</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่วนใดของภาพวาดที่จะปรับสไตล์ด้วยรายการด้านล่าง</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -14878,7 +14878,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Stroke width</source>
-        <translation type="unfinished"></translation>
+        <translation>ความกว้างเส้นขอบ</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -14886,27 +14886,27 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Visible</source>
-        <translation type="unfinished"></translation>
+        <translation>มองเห็นได้</translation>
     </message>
     <message>
         <source>Reset element</source>
-        <translation type="unfinished"></translation>
+        <translation>รีเซ็ตองค์ประกอบ</translation>
     </message>
     <message>
         <source>Reset drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>รีเซ็ตภาพวาด</translation>
     </message>
     <message>
         <source>Drop every override on this target</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบการตั้งค่าทับทั้งหมดของเป้าหมายนี้</translation>
     </message>
     <message>
         <source>Reset all</source>
-        <translation type="unfinished"></translation>
+        <translation>รีเซ็ตทั้งหมด</translation>
     </message>
     <message>
         <source>Slots</source>
-        <translation type="unfinished"></translation>
+        <translation>ช่อง</translation>
     </message>
     <message>
         <source>Template inputs the animation declares. Overrides are per clip.</source>
@@ -14933,7 +14933,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Stroke width</source>
-        <translation type="unfinished"></translation>
+        <translation>ความกว้างเส้นขอบ</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -14941,7 +14941,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Visible</source>
-        <translation type="unfinished"></translation>
+        <translation>มองเห็นได้</translation>
     </message>
 </context>
 <context>
