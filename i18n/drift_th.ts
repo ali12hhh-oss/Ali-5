@@ -11156,31 +11156,31 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Automatically restore the last open project on startup. Closing still asks you to save; a crash snapshot never overwrites your save file.</source>
-        <translation type="unfinished"></translation>
+        <translation>กู้คืนโปรเจกต์ล่าสุดโดยอัตโนมัติเมื่อเริ่มแอป เมื่อปิดยังคงถามให้บันทึก และภาพบันทึกจากการแครชจะไม่เขียนทับไฟล์ที่บันทึกไว้</translation>
     </message>
     <message>
         <source>Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดต</translation>
     </message>
     <message>
         <source>Check on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>ตรวจสอบเมื่อเริ่มแอป</translation>
     </message>
     <message>
         <source>Ask GitHub once a day whether a newer Drift has been released</source>
-        <translation type="unfinished"></translation>
+        <translation>ตรวจสอบกับ GitHub วันละครั้งว่ามี Drift เวอร์ชันใหม่หรือไม่</translation>
     </message>
     <message>
         <source>Checking…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังตรวจสอบ…</translation>
     </message>
     <message>
         <source>Check now</source>
-        <translation type="unfinished"></translation>
+        <translation>ตรวจสอบตอนนี้</translation>
     </message>
     <message>
         <source>Drift %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift %1</translation>
     </message>
     <message>
         <source>Extra packs</source>
@@ -11188,19 +11188,19 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Remind about essential packs</source>
-        <translation type="unfinished"></translation>
+        <translation>เตือนเกี่ยวกับแพ็กที่จำเป็น</translation>
     </message>
     <message>
         <source>Pulse the Extras icon when the video, transitions, and audio packs are not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำให้ไอคอน Extras กะพริบเมื่อยังไม่ได้ติดตั้งแพ็กวิดีโอ ทรานซิชัน และเสียง</translation>
     </message>
     <message>
         <source>Remind about pack updates</source>
-        <translation type="unfinished"></translation>
+        <translation>เตือนเมื่อมีอัปเดตแพ็ก</translation>
     </message>
     <message>
         <source>Pulse the Extras icon when updates are available for packs you already have installed</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำให้ไอคอน Extras กะพริบเมื่อมีอัปเดตสำหรับแพ็กที่ติดตั้งแล้ว</translation>
     </message>
     <message>
         <source>Agent access</source>
@@ -11208,7 +11208,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Cloud providers</source>
-        <translation type="unfinished"></translation>
+        <translation>ผู้ให้บริการคลาวด์</translation>
     </message>
     <message>
         <source>Keys are stored unencrypted in Drift&apos;s settings. ELEVENLABS_API_KEY and FISH_API_KEY in the environment take precedence. Use is billed to your own account.</source>
@@ -11216,27 +11216,27 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Transcription (Scribe), voiceover, sound effects</source>
-        <translation type="unfinished"></translation>
+        <translation>ถอดเสียง (Scribe), เสียงบรรยาย, เอฟเฟกต์เสียง</translation>
     </message>
     <message>
         <source>Voiceover</source>
-        <translation type="unfinished"></translation>
+        <translation>เสียงบรรยาย</translation>
     </message>
     <message>
         <source>No key</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีคีย์</translation>
     </message>
     <message>
         <source>Key from the environment</source>
-        <translation type="unfinished"></translation>
+        <translation>คีย์จากตัวแปรสภาพแวดล้อม</translation>
     </message>
     <message>
         <source>Key %1</source>
-        <translation type="unfinished"></translation>
+        <translation>คีย์ %1</translation>
     </message>
     <message>
         <source>Paste API key</source>
-        <translation type="unfinished"></translation>
+        <translation>วาง API key</translation>
     </message>
     <message>
         <source>Save</source>
@@ -11244,7 +11244,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>ทดสอบ</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -11252,66 +11252,66 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Allow sending audio and text to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>อนุญาตให้ส่งเสียงและข้อความไปยัง %1</translation>
     </message>
     <message>
         <source>Needed before Drift or a connected agent can transcribe or generate audio with this service</source>
-        <translation type="unfinished"></translation>
+        <translation>ต้องเปิดใช้ก่อนที่ Drift หรือเอเจนต์ที่เชื่อมต่อจะถอดเสียงหรือสร้างเสียงด้วยบริการนี้ได้</translation>
     </message>
     <message>
         <source>Default voice id</source>
-        <translation type="unfinished"></translation>
+        <translation>ID เสียงเริ่มต้น</translation>
     </message>
     <message>
         <source>Voice model</source>
-        <translation type="unfinished"></translation>
+        <translation>โมเดลเสียง</translation>
     </message>
     <message>
         <source>Transcription model</source>
-        <translation type="unfinished"></translation>
+        <translation>โมเดลถอดเสียง</translation>
     </message>
     <message>
         <source>Marketplace</source>
-        <translation type="unfinished"></translation>
+        <translation>มาร์เก็ตเพลส</translation>
     </message>
     <message>
         <source>Account connected (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>เชื่อมต่อบัญชีแล้ว (%1)</translation>
     </message>
     <message>
         <source>Marketplace account connected</source>
-        <translation type="unfinished"></translation>
+        <translation>เชื่อมต่อบัญชีมาร์เก็ตเพลสแล้ว</translation>
     </message>
     <message>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการเชื่อมต่อ</translation>
     </message>
     <message>
         <source>Unlink the marketplace account from this device</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการเชื่อมโยงบัญชีมาร์เก็ตเพลสจากอุปกรณ์นี้</translation>
     </message>
 </context>
 <context>
     <name>ShadingLayerRow</name>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>เติมสี</translation>
     </message>
     <message>
         <source>Stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>เส้นขอบ</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>เงา</translation>
     </message>
     <message>
         <source>Glow</source>
-        <translation type="unfinished"></translation>
+        <translation>เรืองแสง</translation>
     </message>
     <message>
         <source>Extrude</source>
-        <translation type="unfinished"></translation>
+        <translation>นูนลึก</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -11363,47 +11363,47 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Outside</source>
-        <translation type="unfinished"></translation>
+        <translation>ด้านนอก</translation>
     </message>
     <message>
         <source>Inside</source>
-        <translation type="unfinished"></translation>
+        <translation>ด้านใน</translation>
     </message>
     <message>
         <source>Dashed</source>
-        <translation type="unfinished"></translation>
+        <translation>เส้นประ</translation>
     </message>
     <message>
         <source>Dotted</source>
-        <translation type="unfinished"></translation>
+        <translation>เส้นจุด</translation>
     </message>
     <message>
         <source>Dash-dot</source>
-        <translation type="unfinished"></translation>
+        <translation>เส้นประจุด</translation>
     </message>
     <message>
         <source>Collapse layer</source>
-        <translation type="unfinished"></translation>
+        <translation>ยุบเลเยอร์</translation>
     </message>
     <message>
         <source>Expand layer</source>
-        <translation type="unfinished"></translation>
+        <translation>ขยายเลเยอร์</translation>
     </message>
     <message>
         <source>Bring forward</source>
-        <translation type="unfinished"></translation>
+        <translation>นำมาด้านหน้า</translation>
     </message>
     <message>
         <source>Send backward</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งไปด้านหลัง</translation>
     </message>
     <message>
         <source>Hide layer</source>
-        <translation type="unfinished"></translation>
+        <translation>ซ่อนเลเยอร์</translation>
     </message>
     <message>
         <source>Show layer</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงเลเยอร์</translation>
     </message>
     <message>
         <source>Duplicate layer</source>
@@ -11419,7 +11419,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Blend</source>
-        <translation type="unfinished"></translation>
+        <translation>ผสม</translation>
     </message>
     <message>
         <source>Width</source>
@@ -11427,19 +11427,19 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Placement</source>
-        <translation type="unfinished"></translation>
+        <translation>ตำแหน่ง</translation>
     </message>
     <message>
         <source>Centre the stroke on the outline, grow it outward, or keep it inside</source>
-        <translation type="unfinished"></translation>
+        <translation>จัดเส้นขอบให้อยู่กึ่งกลางของเส้นรอบรูป ขยายออกด้านนอก หรือให้อยู่ด้านใน</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>ขีด</translation>
     </message>
     <message>
         <source>Dash offset</source>
-        <translation type="unfinished"></translation>
+        <translation>ออฟเซ็ตเส้นประ</translation>
     </message>
     <message>
         <source>Trim start</source>
@@ -11451,19 +11451,19 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Sketchy</source>
-        <translation type="unfinished"></translation>
+        <translation>ลายเส้นแบบร่าง</translation>
     </message>
     <message>
         <source>Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่วนของเส้น</translation>
     </message>
     <message>
         <source>Wobble</source>
-        <translation type="unfinished"></translation>
+        <translation>สั่นไหว</translation>
     </message>
     <message>
         <source>Seed</source>
-        <translation type="unfinished"></translation>
+        <translation>ค่าเริ่มต้นสุ่ม</translation>
     </message>
     <message>
         <source>Colour</source>
@@ -11471,19 +11471,19 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Choose the layer colour</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกสีของเลเยอร์</translation>
     </message>
     <message>
         <source>Offset X</source>
-        <translation type="unfinished"></translation>
+        <translation>ออฟเซ็ต X</translation>
     </message>
     <message>
         <source>Offset Y</source>
-        <translation type="unfinished"></translation>
+        <translation>ออฟเซ็ต Y</translation>
     </message>
     <message>
         <source>Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>รัศมี</translation>
     </message>
     <message>
         <source>Blur</source>
@@ -11491,7 +11491,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Spread</source>
-        <translation type="unfinished"></translation>
+        <translation>การกระจาย</translation>
     </message>
     <message>
         <source>Depth</source>
@@ -11503,11 +11503,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>How much the extruded side fades toward black</source>
-        <translation type="unfinished"></translation>
+        <translation>ระดับการไล่สีด้านนูนให้จางไปทางสีดำ</translation>
     </message>
     <message>
         <source>Adjust extrude</source>
-        <translation type="unfinished"></translation>
+        <translation>ปรับการนูนลึก</translation>
     </message>
 </context>
 <context>
@@ -11518,23 +11518,23 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Shape drawn by this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปร่างที่วาดโดยคลิปนี้</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>เติมสี</translation>
     </message>
     <message>
         <source>Stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>เส้นขอบ</translation>
     </message>
     <message>
         <source>Swapping the shape keeps its position, size, style and effects.</source>
-        <translation type="unfinished"></translation>
+        <translation>เมื่อเปลี่ยนรูปร่าง จะคงตำแหน่ง ขนาด สไตล์ และเอฟเฟกต์ไว้</translation>
     </message>
     <message>
         <source>Layers</source>
-        <translation type="unfinished"></translation>
+        <translation>เลเยอร์</translation>
     </message>
     <message>
         <source>Add layer</source>
@@ -11542,31 +11542,31 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Add a fill, stroke, shadow, glow or extrude layer</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเลเยอร์เติมสี เส้นขอบ เงา เรืองแสง หรือนูนลึก</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>เงา</translation>
     </message>
     <message>
         <source>Glow</source>
-        <translation type="unfinished"></translation>
+        <translation>เรืองแสง</translation>
     </message>
     <message>
         <source>Extrude</source>
-        <translation type="unfinished"></translation>
+        <translation>นูนลึก</translation>
     </message>
     <message>
         <source>No layers. Add a fill to start.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่มีเลเยอร์ เพิ่มการเติมสีเพื่อเริ่มต้น</translation>
     </message>
     <message>
         <source>Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปทรงเรขาคณิต</translation>
     </message>
     <message>
         <source>Corner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>รัศมีมุม</translation>
     </message>
     <message>
         <source>Points</source>
@@ -11574,23 +11574,23 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Inner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>รัศมีด้านใน</translation>
     </message>
     <message>
         <source>Head size</source>
-        <translation type="unfinished"></translation>
+        <translation>ขนาดหัว</translation>
     </message>
     <message>
         <source>Thickness</source>
-        <translation type="unfinished"></translation>
+        <translation>ความหนา</translation>
     </message>
     <message>
         <source>Tail position</source>
-        <translation type="unfinished"></translation>
+        <translation>ตำแหน่งหาง</translation>
     </message>
     <message>
         <source>Tail size</source>
-        <translation type="unfinished"></translation>
+        <translation>ขนาดหาง</translation>
     </message>
 </context>
 <context>
@@ -11601,7 +11601,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Rounded rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>สี่เหลี่ยมมุมมน</translation>
     </message>
     <message>
         <source>Square</source>
@@ -11613,59 +11613,59 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>วงกลม</translation>
     </message>
     <message>
         <source>Triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>สามเหลี่ยม</translation>
     </message>
     <message>
         <source>Right triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>สามเหลี่ยมมุมฉาก</translation>
     </message>
     <message>
         <source>Diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปเพชร</translation>
     </message>
     <message>
         <source>Pentagon</source>
-        <translation type="unfinished"></translation>
+        <translation>ห้าเหลี่ยม</translation>
     </message>
     <message>
         <source>Hexagon</source>
-        <translation type="unfinished"></translation>
+        <translation>หกเหลี่ยม</translation>
     </message>
     <message>
         <source>Octagon</source>
-        <translation type="unfinished"></translation>
+        <translation>แปดเหลี่ยม</translation>
     </message>
     <message>
         <source>Parallelogram</source>
-        <translation type="unfinished"></translation>
+        <translation>สี่เหลี่ยมด้านขนาน</translation>
     </message>
     <message>
         <source>Trapezoid</source>
-        <translation type="unfinished"></translation>
+        <translation>สี่เหลี่ยมคางหมู</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>ลูกศร</translation>
     </message>
     <message>
         <source>Double arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>ลูกศรสองหัว</translation>
     </message>
     <message>
         <source>Block arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>ลูกศรแบบบล็อก</translation>
     </message>
     <message>
         <source>Curved arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>ลูกศรโค้ง</translation>
     </message>
     <message>
         <source>Chevron</source>
-        <translation type="unfinished"></translation>
+        <translation>เครื่องหมายเชฟรอน</translation>
     </message>
     <message>
         <source>Speech bubble</source>
@@ -11729,27 +11729,27 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Corner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>รัศมีมุม</translation>
     </message>
     <message>
         <source>Inner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>รัศมีด้านใน</translation>
     </message>
     <message>
         <source>Head size</source>
-        <translation type="unfinished"></translation>
+        <translation>ขนาดหัว</translation>
     </message>
     <message>
         <source>Thickness</source>
-        <translation type="unfinished"></translation>
+        <translation>ความหนา</translation>
     </message>
     <message>
         <source>Tail position</source>
-        <translation type="unfinished"></translation>
+        <translation>ตำแหน่งหาง</translation>
     </message>
     <message>
         <source>Tail size</source>
-        <translation type="unfinished"></translation>
+        <translation>ขนาดหาง</translation>
     </message>
     <message>
         <source>Points</source>
@@ -12749,11 +12749,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>เส้นขอบ</translation>
     </message>
     <message>
         <source>Extrude</source>
-        <translation type="unfinished"></translation>
+        <translation>นูนลึก</translation>
     </message>
     <message>
         <source>Decorations</source>
@@ -12829,7 +12829,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Layers</source>
-        <translation type="unfinished"></translation>
+        <translation>เลเยอร์</translation>
     </message>
     <message>
         <source>Add layer</source>
@@ -12837,11 +12837,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Add a fill, stroke, shadow, glow or extrude layer</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเลเยอร์เติมสี เส้นขอบ เงา เรืองแสง หรือนูนลึก</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>เติมสี</translation>
     </message>
     <message>
         <source>Bend</source>
@@ -12897,7 +12897,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>เงา</translation>
     </message>
     <message>
         <source>Background</source>
@@ -12921,7 +12921,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Corner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>รัศมีมุม</translation>
     </message>
     <message>
         <source>Roundness of the background box corners</source>
@@ -12929,7 +12929,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Glow</source>
-        <translation type="unfinished"></translation>
+        <translation>เรืองแสง</translation>
     </message>
     <message>
         <source>Text</source>
@@ -13009,7 +13009,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Thickness</source>
-        <translation type="unfinished"></translation>
+        <translation>ความหนา</translation>
     </message>
     <message>
         <source>How far the pill extends past the word</source>
@@ -13194,11 +13194,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Offset X</source>
-        <translation type="unfinished"></translation>
+        <translation>ออฟเซ็ต X</translation>
     </message>
     <message>
         <source>Offset Y</source>
-        <translation type="unfinished"></translation>
+        <translation>ออฟเซ็ต Y</translation>
     </message>
     <message>
         <source>Blur</source>
@@ -13210,7 +13210,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Spread</source>
-        <translation type="unfinished"></translation>
+        <translation>การกระจาย</translation>
     </message>
     <message>
         <source>Trim start</source>
@@ -13222,7 +13222,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Dash offset</source>
-        <translation type="unfinished"></translation>
+        <translation>ออฟเซ็ตเส้นประ</translation>
     </message>
     <message>
         <source>Sketch length</source>
@@ -13274,23 +13274,23 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>เติมสี</translation>
     </message>
     <message>
         <source>Stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>เส้นขอบ</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>เงา</translation>
     </message>
     <message>
         <source>Glow</source>
-        <translation type="unfinished"></translation>
+        <translation>เรืองแสง</translation>
     </message>
     <message>
         <source>Extrude</source>
-        <translation type="unfinished"></translation>
+        <translation>นูนลึก</translation>
     </message>
     <message>
         <source>Text size</source>
@@ -14870,11 +14870,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>เติมสี</translation>
     </message>
     <message>
         <source>Stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>เส้นขอบ</translation>
     </message>
     <message>
         <source>Stroke width</source>
@@ -14925,11 +14925,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     <name>VectorSource</name>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>เติมสี</translation>
     </message>
     <message>
         <source>Stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>เส้นขอบ</translation>
     </message>
     <message>
         <source>Stroke width</source>
@@ -15068,7 +15068,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>เงา</translation>
     </message>
     <message>
         <source>Lift</source>
