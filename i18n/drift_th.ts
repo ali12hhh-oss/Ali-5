@@ -7033,19 +7033,19 @@
     </message>
     <message>
         <source>Custom model: %1 (missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>โมเดลกำหนดเอง: %1 (ไม่พบ)</translation>
     </message>
     <message>
         <source>Custom model: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>โมเดลกำหนดเอง: %1</translation>
     </message>
     <message>
         <source>Delete prop…</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบพร็อพ…</translation>
     </message>
     <message>
         <source>Delete this prop?</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบพร็อพนี้หรือไม่</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -7053,34 +7053,34 @@
     </message>
     <message>
         <source>“%1” will be removed from your face props. Effects using it will show it as missing until it is imported again.</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1” จะถูกนำออกจาก face props เอฟเฟกต์ที่ใช้จะขึ้นว่าไม่พบจนกว่าจะนำเข้าอีกครั้ง</translation>
     </message>
 </context>
 <context>
     <name>FadeCurveWindow</name>
     <message>
         <source>Custom curve</source>
-        <translation type="unfinished"></translation>
+        <translation>เส้นโค้งกำหนดเอง</translation>
     </message>
     <message>
         <source>Progress curve — %1</source>
-        <translation type="unfinished"></translation>
+        <translation>เส้นโค้งความคืบหน้า — %1</translation>
     </message>
     <message>
         <source>Progress curve</source>
-        <translation type="unfinished"></translation>
+        <translation>เส้นโค้งความคืบหน้า</translation>
     </message>
     <message>
         <source>Fade shape — %1</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปแบบการเฟด — %1</translation>
     </message>
     <message>
         <source>Fade shape</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปแบบการเฟด</translation>
     </message>
     <message>
         <source>Points</source>
-        <translation type="unfinished"></translation>
+        <translation>จุด</translation>
     </message>
     <message>
         <source>Bezier</source>
@@ -7096,7 +7096,7 @@
     </message>
     <message>
         <source>Ease</source>
-        <translation type="unfinished"></translation>
+        <translation>การผ่อนจังหวะ</translation>
     </message>
     <message>
         <source>Natural</source>
@@ -7104,19 +7104,19 @@
     </message>
     <message>
         <source>Ease In</source>
-        <translation type="unfinished"></translation>
+        <translation>เริ่มช้า</translation>
     </message>
     <message>
         <source>Ease Out</source>
-        <translation type="unfinished"></translation>
+        <translation>จบช้า</translation>
     </message>
     <message>
         <source>Drag the two handles to shape the cubic. The ends stay pinned, and handles are held inside the box so the curve cannot fold back on itself.</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากจุดจับทั้งสองเพื่อปรับเส้นโค้งคิวบิก ปลายเส้นจะคงที่ และจุดจับจะอยู่ในกรอบเพื่อไม่ให้เส้นโค้งพับย้อนกลับ</translation>
     </message>
     <message>
         <source>Drag the middle points to shape the ramp (ends stay silent→full). Double-click to add a point; Delete removes the selection.</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากจุดตรงกลางเพื่อปรับเส้นโค้งระดับเสียง (ปลายคงจากเงียบ→เต็ม) ดับเบิลคลิกเพื่อเพิ่มจุด กด Delete เพื่อลบจุดที่เลือก</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -7146,26 +7146,26 @@
     <name>FontCatalog</name>
     <message>
         <source>High-Impact &amp; Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>โดดเด่นและหนักแน่น</translation>
     </message>
     <message>
         <source>Clean &amp; Minimal</source>
-        <translation type="unfinished"></translation>
+        <translation>สะอาดและมินิมอล</translation>
     </message>
     <message>
         <source>Classy &amp; Editorial</source>
-        <translation type="unfinished"></translation>
+        <translation>หรูหราแบบบรรณาธิการ</translation>
     </message>
     <message>
         <source>Creative &amp; Playful</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างสรรค์และสนุกสนาน</translation>
     </message>
 </context>
 <context>
     <name>FontPicker</name>
     <message>
         <source>Install the font pack for curated families →</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้งแพ็กฟอนต์เพื่อดูชุดฟอนต์ที่คัดสรร →</translation>
     </message>
 </context>
 <context>
@@ -7180,7 +7180,7 @@
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปภาพ</translation>
     </message>
     <message>
         <source>Text</source>
@@ -7188,15 +7188,15 @@
     </message>
     <message>
         <source>Subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>คำบรรยาย</translation>
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปร่าง</translation>
     </message>
     <message>
         <source>Sticker</source>
-        <translation type="unfinished"></translation>
+        <translation>สติกเกอร์</translation>
     </message>
     <message>
         <source>Adjustment</source>
@@ -8366,7 +8366,7 @@
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปร่าง</translation>
     </message>
     <message>
         <source>Rectangle</source>
@@ -9290,7 +9290,7 @@
     </message>
     <message>
         <source>Subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>คำบรรยาย</translation>
     </message>
     <message>
         <source>Graphic</source>
@@ -10028,7 +10028,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปร่าง</translation>
     </message>
     <message>
         <source>Motion</source>
@@ -10131,7 +10131,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Ease</source>
-        <translation type="unfinished"></translation>
+        <translation>การผ่อนจังหวะ</translation>
     </message>
     <message>
         <source>Ease — accelerates out and decelerates in</source>
@@ -11507,7 +11507,7 @@ If playback stutters, try another.</source>
     <name>ShapeInspector</name>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปร่าง</translation>
     </message>
     <message>
         <source>Shape drawn by this clip</source>
@@ -11563,7 +11563,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Points</source>
-        <translation type="unfinished"></translation>
+        <translation>จุด</translation>
     </message>
     <message>
         <source>Inner radius</source>
@@ -11746,7 +11746,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Points</source>
-        <translation type="unfinished"></translation>
+        <translation>จุด</translation>
     </message>
 </context>
 <context>
@@ -12781,7 +12781,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Ease</source>
-        <translation type="unfinished"></translation>
+        <translation>การผ่อนจังหวะ</translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -14009,7 +14009,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>คำบรรยาย</translation>
     </message>
     <message>
         <source>Graphic</source>
@@ -14351,7 +14351,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>คำบรรยาย</translation>
     </message>
     <message>
         <source>Graphic</source>
