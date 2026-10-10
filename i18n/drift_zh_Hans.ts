@@ -386,7 +386,7 @@
     </message>
     <message>
         <source>Let Cursor or Claude edit this project for you — add clips, change the timeline, and check how it looks. Only programs on this device. Off by default each time you open Drift, unless you turn on “Start agent on startup” below; turn it off here when you finish. The key stays the same between sessions, so a setup you pasted once keeps working.</source>
-        <translation type="unfinished"></translation>
+        <translation>让 Cursor 或 Claude 帮你编辑此项目：添加片段、调整时间轴并查看效果。仅允许此设备上的程序访问。每次打开 Drift 时默认关闭，除非你在下方启用“启动时启动代理”；完成后请在此处关闭。密钥会在不同会话间保持不变，因此粘贴一次配置后即可持续使用。</translation>
     </message>
 </context>
 <context>
@@ -763,7 +763,7 @@
     </message>
     <message>
         <source>%1×%2 · %3 · %4 fps</source>
-        <translation type="unfinished"></translation>
+        <translation>%1×%2 · %3 · %4 帧/秒</translation>
     </message>
     <message>
         <source>Done</source>
@@ -988,7 +988,7 @@
     </message>
     <message>
         <source>Keeping %1 to %2  ·  %3s</source>
-        <translation type="unfinished"></translation>
+        <translation>保留 %1 至 %2 · %3 秒</translation>
     </message>
     <message>
         <source>Start here</source>
@@ -1766,11 +1766,11 @@
     </message>
     <message>
         <source>PAUSED </source>
-        <translation type="unfinished"></translation>
+        <translation>已暂停</translation>
     </message>
     <message>
         <source>REC </source>
-        <translation type="unfinished"></translation>
+        <translation>录制中</translation>
     </message>
     <message>
         <source>Close gap</source>
@@ -2892,7 +2892,7 @@
     </message>
     <message>
         <source> (denoised)</source>
-        <translation type="unfinished"></translation>
+        <translation>（已降噪）</translation>
     </message>
     <message>
         <source>Remove noise</source>
@@ -2904,15 +2904,15 @@
     </message>
     <message>
         <source>This project uses &quot;%1&quot;, which isn’t installed — it won’t show. Open Extras to install it.</source>
-        <translation type="unfinished"></translation>
+        <translation>此项目使用了尚未安装的“%1”，因此不会显示。打开“附加内容”进行安装。</translation>
     </message>
     <message>
         <source>This project uses %1 effects or transitions that aren’t installed (%2%3) — they won’t show. Open Extras to install them.</source>
-        <translation type="unfinished"></translation>
+        <translation>此项目使用了 %1 个尚未安装的效果或转场（%2%3），因此不会显示。打开“附加内容”进行安装。</translation>
     </message>
     <message>
         <source>, …</source>
-        <translation type="unfinished"></translation>
+        <translation>, …</translation>
     </message>
     <message>
         <source>Shape added</source>
@@ -13597,11 +13597,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>PAUSED </source>
-        <translation type="unfinished"></translation>
+        <translation>已暂停</translation>
     </message>
     <message>
         <source>REC </source>
-        <translation type="unfinished"></translation>
+        <translation>录制中</translation>
     </message>
     <message>
         <source>Rename bookmark</source>
@@ -14997,11 +14997,11 @@ If playback stutters, try another.</source>
     <name>VoiceoverControlBar</name>
     <message>
         <source>PAUSED</source>
-        <translation type="unfinished"></translation>
+        <translation>已暂停</translation>
     </message>
     <message>
         <source>REC</source>
-        <translation type="unfinished"></translation>
+        <translation>录制中</translation>
     </message>
     <message>
         <source>Default Mic</source>
