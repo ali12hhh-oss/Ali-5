@@ -6470,7 +6470,7 @@
     <name>EffectsInspector</name>
     <message>
         <source>Face tracking</source>
-        <translation>ติดตามใบหน้า</translation>
+        <translation>Pagsubaybay sa mukha</translation>
     </message>
     <message>
         <source>This clip was scanned before makeup was supported. Re-detect faces to enable the Beauty effects.</source>
