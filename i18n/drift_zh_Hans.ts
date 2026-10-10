@@ -7383,30 +7383,30 @@
     </message>
     <message>
         <source>OKLab</source>
-        <translation type="unfinished"></translation>
+        <translation>OKLab</translation>
     </message>
     <message>
         <source>Blend stops in OKLab for even, muddy-free transitions</source>
-        <translation type="unfinished"></translation>
+        <translation>在 OKLab 色彩空间中混合色标，使过渡均匀且不发灰</translation>
     </message>
     <message>
         <source>Stop colour</source>
-        <translation type="unfinished"></translation>
+        <translation>色标颜色</translation>
     </message>
 </context>
 <context>
     <name>GuideEditOverlay</name>
     <message>
         <source>Release to remove</source>
-        <translation type="unfinished"></translation>
+        <translation>松开即可移除</translation>
     </message>
     <message>
         <source>Editing %1</source>
-        <translation type="unfinished"></translation>
+        <translation>正在编辑 %1</translation>
     </message>
     <message>
         <source>Drag from the top or left edge to add a guide, off the canvas to remove one. Shift steps by 1%.</source>
-        <translation type="unfinished"></translation>
+        <translation>从顶部或左侧边缘拖动以添加参考线，拖出画布可移除参考线。按住 Shift 可按 1% 步进。</translation>
     </message>
     <message>
         <source>Done</source>
@@ -7417,82 +7417,82 @@
     <name>GuideSet</name>
     <message>
         <source>Rule of thirds</source>
-        <translation type="unfinished"></translation>
+        <translation>三分法网格</translation>
     </message>
     <message>
         <source>Center cross</source>
-        <translation type="unfinished"></translation>
+        <translation>中心十字线</translation>
     </message>
     <message>
         <source>Safe margins</source>
-        <translation type="unfinished"></translation>
+        <translation>安全边距</translation>
     </message>
     <message>
         <source>9:16 frame</source>
-        <translation type="unfinished"></translation>
+        <translation>9:16 画幅</translation>
     </message>
     <message>
         <source>4:5 frame</source>
-        <translation type="unfinished"></translation>
+        <translation>4:5 画幅</translation>
     </message>
     <message>
         <source>1:1 frame</source>
-        <translation type="unfinished"></translation>
+        <translation>1:1 画幅</translation>
     </message>
 </context>
 <context>
     <name>GuidesPopover</name>
     <message>
         <source>Vertical line</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直线</translation>
     </message>
     <message>
         <source>Horizontal line</source>
-        <translation type="unfinished"></translation>
+        <translation>水平线</translation>
     </message>
     <message>
         <source>Margins</source>
-        <translation type="unfinished"></translation>
+        <translation>边距</translation>
     </message>
     <message>
         <source>Aspect frame</source>
-        <translation type="unfinished"></translation>
+        <translation>纵横比画框</translation>
     </message>
     <message>
         <source>Unlock so it can be dragged on the preview</source>
-        <translation type="unfinished"></translation>
+        <translation>解锁后可在预览中拖动</translation>
     </message>
     <message>
         <source>Lock so it cannot be dragged on the preview</source>
-        <translation type="unfinished"></translation>
+        <translation>锁定后无法在预览中拖动</translation>
     </message>
     <message>
         <source>Remove guide</source>
-        <translation type="unfinished"></translation>
+        <translation>移除参考线</translation>
     </message>
     <message>
         <source>From left</source>
-        <translation type="unfinished"></translation>
+        <translation>距左侧</translation>
     </message>
     <message>
         <source>From top</source>
-        <translation type="unfinished"></translation>
+        <translation>距顶部</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>左</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>右</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>上</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>下</translation>
     </message>
     <message>
         <source>Guide colour</source>
