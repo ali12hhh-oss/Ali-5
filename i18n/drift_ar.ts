@@ -2500,9 +2500,13 @@
     </message>
     <message numerus="yes">
         <source>Multicam ready: %n camera(s) lined up at the start. Drag a clip to adjust its sync, then pick a shot.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>تم تجهيز التصوير متعدد الكاميرات: اصطفّت %n كاميرا عند البداية. اسحب مقطعاً لضبط المزامنة، ثم اختر اللقطة.</numerusform>
+            <numerusform>تم تجهيز التصوير متعدد الكاميرات: اصطفّت كاميرا واحدة عند البداية. اسحب المقطع لضبط المزامنة، ثم اختر اللقطة.</numerusform>
+            <numerusform>تم تجهيز التصوير متعدد الكاميرات: اصطفّت كاميرتان عند البداية. اسحب مقطعاً لضبط المزامنة، ثم اختر اللقطة.</numerusform>
+            <numerusform>تم تجهيز التصوير متعدد الكاميرات: اصطفّت %n كاميرات عند البداية. اسحب مقطعاً لضبط المزامنة، ثم اختر اللقطة.</numerusform>
+            <numerusform>تم تجهيز التصوير متعدد الكاميرات: اصطفّت %n كاميرا عند البداية. اسحب مقطعاً لضبط المزامنة، ثم اختر اللقطة.</numerusform>
+            <numerusform>تم تجهيز التصوير متعدد الكاميرات: اصطفّت %n كاميرا عند البداية. اسحب مقطعاً لضبط المزامنة، ثم اختر اللقطة.</numerusform>
         </translation>
     </message>
     <message>
@@ -3760,9 +3764,13 @@
     </message>
     <message numerus="yes">
         <source>Transform layer now covers %n track(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>طبقة التحويل تغطي الآن %n مسار</numerusform>
+            <numerusform>طبقة التحويل تغطي الآن مساراً واحداً</numerusform>
+            <numerusform>طبقة التحويل تغطي الآن مسارين</numerusform>
+            <numerusform>طبقة التحويل تغطي الآن %n مسارات</numerusform>
+            <numerusform>طبقة التحويل تغطي الآن %n مساراً</numerusform>
+            <numerusform>طبقة التحويل تغطي الآن %n مسار</numerusform>
         </translation>
     </message>
     <message>
@@ -3950,9 +3958,13 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s); %1 skipped: %2</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>تم استيراد %n عنصر وجه؛ تم تخطي %1: %2</numerusform>
+            <numerusform>تم استيراد عنصر وجه واحد؛ تم تخطي %1: %2</numerusform>
+            <numerusform>تم استيراد عنصري وجه؛ تم تخطي %1: %2</numerusform>
+            <numerusform>تم استيراد %n عناصر وجه؛ تم تخطي %1: %2</numerusform>
+            <numerusform>تم استيراد %n عنصر وجه؛ تم تخطي %1: %2</numerusform>
+            <numerusform>تم استيراد %n عنصر وجه؛ تم تخطي %1: %2</numerusform>
         </translation>
     </message>
     <message>
@@ -4351,9 +4363,13 @@
     </message>
     <message numerus="yes">
         <source>Media collected, but %n original(s) couldn’t be deleted</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>تم جمع الوسائط، لكن تعذّر حذف %n ملف أصلي</numerusform>
+            <numerusform>تم جمع الوسائط، لكن تعذّر حذف ملف أصلي واحد</numerusform>
+            <numerusform>تم جمع الوسائط، لكن تعذّر حذف ملفين أصليين</numerusform>
+            <numerusform>تم جمع الوسائط، لكن تعذّر حذف %n ملفات أصلية</numerusform>
+            <numerusform>تم جمع الوسائط، لكن تعذّر حذف %n ملفاً أصلياً</numerusform>
+            <numerusform>تم جمع الوسائط، لكن تعذّر حذف %n ملف أصلي</numerusform>
         </translation>
     </message>
     <message>
@@ -4486,9 +4502,13 @@
     </message>
     <message numerus="yes">
         <source>Applied to %n caption clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>تم التطبيق على %n مقطع ترجمة</numerusform>
+            <numerusform>تم التطبيق على مقطع ترجمة واحد</numerusform>
+            <numerusform>تم التطبيق على مقطعي ترجمة</numerusform>
+            <numerusform>تم التطبيق على %n مقاطع ترجمة</numerusform>
+            <numerusform>تم التطبيق على %n مقطع ترجمة</numerusform>
+            <numerusform>تم التطبيق على %n مقطع ترجمة</numerusform>
         </translation>
     </message>
     <message>
@@ -4727,9 +4747,13 @@
     </message>
     <message numerus="yes">
         <source>Replaced with “%1”. %n clips were shortened to fit the new file.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>تم الاستبدال بـ “%1”. تم تقصير %n مقطعاً ليتناسب مع الملف الجديد.</numerusform>
+            <numerusform>تم الاستبدال بـ “%1”. تم تقصير مقطع واحد ليتناسب مع الملف الجديد.</numerusform>
+            <numerusform>تم الاستبدال بـ “%1”. تم تقصير مقطعين ليتناسبا مع الملف الجديد.</numerusform>
+            <numerusform>تم الاستبدال بـ “%1”. تم تقصير %n مقاطع لتتناسب مع الملف الجديد.</numerusform>
+            <numerusform>تم الاستبدال بـ “%1”. تم تقصير %n مقطعاً ليتناسب مع الملف الجديد.</numerusform>
+            <numerusform>تم الاستبدال بـ “%1”. تم تقصير %n مقطع ليتناسب مع الملف الجديد.</numerusform>
         </translation>
     </message>
     <message>
@@ -4766,23 +4790,35 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders — as many as one folder import takes. Import the remaining subfolders separately.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>تم استيراد %n ملف إلى %1 مجلدات — وهذا أقصى ما تستورده عملية مجلد واحد. استورد المجلدات الفرعية المتبقية بشكل منفصل.</numerusform>
+            <numerusform>تم استيراد الملفات إلى %1 مجلدات — وهذا أقصى ما تستورده عملية مجلد واحد. استورد المجلدات الفرعية المتبقية بشكل منفصل.</numerusform>
+            <numerusform>تم استيراد الملفات إلى %1 مجلدات — وهذا أقصى ما تستورده عملية مجلد واحد. استورد المجلدات الفرعية المتبقية بشكل منفصل.</numerusform>
+            <numerusform>تم استيراد %n ملفات إلى %1 مجلدات — وهذا أقصى ما تستورده عملية مجلد واحد. استورد المجلدات الفرعية المتبقية بشكل منفصل.</numerusform>
+            <numerusform>تم استيراد %n ملفاً إلى %1 مجلدات — وهذا أقصى ما تستورده عملية مجلد واحد. استورد المجلدات الفرعية المتبقية بشكل منفصل.</numerusform>
+            <numerusform>تم استيراد %n ملف إلى %1 مجلدات — وهذا أقصى ما تستورده عملية مجلد واحد. استورد المجلدات الفرعية المتبقية بشكل منفصل.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>تم استيراد %n ملف إلى %1 مجلدات. تم تخطي %2 ملفاً لأن Drift لا يتعرف على تنسيقها. اسحبها إلى مكتبة الوسائط لمحاولة استيرادها رغم ذلك.</numerusform>
+            <numerusform>تم استيراد الملفات إلى %1 مجلدات. تم تخطي %2 لأن Drift لا يتعرف على تنسيقها. اسحبها إلى مكتبة الوسائط لمحاولة استيرادها رغم ذلك.</numerusform>
+            <numerusform>تم استيراد الملفات إلى %1 مجلدات. تم تخطي %2 لأن Drift لا يتعرف على تنسيقها. اسحبها إلى مكتبة الوسائط لمحاولة استيرادها رغم ذلك.</numerusform>
+            <numerusform>تم استيراد %n ملفات إلى %1 مجلدات. تم تخطي %2 ملفاً لأن Drift لا يتعرف على تنسيقها. اسحبها إلى مكتبة الوسائط لمحاولة استيرادها رغم ذلك.</numerusform>
+            <numerusform>تم استيراد %n ملفاً إلى %1 مجلدات. تم تخطي %2 ملفاً لأن Drift لا يتعرف على تنسيقها. اسحبها إلى مكتبة الوسائط لمحاولة استيرادها رغم ذلك.</numerusform>
+            <numerusform>تم استيراد %n ملف إلى %1 مجلدات. تم تخطي %2 ملف لأن Drift لا يتعرف على تنسيقها. اسحبها إلى مكتبة الوسائط لمحاولة استيرادها رغم ذلك.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>تم استيراد %n ملف إلى %1 مجلدات.</numerusform>
+            <numerusform>تم استيراد ملف واحد إلى %1 مجلدات.</numerusform>
+            <numerusform>تم استيراد ملفين إلى %1 مجلدات.</numerusform>
+            <numerusform>تم استيراد %n ملفات إلى %1 مجلدات.</numerusform>
+            <numerusform>تم استيراد %n ملفاً إلى %1 مجلدات.</numerusform>
+            <numerusform>تم استيراد %n ملف إلى %1 مجلدات.</numerusform>
         </translation>
     </message>
     <message>
@@ -8907,9 +8943,13 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) may play back slowly. A proxy makes previewing smoother; export still uses the original.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>قد يكون تشغيل %n مقطع بطيئاً. تساعد النسخة الوسيطة على سلاسة المعاينة، بينما يستخدم التصدير الملف الأصلي.</numerusform>
+            <numerusform>قد يكون تشغيل مقطع واحد بطيئاً. تساعد النسخة الوسيطة على سلاسة المعاينة، بينما يستخدم التصدير الملف الأصلي.</numerusform>
+            <numerusform>قد يكون تشغيل مقطعين بطيئاً. تساعد النسخة الوسيطة على سلاسة المعاينة، بينما يستخدم التصدير الملف الأصلي.</numerusform>
+            <numerusform>قد يكون تشغيل %n مقاطع بطيئاً. تساعد النسخة الوسيطة على سلاسة المعاينة، بينما يستخدم التصدير الملف الأصلي.</numerusform>
+            <numerusform>قد يكون تشغيل %n مقطعاً بطيئاً. تساعد النسخة الوسيطة على سلاسة المعاينة، بينما يستخدم التصدير الملف الأصلي.</numerusform>
+            <numerusform>قد يكون تشغيل %n مقطع بطيئاً. تساعد النسخة الوسيطة على سلاسة المعاينة، بينما يستخدم التصدير الملف الأصلي.</numerusform>
         </translation>
     </message>
     <message>
@@ -8918,9 +8958,13 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) have a variable frame rate, which can drift out of sync with audio. Convert them to an edit-friendly format to fix it.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>لدى %n مقطع معدل إطارات متغير، وقد يؤدي ذلك إلى عدم تزامنه مع الصوت. حوّله إلى تنسيق مناسب للتحرير لحل المشكلة.</numerusform>
+            <numerusform>لدى مقطع واحد معدل إطارات متغير، وقد يؤدي ذلك إلى عدم تزامنه مع الصوت. حوّله إلى تنسيق مناسب للتحرير لحل المشكلة.</numerusform>
+            <numerusform>لدى مقطعين معدل إطارات متغير، وقد يؤدي ذلك إلى عدم تزامنهما مع الصوت. حوّلهما إلى تنسيق مناسب للتحرير لحل المشكلة.</numerusform>
+            <numerusform>لدى %n مقاطع معدل إطارات متغير، وقد يؤدي ذلك إلى عدم تزامنها مع الصوت. حوّلها إلى تنسيق مناسب للتحرير لحل المشكلة.</numerusform>
+            <numerusform>لدى %n مقطعاً معدل إطارات متغير، وقد يؤدي ذلك إلى عدم تزامنه مع الصوت. حوّله إلى تنسيق مناسب للتحرير لحل المشكلة.</numerusform>
+            <numerusform>لدى %n مقطع معدل إطارات متغير، وقد يؤدي ذلك إلى عدم تزامنه مع الصوت. حوّله إلى تنسيق مناسب للتحرير لحل المشكلة.</numerusform>
         </translation>
     </message>
     <message>
@@ -9152,9 +9196,13 @@
     </message>
     <message numerus="yes">
         <source>%n animation(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n حركة متحركة</numerusform>
+            <numerusform>حركة متحركة واحدة</numerusform>
+            <numerusform>حركتان متحركتان</numerusform>
+            <numerusform>%n حركات متحركة</numerusform>
+            <numerusform>%n حركة متحركة</numerusform>
+            <numerusform>%n حركة متحركة</numerusform>
         </translation>
     </message>
     <message>
@@ -9572,9 +9620,13 @@
     </message>
     <message numerus="yes">
         <source>Pasting from “%1” onto %n selected clip(s):</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>لصق من “%1” على %n مقطع محدد:</numerusform>
+            <numerusform>لصق من “%1” على مقطع محدد واحد:</numerusform>
+            <numerusform>لصق من “%1” على مقطعين محددين:</numerusform>
+            <numerusform>لصق من “%1” على %n مقاطع محددة:</numerusform>
+            <numerusform>لصق من “%1” على %n مقطعاً محدداً:</numerusform>
+            <numerusform>لصق من “%1” على %n مقطع محدد:</numerusform>
         </translation>
     </message>
     <message>
@@ -9603,9 +9655,13 @@
     </message>
     <message numerus="yes">
         <source>Video Effects (%n effect(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>مؤثرات الفيديو (%n مؤثر)</numerusform>
+            <numerusform>مؤثرات الفيديو (مؤثر واحد)</numerusform>
+            <numerusform>مؤثرات الفيديو (مؤثران)</numerusform>
+            <numerusform>مؤثرات الفيديو (%n مؤثرات)</numerusform>
+            <numerusform>مؤثرات الفيديو (%n مؤثراً)</numerusform>
+            <numerusform>مؤثرات الفيديو (%n مؤثر)</numerusform>
         </translation>
     </message>
     <message>
@@ -9622,9 +9678,13 @@
     </message>
     <message numerus="yes">
         <source>Audio Effects (%n effect(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>مؤثرات الصوت (%n مؤثر)</numerusform>
+            <numerusform>مؤثرات الصوت (مؤثر واحد)</numerusform>
+            <numerusform>مؤثرات الصوت (مؤثران)</numerusform>
+            <numerusform>مؤثرات الصوت (%n مؤثرات)</numerusform>
+            <numerusform>مؤثرات الصوت (%n مؤثراً)</numerusform>
+            <numerusform>مؤثرات الصوت (%n مؤثر)</numerusform>
         </translation>
     </message>
     <message>
@@ -9637,9 +9697,13 @@
     </message>
     <message numerus="yes">
         <source>Transitions (%n transition(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>الانتقالات (%n انتقال)</numerusform>
+            <numerusform>الانتقالات (انتقال واحد)</numerusform>
+            <numerusform>الانتقالات (انتقالان)</numerusform>
+            <numerusform>الانتقالات (%n انتقالات)</numerusform>
+            <numerusform>الانتقالات (%n انتقالاً)</numerusform>
+            <numerusform>الانتقالات (%n انتقال)</numerusform>
         </translation>
     </message>
     <message>
