@@ -1730,7 +1730,9 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s)</source>
-        <translation>클립 %n개</translation>
+        <translation>
+            <numerusform>클립 %n개</numerusform>
+        </translation>
     </message>
     <message>
         <source>All</source>
@@ -1816,7 +1818,9 @@
     <name>AndroidTransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>%1 · 클립 %n개</translation>
+        <translation>
+            <numerusform>%1 · 클립 %n개</numerusform>
+        </translation>
     </message>
     <message>
         <source>Transform</source>
@@ -2450,7 +2454,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n subtitles</source>
-        <translation>자막 %n개를 가져왔습니다</translation>
+        <translation>
+            <numerusform>자막 %n개를 가져왔습니다</numerusform>
+        </translation>
     </message>
     <message>
         <source>No audio output devices were found, so playback will be silent.</source>
@@ -2568,7 +2574,9 @@
     </message>
     <message numerus="yes">
         <source>Found %n scene(s)</source>
-        <translation>장면 %n개를 찾았습니다</translation>
+        <translation>
+            <numerusform>장면 %n개를 찾았습니다</numerusform>
+        </translation>
     </message>
     <message>
         <source>Looking for scenes…</source>
@@ -2592,7 +2600,9 @@
     </message>
     <message numerus="yes">
         <source>%n media items and referenced clips removed</source>
-        <translation>미디어 항목 %n개와 참조된 클립을 제거했습니다</translation>
+        <translation>
+            <numerusform>미디어 항목 %n개와 참조된 클립을 제거했습니다</numerusform>
+        </translation>
     </message>
     <message>
         <source>Media and referenced clip removed</source>
@@ -4540,11 +4550,15 @@
     </message>
     <message numerus="yes">
         <source>%n items removed</source>
-        <translation>항목 %n개를 제거했습니다</translation>
+        <translation>
+            <numerusform>항목 %n개를 제거했습니다</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%n items moved</source>
-        <translation>항목 %n개를 이동했습니다</translation>
+        <translation>
+            <numerusform>항목 %n개를 이동했습니다</numerusform>
+        </translation>
     </message>
     <message>
         <source>Clips added</source>
@@ -4840,7 +4854,9 @@
     </message>
     <message numerus="yes">
         <source>%n items</source>
-        <translation>항목 %n개</translation>
+        <translation>
+            <numerusform>항목 %n개</numerusform>
+        </translation>
     </message>
     <message>
         <source>Remove these items?</source>
@@ -4848,7 +4864,9 @@
     </message>
     <message numerus="yes">
         <source>Removed %n items.</source>
-        <translation>항목 %n개를 제거했습니다.</translation>
+        <translation>
+            <numerusform>항목 %n개를 제거했습니다.</numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -5691,11 +5709,15 @@
     </message>
     <message numerus="yes">
         <source>%n second(s) left</source>
-        <translation>%n초 남음</translation>
+        <translation>
+            <numerusform>%n초 남음</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) left</source>
-        <translation>%n분 남음</translation>
+        <translation>
+            <numerusform>%n분 남음</numerusform>
+        </translation>
     </message>
     <message>
         <source>Cancelled</source>
@@ -5726,7 +5748,9 @@
     </message>
     <message numerus="yes">
         <source>%n active</source>
-        <translation>활성 %n개</translation>
+        <translation>
+            <numerusform>활성 %n개</numerusform>
+        </translation>
     </message>
     <message>
         <source>No downloads running</source>
@@ -5765,7 +5789,9 @@
     </message>
     <message numerus="yes">
         <source>%n style(s)</source>
-        <translation>스타일 %n개</translation>
+        <translation>
+            <numerusform>스타일 %n개</numerusform>
+        </translation>
     </message>
     <message>
         <source>%1 s</source>
@@ -5773,7 +5799,9 @@
     </message>
     <message numerus="yes">
         <source>%n colour(s)</source>
-        <translation>색상 %n개</translation>
+        <translation>
+            <numerusform>색상 %n개</numerusform>
+        </translation>
     </message>
     <message>
         <source>Loops, %1 s</source>
@@ -6041,7 +6069,9 @@
     </message>
     <message numerus="yes">
         <source>Downloads — %n running</source>
-        <translation>다운로드 — %n개 진행 중</translation>
+        <translation>
+            <numerusform>다운로드 — %n개 진행 중</numerusform>
+        </translation>
     </message>
     <message>
         <source>Downloads</source>
@@ -7659,7 +7689,9 @@
     </message>
     <message numerus="yes">
         <source>%n keyframes</source>
-        <translation>키프레임 %n개</translation>
+        <translation>
+            <numerusform>키프레임 %n개</numerusform>
+        </translation>
     </message>
     <message>
         <source> BPM</source>
@@ -8611,7 +8643,9 @@
     </message>
     <message numerus="yes">
         <source>Create %n proxies</source>
-        <translation>프록시 %n개 만들기</translation>
+        <translation>
+            <numerusform>프록시 %n개 만들기</numerusform>
+        </translation>
     </message>
     <message>
         <source>Create proxy</source>
@@ -8619,7 +8653,9 @@
     </message>
     <message numerus="yes">
         <source>Remove %n proxies</source>
-        <translation>프록시 %n개 제거</translation>
+        <translation>
+            <numerusform>프록시 %n개 제거</numerusform>
+        </translation>
     </message>
     <message>
         <source>Remove proxy</source>
@@ -8675,7 +8711,9 @@
     </message>
     <message numerus="yes">
         <source>Add %n items to timeline</source>
-        <translation>타임라인에 항목 %n개 추가</translation>
+        <translation>
+            <numerusform>타임라인에 항목 %n개 추가</numerusform>
+        </translation>
     </message>
     <message>
         <source>Add to timeline</source>
@@ -8694,7 +8732,9 @@
     </message>
     <message numerus="yes">
         <source>Remove %n items from project</source>
-        <translation>프로젝트에서 항목 %n개 제거</translation>
+        <translation>
+            <numerusform>프로젝트에서 항목 %n개 제거</numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -8761,7 +8801,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files.</source>
-        <translation>파일 %n개를 가져왔습니다.</translation>
+        <translation>
+            <numerusform>파일 %n개를 가져왔습니다.</numerusform>
+        </translation>
     </message>
     <message>
         <source>Could not import that file — the format may be unsupported.</source>
@@ -8769,7 +8811,9 @@
     </message>
     <message numerus="yes">
         <source>Could not import any of the %n selected files.</source>
-        <translation>선택한 파일 %n개를 하나도 가져오지 못했습니다.</translation>
+        <translation>
+            <numerusform>선택한 파일 %n개를 하나도 가져오지 못했습니다.</numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -8962,7 +9006,9 @@
     </message>
     <message numerus="yes">
         <source>%n animation(s)</source>
-        <translation>애니메이션 %n개</translation>
+        <translation>
+            <numerusform>애니메이션 %n개</numerusform>
+        </translation>
     </message>
     <message>
         <source>static</source>
@@ -9409,7 +9455,9 @@
     </message>
     <message numerus="yes">
         <source>Video Effects (%n effect(s))</source>
-        <translation>비디오 효과(%n개)</translation>
+        <translation>
+            <numerusform>비디오 효과(%n개)</numerusform>
+        </translation>
     </message>
     <message>
         <source>Video Effects (none)</source>
@@ -9425,7 +9473,9 @@
     </message>
     <message numerus="yes">
         <source>Audio Effects (%n effect(s))</source>
-        <translation>오디오 효과(%n개)</translation>
+        <translation>
+            <numerusform>오디오 효과(%n개)</numerusform>
+        </translation>
     </message>
     <message>
         <source>Audio Effects (none)</source>
@@ -9437,7 +9487,9 @@
     </message>
     <message numerus="yes">
         <source>Transitions (%n transition(s))</source>
-        <translation>전환(%n개)</translation>
+        <translation>
+            <numerusform>전환(%n개)</numerusform>
+        </translation>
     </message>
     <message>
         <source>Replace existing effects (instead of appending)</source>
@@ -12095,7 +12147,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>Filters — %n applied</source>
-        <translation>필터 — %n개 적용됨</translation>
+        <translation>
+            <numerusform>필터 — %n개 적용됨</numerusform>
+        </translation>
     </message>
     <message>
         <source>Filters</source>
@@ -14342,14 +14396,18 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>+%n more</source>
-        <translation>외 %n개</translation>
+        <translation>
+            <numerusform>외 %n개</numerusform>
+        </translation>
     </message>
 </context>
 <context>
     <name>TransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>%1 · 클립 %n개</translation>
+        <translation>
+            <numerusform>%1 · 클립 %n개</numerusform>
+        </translation>
     </message>
     <message>
         <source>Transform</source>
@@ -14368,7 +14426,9 @@ If playback stutters, try another.</source>
     <name>TransformSpanBracket</name>
     <message numerus="yes">
         <source>%n track(s)</source>
-        <translation>트랙 %n개</translation>
+        <translation>
+            <numerusform>트랙 %n개</numerusform>
+        </translation>
     </message>
     <message>
         <source>Transform layer span end</source>
@@ -14376,7 +14436,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>Covers %n track(s)</source>
-        <translation>트랙 %n개를 포함</translation>
+        <translation>
+            <numerusform>트랙 %n개를 포함</numerusform>
+        </translation>
     </message>
 </context>
 <context>
