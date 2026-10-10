@@ -2558,11 +2558,11 @@
     </message>
     <message>
         <source>Already looking for scenes</source>
-        <translation type="unfinished"></translation>
+        <translation>正在检测场景</translation>
     </message>
     <message>
         <source>Select a video clip to find scenes in</source>
-        <translation type="unfinished"></translation>
+        <translation>选择一个视频片段以检测场景</translation>
     </message>
     <message numerus="yes">
         <source>Found %n scene(s)</source>
@@ -2572,23 +2572,23 @@
     </message>
     <message>
         <source>Looking for scenes…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在检测场景…</translation>
     </message>
     <message>
         <source>Scene detection cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>已取消场景检测</translation>
     </message>
     <message>
         <source>Removing noise…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在降噪…</translation>
     </message>
     <message>
         <source>Could not create an output file</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建输出文件</translation>
     </message>
     <message>
         <source>Media and referenced clips removed</source>
-        <translation type="unfinished"></translation>
+        <translation>已删除媒体及其引用的片段</translation>
     </message>
     <message numerus="yes">
         <source>%n media items and referenced clips removed</source>
@@ -2599,43 +2599,43 @@
     </message>
     <message>
         <source>Media and referenced clip removed</source>
-        <translation type="unfinished"></translation>
+        <translation>已删除媒体及其引用的片段</translation>
     </message>
     <message>
         <source>Your graphics driver is too old for the preview, which needs OpenGL 3.3. See Help → Debug info.</source>
-        <translation type="unfinished"></translation>
+        <translation>显卡驱动程序过旧，预览需要 OpenGL 3.3。请查看“帮助 → 调试信息”。</translation>
     </message>
     <message>
         <source>Could not create a proxy for %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无法为 %1 创建代理文件：%2</translation>
     </message>
     <message>
         <source>Your graphics driver only provides %1; the preview needs OpenGL 3.3. See Help → Debug info.</source>
-        <translation type="unfinished"></translation>
+        <translation>显卡驱动程序仅支持 %1；预览需要 OpenGL 3.3。请查看“帮助 → 调试信息”。</translation>
     </message>
     <message>
         <source>GPU preview rendering is unavailable on this machine. See Help → Debug info.</source>
-        <translation type="unfinished"></translation>
+        <translation>此设备无法使用 GPU 预览渲染。请查看“帮助 → 调试信息”。</translation>
     </message>
     <message>
         <source>Media rotated</source>
-        <translation type="unfinished"></translation>
+        <translation>已旋转媒体</translation>
     </message>
     <message>
         <source>An edit is already saving</source>
-        <translation type="unfinished"></translation>
+        <translation>正在保存另一个编辑操作</translation>
     </message>
     <message>
         <source>Could not open the media file</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开媒体文件</translation>
     </message>
     <message>
         <source>Media trimmed</source>
-        <translation type="unfinished"></translation>
+        <translation>已修剪媒体</translation>
     </message>
     <message>
         <source>Trim saved</source>
-        <translation type="unfinished"></translation>
+        <translation>已保存修剪结果</translation>
     </message>
     <message>
         <source>Saving…</source>
@@ -2643,31 +2643,31 @@
     </message>
     <message>
         <source>Converting…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在转换…</translation>
     </message>
     <message>
         <source>Saving media…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在保存媒体…</translation>
     </message>
     <message>
         <source>Couldn’t save that edit</source>
-        <translation type="unfinished"></translation>
+        <translation>无法保存此次编辑</translation>
     </message>
     <message>
         <source>Updating the library…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在更新媒体库…</translation>
     </message>
     <message>
         <source>Couldn’t update the library</source>
-        <translation type="unfinished"></translation>
+        <translation>无法更新媒体库</translation>
     </message>
     <message>
         <source>Media edited</source>
-        <translation type="unfinished"></translation>
+        <translation>媒体已编辑</translation>
     </message>
     <message>
         <source>Save project as…</source>
-        <translation type="unfinished"></translation>
+        <translation>项目另存为…</translation>
     </message>
     <message>
         <source>Paste attributes…</source>
@@ -2675,55 +2675,55 @@
     </message>
     <message>
         <source>Go to previous cut point</source>
-        <translation type="unfinished"></translation>
+        <translation>转到上一个剪切点</translation>
     </message>
     <message>
         <source>Go to next cut point</source>
-        <translation type="unfinished"></translation>
+        <translation>转到下一个剪切点</translation>
     </message>
     <message>
         <source>Step back one frame</source>
-        <translation type="unfinished"></translation>
+        <translation>后退一帧</translation>
     </message>
     <message>
         <source>Step forward one frame</source>
-        <translation type="unfinished"></translation>
+        <translation>前进一帧</translation>
     </message>
     <message>
         <source>Jump back 1 second</source>
-        <translation type="unfinished"></translation>
+        <translation>后退 1 秒</translation>
     </message>
     <message>
         <source>Jump forward 1 second</source>
-        <translation type="unfinished"></translation>
+        <translation>前进 1 秒</translation>
     </message>
     <message>
         <source>Jump back 10 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>后退 10 秒</translation>
     </message>
     <message>
         <source>Jump forward 10 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>前进 10 秒</translation>
     </message>
     <message>
         <source>Go to start of timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>转到时间轴开头</translation>
     </message>
     <message>
         <source>Delete left of the playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>删除播放头左侧内容</translation>
     </message>
     <message>
         <source>Delete right of the playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>删除播放头右侧内容</translation>
     </message>
     <message>
         <source>Increase playback speed</source>
-        <translation type="unfinished"></translation>
+        <translation>提高播放速度</translation>
     </message>
     <message>
         <source>Decrease playback speed</source>
-        <translation type="unfinished"></translation>
+        <translation>降低播放速度</translation>
     </message>
     <message>
         <source>Zoom in</source>
@@ -2735,163 +2735,163 @@
     </message>
     <message>
         <source>The graphics card choice takes effect after you restart Drift.</source>
-        <translation type="unfinished"></translation>
+        <translation>显卡选择将在重启 Drift 后生效。</translation>
     </message>
     <message>
         <source>No audio track available for recording</source>
-        <translation type="unfinished"></translation>
+        <translation>没有可用于录音的音轨</translation>
     </message>
     <message>
         <source>Failed to create audio recording file</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建录音文件</translation>
     </message>
     <message>
         <source>Failed to start audio recording</source>
-        <translation type="unfinished"></translation>
+        <translation>无法开始录音</translation>
     </message>
     <message>
         <source>Recording audio…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在录音…</translation>
     </message>
     <message>
         <source>Audio recording cancelled (too short)</source>
-        <translation type="unfinished"></translation>
+        <translation>录音已取消（时长过短）</translation>
     </message>
     <message>
         <source>Voiceover %1</source>
-        <translation type="unfinished"></translation>
+        <translation>旁白 %1</translation>
     </message>
     <message>
         <source>Record audio</source>
-        <translation type="unfinished"></translation>
+        <translation>录制音频</translation>
     </message>
     <message>
         <source>Recorded voiceover</source>
-        <translation type="unfinished"></translation>
+        <translation>已录制旁白</translation>
     </message>
     <message>
         <source>Voiceover recorded</source>
-        <translation type="unfinished"></translation>
+        <translation>旁白录制完成</translation>
     </message>
     <message>
         <source>Recording cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>录制已取消</translation>
     </message>
     <message>
         <source>Clips moved</source>
-        <translation type="unfinished"></translation>
+        <translation>片段已移动</translation>
     </message>
     <message>
         <source>Select video or audio clips to create captions</source>
-        <translation type="unfinished"></translation>
+        <translation>选择视频或音频片段以生成字幕</translation>
     </message>
     <message>
         <source>The caption range is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>字幕范围为空</translation>
     </message>
     <message>
         <source>No video or audio clips in that range</source>
-        <translation type="unfinished"></translation>
+        <translation>该范围内没有视频或音频片段</translation>
     </message>
     <message>
         <source>One of these clips has no sound</source>
-        <translation type="unfinished"></translation>
+        <translation>其中一个片段没有声音</translation>
     </message>
     <message>
         <source>These clips overlap in time — caption them separately</source>
-        <translation type="unfinished"></translation>
+        <translation>这些片段的时间范围重叠，请分别生成字幕</translation>
     </message>
     <message>
         <source>Transition curve</source>
-        <translation type="unfinished"></translation>
+        <translation>转场曲线</translation>
     </message>
     <message>
         <source>Transition curve updated</source>
-        <translation type="unfinished"></translation>
+        <translation>转场曲线已更新</translation>
     </message>
     <message>
         <source>That transition is gone — open the custom curve again</source>
-        <translation type="unfinished"></translation>
+        <translation>该转场已不存在，请重新打开自定义曲线</translation>
     </message>
     <message>
         <source>Custom transition curve</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义转场曲线</translation>
     </message>
     <message>
         <source>Custom transition curve applied</source>
-        <translation type="unfinished"></translation>
+        <translation>已应用自定义转场曲线</translation>
     </message>
     <message>
         <source>Select a video or image clip to estimate depth for</source>
-        <translation type="unfinished"></translation>
+        <translation>选择一个视频或图像片段以估算深度</translation>
     </message>
     <message>
         <source>Clip has no video to estimate depth for</source>
-        <translation type="unfinished"></translation>
+        <translation>该片段没有可用于估算深度的视频</translation>
     </message>
     <message>
         <source>Depth estimation needs the Depth addon</source>
-        <translation type="unfinished"></translation>
+        <translation>深度估算需要安装 Depth 附加组件</translation>
     </message>
     <message>
         <source>Depth is already being estimated for this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>正在估算此片段的深度</translation>
     </message>
     <message>
         <source>Estimating depth…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在估算深度…</translation>
     </message>
     <message>
         <source>Clip no longer exists</source>
-        <translation type="unfinished"></translation>
+        <translation>片段已不存在</translation>
     </message>
     <message>
         <source>Estimate Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>估算深度</translation>
     </message>
     <message>
         <source>Clear Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>清除深度</translation>
     </message>
     <message>
         <source>Building keyframes…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在生成关键帧…</translation>
     </message>
     <message>
         <source>Rendering stabilized video…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在渲染稳定后的视频…</translation>
     </message>
     <message>
         <source>Analyzing camera motion…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在分析摄像机运动…</translation>
     </message>
     <message>
         <source>Stabilization cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>已取消防抖。</translation>
     </message>
     <message>
         <source>Stabilization analysis file is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>缺少防抖分析文件。</translation>
     </message>
     <message>
         <source>Could not read camera motion from the analysis file.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法从分析文件读取摄像机运动数据。</translation>
     </message>
     <message>
         <source>Stabilize with Keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>使用关键帧进行防抖</translation>
     </message>
     <message>
         <source>Stabilization keyframes applied.</source>
-        <translation type="unfinished"></translation>
+        <translation>已应用防抖关键帧。</translation>
     </message>
     <message>
         <source>Change Stabilization Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>更改防抖模式</translation>
     </message>
     <message>
         <source>Cutout</source>
-        <translation type="unfinished"></translation>
+        <translation>抠像</translation>
     </message>
     <message>
         <source> (denoised)</source>
@@ -2899,11 +2899,11 @@
     </message>
     <message>
         <source>Remove noise</source>
-        <translation type="unfinished"></translation>
+        <translation>降噪</translation>
     </message>
     <message>
         <source>Noise removed</source>
-        <translation type="unfinished"></translation>
+        <translation>已降噪</translation>
     </message>
     <message>
         <source>This project uses &quot;%1&quot;, which isn’t installed — it won’t show. Open Extras to install it.</source>
@@ -2919,51 +2919,51 @@
     </message>
     <message>
         <source>Shape added</source>
-        <translation type="unfinished"></translation>
+        <translation>已添加形状</translation>
     </message>
     <message>
         <source>Adjustment Layer</source>
-        <translation type="unfinished"></translation>
+        <translation>调整图层</translation>
     </message>
     <message>
         <source>Adjustment (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>调整（%1）</translation>
     </message>
     <message>
         <source>Add adjustment layer</source>
-        <translation type="unfinished"></translation>
+        <translation>添加调整图层</translation>
     </message>
     <message>
         <source>Adjustment layer added</source>
-        <translation type="unfinished"></translation>
+        <translation>已添加调整图层</translation>
     </message>
     <message>
         <source>Add adjustment track</source>
-        <translation type="unfinished"></translation>
+        <translation>添加调整轨道</translation>
     </message>
     <message>
         <source>Adjustment track added</source>
-        <translation type="unfinished"></translation>
+        <translation>已添加调整轨道</translation>
     </message>
     <message>
         <source>Add adjustment lane</source>
-        <translation type="unfinished"></translation>
+        <translation>添加调整通道</translation>
     </message>
     <message>
         <source>Adjustment lane added</source>
-        <translation type="unfinished"></translation>
+        <translation>已添加调整通道</translation>
     </message>
     <message>
         <source>Nest adjustment in track</source>
-        <translation type="unfinished"></translation>
+        <translation>将调整嵌套到轨道中</translation>
     </message>
     <message>
         <source>Adjustment nested</source>
-        <translation type="unfinished"></translation>
+        <translation>已嵌套调整</translation>
     </message>
     <message>
         <source>Detach adjustment to its own track</source>
-        <translation type="unfinished"></translation>
+        <translation>将调整分离到独立轨道</translation>
     </message>
     <message>
         <source>Adjustment detached</source>
@@ -5616,7 +5616,7 @@
     <name>DenoiseWindow</name>
     <message>
         <source>Remove noise</source>
-        <translation type="unfinished"></translation>
+        <translation>降噪</translation>
     </message>
     <message>
         <source>A short section of the clip is previewed here. Confirming runs the whole clip and adds the result as a new audio track above this one — the original is left untouched.</source>
@@ -5628,7 +5628,7 @@
     </message>
     <message>
         <source>Noise removed</source>
-        <translation type="unfinished"></translation>
+        <translation>已降噪</translation>
     </message>
     <message>
         <source>· playing</source>
@@ -6204,7 +6204,7 @@
     </message>
     <message>
         <source>Add adjustment layer</source>
-        <translation type="unfinished"></translation>
+        <translation>添加调整图层</translation>
     </message>
     <message>
         <source>Add an adjustment layer to apply effects across all clips underneath, or drag it to where it should go</source>
@@ -10302,7 +10302,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Could not open the media file</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开媒体文件</translation>
     </message>
     <message>
         <source>This file has no video to scan</source>
@@ -13803,7 +13803,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Add adjustment layer</source>
-        <translation type="unfinished"></translation>
+        <translation>添加调整图层</translation>
     </message>
     <message>
         <source>Customize toolbar…</source>
