@@ -3681,8 +3681,8 @@
     <message numerus="yes">
         <source>Created %n text clips</source>
         <translation>
-            <numerusform>已创建 %n 个文本片段</numerusform>
-            <numerusform>已创建 %n 个文本片段</numerusform>
+            <numerusform>Создано текстовых клипов: %n</numerusform>
+            <numerusform>Создано текстовых клипов: %n</numerusform>
         </translation>
     </message>
     <message>
@@ -3894,8 +3894,8 @@
     <message numerus="yes">
         <source>Imported %n face prop(s)</source>
         <translation>
-            <numerusform>已导入 %n 个面部道具</numerusform>
-            <numerusform>已导入 %n 个面部道具</numerusform>
+            <numerusform>Импортировано элементов оформления лица: %n</numerusform>
+            <numerusform>Импортировано элементов оформления лица: %n</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -3994,19 +3994,19 @@
     </message>
     <message>
         <source>Audio effect copied</source>
-        <translation type="unfinished"></translation>
+        <translation>已复制音频效果</translation>
     </message>
     <message>
         <source>Effects copied</source>
-        <translation type="unfinished"></translation>
+        <translation>已复制效果</translation>
     </message>
     <message>
         <source>This clip has no effects to copy</source>
-        <translation type="unfinished"></translation>
+        <translation>此片段没有可复制的效果</translation>
     </message>
     <message>
         <source>No effects on the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>剪贴板中没有效果</translation>
     </message>
     <message>
         <source>Paste effects</source>
@@ -4014,114 +4014,114 @@
     </message>
     <message>
         <source>Copy a clip and select target clips first</source>
-        <translation type="unfinished"></translation>
+        <translation>请先复制一个片段并选择目标片段</translation>
     </message>
     <message>
         <source>Paste attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴属性</translation>
     </message>
     <message numerus="yes">
         <source>Pasted attributes onto %n clip(s)</source>
         <translation>
-            <numerusform>已将属性粘贴到 %n 个片段</numerusform>
-            <numerusform>已将属性粘贴到 %n 个片段</numerusform>
+            <numerusform>Атрибуты вставлены в клипы: %n</numerusform>
+            <numerusform>Атрибуты вставлены в клипы: %n</numerusform>
         </translation>
     </message>
     <message>
         <source>Pasted effects use “%1”, which isn’t installed — it won’t show. Open Extras to install it.</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴的效果使用了尚未安装的“%1”，因此不会显示。请打开“附加项”进行安装。</translation>
     </message>
     <message>
         <source>Pasted effects use %1 packs that aren’t installed — they won’t show. Open Extras to install them.</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴的效果使用了 %1 个尚未安装的效果包，因此不会显示。请打开“附加项”进行安装。</translation>
     </message>
     <message>
         <source>There are no effects to save</source>
-        <translation type="unfinished"></translation>
+        <translation>没有可保存的效果</translation>
     </message>
     <message>
         <source>Could not save the effect preset</source>
-        <translation type="unfinished"></translation>
+        <translation>无法保存效果预设</translation>
     </message>
     <message>
         <source>Effect preset saved</source>
-        <translation type="unfinished"></translation>
+        <translation>效果预设已保存</translation>
     </message>
     <message>
         <source>Apply effect preset</source>
-        <translation type="unfinished"></translation>
+        <translation>应用效果预设</translation>
     </message>
     <message>
         <source>Could not rename the effect preset</source>
-        <translation type="unfinished"></translation>
+        <translation>无法重命名效果预设</translation>
     </message>
     <message>
         <source>Effect preset renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>效果预设已重命名</translation>
     </message>
     <message>
         <source>Could not delete the effect preset</source>
-        <translation type="unfinished"></translation>
+        <translation>无法删除效果预设</translation>
     </message>
     <message>
         <source>Effect preset deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>效果预设已删除</translation>
     </message>
     <message>
         <source>Could not export the effect preset</source>
-        <translation type="unfinished"></translation>
+        <translation>无法导出效果预设</translation>
     </message>
     <message>
         <source>Effect preset exported</source>
-        <translation type="unfinished"></translation>
+        <translation>效果预设已导出</translation>
     </message>
     <message>
         <source>Could not import the effect preset</source>
-        <translation type="unfinished"></translation>
+        <translation>无法导入效果预设</translation>
     </message>
     <message>
         <source>Effect preset imported</source>
-        <translation type="unfinished"></translation>
+        <translation>效果预设已导入</translation>
     </message>
     <message>
         <source>Track mute</source>
-        <translation type="unfinished"></translation>
+        <translation>轨道静音</translation>
     </message>
     <message>
         <source>Track muted</source>
-        <translation type="unfinished"></translation>
+        <translation>轨道已静音</translation>
     </message>
     <message>
         <source>Track unmuted</source>
-        <translation type="unfinished"></translation>
+        <translation>轨道已取消静音</translation>
     </message>
     <message>
         <source>Track visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>轨道可见性</translation>
     </message>
     <message>
         <source>Track hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>轨道已隐藏</translation>
     </message>
     <message>
         <source>Track shown</source>
-        <translation type="unfinished"></translation>
+        <translation>轨道已显示</translation>
     </message>
     <message>
         <source>Move track</source>
-        <translation type="unfinished"></translation>
+        <translation>移动轨道</translation>
     </message>
     <message>
         <source>Track moved</source>
-        <translation type="unfinished"></translation>
+        <translation>轨道已移动</translation>
     </message>
     <message>
         <source>Delete track</source>
-        <translation type="unfinished"></translation>
+        <translation>删除轨道</translation>
     </message>
     <message>
         <source>Track deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>轨道已删除</translation>
     </message>
     <message>
         <source>Add track</source>
@@ -4129,39 +4129,39 @@
     </message>
     <message>
         <source>Track added</source>
-        <translation type="unfinished"></translation>
+        <translation>已添加轨道</translation>
     </message>
     <message>
         <source>Work area in marked</source>
-        <translation type="unfinished"></translation>
+        <translation>已标记工作区入点</translation>
     </message>
     <message>
         <source>Work area out marked</source>
-        <translation type="unfinished"></translation>
+        <translation>已标记工作区出点</translation>
     </message>
     <message>
         <source>Work area cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>已清除工作区</translation>
     </message>
     <message>
         <source>Add bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>添加书签</translation>
     </message>
     <message>
         <source>Bookmark added</source>
-        <translation type="unfinished"></translation>
+        <translation>已添加书签</translation>
     </message>
     <message>
         <source>Remove bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>移除书签</translation>
     </message>
     <message>
         <source>Bookmark removed</source>
-        <translation type="unfinished"></translation>
+        <translation>已移除书签</translation>
     </message>
     <message>
         <source>Edit bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑书签</translation>
     </message>
     <message>
         <source>Bookmark updated</source>
@@ -4190,8 +4190,8 @@
     <message numerus="yes">
         <source>Pasted %n clips</source>
         <translation>
-            <numerusform>已粘贴 %n 个片段</numerusform>
-            <numerusform>已粘贴 %n 个片段</numerusform>
+            <numerusform>Вставлено клипов: %n</numerusform>
+            <numerusform>Вставлено клипов: %n</numerusform>
         </translation>
     </message>
     <message>
@@ -8716,8 +8716,8 @@
     <message numerus="yes">
         <source>Move %n items to folder…</source>
         <translation>
-            <numerusform>将 %n 个项目移动到文件夹…</numerusform>
-            <numerusform>将 %n 个项目移动到文件夹…</numerusform>
+            <numerusform>Переместить в папку элементов: %n…</numerusform>
+            <numerusform>Переместить в папку элементов: %n…</numerusform>
         </translation>
     </message>
     <message>
@@ -13932,13 +13932,13 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Delete track</source>
-        <translation type="unfinished"></translation>
+        <translation>删除轨道</translation>
     </message>
     <message numerus="yes">
         <source>This removes the track and its %n clips. You can undo afterwards.</source>
         <translation>
-            <numerusform>这将删除该轨道及其 %n 个片段。之后可以撤销。</numerusform>
-            <numerusform>这将删除该轨道及其 %n 个片段。之后可以撤销。</numerusform>
+            <numerusform>Будут удалены дорожка и её клипы: %n. Это можно отменить.</numerusform>
+            <numerusform>Будут удалены дорожка и её клипы: %n. Это можно отменить.</numerusform>
         </translation>
     </message>
     <message>
