@@ -4392,47 +4392,47 @@
     </message>
     <message>
         <source>By word</source>
-        <translation type="unfinished"></translation>
+        <translation>按单词</translation>
     </message>
     <message>
         <source>Kinetic</source>
-        <translation type="unfinished"></translation>
+        <translation>动态</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>浅色</translation>
     </message>
     <message>
         <source>Colour</source>
-        <translation type="unfinished"></translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <source>Hold</source>
-        <translation type="unfinished"></translation>
+        <translation>保持</translation>
     </message>
     <message>
         <source>Imported</source>
-        <translation type="unfinished"></translation>
+        <translation>已导入</translation>
     </message>
     <message>
         <source>Apply text look</source>
-        <translation type="unfinished"></translation>
+        <translation>应用文本样式</translation>
     </message>
     <message>
         <source>Look applied</source>
-        <translation type="unfinished"></translation>
+        <translation>已应用样式</translation>
     </message>
     <message>
         <source>Adjust text look</source>
-        <translation type="unfinished"></translation>
+        <translation>调整文本样式</translation>
     </message>
     <message>
         <source>Look updated</source>
-        <translation type="unfinished"></translation>
+        <translation>样式已更新</translation>
     </message>
     <message>
         <source>Apply caption style</source>
-        <translation type="unfinished"></translation>
+        <translation>应用字幕样式</translation>
     </message>
     <message numerus="yes">
         <source>Applied to %n caption clip(s)</source>
@@ -4442,91 +4442,91 @@
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>红色</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>绿色</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>蓝色</translation>
     </message>
     <message>
         <source>Alpha</source>
-        <translation type="unfinished"></translation>
+        <translation>透明度</translation>
     </message>
     <message>
         <source>Could not unpack the bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>无法解压资源包</translation>
     </message>
     <message>
         <source>Could not read %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法读取 %1</translation>
     </message>
     <message>
         <source>Nothing to import</source>
-        <translation type="unfinished"></translation>
+        <translation>没有可导入的内容</translation>
     </message>
     <message>
         <source>Could not save the preset</source>
-        <translation type="unfinished"></translation>
+        <translation>无法保存预设</translation>
     </message>
     <message>
         <source>Nudge selection</source>
-        <translation type="unfinished"></translation>
+        <translation>微移所选对象</translation>
     </message>
     <message>
         <source>Selection nudged</source>
-        <translation type="unfinished"></translation>
+        <translation>已微移所选对象</translation>
     </message>
     <message>
         <source>That save location isn’t valid</source>
-        <translation type="unfinished"></translation>
+        <translation>保存位置无效</translation>
     </message>
     <message>
         <source>Already saving</source>
-        <translation type="unfinished"></translation>
+        <translation>正在保存</translation>
     </message>
     <message>
         <source>Project saved</source>
-        <translation type="unfinished"></translation>
+        <translation>项目已保存</translation>
     </message>
     <message>
         <source>Shareable copy ready</source>
-        <translation type="unfinished"></translation>
+        <translation>可分享的副本已准备好</translation>
     </message>
     <message>
         <source>That project location isn’t valid</source>
-        <translation type="unfinished"></translation>
+        <translation>项目位置无效</translation>
     </message>
     <message>
         <source>Project loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>项目已加载</translation>
     </message>
     <message>
         <source>Unpacking project media…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在解压项目媒体…</translation>
     </message>
     <message>
         <source>No recovery file found</source>
-        <translation type="unfinished"></translation>
+        <translation>未找到恢复文件</translation>
     </message>
     <message>
         <source>Recovered unsaved work</source>
-        <translation type="unfinished"></translation>
+        <translation>已恢复未保存的工作</translation>
     </message>
     <message>
         <source>Started new session</source>
-        <translation type="unfinished"></translation>
+        <translation>已开始新会话</translation>
     </message>
     <message>
         <source>Export already in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>导出已在进行中</translation>
     </message>
     <message>
         <source>Export complete</source>
-        <translation type="unfinished"></translation>
+        <translation>导出完成</translation>
     </message>
     <message>
         <source>Close gap</source>
@@ -4534,11 +4534,11 @@
     </message>
     <message>
         <source>Folder created</source>
-        <translation type="unfinished"></translation>
+        <translation>已创建文件夹</translation>
     </message>
     <message>
         <source>Folder renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>已重命名文件夹</translation>
     </message>
     <message>
         <source>Folder deleted</source>
@@ -6096,7 +6096,7 @@
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>浅色</translation>
     </message>
     <message>
         <source>Dark</source>
@@ -6156,7 +6156,7 @@
     </message>
     <message>
         <source>Export already in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>导出已在进行中</translation>
     </message>
     <message>
         <source>Multicam</source>
@@ -9360,7 +9360,7 @@
     </message>
     <message>
         <source>Colour</source>
-        <translation type="unfinished"></translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <source>Choose the paint colour</source>
@@ -11460,7 +11460,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Colour</source>
-        <translation type="unfinished"></translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <source>Choose the layer colour</source>
@@ -12625,7 +12625,7 @@ If playback stutters, try another.</source>
     <name>TextInspector</name>
     <message>
         <source>Colour</source>
-        <translation type="unfinished"></translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <source>Choose the gradient&apos;s first colour</source>
@@ -12817,7 +12817,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Adjust text look</source>
-        <translation type="unfinished"></translation>
+        <translation>调整文本样式</translation>
     </message>
     <message>
         <source>Layers</source>
@@ -13226,19 +13226,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>红色</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>绿色</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>蓝色</translation>
     </message>
     <message>
         <source>Alpha</source>
-        <translation type="unfinished"></translation>
+        <translation>透明度</translation>
     </message>
     <message>
         <source>Gradient angle</source>
