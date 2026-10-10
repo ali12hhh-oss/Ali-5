@@ -1419,7 +1419,7 @@
     </message>
     <message>
         <source>Full</source>
-        <translation>Buong laki</translation>
+        <translation>Buong</translation>
     </message>
     <message>
         <source>Half</source>
@@ -1719,7 +1719,7 @@
     </message>
     <message>
         <source>Variable frame rate. This clip can drift out of sync with its audio. Right-click it and choose Convert to edit-friendly format.</source>
-        <translation>Variable ang frame rate คลิปนี้อาจไม่ตรงกับเสียง คลิกขวาแล้วเลือก Convert to edit-friendly format</translation>
+        <translation>Variable ang frame rate ng clip na ito, kaya maaaring hindi na tumugma ang tunog. I-right-click ito at piliin ang Convert to edit-friendly format.</translation>
     </message>
     <message>
         <source>Transform layer: moves, scales and turns every track its bracket covers</source>
@@ -5599,15 +5599,15 @@
     </message>
     <message>
         <source>Readback to CPU costs</source>
-        <translation>ค่าใช้จ่ายในการอ่านกลับไปยัง CPU</translation>
+        <translation>Gastos sa pagbasa pabalik papunta sa CPU</translation>
     </message>
     <message>
         <source>Compositing costs</source>
-        <translation>ค่าใช้จ่ายในการ compositing</translation>
+        <translation>Gastos sa compositing</translation>
     </message>
     <message>
         <source>Total per frame</source>
-        <translation>เวลารวมต่อเฟรม</translation>
+        <translation>Kabuuang oras bawat frame</translation>
     </message>
     <message>
         <source>Budget at this frame rate</source>
@@ -5615,7 +5615,7 @@
     </message>
     <message>
         <source>Findings</source>
-        <translation>ผลการตรวจสอบ</translation>
+        <translation>Mga natuklasan</translation>
     </message>
     <message>
         <source>Nothing stood out. Turn on the live stats above, play the timeline for a few seconds, then reopen this.</source>
@@ -6116,7 +6116,7 @@
     </message>
     <message>
         <source>Workspace, theme, language and more</source>
-        <translation>Workspace, theme, wika, at iba ๆ</translation>
+        <translation>Workspace, tema, wika at iba pa</translation>
     </message>
     <message>
         <source>Light</source>
@@ -7666,11 +7666,11 @@
     </message>
     <message>
         <source>Mask rotation</source>
-        <translation>การหมุนของ mask</translation>
+        <translation>Pag-ikot ng maskara</translation>
     </message>
     <message>
         <source>Mask feather</source>
-        <translation>ความฟุ้งของ mask</translation>
+        <translation>Paglambot ng gilid ng maskara</translation>
     </message>
     <message>
         <source>Keyframes</source>
@@ -8938,7 +8938,7 @@
     </message>
     <message>
         <source>Save writes a new file over this item in the bin.</source>
-        <translation>Gagawa ang Save ng bagong file เพื่อแทนที่ item na ito sa bin.</translation>
+        <translation>Gagawa ang Save ng bagong file na papalit sa item na ito sa bin.</translation>
     </message>
     <message>
         <source>Save keeps the original video and stores this framing.</source>
@@ -9728,7 +9728,7 @@
     </message>
     <message>
         <source>Full</source>
-        <translation>เต็ม</translation>
+        <translation>Buong</translation>
     </message>
     <message>
         <source>Half</source>
@@ -9882,7 +9882,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>project media entry names no blob</source>
-        <translation>Walang blob naระบุในรายการ media ng project</translation>
+        <translation>Walang blob ang mga pangalan ng entry ng media ng proyekto</translation>
     </message>
     <message>
         <source>unsafe file name in project: %1</source>
@@ -10675,7 +10675,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>3D animation and games</source>
-        <translation>แอนิเมชัน 3 มิติและเกม</translation>
+        <translation>Animasyon at mga laro sa 3D</translation>
     </message>
     <message>
         <source>General</source>
@@ -10719,7 +10719,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>%1 s per frame</source>
-        <translation>%1 วินาที bawat frame</translation>
+        <translation>%1 segundo bawat frame</translation>
     </message>
     <message>
         <source>No upscaling</source>
@@ -11686,7 +11686,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Double arrow</source>
-        <translation>ลูกศรสองหัว</translation>
+        <translation>Dobleng palaso</translation>
     </message>
     <message>
         <source>Block arrow</source>
@@ -13602,7 +13602,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Variable frame rate. This clip can drift out of sync with its audio. Right-click it and choose Convert to edit-friendly format.</source>
-        <translation>Variable ang frame rate คลิปนี้อาจไม่ตรงกับเสียง คลิกขวาแล้วเลือก Convert to edit-friendly format</translation>
+        <translation>Variable ang frame rate ng clip na ito, kaya maaaring hindi na tumugma ang tunog. I-right-click ito at piliin ang Convert to edit-friendly format.</translation>
     </message>
     <message>
         <source>Transform layer: moves, scales and turns every track its bracket covers</source>
@@ -14247,7 +14247,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Move to a time, set a value, then click the diamond to add a keyframe. With Auto keyframes on, dragging a slider or the preview also creates them.</source>
-        <translation>Lumipat sa orasที่ต้องการ ตั้งค่า แล้วคลิกสัญลักษณ์เพชรเพื่อเพิ่ม keyframe. Kapag naka-on ang Auto keyframes, gagawa rin ng keyframe ang pag-drag sa slider o preview.</translation>
+        <translation>Pumunta sa oras na gusto mo, magtakda ng halaga, at i-click ang diyamante para magdagdag ng keyframe. Kapag naka-on ang Auto keyframes, gumagawa rin ng keyframe ang pag-drag sa slider o preview.</translation>
     </message>
     <message>
         <source>Auto keyframes</source>
@@ -14749,7 +14749,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>3D animation and games</source>
-        <translation>แอนิเมชัน 3 มิติและเกม</translation>
+        <translation>Animasyon at mga laro sa 3D</translation>
     </message>
     <message>
         <source>General</source>
@@ -14956,7 +14956,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Expression on %1 (drawn static)</source>
-        <translation>Expression sa %1 (iginuhitแบบ static)</translation>
+        <translation>Expression sa %1 (naka-render bilang static)</translation>
     </message>
 </context>
 <context>
@@ -14986,7 +14986,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>VfrWarning</name>
     <message>
         <source>Variable frame rate. This clip can drift out of sync with its audio. Right-click it and choose Convert to edit-friendly format.</source>
-        <translation>Variable ang frame rate คลิปนี้อาจไม่ตรงกับเสียง คลิกขวาแล้วเลือก Convert to edit-friendly format</translation>
+        <translation>Variable ang frame rate ng clip na ito, kaya maaaring hindi na tumugma ang tunog. I-right-click ito at piliin ang Convert to edit-friendly format.</translation>
     </message>
 </context>
 <context>
