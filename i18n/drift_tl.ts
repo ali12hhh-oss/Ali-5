@@ -14948,15 +14948,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Template inputs the animation declares. Overrides are per clip.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga template input na idineklara ng animation. Bawat clip ay may sariling override.</translation>
     </message>
     <message>
         <source>Not rendered</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi pa na-render</translation>
     </message>
     <message>
         <source>Expression on %1 (drawn static)</source>
-        <translation type="unfinished"></translation>
+        <translation>Expression sa %1 (iginuhitแบบ static)</translation>
     </message>
 </context>
 <context>
@@ -14997,15 +14997,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Choose layout…</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng layout…</translation>
     </message>
     <message>
         <source>Pick a platform template (YouTube, Instagram, TikTok, …) and quality</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng platform template (YouTube, Instagram, TikTok, atbp.) at kalidad</translation>
     </message>
     <message>
         <source>Change the video size. Clips keep their current size and position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Baguhin ang laki ng video. Mananatili ang kasalukuyang laki at posisyon ng mga clip.</translation>
     </message>
     <message>
         <source>Width</source>
@@ -15021,7 +15021,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Cancel crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanselahin ang crop</translation>
     </message>
     <message>
         <source>Crop video size</source>
@@ -15033,11 +15033,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Changing size doesn’t shrink your clips — anything outside the new edges is cut off.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi liliit ang mga clip kapag binago ang laki — puputulin ang anumang lampas sa bagong mga gilid.</translation>
     </message>
     <message>
         <source>Clips keep their length. A higher rate samples more pictures per second from the same footage.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mananatili ang haba ng mga clip. Mas maraming frame bawat segundo ang kinukuha sa mas mataas na rate.</translation>
     </message>
 </context>
 <context>
@@ -15067,19 +15067,19 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Input microphone: %1 (click to switch)</source>
-        <translation type="unfinished"></translation>
+        <translation>Input microphone: %1 (i-click upang lumipat)</translation>
     </message>
     <message>
         <source>Mic gain</source>
-        <translation type="unfinished"></translation>
+        <translation>Mic gain</translation>
     </message>
     <message>
         <source>Voice input gain: %1% (adjust voice level)</source>
-        <translation type="unfinished"></translation>
+        <translation>Voice input gain: %1% (ayusin ang antas ng boses)</translation>
     </message>
     <message>
         <source>Live voice level: %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Live na antas ng boses: %1%</translation>
     </message>
     <message>
         <source>Resume recording</source>
@@ -15091,18 +15091,18 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Done — finish recording and save to track</source>
-        <translation type="unfinished"></translation>
+        <translation>Tapos na — tapusin ang pag-record at i-save sa track</translation>
     </message>
     <message>
         <source>Cancel — discard recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanselahin — itapon ang recording</translation>
     </message>
 </context>
 <context>
     <name>drift</name>
     <message>
         <source>Plain</source>
-        <translation type="unfinished"></translation>
+        <translation>Payak</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -15110,23 +15110,23 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Lift</source>
-        <translation type="unfinished"></translation>
+        <translation>Lift</translation>
     </message>
     <message>
         <source>Hollow</source>
-        <translation type="unfinished"></translation>
+        <translation>Hollow</translation>
     </message>
     <message>
         <source>Splice</source>
-        <translation type="unfinished"></translation>
+        <translation>Splice</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Outline</translation>
     </message>
     <message>
         <source>Echo</source>
-        <translation type="unfinished"></translation>
+        <translation>Echo</translation>
     </message>
     <message>
         <source>Glitch</source>
@@ -15134,7 +15134,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Neon</source>
-        <translation type="unfinished"></translation>
+        <translation>Neon</translation>
     </message>
     <message>
         <source>Background</source>
@@ -15150,7 +15150,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Shine</source>
-        <translation type="unfinished"></translation>
+        <translation>Shine</translation>
     </message>
     <message>
         <source>Chrome</source>
@@ -15158,48 +15158,54 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Holographic</source>
-        <translation type="unfinished"></translation>
+        <translation>Holographic</translation>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>hindi alam</translation>
     </message>
     <message>
         <source>No OpenGL driver</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang OpenGL driver</translation>
     </message>
     <message>
         <source>Drift could not create an OpenGL context, so it cannot draw its interface or render the preview.
 
 Install or update your graphics driver.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi makagawa ang Drift ng OpenGL context kaya hindi nito maipakita ang interface o i-render ang preview.
+
+I-install o i-update ang graphics driver.</translation>
     </message>
     <message>
         <source>OpenGL context unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi available ang OpenGL context</translation>
     </message>
     <message>
         <source>Drift could not create an OpenGL 3.3 core profile context, though this driver reports OpenGL %1.%2 (%3).
 
 The video preview cannot render. Updating your graphics driver may help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi makagawa ang Drift ng OpenGL 3.3 core profile context kahit iniulat ng driver ang OpenGL %1.%2 (%3).
+
+Hindi ma-render ang video preview. Maaaring makatulong ang pag-update ng graphics driver.</translation>
     </message>
     <message>
         <source>Graphics driver is too old</source>
-        <translation type="unfinished"></translation>
+        <translation>Masyadong luma ang graphics driver</translation>
     </message>
     <message>
         <source>Drift needs OpenGL 3.3, but this graphics driver only provides OpenGL %1.%2 (%3).
 
 The video preview cannot render, and Drift may not start at all. Update your graphics driver, or run Drift on a machine with a newer GPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kailangan ng Drift ang OpenGL 3.3, ngunit OpenGL %1.%2 (%3) lamang ang ibinibigay ng driver na ito.
+
+Hindi ma-render ang video preview at maaaring hindi magsimula ang Drift. I-update ang graphics driver o gumamit ng makinang may mas bagong GPU.</translation>
     </message>
     <message>
         <source>Drift is not drawing its window</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi naiguguhit ng Drift ang window</translation>
     </message>
     <message>
         <source>Drift has been running for %1 seconds but its window has not drawn anything yet.
