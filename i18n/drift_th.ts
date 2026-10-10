@@ -7746,7 +7746,7 @@
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>ดำเนินการต่อ</translation>
     </message>
     <message>
         <source>Cancel</source>
