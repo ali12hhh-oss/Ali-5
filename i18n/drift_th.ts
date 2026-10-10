@@ -6108,23 +6108,23 @@
     </message>
     <message>
         <source>Debug info…</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อมูลดีบัก…</translation>
     </message>
     <message>
         <source>More settings…</source>
-        <translation type="unfinished"></translation>
+        <translation>การตั้งค่าเพิ่มเติม…</translation>
     </message>
     <message>
         <source>Agent</source>
-        <translation type="unfinished"></translation>
+        <translation>เอเจนต์</translation>
     </message>
     <message>
         <source>Agent access is on</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดสิทธิ์เข้าถึงเอเจนต์แล้ว</translation>
     </message>
     <message>
         <source>Recommended packs and updates</source>
-        <translation type="unfinished"></translation>
+        <translation>แพ็กและรายการอัปเดตที่แนะนำ</translation>
     </message>
     <message>
         <source>Extras</source>
@@ -6136,7 +6136,7 @@
     </message>
     <message>
         <source>Drift %1 is available</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift %1 พร้อมใช้งานแล้ว</translation>
     </message>
     <message>
         <source>Agent access</source>
@@ -6144,11 +6144,11 @@
     </message>
     <message>
         <source>Export in progress (%1%) — click to view</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังส่งออก (%1%) — คลิกเพื่อดู</translation>
     </message>
     <message>
         <source>Export video</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกวิดีโอ</translation>
     </message>
     <message>
         <source>Export</source>
@@ -6164,38 +6164,38 @@
     </message>
     <message>
         <source>Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>พื้นที่ทำงาน</translation>
     </message>
     <message>
         <source>Auto (follow canvas)</source>
-        <translation type="unfinished"></translation>
+        <translation>อัตโนมัติ (ตามผืนงาน)</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>แนวนอน</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>แนวตั้ง</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>ธีม</translation>
     </message>
 </context>
 <context>
     <name>EffectBrowser</name>
     <message>
         <source>No effects</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีเอฟเฟกต์</translation>
     </message>
     <message>
         <source>Install the Effects pack from Extras to browse presets here.</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้งแพ็ก Effects จากส่วนเสริมเพื่อเรียกดูพรีเซ็ตที่นี่</translation>
     </message>
     <message>
         <source>Get extras</source>
-        <translation type="unfinished"></translation>
+        <translation>รับส่วนเสริม</translation>
     </message>
     <message>
         <source>Drag a preset onto a clip, or click to apply to the selection</source>
@@ -6203,11 +6203,11 @@
     </message>
     <message>
         <source>Click to add as adjustment layer, or drag onto a clip</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิกเพื่อเพิ่มเป็นเลเยอร์ปรับแต่ง หรือลากไปวางบนคลิป</translation>
     </message>
     <message>
         <source>Search effects</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหาเอฟเฟกต์</translation>
     </message>
     <message>
         <source>Add adjustment layer</source>
@@ -6215,15 +6215,15 @@
     </message>
     <message>
         <source>Add an adjustment layer to apply effects across all clips underneath, or drag it to where it should go</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเลเยอร์ปรับแต่งเพื่อใช้เอฟเฟกต์กับคลิปทั้งหมดด้านล่าง หรือลากไปยังตำแหน่งที่ต้องการ</translation>
     </message>
     <message>
         <source>Adjustment layer</source>
-        <translation type="unfinished"></translation>
+        <translation>เลเยอร์ปรับแต่ง</translation>
     </message>
     <message>
         <source>No effects match “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีเอฟเฟกต์ที่ตรงกับ “%1”</translation>
     </message>
     <message>
         <source>No favorites yet. Star presets to save them here.</source>
@@ -6239,54 +6239,54 @@
     </message>
     <message>
         <source>Built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>ในตัว</translation>
     </message>
 </context>
 <context>
     <name>EffectCatalog</name>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>สี</translation>
     </message>
     <message>
         <source>Glitch &amp; Distortion</source>
-        <translation type="unfinished"></translation>
+        <translation>กลิตช์และการบิดเบือน</translation>
     </message>
     <message>
         <source>Retro / Analog</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้อนยุค / อะนาล็อก</translation>
     </message>
     <message>
         <source>Dreamy &amp; Stylish</source>
-        <translation type="unfinished"></translation>
+        <translation>ชวนฝันและมีสไตล์</translation>
     </message>
     <message>
         <source>Impact</source>
-        <translation type="unfinished"></translation>
+        <translation>กระแทก</translation>
     </message>
     <message>
         <source>Blurs &amp; Distortions</source>
-        <translation type="unfinished"></translation>
+        <translation>เบลอและบิดเบือน</translation>
     </message>
     <message>
         <source>Funny Face</source>
-        <translation type="unfinished"></translation>
+        <translation>ใบหน้าตลก</translation>
     </message>
     <message>
         <source>Beauty &amp; Makeup</source>
-        <translation type="unfinished"></translation>
+        <translation>ความงามและการแต่งหน้า</translation>
     </message>
     <message>
         <source>Face Props</source>
-        <translation type="unfinished"></translation>
+        <translation>พร็อพใบหน้า</translation>
     </message>
     <message>
         <source>Artistic</source>
-        <translation type="unfinished"></translation>
+        <translation>ศิลปะ</translation>
     </message>
     <message>
         <source>Depth &amp; Lighting</source>
-        <translation type="unfinished"></translation>
+        <translation>ความลึกและแสง</translation>
     </message>
     <message>
         <source>Other</source>
@@ -6297,35 +6297,35 @@
     <name>EffectStacksSection</name>
     <message>
         <source>Drift effect stack (*.drifteffects)</source>
-        <translation type="unfinished"></translation>
+        <translation>สแตกเอฟเฟกต์ Drift (*.drifteffects)</translation>
     </message>
     <message>
         <source>Import effect stack</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าสแตกเอฟเฟกต์</translation>
     </message>
     <message>
         <source>Export effect stack</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกสแตกเอฟเฟกต์</translation>
     </message>
     <message>
         <source>My presets</source>
-        <translation type="unfinished"></translation>
+        <translation>พรีเซ็ตของฉัน</translation>
     </message>
     <message>
         <source>Import an effect stack…</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าสแตกเอฟเฟกต์…</translation>
     </message>
     <message>
         <source>Tune a clip&apos;s effects, then use “Save as preset…” in the properties Effects tab to keep them here.</source>
-        <translation type="unfinished"></translation>
+        <translation>ปรับเอฟเฟกต์ของคลิป แล้วเลือก “บันทึกเป็นพรีเซ็ต…” ในแท็บ Effects ของแผงคุณสมบัติเพื่อเก็บไว้ที่นี่</translation>
     </message>
     <message>
         <source>+%1 more</source>
-        <translation type="unfinished"></translation>
+        <translation>+%1 รายการ</translation>
     </message>
     <message>
         <source>Preset options</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวเลือกพรีเซ็ต</translation>
     </message>
     <message>
         <source>Rename…</source>
@@ -6333,7 +6333,7 @@
     </message>
     <message>
         <source>Export…</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออก…</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -6341,50 +6341,50 @@
     </message>
     <message>
         <source>Rename effect preset</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อพรีเซ็ตเอฟเฟกต์</translation>
     </message>
     <message>
         <source>Delete effect preset</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบพรีเซ็ตเอฟเฟกต์</translation>
     </message>
     <message>
         <source>Remove “%1” from your saved presets? Clips already using it keep their effects.</source>
-        <translation type="unfinished"></translation>
+        <translation>นำ “%1” ออกจากพรีเซ็ตที่บันทึกไว้หรือไม่ คลิปที่ใช้อยู่จะยังคงเอฟเฟกต์เดิม</translation>
     </message>
 </context>
 <context>
     <name>EffectTemplateBrowser</name>
     <message>
         <source>No effect templates</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีเทมเพลตเอฟเฟกต์</translation>
     </message>
     <message>
         <source>Install the Effect Templates pack from Extras to browse presets here.</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้งแพ็ก Effect Templates จากส่วนเสริมเพื่อเรียกดูพรีเซ็ตที่นี่</translation>
     </message>
     <message>
         <source>Get extras</source>
-        <translation type="unfinished"></translation>
+        <translation>รับส่วนเสริม</translation>
     </message>
     <message>
         <source>Click a template to apply music-synced effects to the selection</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิกเทมเพลตเพื่อใช้เอฟเฟกต์ที่ซิงก์กับเพลงกับรายการที่เลือก</translation>
     </message>
     <message>
         <source>Select a clip, then click a template to apply</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกคลิป แล้วคลิกเทมเพลตเพื่อใช้</translation>
     </message>
     <message>
         <source>Search templates</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหาเทมเพลต</translation>
     </message>
     <message>
         <source>No templates match “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีเทมเพลตที่ตรงกับ “%1”</translation>
     </message>
     <message>
         <source>No favorites yet. Star templates to save them here.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่มีรายการโปรด กดดาวที่เทมเพลตเพื่อบันทึกไว้ที่นี่</translation>
     </message>
     <message>
         <source>Nothing in this category.</source>
@@ -6392,7 +6392,7 @@
     </message>
     <message>
         <source>Needs cutout</source>
-        <translation type="unfinished"></translation>
+        <translation>ต้องแยกวัตถุ</translation>
     </message>
     <message>
         <source>Apply to selected clip</source>
@@ -6403,39 +6403,39 @@
     <name>EffectTemplateCatalog</name>
     <message>
         <source>Hype</source>
-        <translation type="unfinished"></translation>
+        <translation>เร้าใจ</translation>
     </message>
     <message>
         <source>Dreamy</source>
-        <translation type="unfinished"></translation>
+        <translation>ชวนฝัน</translation>
     </message>
     <message>
         <source>Cinematic</source>
-        <translation type="unfinished"></translation>
+        <translation>สไตล์ภาพยนตร์</translation>
     </message>
     <message>
         <source>Clone</source>
-        <translation type="unfinished"></translation>
+        <translation>โคลน</translation>
     </message>
     <message>
         <source>Anime</source>
-        <translation type="unfinished"></translation>
+        <translation>อนิเมะ</translation>
     </message>
     <message>
         <source>Retro</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้อนยุค</translation>
     </message>
     <message>
         <source>Chaos</source>
-        <translation type="unfinished"></translation>
+        <translation>โกลาหล</translation>
     </message>
     <message>
         <source>Drama</source>
-        <translation type="unfinished"></translation>
+        <translation>ดราม่า</translation>
     </message>
     <message>
         <source>Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>ทรานซิชัน</translation>
     </message>
     <message>
         <source>Other</source>
@@ -6446,27 +6446,27 @@
     <name>EffectsInspector</name>
     <message>
         <source>Face tracking</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตามใบหน้า</translation>
     </message>
     <message>
         <source>This clip was scanned before makeup was supported. Re-detect faces to enable the Beauty effects.</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิปนี้ถูกสแกนก่อนที่จะรองรับเอฟเฟกต์แต่งหน้า โปรดตรวจจับใบหน้าอีกครั้งเพื่อเปิดใช้เอฟเฟกต์ Beauty</translation>
     </message>
     <message>
         <source>Re-detect faces</source>
-        <translation type="unfinished"></translation>
+        <translation>ตรวจจับใบหน้าอีกครั้ง</translation>
     </message>
     <message>
         <source>These effects follow a face, so the clip has to be scanned before they do anything.</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์เหล่านี้ติดตามใบหน้า จึงต้องสแกนคลิปก่อนจึงจะทำงาน</translation>
     </message>
     <message>
         <source>Download depth estimation (about 160 MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลดระบบประเมินความลึก (ประมาณ 160 MB)</translation>
     </message>
     <message>
         <source>Face effects follow one clip&apos;s faces. Add this to a clip rather than to an adjustment layer.</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์ใบหน้าติดตามใบหน้าในคลิปเดียว ให้เพิ่มลงในคลิป ไม่ใช่เลเยอร์ปรับแต่ง</translation>
     </message>
     <message>
         <source>Scan for faces…</source>
@@ -6649,7 +6649,7 @@
     </message>
     <message>
         <source>Get extras</source>
-        <translation type="unfinished"></translation>
+        <translation>รับส่วนเสริม</translation>
     </message>
     <message>
         <source>Search</source>
@@ -7516,7 +7516,7 @@
     </message>
     <message>
         <source>Built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>ในตัว</translation>
     </message>
     <message>
         <source>From project</source>
@@ -7857,11 +7857,11 @@
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>แนวนอน</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>แนวตั้ง</translation>
     </message>
     <message>
         <source>Classic</source>
@@ -10080,7 +10080,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>ทรานซิชัน</translation>
     </message>
     <message>
         <source>It&apos;s empty here</source>
@@ -12106,7 +12106,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Get extras</source>
-        <translation type="unfinished"></translation>
+        <translation>รับส่วนเสริม</translation>
     </message>
     <message>
         <source>No stickers match “%1”</source>
@@ -12571,7 +12571,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Export…</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออก…</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -12579,7 +12579,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>ในตัว</translation>
     </message>
     <message>
         <source>Rename text style</source>
@@ -13325,7 +13325,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>ในตัว</translation>
     </message>
 </context>
 <context>
@@ -14579,7 +14579,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Get extras</source>
-        <translation type="unfinished"></translation>
+        <translation>รับส่วนเสริม</translation>
     </message>
     <message>
         <source>No transitions match “%1”</source>
@@ -14664,7 +14664,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Drift %1 is available</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift %1 พร้อมใช้งานแล้ว</translation>
     </message>
     <message>
         <source>You have %1.</source>
