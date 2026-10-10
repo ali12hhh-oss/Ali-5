@@ -9249,15 +9249,15 @@
     </message>
     <message>
         <source>GPU preview unavailable — see Help → Debug info</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi available ang GPU preview — tingnan ang Help → Debug info</translation>
     </message>
     <message>
         <source>Program</source>
-        <translation type="unfinished"></translation>
+        <translation>Program</translation>
     </message>
     <message>
         <source>Previous frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Nakaraang frame</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -9269,11 +9269,11 @@
     </message>
     <message>
         <source>Next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Susunod na frame</translation>
     </message>
     <message>
         <source>Seek</source>
-        <translation type="unfinished"></translation>
+        <translation>Seek</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9281,11 +9281,11 @@
     </message>
     <message>
         <source>Save as separate tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save bilang magkakahiwalay na track</translation>
     </message>
     <message>
         <source>Save combined</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save bilang pinagsama</translation>
     </message>
 </context>
 <context>
@@ -9300,7 +9300,7 @@
     </message>
     <message>
         <source>My style</source>
-        <translation type="unfinished"></translation>
+        <translation>Style ko</translation>
     </message>
 </context>
 <context>
@@ -9323,7 +9323,7 @@
     </message>
     <message>
         <source>Graphic</source>
-        <translation type="unfinished"></translation>
+        <translation>Graphic</translation>
     </message>
     <message>
         <source>Adjustment</source>
@@ -9346,7 +9346,7 @@
     <name>PackageProgressDialog</name>
     <message>
         <source>Preparing shareable copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Inihahanda ang kopyang maibabahagi</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9354,30 +9354,30 @@
     </message>
     <message>
         <source>Copying your media into one file so it opens on any computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinokopya ang media sa iisang file para mabuksan sa anumang computer.</translation>
     </message>
 </context>
 <context>
     <name>PaintEditor</name>
     <message>
         <source>Texture Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Texture Image</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.webp)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga larawan (*.png *.jpg *.jpeg *.webp)</translation>
     </message>
     <message>
         <source>Paint</source>
-        <translation type="unfinished"></translation>
+        <translation>Paint</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation>Solid</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradient</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -9393,19 +9393,19 @@
     </message>
     <message>
         <source>Choose the paint colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Piliin ang kulay ng paint</translation>
     </message>
     <message>
         <source>Change image…</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang larawan…</translation>
     </message>
     <message>
         <source>Choose image…</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng larawan…</translation>
     </message>
     <message>
         <source>No image</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang larawan</translation>
     </message>
     <message>
         <source>Fit</source>
@@ -9413,19 +9413,19 @@
     </message>
     <message>
         <source>Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Tile</translation>
     </message>
     <message>
         <source>Repeat the image across the layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Ulitin ang larawan sa buong layer</translation>
     </message>
     <message>
         <source>Cover</source>
-        <translation type="unfinished"></translation>
+        <translation>Cover</translation>
     </message>
     <message>
         <source>Stretch one copy of the image over the layer</source>
-        <translation type="unfinished"></translation>
+        <translation>I-stretch ang isang kopya ng larawan sa buong layer</translation>
     </message>
     <message>
         <source>Scale</source>
@@ -9437,14 +9437,14 @@
     </message>
     <message>
         <source>Adjust paint effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayusin ang paint effect</translation>
     </message>
 </context>
 <context>
     <name>PasteAttributesDialog</name>
     <message>
         <source>Paste Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>I-paste ang mga attribute</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -9467,27 +9467,27 @@
     </message>
     <message>
         <source>Video Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga attribute ng video</translation>
     </message>
     <message>
         <source>Transform (motion, position, scale, opacity)</source>
-        <translation type="unfinished"></translation>
+        <translation>Transform (galaw, posisyon, laki, opacity)</translation>
     </message>
     <message>
         <source>, reverse</source>
-        <translation type="unfinished"></translation>
+        <translation>, reverse</translation>
     </message>
     <message>
         <source>, speed curve</source>
-        <translation type="unfinished"></translation>
+        <translation>, speed curve</translation>
     </message>
     <message>
         <source>Speed / Retime (%1x%2%3)</source>
-        <translation type="unfinished"></translation>
+        <translation>Speed / Retime (%1x%2%3)</translation>
     </message>
     <message>
         <source>Speed / Retime</source>
-        <translation type="unfinished"></translation>
+        <translation>Speed / Retime</translation>
     </message>
     <message numerus="yes">
         <source>Video Effects (%n effect(s))</source>
@@ -9498,15 +9498,15 @@
     </message>
     <message>
         <source>Video Effects (none)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga video effect (wala)</translation>
     </message>
     <message>
         <source>Audio Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga attribute ng audio</translation>
     </message>
     <message>
         <source>Volume &amp; Fades (volume keyframes, in/out ramps)</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume at fade (mga volume keyframe, in/out ramp)</translation>
     </message>
     <message numerus="yes">
         <source>Audio Effects (%n effect(s))</source>
@@ -9517,7 +9517,7 @@
     </message>
     <message>
         <source>Audio Effects (none)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga audio effect (wala)</translation>
     </message>
     <message>
         <source>Transitions</source>
@@ -9532,26 +9532,26 @@
     </message>
     <message>
         <source>Replace existing effects (instead of appending)</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang mga kasalukuyang effect sa halip na idagdag pa</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Piliin lahat</translation>
     </message>
     <message>
         <source>Select None</source>
-        <translation type="unfinished"></translation>
+        <translation>Huwag pumili ng anuman</translation>
     </message>
 </context>
 <context>
     <name>PlaybackEngine</name>
     <message>
         <source>%1 decodes on %2, but Drift draws on %3. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagde-decode ang %1 sa %2, pero nagre-render ang Drift sa %3. Kinokopya ang bawat frame sa system memory kaya mas mabagal ito kaysa mag-decode sa graphics card na nagre-render.</translation>
     </message>
     <message>
         <source>%1 decodes on a different graphics card than the one Drift draws on. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ibang graphics card ang ginagamit ng %1 sa pag-decode kaysa sa ginagamit ng Drift sa pag-render. Kinokopya ang bawat frame sa system memory kaya mas mabagal ito.</translation>
     </message>
     <message>
         <source>Auto</source>
@@ -9559,58 +9559,58 @@
     </message>
     <message>
         <source>Software</source>
-        <translation type="unfinished"></translation>
+        <translation>Software</translation>
     </message>
     <message>
         <source>Hardware (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hardware (%1)</translation>
     </message>
 </context>
 <context>
     <name>PlaybackStats</name>
     <message>
         <source>Delivered frames</source>
-        <translation type="unfinished"></translation>
+        <translation>Delivered frames</translation>
     </message>
     <message>
         <source>Displayed frames</source>
-        <translation type="unfinished"></translation>
+        <translation>Displayed frames</translation>
     </message>
     <message>
         <source>Display refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Display refresh</translation>
     </message>
     <message>
         <source>Delivery jitter</source>
-        <translation type="unfinished"></translation>
+        <translation>Delivery jitter</translation>
     </message>
     <message>
         <source>Composite (median)</source>
-        <translation type="unfinished"></translation>
+        <translation>Composite (median)</translation>
     </message>
     <message>
         <source>Composite (p95)</source>
-        <translation type="unfinished"></translation>
+        <translation>Composite (p95)</translation>
     </message>
     <message>
         <source>Decode wait (median)</source>
-        <translation type="unfinished"></translation>
+        <translation>Decode wait (median)</translation>
     </message>
     <message>
         <source>Preview scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Preview scale</translation>
     </message>
     <message>
         <source>Frames dropped</source>
-        <translation type="unfinished"></translation>
+        <translation>Frames dropped</translation>
     </message>
     <message>
         <source>Requests coalesced</source>
-        <translation type="unfinished"></translation>
+        <translation>Requests coalesced</translation>
     </message>
     <message>
         <source>Composites in flight (peak)</source>
-        <translation type="unfinished"></translation>
+        <translation>Composites in flight (peak)</translation>
     </message>
     <message>
         <source>Preview upload</source>
@@ -9618,7 +9618,7 @@
     </message>
     <message>
         <source>Playhead update (median)</source>
-        <translation type="unfinished"></translation>
+        <translation>Playhead update (median)</translation>
     </message>
     <message>
         <source>Playhead update (p95)</source>
@@ -9677,7 +9677,7 @@
     </message>
     <message>
         <source>Seek</source>
-        <translation type="unfinished"></translation>
+        <translation>Seek</translation>
     </message>
 </context>
 <context>
@@ -9696,7 +9696,7 @@
     </message>
     <message>
         <source>Previous frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Nakaraang frame</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -9708,7 +9708,7 @@
     </message>
     <message>
         <source>Next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Susunod na frame</translation>
     </message>
     <message>
         <source>Loop work area on — click to turn off</source>
@@ -11341,11 +11341,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation>Solid</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradient</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -13198,11 +13198,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Change image…</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang larawan…</translation>
     </message>
     <message>
         <source>Choose image…</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng larawan…</translation>
     </message>
     <message>
         <source>Slot Image</source>
@@ -13210,7 +13210,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.webp)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga larawan (*.png *.jpg *.jpeg *.webp)</translation>
     </message>
 </context>
 <context>
@@ -14048,7 +14048,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Graphic</source>
-        <translation type="unfinished"></translation>
+        <translation>Graphic</translation>
     </message>
     <message>
         <source>Everything below</source>
@@ -14390,7 +14390,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Graphic</source>
-        <translation type="unfinished"></translation>
+        <translation>Graphic</translation>
     </message>
     <message>
         <source>Adjustment</source>
@@ -14836,7 +14836,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Cover</source>
-        <translation type="unfinished"></translation>
+        <translation>Cover</translation>
     </message>
     <message>
         <source>Stretch</source>
@@ -15138,7 +15138,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradient</translation>
     </message>
     <message>
         <source>Shine</source>
