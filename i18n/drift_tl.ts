@@ -14538,19 +14538,19 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Add crossfade (0.5 s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng crossfade (0.5 s)</translation>
     </message>
     <message>
         <source>Overlap transition. Drag another kind from Transitions to replace it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Overlap transition. I-drag ang ibang uri mula sa Transitions upang palitan ito.</translation>
     </message>
     <message>
         <source>Transition to the next clip. Move across the cut to preview it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Transition papunta sa susunod na clip. Ilipat ang playhead sa hiwa upang i-preview.</translation>
     </message>
     <message>
         <source>One side has no media past the cut, so its sound fades through silence instead of crossfading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang media sa isang panig lampas sa hiwa kaya magfa-fade ang tunog patungo sa katahimikan sa halip na mag-crossfade.</translation>
     </message>
     <message>
         <source>Type</source>
@@ -14605,23 +14605,23 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>TransitionsTab</name>
     <message>
         <source>Touch and hold a transition, then drag it onto where two clips meet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pindutin nang matagal ang transition at i-drag sa pinagdurugtungan ng dalawang clip.</translation>
     </message>
     <message>
         <source>Drag onto where two clips overlap. They fade into each other by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drag sa lugar kung saan nagsasapawan ang dalawang clip. Default na magfa-fade ang mga ito sa isa't isa.</translation>
     </message>
     <message>
         <source>Search transitions</source>
-        <translation type="unfinished"></translation>
+        <translation>Maghanap ng transition</translation>
     </message>
     <message>
         <source>No transitions available</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang available na transition</translation>
     </message>
     <message>
         <source>Install a transitions pack to add more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-install ng transitions pack upang madagdagan ang mga ito.</translation>
     </message>
     <message>
         <source>Get extras</source>
@@ -14629,7 +14629,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>No transitions match “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang transition na tumutugma sa “%1”</translation>
     </message>
     <message>
         <source>No favorites yet</source>
@@ -14645,7 +14645,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Star transitions to save them here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lagyan ng bituin ang mga transition upang i-save dito.</translation>
     </message>
     <message>
         <source>Pick another category.</source>
@@ -14653,7 +14653,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>%1 — drag onto an overlap between two clips</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 — i-drag sa overlap ng dalawang clip</translation>
     </message>
 </context>
 <context>
@@ -14664,7 +14664,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>“%1” has unsaved changes. Save before continuing?</source>
-        <translation type="unfinished"></translation>
+        <translation>May hindi na-save na pagbabago ang “%1”. I-save bago magpatuloy?</translation>
     </message>
     <message>
         <source>Untitled project</source>
@@ -14687,19 +14687,19 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>UpdateChecker</name>
     <message>
         <source>Couldn’t check for updates: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi masuri ang mga update: %1</translation>
     </message>
     <message>
         <source>Couldn’t check for updates: unexpected response.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi masuri ang mga update: hindi inaasahang tugon.</translation>
     </message>
     <message>
         <source>Drift %1 is the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinakabagong bersyon na ang Drift %1.</translation>
     </message>
     <message>
         <source>Drift %1 is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Available na ang Drift %1.</translation>
     </message>
 </context>
 <context>
@@ -14714,7 +14714,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>You have %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mayroon kang %1.</translation>
     </message>
     <message>
         <source>Skip</source>
@@ -14734,7 +14734,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Opens the release page in your browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Binubuksan ang release page sa browser</translation>
     </message>
 </context>
 <context>
@@ -14776,11 +14776,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Key %1 at the playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>I-key ang %1 sa playhead</translation>
     </message>
     <message>
         <source>Override the %1 colour</source>
-        <translation type="unfinished"></translation>
+        <translation>I-override ang kulay ng %1</translation>
     </message>
     <message>
         <source>Back to the drawing&apos;s own %1</source>
@@ -14788,15 +14788,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Replace Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang animation</translation>
     </message>
     <message>
         <source>Lottie or SVG (*.json *.svg)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lottie o SVG (*.json *.svg)</translation>
     </message>
     <message>
         <source>Could not load the document</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-load ang dokumento</translation>
     </message>
     <message>
         <source>SVG drawing</source>
