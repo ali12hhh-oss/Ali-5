@@ -3781,115 +3781,115 @@
     </message>
     <message>
         <source>Keyframes enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>已启用关键帧</translation>
     </message>
     <message>
         <source>Keyframes disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>已禁用关键帧</translation>
     </message>
     <message>
         <source>Keyframe easing changed</source>
-        <translation type="unfinished"></translation>
+        <translation>关键帧缓动已更改</translation>
     </message>
     <message>
         <source>Keyframe easing updated</source>
-        <translation type="unfinished"></translation>
+        <translation>关键帧缓动已更新</translation>
     </message>
     <message>
         <source>Keyframe curve changed</source>
-        <translation type="unfinished"></translation>
+        <translation>关键帧曲线已更改</translation>
     </message>
     <message>
         <source>Keyframe curve updated</source>
-        <translation type="unfinished"></translation>
+        <translation>关键帧曲线已更新</translation>
     </message>
     <message>
         <source>Keyframe hold changed</source>
-        <translation type="unfinished"></translation>
+        <translation>关键帧保持设置已更改</translation>
     </message>
     <message>
         <source>Keyframe holds</source>
-        <translation type="unfinished"></translation>
+        <translation>关键帧保持</translation>
     </message>
     <message>
         <source>Keyframe interpolates</source>
-        <translation type="unfinished"></translation>
+        <translation>关键帧插值</translation>
     </message>
     <message>
         <source>Reset transform</source>
-        <translation type="unfinished"></translation>
+        <translation>重置变换</translation>
     </message>
     <message>
         <source>Transform reset</source>
-        <translation type="unfinished"></translation>
+        <translation>已重置变换</translation>
     </message>
     <message>
         <source>Depth effects read one clip&apos;s depth, so they go on a clip, not on an adjustment layer.</source>
-        <translation type="unfinished"></translation>
+        <translation>深度效果会读取单个片段的深度信息，因此应添加到片段上，而不是调整图层上。</translation>
     </message>
     <message>
         <source>Face effects follow one clip&apos;s faces, so they go on a clip, not on an adjustment layer.</source>
-        <translation type="unfinished"></translation>
+        <translation>人脸效果会跟踪单个片段中的人脸，因此应添加到片段上，而不是调整图层上。</translation>
     </message>
     <message>
         <source>Add effect</source>
-        <translation type="unfinished"></translation>
+        <translation>添加效果</translation>
     </message>
     <message>
         <source>Effect added</source>
-        <translation type="unfinished"></translation>
+        <translation>已添加效果</translation>
     </message>
     <message>
         <source>Apply effect template</source>
-        <translation type="unfinished"></translation>
+        <translation>应用效果模板</translation>
     </message>
     <message>
         <source>Template applied</source>
-        <translation type="unfinished"></translation>
+        <translation>已应用模板</translation>
     </message>
     <message>
         <source>This effect needs a subject cutout — open Extras to install it</source>
-        <translation type="unfinished"></translation>
+        <translation>此效果需要主体抠像功能，请打开“附加内容”安装。</translation>
     </message>
     <message>
         <source>Remove effect</source>
-        <translation type="unfinished"></translation>
+        <translation>移除效果</translation>
     </message>
     <message>
         <source>Effect removed</source>
-        <translation type="unfinished"></translation>
+        <translation>已移除效果</translation>
     </message>
     <message>
         <source>Enable effect</source>
-        <translation type="unfinished"></translation>
+        <translation>启用效果</translation>
     </message>
     <message>
         <source>Disable effect</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用效果</translation>
     </message>
     <message>
         <source>Effect enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>已启用效果</translation>
     </message>
     <message>
         <source>Effect disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>已禁用效果</translation>
     </message>
     <message>
         <source>Reorder effect</source>
-        <translation type="unfinished"></translation>
+        <translation>调整效果顺序</translation>
     </message>
     <message>
         <source>Effect reordered</source>
-        <translation type="unfinished"></translation>
+        <translation>已调整效果顺序</translation>
     </message>
     <message>
         <source>Effect updated</source>
-        <translation type="unfinished"></translation>
+        <translation>效果已更新</translation>
     </message>
     <message>
         <source>Could not read the selected file</source>
-        <translation type="unfinished"></translation>
+        <translation>无法读取所选文件</translation>
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s)</source>
@@ -3906,7 +3906,7 @@
     </message>
     <message>
         <source>No face props were imported</source>
-        <translation type="unfinished"></translation>
+        <translation>未导入任何人脸道具</translation>
     </message>
     <message>
         <source>That style shares its folder with other styles</source>
@@ -3914,83 +3914,83 @@
     </message>
     <message>
         <source>Could not delete the face prop</source>
-        <translation type="unfinished"></translation>
+        <translation>无法删除人脸道具</translation>
     </message>
     <message>
         <source>Face prop deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>已删除人脸道具</translation>
     </message>
     <message>
         <source>Add face prop</source>
-        <translation type="unfinished"></translation>
+        <translation>添加人脸道具</translation>
     </message>
     <message>
         <source>Apply face prop</source>
-        <translation type="unfinished"></translation>
+        <translation>应用人脸道具</translation>
     </message>
     <message>
         <source>Face prop applied</source>
-        <translation type="unfinished"></translation>
+        <translation>已应用人脸道具</translation>
     </message>
     <message>
         <source>Add audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>添加音频效果</translation>
     </message>
     <message>
         <source>Audio effect added</source>
-        <translation type="unfinished"></translation>
+        <translation>已添加音频效果</translation>
     </message>
     <message>
         <source>Remove audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>移除音频效果</translation>
     </message>
     <message>
         <source>Audio effect removed</source>
-        <translation type="unfinished"></translation>
+        <translation>已移除音频效果</translation>
     </message>
     <message>
         <source>Enable audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>启用音频效果</translation>
     </message>
     <message>
         <source>Disable audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用音频效果</translation>
     </message>
     <message>
         <source>Audio effect enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>已启用音频效果</translation>
     </message>
     <message>
         <source>Audio effect disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>已禁用音频效果</translation>
     </message>
     <message>
         <source>Reorder audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>调整音频效果顺序</translation>
     </message>
     <message>
         <source>Audio effect reordered</source>
-        <translation type="unfinished"></translation>
+        <translation>已调整音频效果顺序</translation>
     </message>
     <message>
         <source>Edit audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑音频效果</translation>
     </message>
     <message>
         <source>Audio effect updated</source>
-        <translation type="unfinished"></translation>
+        <translation>音频效果已更新</translation>
     </message>
     <message>
         <source>This stack uses “%1”, which isn’t installed — it won’t show. Open Extras to install it.</source>
-        <translation type="unfinished"></translation>
+        <translation>此效果堆栈使用了尚未安装的“%1”，因此不会显示。打开“附加内容”进行安装。</translation>
     </message>
     <message>
         <source>This stack uses %1 effects that aren’t installed — they won’t show. Open Extras to install them.</source>
-        <translation type="unfinished"></translation>
+        <translation>此效果堆栈使用了 %1 个尚未安装的效果，因此不会显示。打开“附加内容”进行安装。</translation>
     </message>
     <message>
         <source>Effect copied</source>
-        <translation type="unfinished"></translation>
+        <translation>已复制效果</translation>
     </message>
     <message>
         <source>Audio effect copied</source>
@@ -4969,11 +4969,11 @@
     </message>
     <message>
         <source>Disable audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用音频效果</translation>
     </message>
     <message>
         <source>Enable audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>启用音频效果</translation>
     </message>
     <message>
         <source>Copy this audio effect</source>
@@ -4981,7 +4981,7 @@
     </message>
     <message>
         <source>Remove audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>移除音频效果</translation>
     </message>
     <message>
         <source>On</source>
@@ -4993,7 +4993,7 @@
     </message>
     <message>
         <source>Edit audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑音频效果</translation>
     </message>
 </context>
 <context>
@@ -6556,15 +6556,15 @@
     </message>
     <message>
         <source>Disable effect</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用效果</translation>
     </message>
     <message>
         <source>Enable effect</source>
-        <translation type="unfinished"></translation>
+        <translation>启用效果</translation>
     </message>
     <message>
         <source>Remove effect</source>
-        <translation type="unfinished"></translation>
+        <translation>移除效果</translation>
     </message>
     <message>
         <source>On</source>
