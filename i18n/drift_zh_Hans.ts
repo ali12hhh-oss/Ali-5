@@ -9589,46 +9589,46 @@
     </message>
     <message>
         <source>Playhead update (p95)</source>
-        <translation type="unfinished"></translation>
+        <translation>播放头更新时间（p95）</translation>
     </message>
     <message>
         <source>Audio mix load (p95)</source>
-        <translation type="unfinished"></translation>
+        <translation>音频混合负载（p95）</translation>
     </message>
     <message>
         <source>Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>采样数</translation>
     </message>
 </context>
 <context>
     <name>PreviewPanel</name>
     <message>
         <source>REC %1s</source>
-        <translation type="unfinished"></translation>
+        <translation>录制 %1 秒</translation>
     </message>
     <message>
         <source>PAUSED %1s</source>
-        <translation type="unfinished"></translation>
+        <translation>已暂停 %1 秒</translation>
     </message>
     <message>
         <source>Nothing to preview yet</source>
-        <translation type="unfinished"></translation>
+        <translation>暂无可预览内容</translation>
     </message>
     <message>
         <source>Import media and drag it onto the timeline below to see it here.</source>
-        <translation type="unfinished"></translation>
+        <translation>导入媒体并将其拖到下方时间轴，即可在此查看。</translation>
     </message>
     <message>
         <source>GPU preview unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>GPU 预览不可用</translation>
     </message>
     <message>
         <source>Your graphics driver only provides %1. Drift&apos;s preview needs OpenGL 3.3.</source>
-        <translation type="unfinished"></translation>
+        <translation>你的显卡驱动仅支持 %1。Drift 预览需要 OpenGL 3.3。</translation>
     </message>
     <message>
         <source>Drift could not start its GPU renderer, so the preview cannot draw.</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift 无法启动 GPU 渲染器，因此无法显示预览。</translation>
     </message>
     <message>
         <source>Debug info</source>
@@ -9636,7 +9636,7 @@
     </message>
     <message>
         <source>Audio only</source>
-        <translation type="unfinished"></translation>
+        <translation>仅音频</translation>
     </message>
     <message>
         <source>No clip at the current time</source>
@@ -9651,15 +9651,15 @@
     <name>PreviewToolbar</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1（%2）</translation>
     </message>
     <message>
         <source>Current time / total · %1 frames per second</source>
-        <translation type="unfinished"></translation>
+        <translation>当前时间 / 总时长 · %1 帧/秒</translation>
     </message>
     <message>
         <source>Jump back 1s · Shift for 5s · Ctrl for 10s</source>
-        <translation type="unfinished"></translation>
+        <translation>后退 1 秒 · Shift 后退 5 秒 · Ctrl 后退 10 秒</translation>
     </message>
     <message>
         <source>Previous frame</source>
@@ -9679,19 +9679,19 @@
     </message>
     <message>
         <source>Loop work area on — click to turn off</source>
-        <translation type="unfinished"></translation>
+        <translation>工作区循环已开启 — 点击关闭</translation>
     </message>
     <message>
         <source>Loop work area off — click to turn on</source>
-        <translation type="unfinished"></translation>
+        <translation>工作区循环已关闭 — 点击开启</translation>
     </message>
     <message>
         <source>Jump forward 1s · Shift for 5s · Ctrl for 10s</source>
-        <translation type="unfinished"></translation>
+        <translation>前进 1 秒 · Shift 前进 5 秒 · Ctrl 前进 10 秒</translation>
     </message>
     <message>
         <source>Preview zoom — Ctrl+scroll over the preview to zoom, middle-drag to pan. Click to reset to 100%.</source>
-        <translation type="unfinished"></translation>
+        <translation>预览缩放 — 在预览上按 Ctrl 并滚动以缩放，按住鼠标中键拖动以平移。点击可重置为 100%。</translation>
     </message>
     <message>
         <source>Full</source>
@@ -9713,11 +9713,13 @@
         <source>Preview quality — lower is smoother while editing.
 Full, Half and Quarter are fixed fractions of the project resolution: Full composites exactly what an export would.
 Auto renders only as many pixels as the preview actually shows, and lowers that further while playback cannot keep up.</source>
-        <translation type="unfinished"></translation>
+        <translation>预览质量 — 较低的质量在编辑时播放更流畅。
+“完整”“一半”和“四分之一”是项目分辨率的固定比例；“完整”会合成与导出完全相同的画面。
+“自动”只渲染预览实际显示所需的像素，并会在播放跟不上时进一步降低分辨率。</translation>
     </message>
     <message>
         <source>Playback speed</source>
-        <translation type="unfinished"></translation>
+        <translation>播放速度</translation>
     </message>
     <message>
         <source>How video is decoded for preview.
@@ -9725,7 +9727,11 @@ Auto picks per clip: hardware for high-quality 4K, software otherwise.
 Software is smoother for most clips. It uses more CPU.
 Hardware is better for high-quality 4K, and forces one GPU decoder.
 If playback stutters, try another.</source>
-        <translation type="unfinished"></translation>
+        <translation>预览视频的解码方式。
+“自动”会为每个片段选择方式：高质量 4K 使用硬件解码，其他情况使用软件解码。
+软件解码对大多数片段更流畅，但会占用更多 CPU。
+硬件解码更适合高质量 4K，并会固定使用一个 GPU 解码器。
+如果播放卡顿，请尝试另一种方式。</translation>
     </message>
     <message>
         <source>Toggle guides</source>
@@ -9737,11 +9743,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Keep mask handles on the preview while another clip is selected</source>
-        <translation type="unfinished"></translation>
+        <translation>选择其他片段时仍在预览中显示蒙版控制点</translation>
     </message>
     <message>
         <source>Exit fullscreen preview (Esc)</source>
-        <translation type="unfinished"></translation>
+        <translation>退出全屏预览（Esc）</translation>
     </message>
     <message>
         <source>Fullscreen preview</source>
@@ -9749,11 +9755,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Decoding on a different graphics card</source>
-        <translation type="unfinished"></translation>
+        <translation>正在使用另一块显卡解码</translation>
     </message>
     <message>
         <source>Use anyway</source>
-        <translation type="unfinished"></translation>
+        <translation>仍然使用</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9761,15 +9767,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Launching Drift with prime-run (or DRI_PRIME=1) puts OpenGL on the same card as the decoder.</source>
-        <translation type="unfinished"></translation>
+        <translation>使用 prime-run（或设置 DRI_PRIME=1）启动 Drift，可让 OpenGL 与解码器使用同一块显卡。</translation>
     </message>
     <message>
         <source>Run Drift on the high-performance graphics card</source>
-        <translation type="unfinished"></translation>
+        <translation>让 Drift 使用高性能显卡运行</translation>
     </message>
     <message>
         <source>Set Drift to High performance in Windows Settings &gt; Display &gt; Graphics, then restart Drift.</source>
-        <translation type="unfinished"></translation>
+        <translation>在 Windows“设置 &gt; 系统 &gt; 屏幕 &gt; 图形”中将 Drift 设为“高性能”，然后重新启动 Drift。</translation>
     </message>
     <message>
         <source>Open graphics settings</source>
@@ -9780,106 +9786,106 @@ If playback stutters, try another.</source>
     <name>Project</name>
     <message>
         <source>This project was saved by a newer version of Drift (project format %1; this build reads up to %2).</source>
-        <translation type="unfinished"></translation>
+        <translation>此项目由较新版本的 Drift 保存（项目格式 %1；当前版本最多支持 %2）。</translation>
     </message>
     <message>
         <source>This file isn’t a Drift project.</source>
-        <translation type="unfinished"></translation>
+        <translation>此文件不是 Drift 项目。</translation>
     </message>
 </context>
 <context>
     <name>ProjectBundle</name>
     <message>
         <source>compressed block is corrupt</source>
-        <translation type="unfinished"></translation>
+        <translation>压缩数据块已损坏</translation>
     </message>
     <message>
         <source>cannot open %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开 %1</translation>
     </message>
     <message>
         <source>file is too short to be a Drift project</source>
-        <translation type="unfinished"></translation>
+        <translation>文件太短，不是有效的 Drift 项目</translation>
     </message>
     <message>
         <source>not a Drift project (bad magic)</source>
-        <translation type="unfinished"></translation>
+        <translation>不是 Drift 项目（文件标识无效）</translation>
     </message>
     <message>
         <source>unsupported container revision</source>
-        <translation type="unfinished"></translation>
+        <translation>不支持的容器版本</translation>
     </message>
     <message>
         <source>project manifest has an implausible size</source>
-        <translation type="unfinished"></translation>
+        <translation>项目清单大小异常</translation>
     </message>
     <message>
         <source>project file is truncated</source>
-        <translation type="unfinished"></translation>
+        <translation>项目文件不完整</translation>
     </message>
     <message>
         <source>project manifest is corrupt</source>
-        <translation type="unfinished"></translation>
+        <translation>项目清单已损坏</translation>
     </message>
     <message>
         <source>project manifest is not valid JSON: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>项目清单不是有效的 JSON：%1</translation>
     </message>
     <message>
         <source>project manifest has no format version</source>
-        <translation type="unfinished"></translation>
+        <translation>项目清单缺少格式版本</translation>
     </message>
     <message>
         <source>this project was saved by a newer version of Drift (format %1) — update to open it</source>
-        <translation type="unfinished"></translation>
+        <translation>此项目由较新版本的 Drift 保存（格式 %1）— 请更新后再打开</translation>
     </message>
     <message>
         <source>project blob table is not contiguous</source>
-        <translation type="unfinished"></translation>
+        <translation>项目数据块表不连续</translation>
     </message>
     <message>
         <source>project blob table is implausible</source>
-        <translation type="unfinished"></translation>
+        <translation>项目数据块表异常</translation>
     </message>
     <message>
         <source>project media entry names no blob</source>
-        <translation type="unfinished"></translation>
+        <translation>项目媒体条目未指向任何数据块</translation>
     </message>
     <message>
         <source>unsafe file name in project: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>项目中包含不安全的文件名：%1</translation>
     </message>
     <message>
         <source>project file contains no timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>项目文件不包含时间轴</translation>
     </message>
     <message>
         <source>project file is truncated or has trailing data</source>
-        <translation type="unfinished"></translation>
+        <translation>项目文件被截断或包含多余的尾随数据</translation>
     </message>
     <message>
         <source>cannot compress %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法压缩 %1</translation>
     </message>
     <message>
         <source>project is too large to save</source>
-        <translation type="unfinished"></translation>
+        <translation>项目过大，无法保存</translation>
     </message>
     <message>
         <source>cannot compress the project manifest</source>
-        <translation type="unfinished"></translation>
+        <translation>无法压缩项目清单</translation>
     </message>
     <message>
         <source>cannot write %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法写入 %1</translation>
     </message>
     <message>
         <source>cannot write the project manifest</source>
-        <translation type="unfinished"></translation>
+        <translation>无法写入项目清单</translation>
     </message>
     <message>
         <source>cannot write project data</source>
-        <translation type="unfinished"></translation>
+        <translation>无法写入项目数据</translation>
     </message>
     <message>
         <source>Cancelled</source>
@@ -9887,11 +9893,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>cannot read %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法读取 %1</translation>
     </message>
     <message>
         <source>%1 changed while saving</source>
-        <translation type="unfinished"></translation>
+        <translation>保存期间 %1 发生了更改</translation>
     </message>
     <message>
         <source>cannot finish writing %1</source>
@@ -11834,7 +11840,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Audio only</source>
-        <translation type="unfinished"></translation>
+        <translation>仅音频</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -11901,7 +11907,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Playback speed</source>
-        <translation type="unfinished"></translation>
+        <translation>播放速度</translation>
     </message>
     <message>
         <source>Custom speed…</source>
@@ -13670,7 +13676,7 @@ If playback stutters, try another.</source>
     <name>TimelineToolbar</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1（%2）</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -14280,7 +14286,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1（%2）</translation>
     </message>
     <message>
         <source>Global</source>
