@@ -6470,11 +6470,11 @@
     </message>
     <message>
         <source>Scan for faces…</source>
-        <translation type="unfinished"></translation>
+        <translation>สแกนใบหน้า…</translation>
     </message>
     <message>
         <source>Clear face track</source>
-        <translation type="unfinished"></translation>
+        <translation>ล้างการติดตามใบหน้า</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -6482,7 +6482,7 @@
     </message>
     <message>
         <source>Download face detection (about 5 MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลดระบบตรวจจับใบหน้า (ประมาณ 5 MB)</translation>
     </message>
     <message>
         <source>Install AI engine first</source>
@@ -6490,67 +6490,67 @@
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>ความลึก</translation>
     </message>
     <message>
         <source>Depth effects follow one clip&apos;s depth. Add this to a clip rather than to an adjustment layer.</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์ความลึกอิงข้อมูลความลึกของคลิปเดียว ให้เพิ่มลงในคลิป ไม่ใช่เลเยอร์ปรับแต่ง</translation>
     </message>
     <message>
         <source>These effects need the clip&apos;s depth, so it has to be estimated first. It runs in the background and takes roughly half a second per frame.</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์เหล่านี้ต้องใช้ข้อมูลความลึกของคลิป จึงต้องประเมินก่อน โดยทำงานเบื้องหลังและใช้เวลาประมาณครึ่งวินาทีต่อเฟรม</translation>
     </message>
     <message>
         <source>High quality</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณภาพสูง</translation>
     </message>
     <message>
         <source>Sharper depth edges, about twice as slow</source>
-        <translation type="unfinished"></translation>
+        <translation>ขอบความลึกคมชัดขึ้น แต่ช้าลงประมาณสองเท่า</translation>
     </message>
     <message>
         <source>Re-estimate depth</source>
-        <translation type="unfinished"></translation>
+        <translation>ประเมินความลึกอีกครั้ง</translation>
     </message>
     <message>
         <source>Estimate depth</source>
-        <translation type="unfinished"></translation>
+        <translation>ประเมินความลึก</translation>
     </message>
     <message>
         <source>Clear depth</source>
-        <translation type="unfinished"></translation>
+        <translation>ล้างค่าความลึก</translation>
     </message>
     <message>
         <source>This clip was scanned before the face mesh was supported. Re-detect faces to enable 3D Face Mesh and Face Retouch.</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิปนี้ถูกสแกนก่อนที่จะรองรับ face mesh โปรดตรวจจับใบหน้าอีกครั้งเพื่อเปิดใช้ 3D Face Mesh และ Face Retouch</translation>
     </message>
     <message>
         <source>Move to a time, set a value, then click the diamond to add a keyframe. With Auto keyframes on, dragging a slider also creates them.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลื่อนไปยังเวลาที่ต้องการ ตั้งค่า แล้วคลิกสัญลักษณ์รูปเพชรเพื่อเพิ่มคีย์เฟรม เมื่อเปิดคีย์เฟรมอัตโนมัติ การลากแถบเลื่อนจะสร้างคีย์เฟรมด้วย</translation>
     </message>
     <message>
         <source>Auto keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>คีย์เฟรมอัตโนมัติ</translation>
     </message>
     <message>
         <source>No effects yet</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่มีเอฟเฟกต์</translation>
     </message>
     <message>
         <source>Drag a preset from the Effects library onto this clip, or click a preset card.</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากพรีเซ็ตจากคลัง Effects มาวางบนคลิปนี้ หรือคลิกการ์ดพรีเซ็ต</translation>
     </message>
     <message>
         <source>Browse effects</source>
-        <translation type="unfinished"></translation>
+        <translation>เรียกดูเอฟเฟกต์</translation>
     </message>
     <message>
         <source>Copy this effect</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกเอฟเฟกต์นี้</translation>
     </message>
     <message>
         <source>Save as preset…</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกเป็นพรีเซ็ต…</translation>
     </message>
     <message>
         <source>%1 (not installed)</source>
@@ -6558,11 +6558,11 @@
     </message>
     <message>
         <source>Move effect up</source>
-        <translation type="unfinished"></translation>
+        <translation>เลื่อนเอฟเฟกต์ขึ้น</translation>
     </message>
     <message>
         <source>Move effect down</source>
-        <translation type="unfinished"></translation>
+        <translation>เลื่อนเอฟเฟกต์ลง</translation>
     </message>
     <message>
         <source>Disable effect</source>
@@ -6586,19 +6586,19 @@
     </message>
     <message>
         <source>Choose %1</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือก %1</translation>
     </message>
     <message>
         <source>Automatic (clip beneath)</source>
-        <translation type="unfinished"></translation>
+        <translation>อัตโนมัติ (คลิปด้านล่าง)</translation>
     </message>
     <message>
         <source>: (none)</source>
-        <translation type="unfinished"></translation>
+        <translation>: (ไม่มี)</translation>
     </message>
     <message>
         <source>Choose file</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกไฟล์</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -6606,31 +6606,31 @@
     </message>
     <message>
         <source>Pick %1</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือก %1</translation>
     </message>
     <message>
         <source>Edit %1</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไข %1</translation>
     </message>
     <message>
         <source>Face %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ใบหน้า %1</translation>
     </message>
     <message>
         <source>Anything in “%1” nearer than Distance passes in front of this layer.</source>
-        <translation type="unfinished"></translation>
+        <translation>ทุกอย่างใน “%1” ที่อยู่ใกล้กว่าค่า Distance จะแสดงอยู่ด้านหน้าของเลเยอร์นี้</translation>
     </message>
     <message>
         <source>Anything in “%1” (the clip beneath at the playhead) nearer than Distance passes in front of this layer.</source>
-        <translation type="unfinished"></translation>
+        <translation>ทุกอย่างใน “%1” (คลิปด้านล่างที่ตำแหน่งหัวอ่าน) ซึ่งอยู่ใกล้กว่าค่า Distance จะแสดงอยู่ด้านหน้าของเลเยอร์นี้</translation>
     </message>
     <message>
         <source>Place this layer above a video or image clip. It goes behind whatever in that clip is nearer than Distance.</source>
-        <translation type="unfinished"></translation>
+        <translation>วางเลเยอร์นี้ไว้เหนือคลิปวิดีโอหรือรูปภาพ สิ่งใดในคลิปที่อยู่ใกล้กว่าค่า Distance จะแสดงอยู่ด้านหน้าเลเยอร์นี้</translation>
     </message>
     <message>
         <source>“%1” needs its depth estimated before anything in it can pass in front. It runs in the background and takes roughly half a second per frame.</source>
-        <translation type="unfinished"></translation>
+        <translation>ต้องประเมินความลึกของ “%1” ก่อน สิ่งต่าง ๆ ภายในจึงจะแสดงอยู่ด้านหน้า กระบวนการทำงานเบื้องหลังและใช้เวลาประมาณครึ่งวินาทีต่อเฟรม</translation>
     </message>
     <message>
         <source>Paste effects</source>
@@ -6641,11 +6641,11 @@
     <name>EmojiPicker</name>
     <message>
         <source>No emoji pack installed</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่ได้ติดตั้งแพ็กอีโมจิ</translation>
     </message>
     <message>
         <source>Install the sticker pack to use emoji.</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้งแพ็กสติกเกอร์เพื่อใช้อีโมจิ</translation>
     </message>
     <message>
         <source>Get extras</source>
@@ -6657,7 +6657,7 @@
     </message>
     <message>
         <source>No emoji match “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีอีโมจิที่ตรงกับ “%1”</translation>
     </message>
 </context>
 <context>
@@ -6668,27 +6668,27 @@
     </message>
     <message>
         <source>96 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>96 kbps</translation>
     </message>
     <message>
         <source>128 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>128 kbps</translation>
     </message>
     <message>
         <source>160 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>160 kbps</translation>
     </message>
     <message>
         <source>192 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>192 kbps</translation>
     </message>
     <message>
         <source>256 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>256 kbps</translation>
     </message>
     <message>
         <source>320 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>320 kbps</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -6696,23 +6696,23 @@
     </message>
     <message>
         <source>Custom…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำหนดเอง…</translation>
     </message>
     <message>
         <source>Export GIF</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออก GIF</translation>
     </message>
     <message>
         <source>Export Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกเสียง</translation>
     </message>
     <message>
         <source>Export Video</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกวิดีโอ</translation>
     </message>
     <message>
         <source>Export started…</source>
-        <translation type="unfinished"></translation>
+        <translation>เริ่มส่งออกแล้ว…</translation>
     </message>
     <message>
         <source>Export cancelled.</source>
@@ -6728,31 +6728,31 @@
     </message>
     <message>
         <source>GIF</source>
-        <translation type="unfinished"></translation>
+        <translation>GIF</translation>
     </message>
     <message>
         <source>GIF encoder is not available in this build</source>
-        <translation type="unfinished"></translation>
+        <translation>บิลด์นี้ไม่มีตัวเข้ารหัส GIF</translation>
     </message>
     <message>
         <source>Export work area only (%1 – %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกเฉพาะพื้นที่ทำงาน (%1 – %2)</translation>
     </message>
     <message>
         <source>Encode only the marked In/Out range instead of the full timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>เข้ารหัสเฉพาะช่วง In/Out ที่ทำเครื่องหมายไว้ แทนไทม์ไลน์ทั้งหมด</translation>
     </message>
     <message>
         <source>Saves what you see in the preview. Pick a size — the picture shape stays the same.</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกภาพตามที่เห็นในพรีวิว เลือกขนาดได้โดยสัดส่วนภาพจะยังคงเดิม</translation>
     </message>
     <message>
         <source>Downscale</source>
-        <translation type="unfinished"></translation>
+        <translation>ลดความละเอียด</translation>
     </message>
     <message>
         <source>Export at %1×%2</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกที่ %1×%2</translation>
     </message>
     <message>
         <source>Frame rate</source>
@@ -6760,51 +6760,51 @@
     </message>
     <message>
         <source>fps</source>
-        <translation type="unfinished"></translation>
+        <translation>fps</translation>
     </message>
     <message>
         <source>Exporting above the project rate pulls extra frames from the source footage where it has them — this is what makes slowed clips look smooth. Where it doesn&apos;t, frames repeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>เมื่อส่งออกด้วยเฟรมเรตสูงกว่าโปรเจกต์ ระบบจะดึงเฟรมเพิ่มเติมจากฟุตเทจต้นฉบับเมื่อมี ทำให้คลิปสโลว์โมชั่นลื่นไหล หากไม่มีเฟรมเพิ่มก็จะใช้เฟรมซ้ำ</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>ขั้นสูง</translation>
     </message>
     <message>
         <source>Video encoder</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวเข้ารหัสวิดีโอ</translation>
     </message>
     <message>
         <source>Keeps a transparent canvas. Set the project background to Transparent so holes stay empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>คงพื้นหลังโปร่งใสไว้ ตั้งค่าพื้นหลังโปรเจกต์เป็น Transparent เพื่อให้พื้นที่ว่างยังโปร่งใส</translation>
     </message>
     <message>
         <source>Constant Quality</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณภาพคงที่</translation>
     </message>
     <message>
         <source>Bitrate</source>
-        <translation type="unfinished"></translation>
+        <translation>บิตเรต</translation>
     </message>
     <message>
         <source>RF %1</source>
-        <translation type="unfinished"></translation>
+        <translation>RF %1</translation>
     </message>
     <message>
         <source>Quality (RF)</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณภาพ (RF)</translation>
     </message>
     <message>
         <source>Higher quality</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณภาพสูงขึ้น</translation>
     </message>
     <message>
         <source>Lower quality</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณภาพต่ำลง</translation>
     </message>
     <message>
         <source>Bitrate (kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation>บิตเรต (kbps)</translation>
     </message>
     <message>
         <source>kbps</source>
@@ -7610,7 +7610,7 @@
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>ความลึก</translation>
     </message>
     <message>
         <source>Perspective</source>
@@ -9086,7 +9086,7 @@
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>ความลึก</translation>
     </message>
     <message>
         <source>Rotation X</source>
@@ -9145,7 +9145,7 @@
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>ความลึก</translation>
     </message>
     <message>
         <source>Rotation X</source>
@@ -10163,7 +10163,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Edit %1</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไข %1</translation>
     </message>
     <message>
         <source>Click to type an exact %1</source>
@@ -11488,7 +11488,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>ความลึก</translation>
     </message>
     <message>
         <source>Angle</source>
@@ -12785,7 +12785,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>ขั้นสูง</translation>
     </message>
     <message>
         <source>Custom animator (set via MCP). Preset controls are disabled.</source>
@@ -14180,7 +14180,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>ความลึก</translation>
     </message>
     <message>
         <source>Perspective</source>
@@ -14208,7 +14208,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Auto keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>คีย์เฟรมอัตโนมัติ</translation>
     </message>
     <message>
         <source>Position (px)</source>
