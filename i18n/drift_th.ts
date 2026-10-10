@@ -8686,23 +8686,23 @@
     </message>
     <message>
         <source>Collapse folder</source>
-        <translation type="unfinished"></translation>
+        <translation>ยุบโฟลเดอร์</translation>
     </message>
     <message>
         <source>Expand folder</source>
-        <translation type="unfinished"></translation>
+        <translation>ขยายโฟลเดอร์</translation>
     </message>
     <message>
         <source>Move to folder…</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้ายไปยังโฟลเดอร์…</translation>
     </message>
     <message>
         <source>This folder is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>โฟลเดอร์นี้ว่างเปล่า</translation>
     </message>
     <message>
         <source>Drag media here, or import more.</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากสื่อมาที่นี่ หรือนำเข้าเพิ่มเติม</translation>
     </message>
     <message>
         <source>Open</source>
@@ -8746,7 +8746,7 @@
     <name>MediaImport</name>
     <message>
         <source>An import is already running.</source>
-        <translation type="unfinished"></translation>
+        <translation>มีการนำเข้ากำลังทำงานอยู่แล้ว</translation>
     </message>
     <message>
         <source>Import Media</source>
@@ -8754,27 +8754,27 @@
     </message>
     <message>
         <source>Could not open that file. This package cannot read files dropped from other apps — use Import to pick them instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดไฟล์นั้นไม่ได้ แพ็กเกจนี้อ่านไฟล์ที่ลากมาจากแอปอื่นไม่ได้ โปรดใช้คำสั่งนำเข้าเพื่อเลือกไฟล์แทน</translation>
     </message>
     <message>
         <source>Could not open those files. This package cannot read files dropped from other apps — use Import to pick them instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดไฟล์เหล่านั้นไม่ได้ แพ็กเกจนี้อ่านไฟล์ที่ลากมาจากแอปอื่นไม่ได้ โปรดใช้คำสั่งนำเข้าเพื่อเลือกไฟล์แทน</translation>
     </message>
     <message>
         <source>Could not open that file. It may have been moved, or you may not have permission to read it.</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดไฟล์นั้นไม่ได้ อาจถูกย้ายไปแล้วหรือคุณไม่มีสิทธิ์อ่านไฟล์</translation>
     </message>
     <message>
         <source>Could not open any of the selected files.</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดไฟล์ที่เลือกไม่ได้เลย</translation>
     </message>
     <message>
         <source>Could not read %1 — that image format is not supported by this build.</source>
-        <translation type="unfinished"></translation>
+        <translation>อ่าน %1 ไม่ได้ — บิลด์นี้ไม่รองรับรูปแบบภาพดังกล่าว</translation>
     </message>
     <message>
         <source>Could not read that file — the format is not supported by this build.</source>
-        <translation type="unfinished"></translation>
+        <translation>อ่านไฟล์นั้นไม่ได้ — บิลด์นี้ไม่รองรับรูปแบบดังกล่าว</translation>
     </message>
     <message numerus="yes">
         <source>%n clip(s) may play back slowly. A proxy makes previewing smoother; export still uses the original.</source>
@@ -8784,7 +8784,7 @@
     </message>
     <message>
         <source>Create proxies</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างพร็อกซี</translation>
     </message>
     <message numerus="yes">
         <source>%n clip(s) have a variable frame rate, which can drift out of sync with audio. Convert them to an edit-friendly format to fix it.</source>
@@ -8798,11 +8798,11 @@
     </message>
     <message>
         <source>Imported %1 of %2 files. The rest could not be opened — this package cannot read files dropped from other apps. Use Import instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าแล้ว %1 จาก %2 ไฟล์ ส่วนที่เหลือเปิดไม่ได้ เพราะแพ็กเกจนี้อ่านไฟล์ที่ลากมาจากแอปอื่นไม่ได้ โปรดใช้คำสั่งนำเข้า</translation>
     </message>
     <message>
         <source>Imported %1 of %2 files. %3 could not be read.</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าแล้ว %1 จาก %2 ไฟล์ อ่าน %3 ไม่ได้</translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files.</source>
@@ -8812,7 +8812,7 @@
     </message>
     <message>
         <source>Could not import that file — the format may be unsupported.</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าไฟล์นั้นไม่ได้ — อาจไม่รองรับรูปแบบไฟล์</translation>
     </message>
     <message numerus="yes">
         <source>Could not import any of the %n selected files.</source>
@@ -8826,7 +8826,7 @@
     <name>MediaPreviewWindow</name>
     <message>
         <source>Preview — %1</source>
-        <translation type="unfinished"></translation>
+        <translation>พรีวิว — %1</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -8834,15 +8834,15 @@
     </message>
     <message>
         <source>Play the clip and drag the ends to keep only the part you want. Save replaces this item in the media bin.</source>
-        <translation type="unfinished"></translation>
+        <translation>เล่นคลิปแล้วลากปลายทั้งสองเพื่อเก็บเฉพาะช่วงที่ต้องการ เมื่อบันทึกจะแทนที่รายการนี้ในคลังสื่อ</translation>
     </message>
     <message>
         <source>Drag the frame to crop. Save replaces this item in the media bin — then drag it onto the timeline.</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากกรอบเพื่อครอบตัด เมื่อบันทึกจะแทนที่รายการนี้ในคลังสื่อ จากนั้นลากไปยังไทม์ไลน์</translation>
     </message>
     <message>
         <source>Drag the frame to choose the area to use. The original video stays available for reframing.</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากกรอบเพื่อเลือกพื้นที่ที่จะใช้ วิดีโอต้นฉบับยังคงใช้ปรับกรอบใหม่ได้</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -8854,15 +8854,15 @@
     </message>
     <message>
         <source>Set In</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งจุดเข้า</translation>
     </message>
     <message>
         <source>Set Out</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งจุดออก</translation>
     </message>
     <message>
         <source>Original: %1×%2 • Frame: %3×%4</source>
-        <translation type="unfinished"></translation>
+        <translation>ต้นฉบับ: %1×%2 • เฟรม: %3×%4</translation>
     </message>
     <message>
         <source>Unlock source frame ratio</source>
@@ -8878,27 +8878,27 @@
     </message>
     <message>
         <source>Upscale this video?</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มความละเอียดวิดีโอนี้หรือไม่</translation>
     </message>
     <message>
         <source>%1p</source>
-        <translation type="unfinished"></translation>
+        <translation>%1p</translation>
     </message>
     <message>
         <source>Length %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ความยาว %1</translation>
     </message>
     <message>
         <source>This video is under 700 pixels on its shorter side. Upscaling it with an AI model can make it look sharper.</source>
-        <translation type="unfinished"></translation>
+        <translation>ด้านที่สั้นกว่าของวิดีโอนี้มีขนาดต่ำกว่า 700 พิกเซล การเพิ่มความละเอียดด้วยโมเดล AI อาจทำให้ภาพคมชัดขึ้น</translation>
     </message>
     <message>
         <source>This resolution is already good for most projects. You can still upscale it.</source>
-        <translation type="unfinished"></translation>
+        <translation>ความละเอียดนี้ดีพอสำหรับโปรเจกต์ส่วนใหญ่แล้ว แต่คุณยังเพิ่มความละเอียดได้</translation>
     </message>
     <message>
         <source>Done keeps the original video and stores this range and framing. Upscale renders them as a new video in the media bin, then opens it in the Enhance window.</source>
-        <translation type="unfinished"></translation>
+        <translation>ปุ่มเสร็จสิ้นจะเก็บวิดีโอต้นฉบับและบันทึกช่วงกับกรอบภาพนี้ ส่วนเพิ่มความละเอียดจะเรนเดอร์เป็นวิดีโอใหม่ในคลังสื่อ แล้วเปิดในหน้าต่าง Enhance</translation>
     </message>
     <message>
         <source>Saving…</source>
@@ -8906,7 +8906,7 @@
     </message>
     <message>
         <source>Choose the part and framing to keep, then Next.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกช่วงและกรอบภาพที่ต้องการเก็บ แล้วกดถัดไป</translation>
     </message>
     <message>
         <source>Save writes a new file over this item in the bin.</source>
