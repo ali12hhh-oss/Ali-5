@@ -10236,82 +10236,82 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Failed to write a proxy packet</source>
-        <translation type="unfinished"></translation>
+        <translation>无法写入代理数据包</translation>
     </message>
     <message>
         <source>Could not flush the proxy encoder</source>
-        <translation type="unfinished"></translation>
+        <translation>无法刷新代理编码器</translation>
     </message>
     <message>
         <source>Could not write the proxy trailer</source>
-        <translation type="unfinished"></translation>
+        <translation>无法写入代理文件尾</translation>
     </message>
     <message>
         <source>Could not move the proxy into place</source>
-        <translation type="unfinished"></translation>
+        <translation>无法将代理文件移动到目标位置</translation>
     </message>
     <message>
         <source>Could not open the clip</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开片段</translation>
     </message>
     <message>
         <source>Could not read the clip&apos;s streams</source>
-        <translation type="unfinished"></translation>
+        <translation>无法读取片段的媒体流</translation>
     </message>
     <message>
         <source>The clip has no video</source>
-        <translation type="unfinished"></translation>
+        <translation>此片段不含视频</translation>
     </message>
     <message>
         <source>No decoder for this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>没有适用于此片段的解码器</translation>
     </message>
     <message>
         <source>Could not allocate the decoder</source>
-        <translation type="unfinished"></translation>
+        <translation>无法分配解码器</translation>
     </message>
     <message>
         <source>Could not configure the decoder</source>
-        <translation type="unfinished"></translation>
+        <translation>无法配置解码器</translation>
     </message>
     <message>
         <source>Could not open the decoder</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开解码器</translation>
     </message>
     <message>
         <source>The clip has no usable video size</source>
-        <translation type="unfinished"></translation>
+        <translation>此片段没有可用的视频尺寸</translation>
     </message>
     <message>
         <source>Clips with transparency can&apos;t use a proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>带透明通道的片段无法使用代理文件</translation>
     </message>
     <message>
         <source>Could not allocate decode buffers</source>
-        <translation type="unfinished"></translation>
+        <translation>无法分配解码缓冲区</translation>
     </message>
     <message>
         <source>Proxy cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>代理生成已取消</translation>
     </message>
     <message>
         <source>No frames could be decoded from this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>无法从此片段解码任何帧</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Measuring loudness…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在测量响度…</translation>
     </message>
     <message>
         <source>Identifying objects in scene %1 of %2…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在识别第 %1/%2 个场景中的对象…</translation>
     </message>
     <message>
         <source>Nothing to scan in this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>此片段没有可扫描的内容</translation>
     </message>
     <message>
         <source>Could not open the media file</source>
@@ -10319,15 +10319,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>This file has no video to scan</source>
-        <translation type="unfinished"></translation>
+        <translation>此文件不含可扫描的视频</translation>
     </message>
     <message>
         <source>Loading the depth model…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在加载深度模型…</translation>
     </message>
     <message>
         <source>No cache directory</source>
-        <translation type="unfinished"></translation>
+        <translation>没有缓存目录</translation>
     </message>
     <message>
         <source>Could not decode frame %1</source>
@@ -10335,7 +10335,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Estimating depth, frame %1 of %2…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在估算深度，第 %1/%2 帧…</translation>
     </message>
     <message>
         <source>Loading the models…</source>
@@ -10347,23 +10347,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 分钟</translation>
     </message>
     <message>
         <source>%1 h %2 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 小时 %2 分钟</translation>
     </message>
     <message>
         <source>Enhancing… %1% — about %2 left</source>
-        <translation type="unfinished"></translation>
+        <translation>正在增强… %1% — 预计还需 %2</translation>
     </message>
     <message>
         <source>Enhancing… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>正在增强… %1%</translation>
     </message>
     <message>
         <source>Enhancing this frame… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>正在增强此帧… %1%</translation>
     </message>
     <message>
         <source>Scanning frame %1 of %2…</source>
@@ -10375,83 +10375,83 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Cannot open file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开文件：%1</translation>
     </message>
     <message>
         <source>File is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>文件为空</translation>
     </message>
     <message>
         <source>Failed to decompress Premiere project archive</source>
-        <translation type="unfinished"></translation>
+        <translation>无法解压 Premiere 项目压缩包</translation>
     </message>
     <message>
         <source>XML parse error at line %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>XML 解析错误，位于第 %1 行：%2</translation>
     </message>
     <message>
         <source>Imported Premiere Project</source>
-        <translation type="unfinished"></translation>
+        <translation>已导入 Premiere 项目</translation>
     </message>
     <message>
         <source>V%1</source>
-        <translation type="unfinished"></translation>
+        <translation>V%1</translation>
     </message>
     <message>
         <source>A%1</source>
-        <translation type="unfinished"></translation>
+        <translation>A%1</translation>
     </message>
     <message>
         <source>Not a valid ZIP archive</source>
-        <translation type="unfinished"></translation>
+        <translation>不是有效的 ZIP 压缩包</translation>
     </message>
     <message>
         <source>MOGRT archive is empty or invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>MOGRT 压缩包为空或无效</translation>
     </message>
     <message>
         <source>Could not open file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开文件：%1</translation>
     </message>
     <message>
         <source>Invalid or corrupt MLT / Kdenlive project</source>
-        <translation type="unfinished"></translation>
+        <translation>MLT / Kdenlive 项目无效或已损坏</translation>
     </message>
     <message>
         <source>Failed to parse MLT XML document</source>
-        <translation type="unfinished"></translation>
+        <translation>无法解析 MLT XML 文档</translation>
     </message>
     <message>
         <source>Root element is not &lt;mlt&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>根元素不是 &lt;mlt&gt;</translation>
     </message>
     <message>
         <source>XML parse error at line %1, column %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>XML 解析错误，位于第 %1 行、第 %2 列：%3</translation>
     </message>
     <message>
         <source>Root element is &lt;%1&gt;, expected &lt;fcpxml&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>根元素为 &lt;%1&gt;，预期应为 &lt;fcpxml&gt;</translation>
     </message>
     <message>
         <source>Cannot open DaVinci Resolve project archive: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开 DaVinci Resolve 项目压缩包：%1</translation>
     </message>
     <message>
         <source>DaVinci Resolve project archive is empty or invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>DaVinci Resolve 项目压缩包为空或无效</translation>
     </message>
     <message>
         <source>No edit events found in EDL</source>
-        <translation type="unfinished"></translation>
+        <translation>EDL 中未找到编辑事件</translation>
     </message>
     <message>
         <source>Failed to parse OpenTimelineIO JSON: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法解析 OpenTimelineIO JSON：%1</translation>
     </message>
     <message>
         <source>Not an OpenTimelineIO Timeline or Stack (schema: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>不是 OpenTimelineIO 时间轴或堆栈（架构：%1）</translation>
     </message>
 </context>
 <context>
@@ -10470,32 +10470,33 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Previous projects</source>
-        <translation type="unfinished"></translation>
+        <translation>最近的项目</translation>
     </message>
     <message>
         <source>No previous projects</source>
-        <translation type="unfinished"></translation>
+        <translation>没有以前的项目</translation>
     </message>
     <message>
         <source> (missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>（缺失）</translation>
     </message>
     <message>
         <source>This file has been moved or deleted:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>此文件已被移动或删除：
+%1</translation>
     </message>
     <message>
         <source>Initialize new project</source>
-        <translation type="unfinished"></translation>
+        <translation>初始化新项目</translation>
     </message>
     <message>
         <source>Open project…</source>
-        <translation type="unfinished"></translation>
+        <translation>打开项目…</translation>
     </message>
     <message>
         <source>Save as…</source>
-        <translation type="unfinished"></translation>
+        <translation>另存为…</translation>
     </message>
     <message>
         <source>Save with media…</source>
@@ -10677,11 +10678,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 分钟</translation>
     </message>
     <message>
         <source>%1 h %2 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 小时 %2 分钟</translation>
     </message>
     <message>
         <source>%1 s per frame</source>
@@ -10744,7 +10745,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 分钟</translation>
     </message>
     <message>
         <source>%1 s</source>
@@ -10767,7 +10768,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Could not allocate decode buffers</source>
-        <translation type="unfinished"></translation>
+        <translation>无法分配解码缓冲区</translation>
     </message>
     <message>
         <source>Reversing cancelled</source>
@@ -10775,7 +10776,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>No frames could be decoded from this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>无法从此片段解码任何帧</translation>
     </message>
 </context>
 <context>
@@ -12064,12 +12065,13 @@ If playback stutters, try another.</source>
     <name>StartScreen</name>
     <message>
         <source> (missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>（缺失）</translation>
     </message>
     <message>
         <source>This file has been moved or deleted:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>此文件已被移动或删除：
+%1</translation>
     </message>
     <message>
         <source>Remove from recents</source>
