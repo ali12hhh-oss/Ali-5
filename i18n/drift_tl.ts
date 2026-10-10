@@ -4172,23 +4172,23 @@
     </message>
     <message>
         <source>Bookmark updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang bookmark</translation>
     </message>
     <message>
         <source>No video at the current time</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang video sa kasalukuyang oras</translation>
     </message>
     <message>
         <source>Couldn’t capture a still frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi makakuha ng still frame</translation>
     </message>
     <message>
         <source>Capturing freeze frame…</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinukuha ang freeze frame…</translation>
     </message>
     <message>
         <source>Freeze frame added</source>
-        <translation type="unfinished"></translation>
+        <translation>Naidagdag ang freeze frame</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -4203,63 +4203,63 @@
     </message>
     <message>
         <source>Saved a copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Nakapag-save ng kopya</translation>
     </message>
     <message>
         <source>Couldn’t write %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi maisulat ang %1: %2</translation>
     </message>
     <message>
         <source>Project JSON saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-save ang project JSON</translation>
     </message>
     <message>
         <source>Still opening a project — try again in a moment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Binubuksan pa ang proyekto — subukan muli pagkalipas ng ilang sandali.</translation>
     </message>
     <message>
         <source>Couldn’t read %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabasa ang %1: %2</translation>
     </message>
     <message>
         <source>Project JSON loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-load ang project JSON</translation>
     </message>
     <message>
         <source>Failed to open Premiere Pro project</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabuksan ang Premiere Pro project</translation>
     </message>
     <message>
         <source>Premiere Pro project imported: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-import ang Premiere Pro project: %1</translation>
     </message>
     <message>
         <source>That template location isn’t valid</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi wasto ang lokasyon ng template</translation>
     </message>
     <message>
         <source>Failed to unpack Motion Graphics Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi na-unpack ang Motion Graphics Template</translation>
     </message>
     <message>
         <source>Failed to apply template to project</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mailapat ang template sa proyekto</translation>
     </message>
     <message>
         <source>Import template: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>I-import ang template: %1</translation>
     </message>
     <message>
         <source>Template imported: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-import ang template: %1</translation>
     </message>
     <message>
         <source>Failed to open Kdenlive / MLT project</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabuksan ang Kdenlive / MLT project</translation>
     </message>
     <message>
         <source>Kdenlive project imported: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-import ang Kdenlive project: %1</translation>
     </message>
     <message>
         <source>Failed to open DaVinci Resolve project / timeline</source>
@@ -8113,7 +8113,7 @@
     </message>
     <message>
         <source>Still opening a project — try again in a moment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Binubuksan pa ang proyekto — subukan muli pagkalipas ng ilang sandali.</translation>
     </message>
     <message>
         <source>Open Project</source>
