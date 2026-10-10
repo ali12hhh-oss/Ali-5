@@ -2558,11 +2558,11 @@
     </message>
     <message>
         <source>Already looking for scenes</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังค้นหาฉากอยู่แล้ว</translation>
     </message>
     <message>
         <source>Select a video clip to find scenes in</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกคลิปวิดีโอเพื่อค้นหาฉาก</translation>
     </message>
     <message numerus="yes">
         <source>Found %n scene(s)</source>
@@ -2572,23 +2572,23 @@
     </message>
     <message>
         <source>Looking for scenes…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังค้นหาฉาก…</translation>
     </message>
     <message>
         <source>Scene detection cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการตรวจจับฉากแล้ว</translation>
     </message>
     <message>
         <source>Removing noise…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังลดเสียงรบกวน…</translation>
     </message>
     <message>
         <source>Could not create an output file</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถสร้างไฟล์เอาต์พุตได้</translation>
     </message>
     <message>
         <source>Media and referenced clips removed</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบสื่อและคลิปที่อ้างอิงแล้ว</translation>
     </message>
     <message numerus="yes">
         <source>%n media items and referenced clips removed</source>
@@ -2599,43 +2599,43 @@
     </message>
     <message>
         <source>Media and referenced clip removed</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบสื่อและคลิปที่อ้างอิงแล้ว</translation>
     </message>
     <message>
         <source>Your graphics driver is too old for the preview, which needs OpenGL 3.3. See Help → Debug info.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไดรเวอร์กราฟิกเก่าเกินไปสำหรับหน้าตัวอย่าง ซึ่งต้องใช้ OpenGL 3.3 ดูที่ วิธีใช้ → ข้อมูลการดีบัก</translation>
     </message>
     <message>
         <source>Could not create a proxy for %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถสร้างไฟล์พร็อกซีสำหรับ %1: %2</translation>
     </message>
     <message>
         <source>Your graphics driver only provides %1; the preview needs OpenGL 3.3. See Help → Debug info.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไดรเวอร์กราฟิกของคุณรองรับเพียง %1 แต่หน้าตัวอย่างต้องใช้ OpenGL 3.3 ดูที่ วิธีใช้ → ข้อมูลการดีบัก</translation>
     </message>
     <message>
         <source>GPU preview rendering is unavailable on this machine. See Help → Debug info.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถใช้ GPU เรนเดอร์หน้าตัวอย่างบนเครื่องนี้ได้ ดูที่ วิธีใช้ → ข้อมูลการดีบัก</translation>
     </message>
     <message>
         <source>Media rotated</source>
-        <translation type="unfinished"></translation>
+        <translation>หมุนสื่อแล้ว</translation>
     </message>
     <message>
         <source>An edit is already saving</source>
-        <translation type="unfinished"></translation>
+        <translation>มีการบันทึกการแก้ไขอยู่แล้ว</translation>
     </message>
     <message>
         <source>Could not open the media file</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถเปิดไฟล์สื่อได้</translation>
     </message>
     <message>
         <source>Media trimmed</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัดแต่งสื่อแล้ว</translation>
     </message>
     <message>
         <source>Trim saved</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกการตัดแต่งแล้ว</translation>
     </message>
     <message>
         <source>Saving…</source>
@@ -2643,31 +2643,31 @@
     </message>
     <message>
         <source>Converting…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังแปลง…</translation>
     </message>
     <message>
         <source>Saving media…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังบันทึกสื่อ…</translation>
     </message>
     <message>
         <source>Couldn’t save that edit</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกการแก้ไขนั้นไม่ได้</translation>
     </message>
     <message>
         <source>Updating the library…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังอัปเดตคลังสื่อ…</translation>
     </message>
     <message>
         <source>Couldn’t update the library</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตคลังสื่อไม่ได้</translation>
     </message>
     <message>
         <source>Media edited</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขสื่อแล้ว</translation>
     </message>
     <message>
         <source>Save project as…</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกโปรเจกต์เป็น…</translation>
     </message>
     <message>
         <source>Paste attributes…</source>
@@ -2675,55 +2675,55 @@
     </message>
     <message>
         <source>Go to previous cut point</source>
-        <translation type="unfinished"></translation>
+        <translation>ไปยังจุดตัดก่อนหน้า</translation>
     </message>
     <message>
         <source>Go to next cut point</source>
-        <translation type="unfinished"></translation>
+        <translation>ไปยังจุดตัดถัดไป</translation>
     </message>
     <message>
         <source>Step back one frame</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้อนกลับหนึ่งเฟรม</translation>
     </message>
     <message>
         <source>Step forward one frame</source>
-        <translation type="unfinished"></translation>
+        <translation>เดินหน้า մեկ帧</translation>
     </message>
     <message>
         <source>Jump back 1 second</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้อนกลับ 1 วินาที</translation>
     </message>
     <message>
         <source>Jump forward 1 second</source>
-        <translation type="unfinished"></translation>
+        <translation>เดินหน้า 1 วินาที</translation>
     </message>
     <message>
         <source>Jump back 10 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้อนกลับ 10 วินาที</translation>
     </message>
     <message>
         <source>Jump forward 10 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>เดินหน้า 10 วินาที</translation>
     </message>
     <message>
         <source>Go to start of timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>ไปยังจุดเริ่มต้นของไทม์ไลน์</translation>
     </message>
     <message>
         <source>Delete left of the playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบส่วนทางซ้ายของหัวอ่าน</translation>
     </message>
     <message>
         <source>Delete right of the playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบส่วนทางขวาของหัวอ่าน</translation>
     </message>
     <message>
         <source>Increase playback speed</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มความเร็วในการเล่น</translation>
     </message>
     <message>
         <source>Decrease playback speed</source>
-        <translation type="unfinished"></translation>
+        <translation>ลดความเร็วในการเล่น</translation>
     </message>
     <message>
         <source>Zoom in</source>
@@ -2735,163 +2735,163 @@
     </message>
     <message>
         <source>The graphics card choice takes effect after you restart Drift.</source>
-        <translation type="unfinished"></translation>
+        <translation>การเลือกการ์ดกราฟิกจะมีผลหลังจากเริ่ม Drift ใหม่</translation>
     </message>
     <message>
         <source>No audio track available for recording</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีแทร็กเสียงสำหรับบันทึก</translation>
     </message>
     <message>
         <source>Failed to create audio recording file</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างไฟล์บันทึกเสียงไม่สำเร็จ</translation>
     </message>
     <message>
         <source>Failed to start audio recording</source>
-        <translation type="unfinished"></translation>
+        <translation>เริ่มบันทึกเสียงไม่สำเร็จ</translation>
     </message>
     <message>
         <source>Recording audio…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังบันทึกเสียง…</translation>
     </message>
     <message>
         <source>Audio recording cancelled (too short)</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการบันทึกเสียง (สั้นเกินไป)</translation>
     </message>
     <message>
         <source>Voiceover %1</source>
-        <translation type="unfinished"></translation>
+        <translation>เสียงบรรยาย %1</translation>
     </message>
     <message>
         <source>Record audio</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกเสียง</translation>
     </message>
     <message>
         <source>Recorded voiceover</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกเสียงบรรยายแล้ว</translation>
     </message>
     <message>
         <source>Voiceover recorded</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกเสียงบรรยายแล้ว</translation>
     </message>
     <message>
         <source>Recording cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการบันทึกแล้ว</translation>
     </message>
     <message>
         <source>Clips moved</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้ายคลิปแล้ว</translation>
     </message>
     <message>
         <source>Select video or audio clips to create captions</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกคลิปวิดีโอหรือเสียงเพื่อสร้างคำบรรยาย</translation>
     </message>
     <message>
         <source>The caption range is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>ช่วงคำบรรยายว่างเปล่า</translation>
     </message>
     <message>
         <source>No video or audio clips in that range</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีคลิปวิดีโอหรือเสียงในช่วงนั้น</translation>
     </message>
     <message>
         <source>One of these clips has no sound</source>
-        <translation type="unfinished"></translation>
+        <translation>หนึ่งในคลิปเหล่านี้ไม่มีเสียง</translation>
     </message>
     <message>
         <source>These clips overlap in time — caption them separately</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิปเหล่านี้มีช่วงเวลาทับซ้อนกัน ให้สร้างคำบรรยายแยกกัน</translation>
     </message>
     <message>
         <source>Transition curve</source>
-        <translation type="unfinished"></translation>
+        <translation>เส้นโค้งการเปลี่ยนฉาก</translation>
     </message>
     <message>
         <source>Transition curve updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตเส้นโค้งการเปลี่ยนฉากแล้ว</translation>
     </message>
     <message>
         <source>That transition is gone — open the custom curve again</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีทรานซิชันนั้นแล้ว โปรดเปิดเส้นโค้งแบบกำหนดเองอีกครั้ง</translation>
     </message>
     <message>
         <source>Custom transition curve</source>
-        <translation type="unfinished"></translation>
+        <translation>เส้นโค้งการเปลี่ยนฉากแบบกำหนดเอง</translation>
     </message>
     <message>
         <source>Custom transition curve applied</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้เส้นโค้งการเปลี่ยนฉากแบบกำหนดเองแล้ว</translation>
     </message>
     <message>
         <source>Select a video or image clip to estimate depth for</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกคลิปวิดีโอหรือภาพเพื่อประมาณความลึก</translation>
     </message>
     <message>
         <source>Clip has no video to estimate depth for</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิปนี้ไม่มีวิดีโอสำหรับประมาณความลึก</translation>
     </message>
     <message>
         <source>Depth estimation needs the Depth addon</source>
-        <translation type="unfinished"></translation>
+        <translation>การประมาณความลึกต้องใช้ส่วนเสริม Depth</translation>
     </message>
     <message>
         <source>Depth is already being estimated for this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังประมาณความลึกของคลิปนี้อยู่แล้ว</translation>
     </message>
     <message>
         <source>Estimating depth…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังประมาณความลึก…</translation>
     </message>
     <message>
         <source>Clip no longer exists</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีคลิปนี้แล้ว</translation>
     </message>
     <message>
         <source>Estimate Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>ประมาณความลึก</translation>
     </message>
     <message>
         <source>Clear Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>ล้างค่าความลึก</translation>
     </message>
     <message>
         <source>Building keyframes…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังสร้างคีย์เฟรม…</translation>
     </message>
     <message>
         <source>Rendering stabilized video…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังเรนเดอร์วิดีโอที่ปรับเสถียรแล้ว…</translation>
     </message>
     <message>
         <source>Analyzing camera motion…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังวิเคราะห์การเคลื่อนไหวของกล้อง…</translation>
     </message>
     <message>
         <source>Stabilization cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการปรับเสถียรภาพแล้ว</translation>
     </message>
     <message>
         <source>Stabilization analysis file is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พบไฟล์วิเคราะห์การปรับเสถียรภาพ</translation>
     </message>
     <message>
         <source>Could not read camera motion from the analysis file.</source>
-        <translation type="unfinished"></translation>
+        <translation>อ่านข้อมูลการเคลื่อนไหวของกล้องจากไฟล์วิเคราะห์ไม่ได้</translation>
     </message>
     <message>
         <source>Stabilize with Keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>ปรับเสถียรภาพด้วยคีย์เฟรม</translation>
     </message>
     <message>
         <source>Stabilization keyframes applied.</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้คีย์เฟรมปรับเสถียรภาพแล้ว</translation>
     </message>
     <message>
         <source>Change Stabilization Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนโหมดการปรับเสถียรภาพ</translation>
     </message>
     <message>
         <source>Cutout</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัดแยกวัตถุ</translation>
     </message>
     <message>
         <source> (denoised)</source>
@@ -2899,11 +2899,11 @@
     </message>
     <message>
         <source>Remove noise</source>
-        <translation type="unfinished"></translation>
+        <translation>ลดเสียงรบกวน</translation>
     </message>
     <message>
         <source>Noise removed</source>
-        <translation type="unfinished"></translation>
+        <translation>ลดเสียงรบกวนแล้ว</translation>
     </message>
     <message>
         <source>This project uses &quot;%1&quot;, which isn’t installed — it won’t show. Open Extras to install it.</source>
@@ -2919,51 +2919,51 @@
     </message>
     <message>
         <source>Shape added</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มรูปร่างแล้ว</translation>
     </message>
     <message>
         <source>Adjustment Layer</source>
-        <translation type="unfinished"></translation>
+        <translation>เลเยอร์ปรับแต่ง</translation>
     </message>
     <message>
         <source>Adjustment (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>การปรับแต่ง (%1)</translation>
     </message>
     <message>
         <source>Add adjustment layer</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเลเยอร์ปรับแต่ง</translation>
     </message>
     <message>
         <source>Adjustment layer added</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเลเยอร์ปรับแต่งแล้ว</translation>
     </message>
     <message>
         <source>Add adjustment track</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มแทร็กปรับแต่ง</translation>
     </message>
     <message>
         <source>Adjustment track added</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มแทร็กปรับแต่งแล้ว</translation>
     </message>
     <message>
         <source>Add adjustment lane</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเลนปรับแต่ง</translation>
     </message>
     <message>
         <source>Adjustment lane added</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเลนปรับแต่งแล้ว</translation>
     </message>
     <message>
         <source>Nest adjustment in track</source>
-        <translation type="unfinished"></translation>
+        <translation>ซ้อนการปรับแต่งในแทร็ก</translation>
     </message>
     <message>
         <source>Adjustment nested</source>
-        <translation type="unfinished"></translation>
+        <translation>ซ้อนการปรับแต่งแล้ว</translation>
     </message>
     <message>
         <source>Detach adjustment to its own track</source>
-        <translation type="unfinished"></translation>
+        <translation>แยกการปรับแต่งไปยังแทร็กของตัวเอง</translation>
     </message>
     <message>
         <source>Adjustment detached</source>
@@ -5616,7 +5616,7 @@
     <name>DenoiseWindow</name>
     <message>
         <source>Remove noise</source>
-        <translation type="unfinished"></translation>
+        <translation>ลดเสียงรบกวน</translation>
     </message>
     <message>
         <source>A short section of the clip is previewed here. Confirming runs the whole clip and adds the result as a new audio track above this one — the original is left untouched.</source>
@@ -5628,7 +5628,7 @@
     </message>
     <message>
         <source>Noise removed</source>
-        <translation type="unfinished"></translation>
+        <translation>ลดเสียงรบกวนแล้ว</translation>
     </message>
     <message>
         <source>· playing</source>
@@ -6204,7 +6204,7 @@
     </message>
     <message>
         <source>Add adjustment layer</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเลเยอร์ปรับแต่ง</translation>
     </message>
     <message>
         <source>Add an adjustment layer to apply effects across all clips underneath, or drag it to where it should go</source>
@@ -10302,7 +10302,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Could not open the media file</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถเปิดไฟล์สื่อได้</translation>
     </message>
     <message>
         <source>This file has no video to scan</source>
@@ -13803,7 +13803,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Add adjustment layer</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเลเยอร์ปรับแต่ง</translation>
     </message>
     <message>
         <source>Customize toolbar…</source>
