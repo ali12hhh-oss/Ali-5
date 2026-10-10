@@ -6116,10 +6116,7 @@
     </message>
     <message numerus="yes">
         <source>Downloads — %n running</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>Загрузки — выполняется: %n</translation>
     </message>
     <message>
         <source>Downloads</source>
@@ -8693,10 +8690,7 @@
     </message>
     <message numerus="yes">
         <source>Create %n proxies</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>Создать прокси: %n</translation>
     </message>
     <message>
         <source>Create proxy</source>
@@ -8704,10 +8698,7 @@
     </message>
     <message numerus="yes">
         <source>Remove %n proxies</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>Удалить прокси: %n</translation>
     </message>
     <message>
         <source>Remove proxy</source>
@@ -8763,10 +8754,7 @@
     </message>
     <message numerus="yes">
         <source>Add %n items to timeline</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>Добавить на таймлайн элементов: %n</translation>
     </message>
     <message>
         <source>Add to timeline</source>
@@ -8785,10 +8773,7 @@
     </message>
     <message numerus="yes">
         <source>Remove %n items from project</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>Удалить из проекта элементов: %n</translation>
     </message>
 </context>
 <context>
@@ -8871,10 +8856,7 @@
     </message>
     <message numerus="yes">
         <source>Could not import any of the %n selected files.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>Не удалось импортировать ни одного из выбранных файлов (%n).</translation>
     </message>
 </context>
 <context>
@@ -12226,10 +12208,7 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>Filters — %n applied</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>Фильтры — применено: %n</translation>
     </message>
     <message>
         <source>Filters</source>
@@ -14480,10 +14459,7 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>+%n more</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>Ещё: %n</translation>
     </message>
 </context>
 <context>
