@@ -13729,19 +13729,19 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Piliin</translation>
     </message>
     <message>
         <source>Cut mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Cut mode</translation>
     </message>
     <message>
         <source>Cut mode — click a clip to split it</source>
-        <translation type="unfinished"></translation>
+        <translation>Cut mode — i-click ang clip upang hatiin ito</translation>
     </message>
     <message>
         <source>Show audio on separate track</source>
-        <translation type="unfinished"></translation>
+        <translation>Ipakita ang audio sa hiwalay na track</translation>
     </message>
     <message>
         <source>Trim start</source>
@@ -13749,7 +13749,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Trim start — click a clip to drop everything left of the cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Trim simula — i-click ang clip upang alisin ang lahat sa kaliwa ng hiwa</translation>
     </message>
     <message>
         <source>Trim end</source>
@@ -13757,7 +13757,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Trim end — click a clip to drop everything right of the cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Trim dulo — i-click ang clip upang alisin ang lahat sa kanan ng hiwa</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -13769,7 +13769,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Delete clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanggalin ang clip</translation>
     </message>
     <message>
         <source>Copy selection</source>
@@ -13781,7 +13781,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Duplicate clip</source>
-        <translation type="unfinished"></translation>
+        <translation>I-duplicate ang clip</translation>
     </message>
     <message>
         <source>Add/remove bookmark at current time</source>
@@ -13813,7 +13813,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Main</source>
-        <translation type="unfinished"></translation>
+        <translation>Main</translation>
     </message>
     <message>
         <source>Composite</source>
@@ -13821,23 +13821,23 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Switch between the main timeline and composite clips</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumipat sa pagitan ng pangunahing timeline at composite clip</translation>
     </message>
     <message>
         <source>No composite clips yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala pang composite clip</translation>
     </message>
     <message>
         <source>Toggle audio mixer strip</source>
-        <translation type="unfinished"></translation>
+        <translation>I-toggle ang audio mixer strip</translation>
     </message>
     <message>
         <source>Timeline overview — a minimap of the whole project; click or drag it to jump the view</source>
-        <translation type="unfinished"></translation>
+        <translation>Timeline overview — minimap ng buong proyekto; i-click o i-drag upang lumipat ng view</translation>
     </message>
     <message>
         <source>Unlink video and audio</source>
-        <translation type="unfinished"></translation>
+        <translation>I-unlink ang video at audio</translation>
     </message>
     <message>
         <source>Merge adjacent clips</source>
@@ -13849,7 +13849,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>More edit actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Higit pang aksyon sa pag-edit</translation>
     </message>
     <message>
         <source>Add adjustment layer</source>
@@ -13857,11 +13857,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Customize toolbar…</source>
-        <translation type="unfinished"></translation>
+        <translation>I-customize ang toolbar…</translation>
     </message>
     <message>
         <source>Toggle snapping</source>
-        <translation type="unfinished"></translation>
+        <translation>I-toggle ang snapping</translation>
     </message>
     <message>
         <source>Close gaps when trimming</source>
@@ -13877,15 +13877,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Timeline zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Pag-zoom ng timeline</translation>
     </message>
     <message>
         <source>Zoom %1×</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom %1×</translation>
     </message>
     <message>
         <source>Zoom level — click to reset to 1×. Ctrl+wheel over the timeline also zooms.</source>
-        <translation type="unfinished"></translation>
+        <translation>Antas ng zoom — i-click upang i-reset sa 1×. Maaari ring mag-zoom gamit ang Ctrl+wheel sa timeline.</translation>
     </message>
     <message>
         <source>Zoom in</source>
@@ -13893,14 +13893,14 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Fit timeline in view</source>
-        <translation type="unfinished"></translation>
+        <translation>I-fit ang timeline sa view</translation>
     </message>
 </context>
 <context>
     <name>TimelineToolbarCustomizeDialog</name>
     <message>
         <source>Customize timeline toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>I-customize ang toolbar ng timeline</translation>
     </message>
     <message>
         <source>Save</source>
@@ -13908,11 +13908,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Drag items to reorder them. Items above the divider are toolbar buttons; the rest are in the More menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drag ang mga item upang ayusin ang pagkakasunod-sunod. Ang nasa itaas ng divider ay mga toolbar button; ang iba ay nasa More menu.</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng separator</translation>
     </message>
     <message>
         <source>Reset to defaults</source>
@@ -13920,23 +13920,23 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>More menu</source>
-        <translation type="unfinished"></translation>
+        <translation>More menu</translation>
     </message>
     <message>
         <source>— Separator —</source>
-        <translation type="unfinished"></translation>
+        <translation>— Separator —</translation>
     </message>
     <message>
         <source>Move up</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilipat pataas</translation>
     </message>
     <message>
         <source>Move down</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilipat pababa</translation>
     </message>
     <message>
         <source>Remove separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang separator</translation>
     </message>
 </context>
 <context>
@@ -13947,7 +13947,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Mask</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -13970,18 +13970,18 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>ToastHost</name>
     <message>
         <source>%1  (×%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (×%2)</translation>
     </message>
     <message>
         <source>Dismiss</source>
-        <translation type="unfinished"></translation>
+        <translation>Isara</translation>
     </message>
 </context>
 <context>
     <name>TrackHeaderColumn</name>
     <message>
         <source>Delete this track?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanggalin ang track na ito?</translation>
     </message>
     <message>
         <source>Delete track</source>
@@ -13996,15 +13996,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>This removes the empty track. You can undo afterwards.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aalisin nito ang bakanteng track. Maaari mo itong i-undo pagkatapos.</translation>
     </message>
     <message>
         <source>Waveform</source>
-        <translation type="unfinished"></translation>
+        <translation>Waveform</translation>
     </message>
     <message>
         <source>Video + waveform</source>
-        <translation type="unfinished"></translation>
+        <translation>Video + waveform</translation>
     </message>
     <message>
         <source>TF</source>
@@ -14060,35 +14060,35 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Everything below</source>
-        <translation type="unfinished"></translation>
+        <translation>Lahat sa ibaba</translation>
     </message>
     <message>
         <source>%1 only</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 lamang</translation>
     </message>
     <message>
         <source>%1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 hanggang %2</translation>
     </message>
     <message>
         <source>Stop recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihinto ang pag-record</translation>
     </message>
     <message>
         <source>Record voiceover</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-record ng voiceover</translation>
     </message>
     <message>
         <source>Record voiceover (mic)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-record ng voiceover (mic)</translation>
     </message>
     <message>
         <source>Turn transform on</source>
-        <translation type="unfinished"></translation>
+        <translation>I-on ang transform</translation>
     </message>
     <message>
         <source>Turn transform off</source>
-        <translation type="unfinished"></translation>
+        <translation>I-off ang transform</translation>
     </message>
     <message>
         <source>Covers…</source>
@@ -14100,27 +14100,27 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Add transform layer above</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng transform layer sa itaas</translation>
     </message>
     <message>
         <source>Track height</source>
-        <translation type="unfinished"></translation>
+        <translation>Taas ng track</translation>
     </message>
     <message>
         <source>Short</source>
-        <translation type="unfinished"></translation>
+        <translation>Maikli</translation>
     </message>
     <message>
         <source>Tall</source>
-        <translation type="unfinished"></translation>
+        <translation>Matangkad</translation>
     </message>
     <message>
         <source>Taller</source>
-        <translation type="unfinished"></translation>
+        <translation>Mas mataas</translation>
     </message>
     <message>
         <source>Scroll over the header to fine-tune</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-scroll sa header upang i-fine-tune</translation>
     </message>
     <message>
         <source>Covers</source>
@@ -14132,31 +14132,31 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Drag the header to reorder this track</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drag ang header upang ayusin ang track na ito</translation>
     </message>
     <message>
         <source>Paused — click to finish recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-pause — i-click upang tapusin ang pag-record</translation>
     </message>
     <message>
         <source>Recording — click to finish recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagre-record — i-click upang tapusin ang pag-record</translation>
     </message>
     <message>
         <source>Unmute track</source>
-        <translation type="unfinished"></translation>
+        <translation>I-unmute ang track</translation>
     </message>
     <message>
         <source>Mute track</source>
-        <translation type="unfinished"></translation>
+        <translation>I-mute ang track</translation>
     </message>
     <message>
         <source>Show one combined waveform</source>
-        <translation type="unfinished"></translation>
+        <translation>Ipakita ang pinagsamang waveform</translation>
     </message>
     <message>
         <source>Show each channel separately (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ipakita nang hiwalay ang bawat channel (%1)</translation>
     </message>
     <message>
         <source>Show track</source>
@@ -14243,7 +14243,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Piliin</translation>
     </message>
     <message>
         <source>Move to a time, set a value, then click the diamond to add a keyframe. With Auto keyframes on, dragging a slider or the preview also creates them.</source>
@@ -14410,15 +14410,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Everything below</source>
-        <translation type="unfinished"></translation>
+        <translation>Lahat sa ibaba</translation>
     </message>
     <message>
         <source>%1 only</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 lamang</translation>
     </message>
     <message>
         <source>%1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 hanggang %2</translation>
     </message>
     <message>
         <source>Moves, scales, turns and fades every track under it as one. Each clip keeps its own transform inside the group.</source>
