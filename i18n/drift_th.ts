@@ -3372,139 +3372,139 @@
     </message>
     <message>
         <source>Animation slot</source>
-        <translation type="unfinished"></translation>
+        <translation>ช่องแอนิเมชัน</translation>
     </message>
     <message>
         <source>Animation slot updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตช่องแอนิเมชันแล้ว</translation>
     </message>
     <message>
         <source>Clip mask updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตมาสก์คลิปแล้ว</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>สี่เหลี่ยมผืนผ้า</translation>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>วงรี</translation>
     </message>
     <message>
         <source>Star</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาว</translation>
     </message>
     <message>
         <source>Heart</source>
-        <translation type="unfinished"></translation>
+        <translation>หัวใจ</translation>
     </message>
     <message>
         <source>Bars</source>
-        <translation type="unfinished"></translation>
+        <translation>แถบ</translation>
     </message>
     <message>
         <source>Freeform</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปทรงอิสระ</translation>
     </message>
     <message>
         <source>Add mask</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มมาสก์</translation>
     </message>
     <message>
         <source>Mask added</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มมาสก์แล้ว</translation>
     </message>
     <message>
         <source>Add mask point</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มจุดมาสก์</translation>
     </message>
     <message>
         <source>Mask point added</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มจุดมาสก์แล้ว</translation>
     </message>
     <message>
         <source>Remove mask point</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบจุดมาสก์</translation>
     </message>
     <message>
         <source>Mask point removed</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบจุดมาสก์แล้ว</translation>
     </message>
     <message>
         <source>That transition has no sound; audio tracks take crossfade or dip</source>
-        <translation type="unfinished"></translation>
+        <translation>ทรานซิชันนี้ไม่มีเสียง แทร็กเสียงจะใช้การเฟดไขว้หรือลดระดับเสียง</translation>
     </message>
     <message>
         <source>Replace transition</source>
-        <translation type="unfinished"></translation>
+        <translation>แทนที่ทรานซิชัน</translation>
     </message>
     <message>
         <source>Transition updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตทรานซิชันแล้ว</translation>
     </message>
     <message>
         <source>Track solo</source>
-        <translation type="unfinished"></translation>
+        <translation>ฟังแทร็กเดี่ยว</translation>
     </message>
     <message>
         <source>Track soloed</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าให้ฟังแทร็กเดี่ยวแล้ว</translation>
     </message>
     <message>
         <source>Track unsoloed</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการฟังแทร็กเดี่ยวแล้ว</translation>
     </message>
     <message>
         <source>Track volume</source>
-        <translation type="unfinished"></translation>
+        <translation>ระดับเสียงของแทร็ก</translation>
     </message>
     <message>
         <source>Track volume changed</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนระดับเสียงแทร็กแล้ว</translation>
     </message>
     <message>
         <source>Track pan</source>
-        <translation type="unfinished"></translation>
+        <translation>แพนเสียงของแทร็ก</translation>
     </message>
     <message>
         <source>Track pan changed</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนแพนเสียงของแทร็กแล้ว</translation>
     </message>
     <message>
         <source>Keep ranges</source>
-        <translation type="unfinished"></translation>
+        <translation>เก็บช่วงที่เลือก</translation>
     </message>
     <message>
         <source>Assemble</source>
-        <translation type="unfinished"></translation>
+        <translation>ประกอบ</translation>
     </message>
     <message>
         <source>Cut words</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัดตามคำ</translation>
     </message>
     <message>
         <source>Add transition</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มทรานซิชัน</translation>
     </message>
     <message>
         <source>Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์</translation>
     </message>
     <message>
         <source>%1 (off)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (ปิด)</translation>
     </message>
     <message>
         <source>Frame video</source>
-        <translation type="unfinished"></translation>
+        <translation>จัดกรอบวิดีโอ</translation>
     </message>
     <message>
         <source>Video framing saved</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกการจัดกรอบวิดีโอแล้ว</translation>
     </message>
     <message>
         <source>Frame source video</source>
-        <translation type="unfinished"></translation>
+        <translation>จัดกรอบวิดีโอต้นฉบับ</translation>
     </message>
     <message>
         <source>%1 (trimmed)</source>
@@ -3520,7 +3520,7 @@
     </message>
     <message>
         <source>Transform selection together</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงรูปแบบรายการที่เลือกพร้อมกัน</translation>
     </message>
     <message>
         <source>Select transform layer</source>
@@ -3528,23 +3528,23 @@
     </message>
     <message>
         <source>3D gizmo: move</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวควบคุม 3D: ย้าย</translation>
     </message>
     <message>
         <source>3D gizmo: rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวควบคุม 3D: หมุน</translation>
     </message>
     <message>
         <source>3D gizmo: scale</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวควบคุม 3D: ปรับขนาด</translation>
     </message>
     <message>
         <source>3D gizmo: switch global/local axes</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวควบคุม 3D: สลับแกน global/local</translation>
     </message>
     <message>
         <source>Custom guides</source>
-        <translation type="unfinished"></translation>
+        <translation>เส้นไกด์แบบกำหนดเอง</translation>
     </message>
     <message>
         <source>%1 copy</source>
@@ -3592,7 +3592,7 @@
     </message>
     <message>
         <source>Stabilization rendering failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>เรนเดอร์การปรับเสถียรภาพไม่สำเร็จ: %1</translation>
     </message>
     <message>
         <source>Stabilization analysis failed.</source>
@@ -3600,23 +3600,23 @@
     </message>
     <message>
         <source>Stabilization analysis failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>วิเคราะห์การปรับเสถียรภาพไม่สำเร็จ: %1</translation>
     </message>
     <message>
         <source>Audio adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>การปรับเสียง</translation>
     </message>
     <message>
         <source>Drop a transition where two clips meet.</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากทรานซิชันไปวางตรงจุดที่คลิปสองคลิปต่อกัน</translation>
     </message>
     <message>
         <source>Transform layers take no effects or masks.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลเยอร์การแปลงไม่รองรับเอฟเฟกต์หรือมาสก์</translation>
     </message>
     <message>
         <source>Audio effects go on clips with sound.</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์เสียงใช้กับคลิปที่มีเสียงเท่านั้น</translation>
     </message>
     <message>
         <source>That goes on a video, image, shape or text clip.</source>
@@ -8360,27 +8360,27 @@
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>สี่เหลี่ยมผืนผ้า</translation>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>วงรี</translation>
     </message>
     <message>
         <source>Star</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาว</translation>
     </message>
     <message>
         <source>Heart</source>
-        <translation type="unfinished"></translation>
+        <translation>หัวใจ</translation>
     </message>
     <message>
         <source>Bars</source>
-        <translation type="unfinished"></translation>
+        <translation>แถบ</translation>
     </message>
     <message>
         <source>Freeform</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปทรงอิสระ</translation>
     </message>
     <message>
         <source>Combine</source>
@@ -9292,7 +9292,7 @@
     </message>
     <message>
         <source>Audio adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>การปรับเสียง</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -9346,7 +9346,7 @@
     </message>
     <message>
         <source>Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์</translation>
     </message>
     <message>
         <source>Colour</source>
@@ -11310,7 +11310,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -11580,7 +11580,7 @@ If playback stutters, try another.</source>
     <name>ShapeStyle</name>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>สี่เหลี่ยมผืนผ้า</translation>
     </message>
     <message>
         <source>Rounded rectangle</source>
@@ -11592,7 +11592,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>วงรี</translation>
     </message>
     <message>
         <source>Circle</source>
@@ -11668,7 +11668,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Star</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาว</translation>
     </message>
     <message>
         <source>Burst</source>
@@ -11684,7 +11684,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Heart</source>
-        <translation type="unfinished"></translation>
+        <translation>หัวใจ</translation>
     </message>
     <message>
         <source>Cross</source>
@@ -12967,7 +12967,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์</translation>
     </message>
     <message>
         <source>Shadow, outline, neon and friends — a recipe that builds the layers below</source>
@@ -13890,7 +13890,7 @@ If playback stutters, try another.</source>
     <name>TimelineTrackItem</name>
     <message>
         <source>Audio adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>การปรับเสียง</translation>
     </message>
     <message>
         <source>Mask</source>
