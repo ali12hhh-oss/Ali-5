@@ -9901,27 +9901,27 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>cannot finish writing %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法完成写入 %1</translation>
     </message>
     <message>
         <source>cannot create %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建 %1</translation>
     </message>
     <message>
         <source>%1 is corrupt in this project</source>
-        <translation type="unfinished"></translation>
+        <translation>此项目中的 %1 已损坏</translation>
     </message>
     <message>
         <source>Couldn’t read %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法读取 %1</translation>
     </message>
     <message>
         <source>Couldn’t write %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法写入 %1</translation>
     </message>
     <message>
         <source>Couldn’t create %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建 %1</translation>
     </message>
 </context>
 <context>
@@ -9940,38 +9940,38 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Untitled Project</source>
-        <translation type="unfinished"></translation>
+        <translation>未命名项目</translation>
     </message>
     <message>
         <source>Author</source>
-        <translation type="unfinished"></translation>
+        <translation>作者</translation>
     </message>
     <message>
         <source>Your name</source>
-        <translation type="unfinished"></translation>
+        <translation>你的姓名</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>描述</translation>
     </message>
     <message>
         <source>What this project is</source>
-        <translation type="unfinished"></translation>
+        <translation>项目内容说明</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="unfinished"></translation>
+        <translation>创建时间</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>修改时间</translation>
     </message>
 </context>
 <context>
     <name>ProjectSetupDialog</name>
     <message>
         <source>Set up your video</source>
-        <translation type="unfinished"></translation>
+        <translation>设置视频</translation>
     </message>
     <message>
         <source>Create</source>
@@ -9979,11 +9979,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>First clip “%1”. Choose the video size before it is placed.</source>
-        <translation type="unfinished"></translation>
+        <translation>第一个片段为“%1”。请在放置前选择视频尺寸。</translation>
     </message>
     <message>
         <source>Choose the video size before adding your first clip.</source>
-        <translation type="unfinished"></translation>
+        <translation>添加第一个片段前，请先选择视频尺寸。</translation>
     </message>
     <message>
         <source>Aspect ratio</source>
@@ -9991,7 +9991,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Match clip</source>
-        <translation type="unfinished"></translation>
+        <translation>匹配片段</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -10011,7 +10011,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Video: %1×%2, %3 frames per second</source>
-        <translation type="unfinished"></translation>
+        <translation>视频：%1×%2，%3 帧/秒</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -10019,14 +10019,14 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Restore the size suggested by your first clip</source>
-        <translation type="unfinished"></translation>
+        <translation>恢复第一个片段建议的尺寸</translation>
     </message>
 </context>
 <context>
     <name>PropertiesPanel</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>常规</translation>
     </message>
     <message>
         <source>Text</source>
@@ -10038,11 +10038,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Motion</source>
-        <translation type="unfinished"></translation>
+        <translation>运动</translation>
     </message>
     <message>
         <source>3D Model</source>
-        <translation type="unfinished"></translation>
+        <translation>3D 模型</translation>
     </message>
     <message>
         <source>Subtitles</source>
@@ -10054,7 +10054,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Stabilization</source>
-        <translation type="unfinished"></translation>
+        <translation>稳定</translation>
     </message>
     <message>
         <source>Animation</source>
@@ -10070,7 +10070,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Blending</source>
-        <translation type="unfinished"></translation>
+        <translation>混合</translation>
     </message>
     <message>
         <source>Masks</source>
@@ -10090,15 +10090,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>It&apos;s empty here</source>
-        <translation type="unfinished"></translation>
+        <translation>这里是空的</translation>
     </message>
     <message>
         <source>Tap a clip on the timeline to edit its properties</source>
-        <translation type="unfinished"></translation>
+        <translation>点击时间轴上的片段以编辑其属性</translation>
     </message>
     <message>
         <source>Click a clip on the timeline to edit its properties</source>
-        <translation type="unfinished"></translation>
+        <translation>点击时间轴上的片段以编辑其属性</translation>
     </message>
     <message>
         <source>Save effect preset</source>
@@ -10106,7 +10106,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Save effect as preset</source>
-        <translation type="unfinished"></translation>
+        <translation>将效果保存为预设</translation>
     </message>
     <message>
         <source>My look</source>
@@ -10117,23 +10117,23 @@ If playback stutters, try another.</source>
     <name>PropertyKeyframeRow</name>
     <message>
         <source>%1 has no keyframes yet</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 尚无关键帧</translation>
     </message>
     <message>
         <source>Turn off %1&apos;s keyframes — they are kept, but stop animating</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭 %1 的关键帧 — 保留关键帧，但停止动画</translation>
     </message>
     <message>
         <source>Turn %1&apos;s keyframes back on</source>
-        <translation type="unfinished"></translation>
+        <translation>重新启用 %1 的关键帧</translation>
     </message>
     <message>
         <source>Straight</source>
-        <translation type="unfinished"></translation>
+        <translation>线性</translation>
     </message>
     <message>
         <source>Straight — changes at a steady rate between keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>线性 — 在关键帧之间以恒定速率变化</translation>
     </message>
     <message>
         <source>Ease</source>
@@ -10141,31 +10141,31 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Ease — accelerates out and decelerates in</source>
-        <translation type="unfinished"></translation>
+        <translation>缓动 — 开始时加速，结束时减速</translation>
     </message>
     <message>
         <source>Jump</source>
-        <translation type="unfinished"></translation>
+        <translation>跳变</translation>
     </message>
     <message>
         <source>Jump — holds the value until the next keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>跳变 — 保持当前值直到下一个关键帧</translation>
     </message>
     <message>
         <source>Previous keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>上一个关键帧</translation>
     </message>
     <message>
         <source>Remove %1&apos;s keyframe at the playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>移除播放头位置 %1 的关键帧</translation>
     </message>
     <message>
         <source>Add a keyframe for %1 at the playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>在播放头位置为 %1 添加关键帧</translation>
     </message>
     <message>
         <source>Next keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>下一个关键帧</translation>
     </message>
     <message>
         <source>Edit %1</source>
@@ -10173,66 +10173,66 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Click to type an exact %1</source>
-        <translation type="unfinished"></translation>
+        <translation>点击输入精确的 %1</translation>
     </message>
 </context>
 <context>
     <name>ProxyEncoder</name>
     <message>
         <source>Could not create the proxy container</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建代理容器</translation>
     </message>
     <message>
         <source>H.264 encoder not available</source>
-        <translation type="unfinished"></translation>
+        <translation>H.264 编码器不可用</translation>
     </message>
     <message>
         <source>Could not create the proxy stream</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建代理流</translation>
     </message>
     <message>
         <source>Could not allocate the proxy encoder</source>
-        <translation type="unfinished"></translation>
+        <translation>无法分配代理编码器</translation>
     </message>
     <message>
         <source>Could not open the proxy encoder</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开代理编码器</translation>
     </message>
     <message>
         <source>Could not open the proxy file for writing</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开代理文件进行写入</translation>
     </message>
     <message>
         <source>Could not write the proxy header</source>
-        <translation type="unfinished"></translation>
+        <translation>无法写入代理文件头</translation>
     </message>
     <message>
         <source>Could not allocate proxy frame buffers</source>
-        <translation type="unfinished"></translation>
+        <translation>无法分配代理帧缓冲区</translation>
     </message>
     <message>
         <source>Could not allocate the proxy frame</source>
-        <translation type="unfinished"></translation>
+        <translation>无法分配代理帧</translation>
     </message>
     <message>
         <source>Proxy writer is not open</source>
-        <translation type="unfinished"></translation>
+        <translation>代理写入器未打开</translation>
     </message>
     <message>
         <source>Could not convert a frame for the proxy encoder</source>
-        <translation type="unfinished"></translation>
+        <translation>无法为代理编码器转换帧</translation>
     </message>
     <message>
         <source>Could not make the proxy frame writable</source>
-        <translation type="unfinished"></translation>
+        <translation>无法将代理帧设为可写</translation>
     </message>
     <message>
         <source>Proxy encoder rejected a frame</source>
-        <translation type="unfinished"></translation>
+        <translation>代理编码器拒绝了一个帧</translation>
     </message>
     <message>
         <source>Failed to read an encoded proxy packet</source>
-        <translation type="unfinished"></translation>
+        <translation>无法读取已编码的代理数据包</translation>
     </message>
     <message>
         <source>Failed to write a proxy packet</source>
@@ -10645,7 +10645,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>常规</translation>
     </message>
     <message>
         <source>Choose an upscaler</source>
@@ -14713,7 +14713,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>常规</translation>
     </message>
     <message>
         <source>Before</source>
