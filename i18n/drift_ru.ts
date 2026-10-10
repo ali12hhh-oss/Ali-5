@@ -8918,15 +8918,15 @@
     </message>
     <message>
         <source>This video is under 700 pixels on its shorter side. Upscaling it with an AI model can make it look sharper.</source>
-        <translation type="unfinished"></translation>
+        <translation>Короткая сторона этого видео меньше 700 пикселей. Увеличение разрешения с помощью ИИ-модели может сделать изображение чётче.</translation>
     </message>
     <message>
         <source>This resolution is already good for most projects. You can still upscale it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Это разрешение уже подходит для большинства проектов. При желании его всё равно можно увеличить.</translation>
     </message>
     <message>
         <source>Done keeps the original video and stores this range and framing. Upscale renders them as a new video in the media bin, then opens it in the Enhance window.</source>
-        <translation type="unfinished"></translation>
+        <translation>«Готово» сохраняет исходное видео, а также выбранный диапазон и кадрирование. «Увеличить разрешение» создаёт новый видеофайл с этими параметрами в медиатеке и открывает его в окне улучшения.</translation>
     </message>
     <message>
         <source>Saving…</source>
@@ -8934,7 +8934,7 @@
     </message>
     <message>
         <source>Choose the part and framing to keep, then Next.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите нужный фрагмент и кадрирование, затем нажмите «Далее».</translation>
     </message>
     <message>
         <source>Save writes a new file over this item in the bin.</source>
@@ -8966,7 +8966,7 @@
     </message>
     <message>
         <source>Upscale…</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличить разрешение…</translation>
     </message>
     <message>
         <source>Save</source>
@@ -10388,15 +10388,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Enhancing… %1% — about %2 left</source>
-        <translation type="unfinished"></translation>
+        <translation>Улучшение… %1% — осталось примерно %2</translation>
     </message>
     <message>
         <source>Enhancing… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Улучшение… %1%</translation>
     </message>
     <message>
         <source>Enhancing this frame… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Улучшение кадра… %1%</translation>
     </message>
     <message>
         <source>Scanning frame %1 of %2…</source>
@@ -10599,23 +10599,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Enhanced — out of date, preview again</source>
-        <translation type="unfinished"></translation>
+        <translation>Улучшено — предпросмотр устарел, выполните его снова</translation>
     </message>
     <message>
         <source>Enhanced %1 × %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Улучшено до %1 × %2</translation>
     </message>
     <message>
         <source>Loading this frame…</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка кадра…</translation>
     </message>
     <message>
         <source>Working…</source>
-        <translation type="unfinished">Обработка…</translation>
+        <translation>Выполняется…</translation>
     </message>
     <message>
         <source>Choose models, then Preview to compare this frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите модели, затем нажмите «Предпросмотр», чтобы сравнить этот кадр</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -10631,11 +10631,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Preview one frame, then enhance the whole video. The result is added to the media bin. Enhancing is slow — minutes per second of video without a GPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сначала просмотрите один кадр, затем улучшите всё видео. Результат будет добавлен в медиатеку. Без графического процессора обработка медленная — несколько минут на секунду видео.</translation>
     </message>
     <message>
         <source>Preview one frame, then enhance the part of the clip used on the timeline. The result is added to the media bin. Enhancing is slow — minutes per second of video without a GPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сначала просмотрите один кадр, затем улучшите часть клипа, используемую на шкале времени. Результат будет добавлен в медиатеку. Без графического процессора обработка может занимать несколько минут на секунду видео.</translation>
     </message>
     <message>
         <source>Remove compression</source>
@@ -10651,15 +10651,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source> — larger than 4K, which is slow to edit and export</source>
-        <translation type="unfinished"></translation>
+        <translation>— выше 4K, поэтому монтаж и экспорт будут медленнее</translation>
     </message>
     <message>
         <source>Up to about %1 on this computer&apos;s CPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>До примерно %1 на процессоре этого компьютера.</translation>
     </message>
     <message>
         <source>Up to about %1 on a typical laptop CPU. Preview a frame for an estimate for this computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>До примерно %1 на процессоре обычного ноутбука. Просмотрите кадр, чтобы оценить скорость на этом компьютере.</translation>
     </message>
     <message>
         <source>Preview this frame</source>
@@ -10691,7 +10691,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Speeds are per frame of this clip. Custom models are experimental and may not work. Drop an ONNX export (fp32 or fp16, RGB, 1x/2x/4x) into the folder; put the scale in the file name, e.g. &quot;2x_Name.onnx&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Скорость указана на кадр этого клипа. Пользовательские модели экспериментальны и могут не работать. Поместите в папку экспорт ONNX (fp32 или fp16, RGB, 1x/2x/4x), указав масштаб в имени файла, например "2x_Name.onnx".</translation>
     </message>
     <message>
         <source>Refresh model list</source>
