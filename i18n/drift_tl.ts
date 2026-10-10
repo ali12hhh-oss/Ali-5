@@ -10651,11 +10651,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source> — larger than 4K, which is slow to edit and export</source>
-        <translation type="unfinished"></translation>
+        <translation>— mas mataas sa 4K, kaya mabagal i-edit at i-export</translation>
     </message>
     <message>
         <source>Up to about %1 on this computer&apos;s CPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hanggang humigit-kumulang %1 sa CPU ng computer na ito.</translation>
     </message>
     <message>
         <source>Up to about %1 on a typical laptop CPU. Preview a frame for an estimate for this computer.</source>
@@ -10691,7 +10691,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Speeds are per frame of this clip. Custom models are experimental and may not work. Drop an ONNX export (fp32 or fp16, RGB, 1x/2x/4x) into the folder; put the scale in the file name, e.g. &quot;2x_Name.onnx&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang bilis ay bawat frame ng clip na ito. Eksperimental ang mga custom model at maaaring hindi gumana. Ilagay ang ONNX export (fp32 o fp16, RGB, 1x/2x/4x) sa folder; ilagay ang scale sa filename, hal. "2x_Name.onnx".</translation>
     </message>
     <message>
         <source>Refresh model list</source>
@@ -10983,7 +10983,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Cut out &amp; apply effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihiwalay at ilapat ang epekto</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -11109,7 +11109,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Choose which graphics card Drift runs on in Windows Settings, under Display &gt; Graphics. Takes effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Piliin ang graphics card ng Drift sa Windows Settings, sa ilalim ng Display &gt; Graphics. Magkakabisa pagkatapos mag-restart.</translation>
     </message>
     <message>
         <source>Open graphics settings</source>
@@ -11245,7 +11245,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Keys are stored unencrypted in Drift&apos;s settings. ELEVENLABS_API_KEY and FISH_API_KEY in the environment take precedence. Use is billed to your own account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nakaimbak nang hindi naka-encrypt ang mga key sa settings ng Drift. Mas inuuna ang ELEVENLABS_API_KEY at FISH_API_KEY sa environment. Sisingilin sa sarili mong account ang paggamit.</translation>
     </message>
     <message>
         <source>Transcription (Scribe), voiceover, sound effects</source>
@@ -11886,7 +11886,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>s / </source>
-        <translation type="unfinished"></translation>
+        <translation>s /</translation>
     </message>
     <message>
         <source>s</source>
@@ -11894,7 +11894,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>s → </source>
-        <translation type="unfinished"></translation>
+        <translation>s →</translation>
     </message>
     <message>
         <source>Add point</source>
@@ -11965,7 +11965,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source> (reversed)</source>
-        <translation type="unfinished"></translation>
+        <translation>(binaliktad)</translation>
     </message>
     <message>
         <source>Reverse</source>
@@ -12398,7 +12398,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Offset the exported captions by this clip&apos;s start so they match the exported video</source>
-        <translation type="unfinished"></translation>
+        <translation>I-offset ang mga na-export na caption ayon sa simula ng clip na ito upang tumugma sa na-export na video</translation>
     </message>
     <message>
         <source>(empty)</source>
@@ -12524,7 +12524,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Create captions from the selected clips&apos; speech — several clips become one caption clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumawa ng caption mula sa pananalita ng mga napiling clip — magiging isang caption clip ang maraming clip</translation>
     </message>
     <message>
         <source>Select a video or audio clip first</source>
@@ -12672,7 +12672,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Choose the gradient&apos;s first colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng unang kulay ng gradient</translation>
     </message>
     <message>
         <source>Edits the first gradient stop</source>
@@ -12684,7 +12684,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Aa</source>
-        <translation type="unfinished"></translation>
+        <translation>Aa</translation>
     </message>
     <message>
         <source>None</source>
@@ -13016,7 +13016,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Save this text&apos;s style as a reusable preset</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save ang estilo ng text na ito bilang preset na magagamit muli</translation>
     </message>
     <message>
         <source>Effect</source>
@@ -13183,7 +13183,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Aa</source>
-        <translation type="unfinished"></translation>
+        <translation>Aa</translation>
     </message>
     <message>
         <source>Text effect</source>
@@ -13809,7 +13809,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Add transform layer — moves the selected clips&apos; tracks as one</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng transform layer — sabay na ililipat ang mga track ng napiling clip</translation>
     </message>
     <message>
         <source>Main</source>
@@ -14008,31 +14008,31 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>TF</source>
-        <translation type="unfinished"></translation>
+        <translation>TF</translation>
     </message>
     <message>
         <source>FX</source>
-        <translation type="unfinished"></translation>
+        <translation>FX</translation>
     </message>
     <message>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
     <message>
         <source>T</source>
-        <translation type="unfinished"></translation>
+        <translation>T</translation>
     </message>
     <message>
         <source>S</source>
-        <translation type="unfinished"></translation>
+        <translation>S</translation>
     </message>
     <message>
         <source>G</source>
-        <translation type="unfinished"></translation>
+        <translation>G</translation>
     </message>
     <message>
         <source>V</source>
-        <translation type="unfinished"></translation>
+        <translation>V</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -14263,7 +14263,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Measured inside %1&apos;s frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinusukat sa loob ng frame ng %1</translation>
     </message>
     <message>
         <source>Size (px)</source>
@@ -14287,7 +14287,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Opacity &amp; rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacity at pag-ikot</translation>
     </message>
     <message>
         <source>Rotate 90°</source>
@@ -14339,7 +14339,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Gizmo follows the clip&apos;s own edges and face, however it is turned</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinusundan ng gizmo ang sariling mga gilid at mukha ng clip, anuman ang ikot nito</translation>
     </message>
     <message>
         <source>Flip</source>
@@ -14355,7 +14355,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Reset position &amp; size</source>
-        <translation type="unfinished"></translation>
+        <translation>I-reset ang posisyon at laki</translation>
     </message>
     <message>
         <source>Reset position</source>
@@ -14375,7 +14375,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Corrects the source&apos;s own rotation losslessly — unlike Angle above, this changes decoding, not just the on-screen box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Itinatama nang walang pagkawala ang sariling pag-ikot ng source — hindi tulad ng Angle sa itaas, binabago nito ang decoding, hindi lang ang kahon sa screen.</translation>
     </message>
 </context>
 <context>
@@ -14503,19 +14503,19 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Grid &amp; Geometric</source>
-        <translation type="unfinished"></translation>
+        <translation>Grid at geometric</translation>
     </message>
     <message>
         <source>Particle &amp; Liquid</source>
-        <translation type="unfinished"></translation>
+        <translation>Particle at liquid</translation>
     </message>
     <message>
         <source>Glitch &amp; Digital</source>
-        <translation type="unfinished"></translation>
+        <translation>Glitch at digital</translation>
     </message>
     <message>
         <source>Stylized &amp; Cinematic</source>
-        <translation type="unfinished"></translation>
+        <translation>Stylized at cinematic</translation>
     </message>
     <message>
         <source>Other</source>
@@ -14672,7 +14672,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Don&apos;t Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Huwag i-save</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -14722,7 +14722,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Don&apos;t mention %1 again. Later releases are still announced.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huwag nang banggitin muli ang %1. Ia-anunsyo pa rin ang mga susunod na release.</translation>
     </message>
     <message>
         <source>Later</source>
@@ -14772,7 +14772,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>VectorInspector</name>
     <message>
         <source>Toggle %1&apos;s keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>I-toggle ang mga keyframe ng %1</translation>
     </message>
     <message>
         <source>Key %1 at the playhead</source>
@@ -14784,7 +14784,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Back to the drawing&apos;s own %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Bumalik sa sariling %1 ng drawing</translation>
     </message>
     <message>
         <source>Replace Animation</source>
@@ -14900,7 +14900,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source> (defs)</source>
-        <translation type="unfinished"></translation>
+        <translation>(defs)</translation>
     </message>
     <message>
         <source>Which part of the drawing the rows below restyle</source>
@@ -15211,7 +15211,9 @@ Hindi ma-render ang video preview at maaaring hindi magsimula ang Drift. I-updat
         <source>Drift has been running for %1 seconds but its window has not drawn anything yet.
 
 If the window is blank or black, your graphics driver is most likely outdated or faulty. Update it from your GPU vendor&apos;s website (AMD, NVIDIA or Intel) and start Drift again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tumatakbo na ang Drift nang %1 segundo ngunit wala pang ipinapakita ang window.
+
+Kung blangko o itim ang window, malamang luma o may sira ang graphics driver. I-update ito mula sa website ng gumawa ng GPU (AMD, NVIDIA o Intel) at buksan muli ang Drift.</translation>
     </message>
 </context>
 </TS>
