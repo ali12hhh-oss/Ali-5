@@ -2606,7 +2606,10 @@
     </message>
     <message numerus="yes">
         <source>%n media items and referenced clips removed</source>
-        <translation>Foram removidos %n itens multimédia e clips referenciados</translation>
+        <translation>
+            <numerusform>Foram removidos %n itens multimédia e clips referenciados</numerusform>
+            <numerusform>Foram removidos %n itens multimédia e clips referenciados</numerusform>
+        </translation>
     </message>
     <message>
         <source>Media and referenced clip removed</source>
@@ -6090,7 +6093,10 @@
     </message>
     <message numerus="yes">
         <source>Downloads — %n running</source>
-        <translation>Transferências — %n em curso</translation>
+        <translation>
+            <numerusform>Transferências — %n em curso</numerusform>
+            <numerusform>Transferências — %n em curso</numerusform>
+        </translation>
     </message>
     <message>
         <source>Downloads</source>
@@ -8663,7 +8669,10 @@
     </message>
     <message numerus="yes">
         <source>Create %n proxies</source>
-        <translation>Criar %n proxies</translation>
+        <translation>
+            <numerusform>Criar %n proxies</numerusform>
+            <numerusform>Criar %n proxies</numerusform>
+        </translation>
     </message>
     <message>
         <source>Create proxy</source>
@@ -8671,7 +8680,10 @@
     </message>
     <message numerus="yes">
         <source>Remove %n proxies</source>
-        <translation>Remover %n proxies</translation>
+        <translation>
+            <numerusform>Remover %n proxies</numerusform>
+            <numerusform>Remover %n proxies</numerusform>
+        </translation>
     </message>
     <message>
         <source>Remove proxy</source>
@@ -8727,7 +8739,10 @@
     </message>
     <message numerus="yes">
         <source>Add %n items to timeline</source>
-        <translation>Adicionar %n elementos à linha temporal</translation>
+        <translation>
+            <numerusform>Adicionar %n elementos à linha temporal</numerusform>
+            <numerusform>Adicionar %n elementos à linha temporal</numerusform>
+        </translation>
     </message>
     <message>
         <source>Add to timeline</source>
@@ -8746,7 +8761,10 @@
     </message>
     <message numerus="yes">
         <source>Remove %n items from project</source>
-        <translation>Remover %n elementos do projeto</translation>
+        <translation>
+            <numerusform>Remover %n elementos do projeto</numerusform>
+            <numerusform>Remover %n elementos do projeto</numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -8826,7 +8844,10 @@
     </message>
     <message numerus="yes">
         <source>Could not import any of the %n selected files.</source>
-        <translation>Não foi possível importar nenhum dos %n ficheiros selecionados.</translation>
+        <translation>
+            <numerusform>Não foi possível importar nenhum dos %n ficheiros selecionados.</numerusform>
+            <numerusform>Não foi possível importar nenhum dos %n ficheiros selecionados.</numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -12173,7 +12194,10 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message numerus="yes">
         <source>Filters — %n applied</source>
-        <translation>Filtros — %n aplicados</translation>
+        <translation>
+            <numerusform>Filtros — %n aplicados</numerusform>
+            <numerusform>Filtros — %n aplicados</numerusform>
+        </translation>
     </message>
     <message>
         <source>Filters</source>
@@ -14422,7 +14446,10 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message numerus="yes">
         <source>+%n more</source>
-        <translation>Mais %n</translation>
+        <translation>
+            <numerusform>Mais %n</numerusform>
+            <numerusform>Mais %n</numerusform>
+        </translation>
     </message>
 </context>
 <context>
