@@ -3680,9 +3680,9 @@
     </message>
     <message numerus="yes">
         <source>Created %n text clips</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>已创建 %n 个文本片段</numerusform>
+            <numerusform>已创建 %n 个文本片段</numerusform>
         </translation>
     </message>
     <message>
@@ -3893,9 +3893,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>已导入 %n 个面部道具</numerusform>
+            <numerusform>已导入 %n 个面部道具</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -4022,9 +4022,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted attributes onto %n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>已将属性粘贴到 %n 个片段</numerusform>
+            <numerusform>已将属性粘贴到 %n 个片段</numerusform>
         </translation>
     </message>
     <message>
@@ -4189,9 +4189,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted %n clips</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>已粘贴 %n 个片段</numerusform>
+            <numerusform>已粘贴 %n 个片段</numerusform>
         </translation>
     </message>
     <message>
@@ -6059,9 +6059,9 @@
     </message>
     <message numerus="yes">
         <source>Downloads — %n running</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>下载 — 正在进行 %n 项</numerusform>
+            <numerusform>下载 — 正在进行 %n 项</numerusform>
         </translation>
     </message>
     <message>
@@ -8634,9 +8634,9 @@
     </message>
     <message numerus="yes">
         <source>Create %n proxies</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>创建 %n 个代理文件</numerusform>
+            <numerusform>创建 %n 个代理文件</numerusform>
         </translation>
     </message>
     <message>
@@ -8645,9 +8645,9 @@
     </message>
     <message numerus="yes">
         <source>Remove %n proxies</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>移除 %n 个代理文件</numerusform>
+            <numerusform>移除 %n 个代理文件</numerusform>
         </translation>
     </message>
     <message>
@@ -8704,9 +8704,9 @@
     </message>
     <message numerus="yes">
         <source>Add %n items to timeline</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>将 %n 个项目添加到时间轴</numerusform>
+            <numerusform>将 %n 个项目添加到时间轴</numerusform>
         </translation>
     </message>
     <message>
@@ -8715,9 +8715,9 @@
     </message>
     <message numerus="yes">
         <source>Move %n items to folder…</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>将 %n 个项目移动到文件夹…</numerusform>
+            <numerusform>将 %n 个项目移动到文件夹…</numerusform>
         </translation>
     </message>
     <message>
@@ -8726,9 +8726,9 @@
     </message>
     <message numerus="yes">
         <source>Remove %n items from project</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>从项目中移除 %n 个项目</numerusform>
+            <numerusform>从项目中移除 %n 个项目</numerusform>
         </translation>
     </message>
 </context>
@@ -8806,9 +8806,9 @@
     </message>
     <message numerus="yes">
         <source>Could not import any of the %n selected files.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>无法导入所选的 %n 个文件。</numerusform>
+            <numerusform>无法导入所选的 %n 个文件。</numerusform>
         </translation>
     </message>
 </context>
@@ -12143,9 +12143,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>Filters — %n applied</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>滤镜 — 已应用 %n 个</numerusform>
+            <numerusform>滤镜 — 已应用 %n 个</numerusform>
         </translation>
     </message>
     <message>
@@ -13936,9 +13936,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>This removes the track and its %n clips. You can undo afterwards.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>这将删除该轨道及其 %n 个片段。之后可以撤销。</numerusform>
+            <numerusform>这将删除该轨道及其 %n 个片段。之后可以撤销。</numerusform>
         </translation>
     </message>
     <message>
@@ -14393,9 +14393,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>+%n more</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>另有 %n 项</numerusform>
+            <numerusform>另有 %n 项</numerusform>
         </translation>
     </message>
 </context>
