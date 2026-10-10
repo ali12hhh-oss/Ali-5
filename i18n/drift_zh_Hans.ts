@@ -8552,71 +8552,71 @@
     </message>
     <message>
         <source>Vector</source>
-        <translation type="unfinished"></translation>
+        <translation>矢量</translation>
     </message>
     <message>
         <source>3D</source>
-        <translation type="unfinished"></translation>
+        <translation>3D</translation>
     </message>
     <message>
         <source>Search media</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索媒体</translation>
     </message>
     <message>
         <source>Grid view</source>
-        <translation type="unfinished"></translation>
+        <translation>网格视图</translation>
     </message>
     <message>
         <source>List view</source>
-        <translation type="unfinished"></translation>
+        <translation>列表视图</translation>
     </message>
     <message>
         <source>Tree view</source>
-        <translation type="unfinished"></translation>
+        <translation>树状视图</translation>
     </message>
     <message>
         <source>Sort by name</source>
-        <translation type="unfinished"></translation>
+        <translation>按名称排序</translation>
     </message>
     <message>
         <source>Sort by type</source>
-        <translation type="unfinished"></translation>
+        <translation>按类型排序</translation>
     </message>
     <message>
         <source>Expand all</source>
-        <translation type="unfinished"></translation>
+        <translation>全部展开</translation>
     </message>
     <message>
         <source>Collapse all</source>
-        <translation type="unfinished"></translation>
+        <translation>全部折叠</translation>
     </message>
     <message>
         <source>No media match “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>没有与“%1”匹配的媒体</translation>
     </message>
     <message>
         <source>Try a different name.</source>
-        <translation type="unfinished"></translation>
+        <translation>请尝试其他名称。</translation>
     </message>
     <message>
         <source>Creating proxy for %1 (%2 more)</source>
-        <translation type="unfinished"></translation>
+        <translation>正在为 %1 创建代理文件（还有 %2 个）</translation>
     </message>
     <message>
         <source>Creating proxy for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>正在为 %1 创建代理文件</translation>
     </message>
     <message>
         <source>Stop creating proxies</source>
-        <translation type="unfinished"></translation>
+        <translation>停止创建代理文件</translation>
     </message>
     <message>
         <source>Converting %1 to an edit-friendly format</source>
-        <translation type="unfinished"></translation>
+        <translation>正在将 %1 转换为便于编辑的格式</translation>
     </message>
     <message>
         <source>Stop converting</source>
-        <translation type="unfinished"></translation>
+        <translation>停止转换</translation>
     </message>
     <message>
         <source>Rename…</source>
@@ -8624,7 +8624,7 @@
     </message>
     <message>
         <source>%1 — drag to the timeline, right-click to preview</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 — 拖到时间轴，右键单击以预览</translation>
     </message>
     <message>
         <source>Open composite</source>
@@ -8632,15 +8632,15 @@
     </message>
     <message>
         <source>Preview and edit…</source>
-        <translation type="unfinished"></translation>
+        <translation>预览并编辑…</translation>
     </message>
     <message>
         <source>Trim, crop and upscale…</source>
-        <translation type="unfinished"></translation>
+        <translation>修剪、裁剪并提升分辨率…</translation>
     </message>
     <message>
         <source>Replace media…</source>
-        <translation type="unfinished"></translation>
+        <translation>替换媒体…</translation>
     </message>
     <message numerus="yes">
         <source>Create %n proxies</source>
@@ -8651,7 +8651,7 @@
     </message>
     <message>
         <source>Create proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>创建代理文件</translation>
     </message>
     <message numerus="yes">
         <source>Remove %n proxies</source>
@@ -8662,15 +8662,15 @@
     </message>
     <message>
         <source>Remove proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>移除代理文件</translation>
     </message>
     <message>
         <source>Export image…</source>
-        <translation type="unfinished"></translation>
+        <translation>导出图像…</translation>
     </message>
     <message>
         <source>Remove from project</source>
-        <translation type="unfinished"></translation>
+        <translation>从项目中移除</translation>
     </message>
     <message>
         <source>Proxy</source>
@@ -12122,7 +12122,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Try a different name.</source>
-        <translation type="unfinished"></translation>
+        <translation>请尝试其他名称。</translation>
     </message>
     <message>
         <source>Star stickers to save them here.</source>
@@ -14595,7 +14595,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Try a different name.</source>
-        <translation type="unfinished"></translation>
+        <translation>请尝试其他名称。</translation>
     </message>
     <message>
         <source>Star transitions to save them here.</source>
