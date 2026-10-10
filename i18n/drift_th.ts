@@ -4382,47 +4382,47 @@
     </message>
     <message>
         <source>By word</source>
-        <translation type="unfinished"></translation>
+        <translation>ตามคำ</translation>
     </message>
     <message>
         <source>Kinetic</source>
-        <translation type="unfinished"></translation>
+        <translation>จลนศาสตร์</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>สว่าง</translation>
     </message>
     <message>
         <source>Colour</source>
-        <translation type="unfinished"></translation>
+        <translation>สี</translation>
     </message>
     <message>
         <source>Hold</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้างไว้</translation>
     </message>
     <message>
         <source>Imported</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าแล้ว</translation>
     </message>
     <message>
         <source>Apply text look</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้รูปแบบข้อความ</translation>
     </message>
     <message>
         <source>Look applied</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้รูปแบบแล้ว</translation>
     </message>
     <message>
         <source>Adjust text look</source>
-        <translation type="unfinished"></translation>
+        <translation>ปรับรูปแบบข้อความ</translation>
     </message>
     <message>
         <source>Look updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตรูปแบบแล้ว</translation>
     </message>
     <message>
         <source>Apply caption style</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้รูปแบบคำบรรยาย</translation>
     </message>
     <message numerus="yes">
         <source>Applied to %n caption clip(s)</source>
@@ -4432,91 +4432,91 @@
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>สีแดง</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>สีเขียว</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>สีน้ำเงิน</translation>
     </message>
     <message>
         <source>Alpha</source>
-        <translation type="unfinished"></translation>
+        <translation>อัลฟา</translation>
     </message>
     <message>
         <source>Could not unpack the bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>แตกไฟล์แพ็กเกจไม่ได้</translation>
     </message>
     <message>
         <source>Could not read %1</source>
-        <translation type="unfinished"></translation>
+        <translation>อ่าน %1 ไม่ได้</translation>
     </message>
     <message>
         <source>Nothing to import</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีสิ่งใดให้นำเข้า</translation>
     </message>
     <message>
         <source>Could not save the preset</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกพรีเซ็ตไม่ได้</translation>
     </message>
     <message>
         <source>Nudge selection</source>
-        <translation type="unfinished"></translation>
+        <translation>ขยับรายการที่เลือกเล็กน้อย</translation>
     </message>
     <message>
         <source>Selection nudged</source>
-        <translation type="unfinished"></translation>
+        <translation>ขยับรายการที่เลือกแล้ว</translation>
     </message>
     <message>
         <source>That save location isn’t valid</source>
-        <translation type="unfinished"></translation>
+        <translation>ตำแหน่งบันทึกไม่ถูกต้อง</translation>
     </message>
     <message>
         <source>Already saving</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังบันทึกอยู่แล้ว</translation>
     </message>
     <message>
         <source>Project saved</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกโปรเจกต์แล้ว</translation>
     </message>
     <message>
         <source>Shareable copy ready</source>
-        <translation type="unfinished"></translation>
+        <translation>สำเนาสำหรับแชร์พร้อมแล้ว</translation>
     </message>
     <message>
         <source>That project location isn’t valid</source>
-        <translation type="unfinished"></translation>
+        <translation>ตำแหน่งโปรเจกต์ไม่ถูกต้อง</translation>
     </message>
     <message>
         <source>Project loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>โหลดโปรเจกต์แล้ว</translation>
     </message>
     <message>
         <source>Unpacking project media…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังแตกไฟล์สื่อของโปรเจกต์…</translation>
     </message>
     <message>
         <source>No recovery file found</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พบไฟล์กู้คืน</translation>
     </message>
     <message>
         <source>Recovered unsaved work</source>
-        <translation type="unfinished"></translation>
+        <translation>กู้คืนงานที่ยังไม่ได้บันทึกแล้ว</translation>
     </message>
     <message>
         <source>Started new session</source>
-        <translation type="unfinished"></translation>
+        <translation>เริ่มเซสชันใหม่แล้ว</translation>
     </message>
     <message>
         <source>Export already in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังส่งออกอยู่แล้ว</translation>
     </message>
     <message>
         <source>Export complete</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกเสร็จแล้ว</translation>
     </message>
     <message>
         <source>Close gap</source>
@@ -4524,11 +4524,11 @@
     </message>
     <message>
         <source>Folder created</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างโฟลเดอร์แล้ว</translation>
     </message>
     <message>
         <source>Folder renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อโฟลเดอร์แล้ว</translation>
     </message>
     <message>
         <source>Folder deleted</source>
@@ -6086,7 +6086,7 @@
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>สว่าง</translation>
     </message>
     <message>
         <source>Dark</source>
@@ -6146,7 +6146,7 @@
     </message>
     <message>
         <source>Export already in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังส่งออกอยู่แล้ว</translation>
     </message>
     <message>
         <source>Multicam</source>
@@ -9350,7 +9350,7 @@
     </message>
     <message>
         <source>Colour</source>
-        <translation type="unfinished"></translation>
+        <translation>สี</translation>
     </message>
     <message>
         <source>Choose the paint colour</source>
@@ -11450,7 +11450,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Colour</source>
-        <translation type="unfinished"></translation>
+        <translation>สี</translation>
     </message>
     <message>
         <source>Choose the layer colour</source>
@@ -12615,7 +12615,7 @@ If playback stutters, try another.</source>
     <name>TextInspector</name>
     <message>
         <source>Colour</source>
-        <translation type="unfinished"></translation>
+        <translation>สี</translation>
     </message>
     <message>
         <source>Choose the gradient&apos;s first colour</source>
@@ -12807,7 +12807,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Adjust text look</source>
-        <translation type="unfinished"></translation>
+        <translation>ปรับรูปแบบข้อความ</translation>
     </message>
     <message>
         <source>Layers</source>
@@ -13216,19 +13216,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>สีแดง</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>สีเขียว</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>สีน้ำเงิน</translation>
     </message>
     <message>
         <source>Alpha</source>
-        <translation type="unfinished"></translation>
+        <translation>อัลฟา</translation>
     </message>
     <message>
         <source>Gradient angle</source>
