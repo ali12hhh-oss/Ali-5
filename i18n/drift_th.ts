@@ -10500,50 +10500,50 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Save with media…</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกพร้อมสื่อ…</translation>
     </message>
     <message>
         <source>Save as JSON…</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกเป็น JSON…</translation>
     </message>
     <message>
         <source>Open JSON…</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิด JSON…</translation>
     </message>
     <message>
         <source>Project properties…</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณสมบัติโปรเจกต์…</translation>
     </message>
     <message>
         <source>Close project</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดโปรเจกต์</translation>
     </message>
 </context>
 <context>
     <name>RecoveryDialog</name>
     <message>
         <source>Unsaved work from last session</source>
-        <translation type="unfinished"></translation>
+        <translation>งานที่ยังไม่ได้บันทึกจากเซสชันก่อนหน้า</translation>
     </message>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>กู้คืน</translation>
     </message>
     <message>
         <source>New session</source>
-        <translation type="unfinished"></translation>
+        <translation>เซสชันใหม่</translation>
     </message>
     <message>
         <source>Your last session had unsaved changes. You can restore them or start a new empty session.</source>
-        <translation type="unfinished"></translation>
+        <translation>เซสชันก่อนหน้ามีการเปลี่ยนแปลงที่ยังไม่ได้บันทึก คุณสามารถกู้คืนหรือเริ่มเซสชันว่างใหม่ได้</translation>
     </message>
     <message>
         <source>Untitled project</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรเจกต์ไม่มีชื่อ</translation>
     </message>
     <message>
         <source>Auto-saved: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกอัตโนมัติแล้ว: %1</translation>
     </message>
 </context>
 <context>
@@ -10558,7 +10558,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>%1 (custom, experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (กำหนดเอง, ทดลอง)</translation>
     </message>
     <message>
         <source>Original</source>
@@ -10566,23 +10566,23 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Enhanced — out of date, preview again</source>
-        <translation type="unfinished"></translation>
+        <translation>ผลการปรับปรุงล้าสมัยแล้ว โปรดดูตัวอย่างอีกครั้ง</translation>
     </message>
     <message>
         <source>Enhanced %1 × %2</source>
-        <translation type="unfinished"></translation>
+        <translation>ปรับปรุงแล้ว %1 × %2</translation>
     </message>
     <message>
         <source>Loading this frame…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังโหลดเฟรมนี้…</translation>
     </message>
     <message>
         <source>Working…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังดำเนินการ…</translation>
     </message>
     <message>
         <source>Choose models, then Preview to compare this frame</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกโมเดล แล้วกดแสดงตัวอย่างเพื่อเปรียบเทียบเฟรมนี้</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -10610,11 +10610,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Upscale</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มความละเอียด</translation>
     </message>
     <message>
         <source>Output: %1 × %2</source>
-        <translation type="unfinished"></translation>
+        <translation>ผลลัพธ์: %1 × %2</translation>
     </message>
     <message>
         <source> — larger than 4K, which is slow to edit and export</source>
@@ -10634,15 +10634,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Anime and drawings</source>
-        <translation type="unfinished"></translation>
+        <translation>อนิเมะและภาพวาด</translation>
     </message>
     <message>
         <source>Live action</source>
-        <translation type="unfinished"></translation>
+        <translation>ภาพคนแสดงจริง</translation>
     </message>
     <message>
         <source>3D animation and games</source>
-        <translation type="unfinished"></translation>
+        <translation>แอนิเมชัน 3 มิติและเกม</translation>
     </message>
     <message>
         <source>General</source>
@@ -10670,7 +10670,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>under a second</source>
-        <translation type="unfinished"></translation>
+        <translation>น้อยกว่าหนึ่งวินาที</translation>
     </message>
     <message>
         <source>%1 s</source>
@@ -10686,11 +10686,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>%1 s per frame</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 วินาทีต่อเฟรม</translation>
     </message>
     <message>
         <source>No upscaling</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่เพิ่มความละเอียด</translation>
     </message>
     <message>
         <source>Keep the original size.</source>
@@ -10721,15 +10721,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     <name>ReverseProgressDialog</name>
     <message>
         <source>Reversing clip</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังย้อนคลิป</translation>
     </message>
     <message>
         <source>Reverse clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้อนคลิป</translation>
     </message>
     <message>
         <source>Working…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังดำเนินการ…</translation>
     </message>
     <message>
         <source>Drift will render a reversed copy of this clip so it plays back smoothly. You can keep editing while it runs.</source>
@@ -10757,14 +10757,14 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Reverse</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้อนกลับ</translation>
     </message>
 </context>
 <context>
     <name>ReverseRenderer</name>
     <message>
         <source>Nothing to reverse</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีเนื้อหาให้ย้อนกลับ</translation>
     </message>
     <message>
         <source>Could not allocate decode buffers</source>
@@ -10772,7 +10772,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Reversing cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการย้อนคลิปแล้ว</translation>
     </message>
     <message>
         <source>No frames could be decoded from this clip</source>
@@ -10787,11 +10787,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Find scenes</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหาฉาก</translation>
     </message>
     <message>
         <source>Scan the selected clip for shot boundaries</source>
-        <translation type="unfinished"></translation>
+        <translation>สแกนคลิปที่เลือกเพื่อหาจุดเปลี่ยนช็อต</translation>
     </message>
     <message>
         <source>Select a video clip first</source>
@@ -10803,7 +10803,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Identify objects</source>
-        <translation type="unfinished"></translation>
+        <translation>ระบุวัตถุ</translation>
     </message>
     <message>
         <source>Also label each shot with what is in it. Slower.</source>
@@ -10815,11 +10815,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Sensitivity</source>
-        <translation type="unfinished"></translation>
+        <translation>ความไว</translation>
     </message>
     <message>
         <source>Scene detection sensitivity</source>
-        <translation type="unfinished"></translation>
+        <translation>ความไวในการตรวจจับฉาก</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -10827,11 +10827,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Most active first</source>
-        <translation type="unfinished"></translation>
+        <translation>เรียงฉากที่มีการเคลื่อนไหวมากที่สุดก่อน</translation>
     </message>
     <message>
         <source>In order</source>
-        <translation type="unfinished"></translation>
+        <translation>ตามลำดับ</translation>
     </message>
     <message>
         <source>Switch between timeline order and activity ranking</source>
@@ -10839,7 +10839,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>%1 scenes</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ฉาก</translation>
     </message>
     <message>
         <source>These scenes are from another clip. Select it again, or run Find scenes on the current one.</source>
@@ -10847,11 +10847,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>No scenes yet</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่มีฉาก</translation>
     </message>
     <message>
         <source>No video clip selected</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่ได้เลือกคลิปวิดีโอ</translation>
     </message>
     <message>
         <source>Run Find scenes to split this clip into its shots.</source>
@@ -11936,7 +11936,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Reverse</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้อนกลับ</translation>
     </message>
     <message>
         <source>Not rendered — playback may stutter</source>
@@ -12434,7 +12434,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Working…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังดำเนินการ…</translation>
     </message>
     <message>
         <source>This can take a few minutes on longer clips.</source>
@@ -13366,7 +13366,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     <name>ThemedDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>ตกลง</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -14630,7 +14630,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Untitled project</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรเจกต์ไม่มีชื่อ</translation>
     </message>
     <message>
         <source>Don&apos;t Save</source>
@@ -14703,15 +14703,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     <name>UpscaleModelCard</name>
     <message>
         <source>Anime and drawings</source>
-        <translation type="unfinished"></translation>
+        <translation>อนิเมะและภาพวาด</translation>
     </message>
     <message>
         <source>Live action</source>
-        <translation type="unfinished"></translation>
+        <translation>ภาพคนแสดงจริง</translation>
     </message>
     <message>
         <source>3D animation and games</source>
-        <translation type="unfinished"></translation>
+        <translation>แอนิเมชัน 3 มิติและเกม</translation>
     </message>
     <message>
         <source>General</source>
