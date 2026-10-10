@@ -4001,19 +4001,19 @@
     </message>
     <message>
         <source>Audio effect copied</source>
-        <translation type="unfinished"></translation>
+        <translation>Nakopya ang audio effect</translation>
     </message>
     <message>
         <source>Effects copied</source>
-        <translation type="unfinished"></translation>
+        <translation>Nakopya ang mga effect</translation>
     </message>
     <message>
         <source>This clip has no effects to copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang effect ang clip na ito na maaaring kopyahin</translation>
     </message>
     <message>
         <source>No effects on the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang effect sa clipboard</translation>
     </message>
     <message>
         <source>Paste effects</source>
@@ -4021,11 +4021,11 @@
     </message>
     <message>
         <source>Copy a clip and select target clips first</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopyahin muna ang clip at piliin ang mga target na clip</translation>
     </message>
     <message>
         <source>Paste attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>I-paste ang mga attribute</translation>
     </message>
     <message numerus="yes">
         <source>Pasted attributes onto %n clip(s)</source>
@@ -4092,83 +4092,83 @@
     </message>
     <message>
         <source>Track mute</source>
-        <translation type="unfinished"></translation>
+        <translation>I-mute ang track</translation>
     </message>
     <message>
         <source>Track muted</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-mute ang track</translation>
     </message>
     <message>
         <source>Track unmuted</source>
-        <translation type="unfinished"></translation>
+        <translation>Inalis sa mute ang track</translation>
     </message>
     <message>
         <source>Track visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibility ng track</translation>
     </message>
     <message>
         <source>Track hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Nakatago ang track</translation>
     </message>
     <message>
         <source>Track shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Ipinakita ang track</translation>
     </message>
     <message>
         <source>Move track</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilipat ang track</translation>
     </message>
     <message>
         <source>Track moved</source>
-        <translation type="unfinished"></translation>
+        <translation>Inilipat ang track</translation>
     </message>
     <message>
         <source>Delete track</source>
-        <translation type="unfinished"></translation>
+        <translation>Burahin ang track</translation>
     </message>
     <message>
         <source>Track deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabura ang track</translation>
     </message>
     <message>
         <source>Add track</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng track</translation>
     </message>
     <message>
         <source>Track added</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagdagdag ng track</translation>
     </message>
     <message>
         <source>Work area in marked</source>
-        <translation type="unfinished"></translation>
+        <translation>Namarkahan ang in point ng work area</translation>
     </message>
     <message>
         <source>Work area out marked</source>
-        <translation type="unfinished"></translation>
+        <translation>Namarkahan ang out point ng work area</translation>
     </message>
     <message>
         <source>Work area cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-clear ang work area</translation>
     </message>
     <message>
         <source>Add bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng bookmark</translation>
     </message>
     <message>
         <source>Bookmark added</source>
-        <translation type="unfinished"></translation>
+        <translation>Naidagdag ang bookmark</translation>
     </message>
     <message>
         <source>Remove bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang bookmark</translation>
     </message>
     <message>
         <source>Bookmark removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Naalis ang bookmark</translation>
     </message>
     <message>
         <source>Edit bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>I-edit ang bookmark</translation>
     </message>
     <message>
         <source>Bookmark updated</source>
@@ -13965,7 +13965,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Delete track</source>
-        <translation type="unfinished"></translation>
+        <translation>Burahin ang track</translation>
     </message>
     <message numerus="yes">
         <source>This removes the track and its %n clips. You can undo afterwards.</source>
