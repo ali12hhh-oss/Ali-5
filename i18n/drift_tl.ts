@@ -11021,7 +11021,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Background</translation>
     </message>
     <message>
         <source>Solid color</source>
@@ -12852,11 +12852,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Italicise the text</source>
-        <translation type="unfinished"></translation>
+        <translation>Gawing italic ang text</translation>
     </message>
     <message>
         <source>%1 has no italic face</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang italic na estilo ang %1</translation>
     </message>
     <message>
         <source>Adjust text look</source>
@@ -12880,51 +12880,51 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Bend</source>
-        <translation type="unfinished"></translation>
+        <translation>Bend</translation>
     </message>
     <message>
         <source>Align left</source>
-        <translation type="unfinished"></translation>
+        <translation>I-align sa kaliwa</translation>
     </message>
     <message>
         <source>Align centre</source>
-        <translation type="unfinished"></translation>
+        <translation>I-align sa gitna</translation>
     </message>
     <message>
         <source>Align right</source>
-        <translation type="unfinished"></translation>
+        <translation>I-align sa kanan</translation>
     </message>
     <message>
         <source>Align top</source>
-        <translation type="unfinished"></translation>
+        <translation>I-align sa itaas</translation>
     </message>
     <message>
         <source>Align middle</source>
-        <translation type="unfinished"></translation>
+        <translation>I-align sa gitna nang patayo</translation>
     </message>
     <message>
         <source>Align bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>I-align sa ibaba</translation>
     </message>
     <message>
         <source>Line height</source>
-        <translation type="unfinished"></translation>
+        <translation>Taas ng linya</translation>
     </message>
     <message>
         <source>Letter spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Espasyo ng mga letra</translation>
     </message>
     <message>
         <source>Wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagbabalot ng linya</translation>
     </message>
     <message>
         <source>Word wrap</source>
-        <translation type="unfinished"></translation>
+        <translation>Word wrap</translation>
     </message>
     <message>
         <source>Wrap long lines inside the text box instead of overflowing</source>
-        <translation type="unfinished"></translation>
+        <translation>I-wrap ang mahahabang linya sa loob ng text box sa halip na lumampas</translation>
     </message>
     <message>
         <source>Width</source>
@@ -12936,11 +12936,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Background</translation>
     </message>
     <message>
         <source>Draw a filled box behind the text</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumuhit ng kahong may kulay sa likod ng text</translation>
     </message>
     <message>
         <source>Choose background colour</source>
@@ -12948,11 +12948,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Padding</source>
-        <translation type="unfinished"></translation>
+        <translation>Padding</translation>
     </message>
     <message>
         <source>Space between the text and the edge of its background box</source>
-        <translation type="unfinished"></translation>
+        <translation>Espasyo sa pagitan ng text at gilid ng background box</translation>
     </message>
     <message>
         <source>Corner radius</source>
@@ -12960,7 +12960,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Roundness of the background box corners</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagkabilog ng mga sulok ng background box</translation>
     </message>
     <message>
         <source>Glow</source>
@@ -12972,7 +12972,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Type your text…</source>
-        <translation type="unfinished"></translation>
+        <translation>I-type ang iyong text…</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -12980,27 +12980,27 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Apply the text to this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilapat ang text sa clip na ito</translation>
     </message>
     <message>
         <source>Edit in Style</source>
-        <translation type="unfinished"></translation>
+        <translation>I-edit sa Style</translation>
     </message>
     <message>
         <source>The text is painted with an image; change it on the Style page</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumagamit ng larawan ang text; baguhin ito sa pahina ng Style</translation>
     </message>
     <message>
         <source>The text is painted with an effect; change it on the Style page</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumagamit ng effect ang text; baguhin ito sa pahina ng Style</translation>
     </message>
     <message>
         <source>Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Spacing</translation>
     </message>
     <message>
         <source>Line height, letter spacing, wrapping and bend</source>
-        <translation type="unfinished"></translation>
+        <translation>Taas ng linya, espasyo ng letra, wrap, at bend</translation>
     </message>
     <message>
         <source>Preset</source>
@@ -13008,11 +13008,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>A whole text style — font, colour and effect — applied in one tap</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilapat sa isang tap ang buong estilo ng text — font, kulay, at effect</translation>
     </message>
     <message>
         <source>Font, colour and effect in one tap. Save your own to reuse it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Font, kulay, at effect sa isang tap. I-save ang sarili mong estilo para magamit muli.</translation>
     </message>
     <message>
         <source>Save this text&apos;s style as a reusable preset</source>
@@ -13024,23 +13024,23 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Shadow, outline, neon and friends — a recipe that builds the layers below</source>
-        <translation type="unfinished"></translation>
+        <translation>Shadow, outline, neon at iba pa — recipe na lumilikha ng mga layer sa ibaba</translation>
     </message>
     <message>
         <source>Shadow, outline, neon… built as layers you can fine-tune below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang shadow, outline, neon at iba pa ay ginawang mga layer na maaari mong ayusin sa ibaba.</translation>
     </message>
     <message>
         <source>No layers. Pick an effect above or add a fill to start.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala pang layer. Pumili ng effect sa itaas o magdagdag ng fill upang magsimula.</translation>
     </message>
     <message>
         <source>Word highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Word highlight</translation>
     </message>
     <message>
         <source>Filled pill behind every word, sized to the word itself</source>
-        <translation type="unfinished"></translation>
+        <translation>May kulay na pill sa likod ng bawat salita na akma sa laki nito</translation>
     </message>
     <message>
         <source>Thickness</source>
@@ -13048,23 +13048,23 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>How far the pill extends past the word</source>
-        <translation type="unfinished"></translation>
+        <translation>Gaano kalayo ang pag-extend ng pill lampas sa salita</translation>
     </message>
     <message>
         <source>Highlight colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Kulay ng highlight</translation>
     </message>
     <message>
         <source>Choose highlight colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng kulay ng highlight</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Salungguhit</translation>
     </message>
     <message>
         <source>Draw a rule under each line of text</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumuhit ng linya sa ilalim ng bawat linya ng text</translation>
     </message>
     <message>
         <source>Offset</source>
@@ -13072,67 +13072,67 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Gap between the baseline and the rule</source>
-        <translation type="unfinished"></translation>
+        <translation>Espasyo sa pagitan ng baseline at linya</translation>
     </message>
     <message>
         <source>Underline colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Kulay ng salungguhit</translation>
     </message>
     <message>
         <source>Choose underline colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng kulay ng salungguhit</translation>
     </message>
     <message>
         <source>Word accent</source>
-        <translation type="unfinished"></translation>
+        <translation>Word accent</translation>
     </message>
     <message>
         <source>Style some words differently from the rest, chosen by rule</source>
-        <translation type="unfinished"></translation>
+        <translation>Iba ang estilo ng ilang salita ayon sa itinakdang tuntunin</translation>
     </message>
     <message>
         <source>Accent colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Kulay ng accent</translation>
     </message>
     <message>
         <source>Recolour the words the rule picks out</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang kulay ng mga salitang pinili ng tuntunin</translation>
     </message>
     <message>
         <source>Choose accent colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng kulay ng accent</translation>
     </message>
     <message>
         <source>Accent size</source>
-        <translation type="unfinished"></translation>
+        <translation>Laki ng accent</translation>
     </message>
     <message>
         <source>Size of the accented words relative to the rest of the line</source>
-        <translation type="unfinished"></translation>
+        <translation>Laki ng mga salitang may accent kumpara sa natitirang bahagi ng linya</translation>
     </message>
     <message>
         <source>Accent outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Outline ng accent</translation>
     </message>
     <message>
         <source>Give the accented words their own outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Bigyan ng sariling outline ang mga salitang may accent</translation>
     </message>
     <message>
         <source>Choose accent outline colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng kulay ng outline ng accent</translation>
     </message>
     <message>
         <source>Accent pill</source>
-        <translation type="unfinished"></translation>
+        <translation>Accent pill</translation>
     </message>
     <message>
         <source>Highlight only the accented words, instead of every word</source>
-        <translation type="unfinished"></translation>
+        <translation>I-highlight lamang ang mga salitang may accent sa halip na lahat</translation>
     </message>
     <message>
         <source>Choose accent highlight colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng kulay ng highlight ng accent</translation>
     </message>
     <message>
         <source>In</source>
@@ -13148,7 +13148,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Plays for every caption</source>
-        <translation type="unfinished"></translation>
+        <translation>I-play para sa bawat caption</translation>
     </message>
     <message>
         <source>All</source>
@@ -13156,11 +13156,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Preview this animation</source>
-        <translation type="unfinished"></translation>
+        <translation>I-preview ang animation na ito</translation>
     </message>
     <message>
         <source>Period</source>
-        <translation type="unfinished"></translation>
+        <translation>Period</translation>
     </message>
     <message>
         <source>Duration</source>
@@ -13172,7 +13172,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>By</source>
-        <translation type="unfinished"></translation>
+        <translation>By</translation>
     </message>
 </context>
 <context>
@@ -13187,7 +13187,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Text effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Text effect</translation>
     </message>
     <message>
         <source>Close</source>
@@ -13202,7 +13202,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Text for this slot</source>
-        <translation type="unfinished"></translation>
+        <translation>Text para sa slot na ito</translation>
     </message>
     <message>
         <source>Change image…</source>
@@ -13214,7 +13214,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Slot Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Slot Image</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.webp)</source>
@@ -13261,11 +13261,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Sketch length</source>
-        <translation type="unfinished"></translation>
+        <translation>Haba ng sketch</translation>
     </message>
     <message>
         <source>Sketch deviation</source>
-        <translation type="unfinished"></translation>
+        <translation>Paglihis ng sketch</translation>
     </message>
     <message>
         <source>Red</source>
@@ -13285,27 +13285,27 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Gradient angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Anggulo ng gradient</translation>
     </message>
     <message>
         <source>Gradient offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Offset ng gradient</translation>
     </message>
     <message>
         <source>Gradient scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Scale ng gradient</translation>
     </message>
     <message>
         <source>Centre X</source>
-        <translation type="unfinished"></translation>
+        <translation>Gitna X</translation>
     </message>
     <message>
         <source>Centre Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Gitna Y</translation>
     </message>
     <message>
         <source>Stop %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Stop %1</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -13329,23 +13329,23 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Text size</source>
-        <translation type="unfinished"></translation>
+        <translation>Laki ng text</translation>
     </message>
     <message>
         <source>Letter spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Espasyo ng mga letra</translation>
     </message>
     <message>
         <source>Line height</source>
-        <translation type="unfinished"></translation>
+        <translation>Taas ng linya</translation>
     </message>
     <message>
         <source>Box padding</source>
-        <translation type="unfinished"></translation>
+        <translation>Padding ng kahon</translation>
     </message>
     <message>
         <source>Bend</source>
-        <translation type="unfinished"></translation>
+        <translation>Bend</translation>
     </message>
 </context>
 <context>
@@ -13356,7 +13356,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Text preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Text preset</translation>
     </message>
     <message>
         <source>Close</source>
@@ -13382,7 +13382,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>ThemedColorDialog</name>
     <message>
         <source>Original colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Orihinal na kulay</translation>
     </message>
     <message>
         <source>Enter a color like #FF0000</source>
@@ -13390,11 +13390,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Hex colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Hex na kulay</translation>
     </message>
     <message>
         <source>Pick a colour from the window</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng kulay mula sa window</translation>
     </message>
 </context>
 <context>
@@ -13412,26 +13412,26 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>ThemedNumberField</name>
     <message>
         <source>Allowed range: %1 – %2%3</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinapayagang saklaw: %1 – %2%3</translation>
     </message>
     <message>
         <source>Value clamped to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nilimitahan ang value sa %1</translation>
     </message>
     <message>
         <source>Enter a number</source>
-        <translation type="unfinished"></translation>
+        <translation>Maglagay ng numero</translation>
     </message>
 </context>
 <context>
     <name>TimelineClipItem</name>
     <message>
         <source>%1, track %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, track %2</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga katangian</translation>
     </message>
     <message>
         <source>Select multiple</source>
@@ -13463,7 +13463,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Covers…</source>
-        <translation type="unfinished"></translation>
+        <translation>Covers…</translation>
     </message>
     <message>
         <source>Select covered clips</source>
@@ -13487,7 +13487,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Enhance video…</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagandahin ang video…</translation>
     </message>
     <message>
         <source>Unlink</source>
@@ -13523,7 +13523,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Duplicate</source>
-        <translation type="unfinished">Doblehin</translation>
+        <translation>I-duplicate</translation>
     </message>
     <message>
         <source>Rename…</source>
@@ -13559,27 +13559,27 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Fade in %1s</source>
-        <translation type="unfinished"></translation>
+        <translation>Fade in %1s</translation>
     </message>
     <message>
         <source>Fade out %1s</source>
-        <translation type="unfinished"></translation>
+        <translation>Fade out %1s</translation>
     </message>
     <message>
         <source>Drag to trim the start</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drag upang i-trim ang simula</translation>
     </message>
     <message>
         <source>Trim clip</source>
-        <translation type="unfinished"></translation>
+        <translation>I-trim ang clip</translation>
     </message>
     <message>
         <source>Drag to trim the end</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drag upang i-trim ang dulo</translation>
     </message>
     <message>
         <source>Split item at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>Hatiin ang item sa kasalukuyang oras</translation>
     </message>
 </context>
 <context>
@@ -13618,7 +13618,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Click or drag to seek</source>
-        <translation type="unfinished"></translation>
+        <translation>I-click o i-drag upang mag-seek</translation>
     </message>
     <message>
         <source>Go to bookmark</source>
@@ -13638,7 +13638,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Drag media here from the library, or add an empty track to start.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drag ang media mula sa library papunta rito, o magdagdag ng bakanteng track upang magsimula.</translation>
     </message>
     <message>
         <source>New track</source>
@@ -13706,7 +13706,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Close Gap</source>
-        <translation type="unfinished"></translation>
+        <translation>Isara ang pagitan</translation>
     </message>
 </context>
 <context>
@@ -13725,7 +13725,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Select — normal editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Piliin — karaniwang pag-edit</translation>
     </message>
     <message>
         <source>Select</source>
@@ -13963,7 +13963,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>%1, track %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, track %2</translation>
     </message>
 </context>
 <context>
@@ -14092,7 +14092,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Covers…</source>
-        <translation type="unfinished"></translation>
+        <translation>Covers…</translation>
     </message>
     <message>
         <source>Select covered clips</source>
@@ -15138,7 +15138,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Background</translation>
     </message>
     <message>
         <source>Curve</source>
