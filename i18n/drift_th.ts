@@ -14125,23 +14125,23 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Show track</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงแทร็ก</translation>
     </message>
     <message>
         <source>Hide track</source>
-        <translation type="unfinished"></translation>
+        <translation>ซ่อนแทร็ก</translation>
     </message>
     <message>
         <source>Taller row</source>
-        <translation type="unfinished"></translation>
+        <translation>แถวสูงขึ้น</translation>
     </message>
     <message>
         <source>Shorter row</source>
-        <translation type="unfinished"></translation>
+        <translation>แถวเตี้ยลง</translation>
     </message>
     <message>
         <source>Rename track</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนชื่อแทร็ก</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -14149,11 +14149,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Track name</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อแทร็ก</translation>
     </message>
     <message>
         <source>Clips show: %1 (click to change)</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิปแสดง: %1 (คลิกเพื่อเปลี่ยน)</translation>
     </message>
     <message>
         <source>Rename…</source>
@@ -14204,7 +14204,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Also moved by %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้ายตาม %1 ด้วย</translation>
     </message>
     <message>
         <source>Select</source>
@@ -14212,7 +14212,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Move to a time, set a value, then click the diamond to add a keyframe. With Auto keyframes on, dragging a slider or the preview also creates them.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลื่อนไปยังเวลาที่ต้องการ ตั้งค่า แล้วคลิกสัญลักษณ์เพชรเพื่อเพิ่มคีย์เฟรม เมื่อเปิดคีย์เฟรมอัตโนมัติ การลากแถบเลื่อนหรือตัวอย่างก็จะสร้างคีย์เฟรมด้วย</translation>
     </message>
     <message>
         <source>Auto keyframes</source>
@@ -14220,11 +14220,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Position (px)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตำแหน่ง (px)</translation>
     </message>
     <message>
         <source>Offset (px)</source>
-        <translation type="unfinished"></translation>
+        <translation>ออฟเซ็ต (px)</translation>
     </message>
     <message>
         <source>Measured inside %1&apos;s frame</source>
@@ -14232,7 +14232,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Size (px)</source>
-        <translation type="unfinished"></translation>
+        <translation>ขนาด (px)</translation>
     </message>
     <message>
         <source>Scale</source>
@@ -14240,11 +14240,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Edit width and height separately</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขความกว้างและความสูงแยกกัน</translation>
     </message>
     <message>
         <source>Scale width and height together</source>
-        <translation type="unfinished"></translation>
+        <translation>ปรับสเกลความกว้างและความสูงพร้อมกัน</translation>
     </message>
     <message>
         <source>Scale clip</source>
@@ -14256,15 +14256,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Rotate 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>หมุน 90°</translation>
     </message>
     <message>
         <source>Tilt the whole group as one flat card</source>
-        <translation type="unfinished"></translation>
+        <translation>เอียงทั้งกลุ่มเป็นแผ่นแบนเดียว</translation>
     </message>
     <message>
         <source>Tilt the clip and push it in depth, with 3D grips on the preview. Turning it off flattens the clip again.</source>
-        <translation type="unfinished"></translation>
+        <translation>เอียงคลิปและดันเข้าไปตามความลึก โดยใช้จุดจับ 3 มิติบนหน้าต่างตัวอย่าง เมื่อปิด คลิปจะกลับเป็นระนาบแบน</translation>
     </message>
     <message>
         <source>Move</source>
@@ -14272,7 +14272,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Arrows on the preview move the clip along each axis</source>
-        <translation type="unfinished"></translation>
+        <translation>ลูกศรในหน้าต่างตัวอย่างใช้เลื่อนคลิปตามแต่ละแกน</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -14280,11 +14280,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Rings on the preview turn the clip about each axis</source>
-        <translation type="unfinished"></translation>
+        <translation>วงแหวนในหน้าต่างตัวอย่างใช้หมุนคลิปรอบแต่ละแกน</translation>
     </message>
     <message>
         <source>Handles on the preview stretch the clip along its own edges</source>
-        <translation type="unfinished"></translation>
+        <translation>จุดจับในหน้าต่างตัวอย่างใช้ยืดคลิปตามขอบของคลิป</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
@@ -14292,15 +14292,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Global</source>
-        <translation type="unfinished"></translation>
+        <translation>ทั่วโลก</translation>
     </message>
     <message>
         <source>Gizmo follows the camera: X across, Y down, Z toward you</source>
-        <translation type="unfinished"></translation>
+        <translation>กิซโมอิงตามกล้อง: X แนวนอน, Y ลงด้านล่าง, Z เข้าหาคุณ</translation>
     </message>
     <message>
         <source>Local</source>
-        <translation type="unfinished"></translation>
+        <translation>เฉพาะที่</translation>
     </message>
     <message>
         <source>Gizmo follows the clip&apos;s own edges and face, however it is turned</source>
@@ -14308,15 +14308,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Flip</source>
-        <translation type="unfinished"></translation>
+        <translation>พลิก</translation>
     </message>
     <message>
         <source>Flip H</source>
-        <translation type="unfinished"></translation>
+        <translation>พลิกแนวนอน</translation>
     </message>
     <message>
         <source>Flip V</source>
-        <translation type="unfinished"></translation>
+        <translation>พลิกแนวตั้ง</translation>
     </message>
     <message>
         <source>Reset position &amp; size</source>
@@ -14324,11 +14324,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Reset position</source>
-        <translation type="unfinished"></translation>
+        <translation>รีเซ็ตตำแหน่ง</translation>
     </message>
     <message>
         <source>Fix orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขการวางแนว</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -14336,7 +14336,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>3D layer</source>
-        <translation type="unfinished"></translation>
+        <translation>เลเยอร์ 3 มิติ</translation>
     </message>
     <message>
         <source>Corrects the source&apos;s own rotation losslessly — unlike Angle above, this changes decoding, not just the on-screen box.</source>
@@ -14387,7 +14387,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Moves, scales, turns and fades every track under it as one. Each clip keeps its own transform inside the group.</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้าย ปรับขนาด หมุน และเฟดทุกแทร็กด้านล่างพร้อมกัน โดยแต่ละคลิปยังคงค่าการแปลงของตัวเองภายในกลุ่ม</translation>
     </message>
     <message>
         <source>Covers</source>
@@ -14395,15 +14395,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Nothing</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มี</translation>
     </message>
     <message>
         <source>At the playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่ตำแหน่งหัวอ่าน</translation>
     </message>
     <message>
         <source>No covered clip plays here.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีคลิปที่ถูกครอบคลุมให้เล่นตรงนี้</translation>
     </message>
     <message>
         <source>Clip</source>
@@ -14435,7 +14435,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Select the transform layer moving this clip (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกเลเยอร์แปลงที่กำลังย้ายคลิปนี้ (%1)</translation>
     </message>
 </context>
 <context>
@@ -14448,7 +14448,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Transform layer span end</source>
-        <translation type="unfinished"></translation>
+        <translation>จุดสิ้นสุดช่วงของเลเยอร์แปลง</translation>
     </message>
     <message numerus="yes">
         <source>Covers %n track(s)</source>
@@ -14488,15 +14488,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     <name>TransitionInspector</name>
     <message>
         <source>Select where two clips overlap (shown in purple), or drag a clip so it overlaps the next one.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกบริเวณที่คลิปสองคลิปซ้อนกัน (แสดงเป็นสีม่วง) หรือลากคลิปให้ซ้อนกับคลิปถัดไป</translation>
     </message>
     <message>
         <source>Transitions work between two clips on a video, shape, or text track.</source>
-        <translation type="unfinished"></translation>
+        <translation>ทรานซิชันใช้ระหว่างคลิปสองคลิปบนแทร็กวิดีโอ รูปร่าง หรือข้อความ</translation>
     </message>
     <message>
         <source>No transition after this clip. Add one at the cut to the next clip.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีทรานซิชันหลังคลิปนี้ เพิ่มได้ที่จุดตัดก่อนคลิปถัดไป</translation>
     </message>
     <message>
         <source>Add crossfade (0.5 s)</source>
