@@ -2694,7 +2694,7 @@
     </message>
     <message>
         <source>Step forward one frame</source>
-        <translation>เดินหน้า մեկ帧</translation>
+        <translation>เลื่อนไปข้างหน้าหนึ่งเฟรม</translation>
     </message>
     <message>
         <source>Jump back 1 second</source>
