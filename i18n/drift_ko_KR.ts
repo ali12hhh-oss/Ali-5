@@ -5864,7 +5864,7 @@
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished">스타일</translation>
+        <translation>스타일</translation>
     </message>
     <message>
         <source>Colours</source>
@@ -10660,19 +10660,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Anime and drawings</source>
-        <translation type="unfinished"></translation>
+        <translation>애니메이션 및 그림</translation>
     </message>
     <message>
         <source>Live action</source>
-        <translation type="unfinished"></translation>
+        <translation>실사</translation>
     </message>
     <message>
         <source>3D animation and games</source>
-        <translation type="unfinished"></translation>
+        <translation>3D 애니메이션 및 게임</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">일반</translation>
+        <translation>일반</translation>
     </message>
     <message>
         <source>Choose an upscaler</source>
@@ -10716,7 +10716,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>No upscaling</source>
-        <translation type="unfinished"></translation>
+        <translation>업스케일하지 않음</translation>
     </message>
     <message>
         <source>Keep the original size.</source>
@@ -13479,7 +13479,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Enhance video…</source>
-        <translation type="unfinished"></translation>
+        <translation>동영상 화질 개선…</translation>
     </message>
     <message>
         <source>Unlink</source>
@@ -14733,19 +14733,19 @@ If playback stutters, try another.</source>
     <name>UpscaleModelCard</name>
     <message>
         <source>Anime and drawings</source>
-        <translation type="unfinished"></translation>
+        <translation>애니메이션 및 그림</translation>
     </message>
     <message>
         <source>Live action</source>
-        <translation type="unfinished"></translation>
+        <translation>실사</translation>
     </message>
     <message>
         <source>3D animation and games</source>
-        <translation type="unfinished"></translation>
+        <translation>3D 애니메이션 및 게임</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">일반</translation>
+        <translation>일반</translation>
     </message>
     <message>
         <source>Before</source>
