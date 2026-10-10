@@ -14500,19 +14500,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Add crossfade (0.5 s)</source>
-        <translation type="unfinished"></translation>
+        <translation>添加交叉淡化（0.5 秒）</translation>
     </message>
     <message>
         <source>Overlap transition. Drag another kind from Transitions to replace it.</source>
-        <translation type="unfinished"></translation>
+        <translation>重叠转场。可从“转场”中拖入其他类型进行替换。</translation>
     </message>
     <message>
         <source>Transition to the next clip. Move across the cut to preview it.</source>
-        <translation type="unfinished"></translation>
+        <translation>转场到下一个片段。将播放头移过切点即可预览。</translation>
     </message>
     <message>
         <source>One side has no media past the cut, so its sound fades through silence instead of crossfading.</source>
-        <translation type="unfinished"></translation>
+        <translation>切点一侧没有剩余媒体，因此声音会逐渐淡入静音，而不是交叉淡化。</translation>
     </message>
     <message>
         <source>Type</source>
@@ -14567,23 +14567,23 @@ If playback stutters, try another.</source>
     <name>TransitionsTab</name>
     <message>
         <source>Touch and hold a transition, then drag it onto where two clips meet.</source>
-        <translation type="unfinished"></translation>
+        <translation>长按转场，然后将其拖到两个片段的连接处。</translation>
     </message>
     <message>
         <source>Drag onto where two clips overlap. They fade into each other by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>拖到两个片段重叠的位置。默认情况下，它们会相互淡化过渡。</translation>
     </message>
     <message>
         <source>Search transitions</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索转场</translation>
     </message>
     <message>
         <source>No transitions available</source>
-        <translation type="unfinished"></translation>
+        <translation>没有可用的转场</translation>
     </message>
     <message>
         <source>Install a transitions pack to add more.</source>
-        <translation type="unfinished"></translation>
+        <translation>安装转场包以添加更多转场。</translation>
     </message>
     <message>
         <source>Get extras</source>
@@ -14591,7 +14591,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>No transitions match “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>没有与“%1”匹配的转场</translation>
     </message>
     <message>
         <source>No favorites yet</source>
@@ -14607,7 +14607,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Star transitions to save them here.</source>
-        <translation type="unfinished"></translation>
+        <translation>点击转场旁的星标即可将其收藏到此处。</translation>
     </message>
     <message>
         <source>Pick another category.</source>
@@ -14615,7 +14615,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 — drag onto an overlap between two clips</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 — 拖到两个片段的重叠处</translation>
     </message>
 </context>
 <context>
@@ -14626,7 +14626,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>“%1” has unsaved changes. Save before continuing?</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1”有未保存的更改。继续前要保存吗？</translation>
     </message>
     <message>
         <source>Untitled project</source>
@@ -14649,19 +14649,19 @@ If playback stutters, try another.</source>
     <name>UpdateChecker</name>
     <message>
         <source>Couldn’t check for updates: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法检查更新：%1</translation>
     </message>
     <message>
         <source>Couldn’t check for updates: unexpected response.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法检查更新：收到意外响应。</translation>
     </message>
     <message>
         <source>Drift %1 is the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift %1 已是最新版本。</translation>
     </message>
     <message>
         <source>Drift %1 is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift %1 已发布。</translation>
     </message>
 </context>
 <context>
@@ -14676,7 +14676,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>You have %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>你当前使用的是 %1。</translation>
     </message>
     <message>
         <source>Skip</source>
@@ -14696,7 +14696,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Opens the release page in your browser</source>
-        <translation type="unfinished"></translation>
+        <translation>在浏览器中打开版本发布页面</translation>
     </message>
 </context>
 <context>
@@ -14738,11 +14738,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Key %1 at the playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>在播放头位置为 %1 添加关键帧</translation>
     </message>
     <message>
         <source>Override the %1 colour</source>
-        <translation type="unfinished"></translation>
+        <translation>覆盖 %1 的颜色</translation>
     </message>
     <message>
         <source>Back to the drawing&apos;s own %1</source>
@@ -14750,15 +14750,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Replace Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>替换动画</translation>
     </message>
     <message>
         <source>Lottie or SVG (*.json *.svg)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lottie 或 SVG（*.json *.svg）</translation>
     </message>
     <message>
         <source>Could not load the document</source>
-        <translation type="unfinished"></translation>
+        <translation>无法加载文档</translation>
     </message>
     <message>
         <source>SVG drawing</source>
