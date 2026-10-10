@@ -4986,15 +4986,15 @@
     </message>
     <message>
         <source>%1 (not installed)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (hindi naka-install)</translation>
     </message>
     <message>
         <source>Move audio effect up</source>
-        <translation type="unfinished"></translation>
+        <translation>Itaas ang audio effect</translation>
     </message>
     <message>
         <source>Move audio effect down</source>
-        <translation type="unfinished"></translation>
+        <translation>Ibaba ang audio effect</translation>
     </message>
     <message>
         <source>Disable audio effect</source>
@@ -5006,7 +5006,7 @@
     </message>
     <message>
         <source>Copy this audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopyahin ang audio effect na ito</translation>
     </message>
     <message>
         <source>Remove audio effect</source>
@@ -5014,11 +5014,11 @@
     </message>
     <message>
         <source>On</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-on</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-off</translation>
     </message>
     <message>
         <source>Edit audio effect</source>
@@ -5033,15 +5033,15 @@
     </message>
     <message>
         <source>Recommended caption length</source>
-        <translation type="unfinished"></translation>
+        <translation>Inirerekomendang haba ng caption</translation>
     </message>
     <message>
         <source>1 word per caption</source>
-        <translation type="unfinished"></translation>
+        <translation>1 salita bawat caption</translation>
     </message>
     <message>
         <source>%1 words per caption</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 salita bawat caption</translation>
     </message>
     <message>
         <source>No audio</source>
@@ -5049,23 +5049,23 @@
     </message>
     <message>
         <source>This clip has no audio track.</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang audio track ang clip na ito.</translation>
     </message>
     <message>
         <source>Pan</source>
-        <translation type="unfinished"></translation>
+        <translation>Pan</translation>
     </message>
     <message>
         <source>C</source>
-        <translation type="unfinished"></translation>
+        <translation>C</translation>
     </message>
     <message>
         <source>L %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaliwa %1</translation>
     </message>
     <message>
         <source>R %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanan %1</translation>
     </message>
     <message>
         <source>Pan changed</source>
@@ -5073,27 +5073,27 @@
     </message>
     <message>
         <source>Centre</source>
-        <translation type="unfinished"></translation>
+        <translation>Gitna</translation>
     </message>
     <message>
         <source>Audio track</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio track</translation>
     </message>
     <message>
         <source>Extract all audio tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>I-extract ang lahat ng audio track</translation>
     </message>
     <message>
         <source>Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingay</translation>
     </message>
     <message>
         <source>Remove noise…</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang ingay…</translation>
     </message>
     <message>
         <source>Download noise removal (about 9 MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>I-download ang noise removal (mga 9 MB)</translation>
     </message>
     <message>
         <source>Install AI engine first</source>
@@ -5101,70 +5101,70 @@
     </message>
     <message>
         <source>Auto subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga awtomatikong subtitle</translation>
     </message>
     <message>
         <source>Shorter captions are timed by splitting each phrase evenly, so they can drift slightly out of sync with the speech.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hinahati nang pantay ang bawat parirala para sa mas maiikling caption kaya maaaring bahagyang hindi tumugma sa pagsasalita.</translation>
     </message>
     <message>
         <source>Creating captions… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumagawa ng caption… %1%</translation>
     </message>
     <message>
         <source>Create captions from speech</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumawa ng caption mula sa pagsasalita</translation>
     </message>
     <message>
         <source>Several selected clips become one caption clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Magiging isang caption clip ang ilang napiling clip</translation>
     </message>
     <message>
         <source>Download speech recognition (about 670 MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>I-download ang speech recognition (mga 670 MB)</translation>
     </message>
 </context>
 <context>
     <name>AudioMixerStrip</name>
     <message>
         <source>Audio Mixer</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio Mixer</translation>
     </message>
     <message>
         <source>Paused</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-pause</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagre-record</translation>
     </message>
     <message>
         <source>Microphone: %1 (click to switch)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mikropono: %1 (i-click para magpalit)</translation>
     </message>
     <message>
         <source>Close audio mixer</source>
-        <translation type="unfinished"></translation>
+        <translation>Isara ang audio mixer</translation>
     </message>
     <message>
         <source>Resume recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Ipagpatuloy ang pag-record</translation>
     </message>
     <message>
         <source>Pause recording</source>
-        <translation type="unfinished"></translation>
+        <translation>I-pause ang pag-record</translation>
     </message>
     <message>
         <source>Done — save recording to track</source>
-        <translation type="unfinished"></translation>
+        <translation>Tapos na — i-save ang recording sa track</translation>
     </message>
     <message>
         <source>Discard — cancel recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Itapon — kanselahin ang recording</translation>
     </message>
     <message>
         <source>Default Mic</source>
-        <translation type="unfinished"></translation>
+        <translation>Default na mikropono</translation>
     </message>
     <message>
         <source>Unmute</source>
@@ -5176,114 +5176,114 @@
     </message>
     <message>
         <source>Unsolo</source>
-        <translation type="unfinished"></translation>
+        <translation>I-unsolo</translation>
     </message>
     <message>
         <source>Solo</source>
-        <translation type="unfinished"></translation>
+        <translation>I-solo</translation>
     </message>
     <message>
         <source>Recording paused — click to finish</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-pause ang recording — i-click para tapusin</translation>
     </message>
     <message>
         <source>Recording — click to finish</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagre-record — i-click para tapusin</translation>
     </message>
     <message>
         <source>Record voiceover on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-record ng voiceover sa %1</translation>
     </message>
     <message>
         <source>Pan %1 — drag to adjust, double-click to center</source>
-        <translation type="unfinished"></translation>
+        <translation>Pan %1 — i-drag para ayusin, i-double-click para isentro</translation>
     </message>
     <message>
         <source>Mic gain %1 dB (%2%) — scroll to adjust, double-click for 0 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>Mic gain %1 dB (%2%) — mag-scroll para ayusin, double-click para sa 0 dB</translation>
     </message>
     <message>
         <source>%1 dB — scroll to adjust, double-click for 0 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 dB — mag-scroll para ayusin, double-click para sa 0 dB</translation>
     </message>
     <message>
         <source>Master volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Master volume</translation>
     </message>
     <message>
         <source>%1 volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume ng %1</translation>
     </message>
     <message>
         <source>Mic gain %1 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>Mic gain %1 dB</translation>
     </message>
     <message>
         <source>Volume %1 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume %1 dB</translation>
     </message>
     <message>
         <source> — Shift-drag for fine, double-click for 0 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>— Shift-drag para sa mas pinong adjustment, double-click para sa 0 dB</translation>
     </message>
     <message>
         <source>Add audio track</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng audio track</translation>
     </message>
     <message>
         <source>Drag to resize — double-click to fit</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drag para baguhin ang laki — double-click para magkasya</translation>
     </message>
     <message>
         <source>Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Master</translation>
     </message>
     <message>
         <source>Unmute master</source>
-        <translation type="unfinished"></translation>
+        <translation>I-unmute ang master</translation>
     </message>
     <message>
         <source>C</source>
-        <translation type="unfinished"></translation>
+        <translation>C</translation>
     </message>
     <message>
         <source>L%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaliwa %1</translation>
     </message>
     <message>
         <source>R%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanan %1</translation>
     </message>
     <message>
         <source> (recording)</source>
-        <translation type="unfinished"></translation>
+        <translation>(nagre-record)</translation>
     </message>
     <message>
         <source>Mute master</source>
-        <translation type="unfinished"></translation>
+        <translation>I-mute ang master</translation>
     </message>
 </context>
 <context>
     <name>AudioOutputChannel</name>
     <message>
         <source>The audio device could not be opened. Another program may be using it exclusively.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabuksan ang audio device. Maaaring eksklusibo itong ginagamit ng ibang programa.</translation>
     </message>
     <message>
         <source>The audio device stopped responding.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huminto sa pagtugon ang audio device.</translation>
     </message>
     <message>
         <source>The audio device was disconnected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadiskonekta ang audio device.</translation>
     </message>
     <message>
         <source>No audio output device is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang available na audio output device.</translation>
     </message>
     <message>
         <source>The audio device does not support playback of this project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi sinusuportahan ng audio device ang pag-play ng project na ito.</translation>
     </message>
 </context>
 <context>
@@ -5297,31 +5297,31 @@
     <name>BlendingInspector</name>
     <message>
         <source>Video only</source>
-        <translation type="unfinished"></translation>
+        <translation>Video lang</translation>
     </message>
     <message>
         <source>This tab does not apply to audio clips.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi naaangkop ang tab na ito sa mga audio clip.</translation>
     </message>
     <message>
         <source>Blend mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Blend mode</translation>
     </message>
     <message>
         <source>How this clip&apos;s colours combine with the tracks beneath it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kung paano pinaghahalo ang mga kulay ng clip na ito sa mga track sa ilalim nito.</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Multiply</source>
-        <translation type="unfinished"></translation>
+        <translation>Multiply</translation>
     </message>
     <message>
         <source>Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Screen</translation>
     </message>
     <message>
         <source>Overlay</source>
@@ -6578,7 +6578,7 @@
     </message>
     <message>
         <source>%1 (not installed)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (hindi naka-install)</translation>
     </message>
     <message>
         <source>Move effect up</source>
@@ -6602,11 +6602,11 @@
     </message>
     <message>
         <source>On</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-on</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-off</translation>
     </message>
     <message>
         <source>Choose %1</source>
@@ -11357,15 +11357,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Multiply</source>
-        <translation type="unfinished"></translation>
+        <translation>Multiply</translation>
     </message>
     <message>
         <source>Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Screen</translation>
     </message>
     <message>
         <source>Overlay</source>
@@ -11385,7 +11385,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Centre</source>
-        <translation type="unfinished"></translation>
+        <translation>Gitna</translation>
     </message>
     <message>
         <source>Outside</source>
@@ -12512,7 +12512,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Shorter captions are timed by splitting each phrase evenly, so they can drift slightly out of sync with the speech.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hinahati nang pantay ang bawat parirala para sa mas maiikling caption kaya maaaring bahagyang hindi tumugma sa pagsasalita.</translation>
     </message>
     <message>
         <source>Create captions from the selected clips&apos; speech — several clips become one caption clip</source>
@@ -12524,7 +12524,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Creating captions… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumagawa ng caption… %1%</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -12536,7 +12536,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Download speech recognition (about 670 MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>I-download ang speech recognition (mga 670 MB)</translation>
     </message>
     <message>
         <source>Install AI engine first</source>
@@ -12548,15 +12548,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Recommended caption length</source>
-        <translation type="unfinished"></translation>
+        <translation>Inirerekomendang haba ng caption</translation>
     </message>
     <message>
         <source>1 word per caption</source>
-        <translation type="unfinished"></translation>
+        <translation>1 salita bawat caption</translation>
     </message>
     <message>
         <source>%1 words per caption</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 salita bawat caption</translation>
     </message>
 </context>
 <context>
@@ -14223,11 +14223,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Video only</source>
-        <translation type="unfinished"></translation>
+        <translation>Video lang</translation>
     </message>
     <message>
         <source>This tab does not apply to audio clips.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi naaangkop ang tab na ito sa mga audio clip.</translation>
     </message>
     <message>
         <source>Also moved by %1</source>
@@ -14578,11 +14578,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>On</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-on</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-off</translation>
     </message>
     <message>
         <source>Edit transition</source>
@@ -15055,7 +15055,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Default Mic</source>
-        <translation type="unfinished"></translation>
+        <translation>Default na mikropono</translation>
     </message>
     <message>
         <source>Input microphone: %1 (click to switch)</source>
@@ -15075,11 +15075,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Resume recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Ipagpatuloy ang pag-record</translation>
     </message>
     <message>
         <source>Pause recording</source>
-        <translation type="unfinished"></translation>
+        <translation>I-pause ang pag-record</translation>
     </message>
     <message>
         <source>Done — finish recording and save to track</source>
