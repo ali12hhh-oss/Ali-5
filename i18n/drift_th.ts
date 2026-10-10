@@ -4256,39 +4256,39 @@
     </message>
     <message>
         <source>Failed to open DaVinci Resolve project / timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดโปรเจกต์/ไทม์ไลน์ DaVinci Resolve ไม่สำเร็จ</translation>
     </message>
     <message>
         <source>DaVinci Resolve project imported: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าโปรเจกต์ DaVinci Resolve แล้ว: %1</translation>
     </message>
     <message>
         <source>Failed to open Edit Decision List (.edl)</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิด Edit Decision List (.edl) ไม่สำเร็จ</translation>
     </message>
     <message>
         <source>EDL imported: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้า EDL แล้ว: %1</translation>
     </message>
     <message>
         <source>Failed to open OpenTimelineIO (.otio) sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดลำดับ OpenTimelineIO (.otio) ไม่สำเร็จ</translation>
     </message>
     <message>
         <source>OpenTimelineIO imported: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้า OpenTimelineIO แล้ว: %1</translation>
     </message>
     <message>
         <source>That folder isn’t valid</source>
-        <translation type="unfinished"></translation>
+        <translation>โฟลเดอร์นั้นไม่ถูกต้อง</translation>
     </message>
     <message>
         <source>All media is already in that folder</source>
-        <translation type="unfinished"></translation>
+        <translation>สื่อทั้งหมดอยู่ในโฟลเดอร์นั้นแล้ว</translation>
     </message>
     <message>
         <source>Collect media</source>
-        <translation type="unfinished"></translation>
+        <translation>รวบรวมสื่อ</translation>
     </message>
     <message numerus="yes">
         <source>Media collected, but %n original(s) couldn’t be deleted</source>
@@ -4298,87 +4298,87 @@
     </message>
     <message>
         <source>Media moved and relinked</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้ายและเชื่อมโยงสื่อใหม่แล้ว</translation>
     </message>
     <message>
         <source>Media copied and relinked</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกและเชื่อมโยงสื่อใหม่แล้ว</translation>
     </message>
     <message>
         <source>Exporting…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังส่งออก…</translation>
     </message>
     <message>
         <source>Opening your video…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังเปิดวิดีโอ…</translation>
     </message>
     <message>
         <source>Nothing on this device can play that file</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีแอปในอุปกรณ์นี้ที่เล่นไฟล์ดังกล่าวได้</translation>
     </message>
     <message>
         <source>Getting your video ready to share…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังเตรียมวิดีโอเพื่อแชร์…</translation>
     </message>
     <message>
         <source>Nothing on this device can share that file</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีแอปในอุปกรณ์นี้ที่แชร์ไฟล์ดังกล่าวได้</translation>
     </message>
     <message>
         <source>Remove silence</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบช่วงเงียบ</translation>
     </message>
     <message>
         <source>Add layer</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเลเยอร์</translation>
     </message>
     <message>
         <source>Remove layer</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบเลเยอร์</translation>
     </message>
     <message>
         <source>Duplicate layer</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำซ้ำเลเยอร์</translation>
     </message>
     <message>
         <source>Reorder layers</source>
-        <translation type="unfinished"></translation>
+        <translation>จัดลำดับเลเยอร์ใหม่</translation>
     </message>
     <message>
         <source>Edit layer</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขเลเยอร์</translation>
     </message>
     <message>
         <source>Layer added</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเลเยอร์แล้ว</translation>
     </message>
     <message>
         <source>Layer removed</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบเลเยอร์แล้ว</translation>
     </message>
     <message>
         <source>Layer duplicated</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำซ้ำเลเยอร์แล้ว</translation>
     </message>
     <message>
         <source>Layer moved</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้ายเลเยอร์แล้ว</translation>
     </message>
     <message>
         <source>Edit text animation</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขแอนิเมชันข้อความ</translation>
     </message>
     <message>
         <source>Text animation updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตแอนิเมชันข้อความแล้ว</translation>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>พื้นฐาน</translation>
     </message>
     <message>
         <source>By character</source>
-        <translation type="unfinished"></translation>
+        <translation>ตามตัวอักษร</translation>
     </message>
     <message>
         <source>By word</source>
@@ -11390,11 +11390,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Duplicate layer</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำซ้ำเลเยอร์</translation>
     </message>
     <message>
         <source>Remove layer</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบเลเยอร์</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -11521,7 +11521,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Add layer</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเลเยอร์</translation>
     </message>
     <message>
         <source>Add a fill, stroke, shadow, glow or extrude layer</source>
@@ -11696,7 +11696,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>พื้นฐาน</translation>
     </message>
     <message>
         <source>Arrows</source>
@@ -12815,7 +12815,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Add layer</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเลเยอร์</translation>
     </message>
     <message>
         <source>Add a fill, stroke, shadow, glow or extrude layer</source>
@@ -13115,7 +13115,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Edit text animation</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขแอนิเมชันข้อความ</translation>
     </message>
     <message>
         <source>By</source>
@@ -14441,7 +14441,7 @@ If playback stutters, try another.</source>
     <name>TransitionCatalog</name>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>พื้นฐาน</translation>
     </message>
     <message>
         <source>Grid &amp; Geometric</source>
