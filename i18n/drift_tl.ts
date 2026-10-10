@@ -4553,11 +4553,11 @@
     </message>
     <message>
         <source>Folder deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabura ang folder</translation>
     </message>
     <message>
         <source>Media moved</source>
-        <translation type="unfinished"></translation>
+        <translation>Inilipat ang media</translation>
     </message>
     <message numerus="yes">
         <source>%n items removed</source>
@@ -4575,55 +4575,55 @@
     </message>
     <message>
         <source>Clips added</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadagdag ang mga clip</translation>
     </message>
     <message>
         <source>Folder moved</source>
-        <translation type="unfinished"></translation>
+        <translation>Inilipat ang folder</translation>
     </message>
     <message>
         <source>Track renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinalitan ang pangalan ng track</translation>
     </message>
     <message>
         <source>Orientation changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabago ang orientation</translation>
     </message>
     <message>
         <source>Clip orientation set to %1°</source>
-        <translation type="unfinished"></translation>
+        <translation>Itinakda ang orientation ng clip sa %1°</translation>
     </message>
 </context>
 <context>
     <name>AssetCategoryChips</name>
     <message>
         <source>Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga paborito</translation>
     </message>
 </context>
 <context>
     <name>AssetFavoriteButton</name>
     <message>
         <source>Remove from favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin sa mga paborito</translation>
     </message>
     <message>
         <source>Add to favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>Idagdag sa mga paborito</translation>
     </message>
 </context>
 <context>
     <name>AssetLibrary</name>
     <message>
         <source>Media files (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga media file (%1)</translation>
     </message>
 </context>
 <context>
     <name>AssetsPanel</name>
     <message>
         <source>Remove this media?</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang media na ito?</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -4631,11 +4631,11 @@
     </message>
     <message>
         <source>“%1” will be removed from this project. The file on disk is not deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aalisin ang “%1” sa proyektong ito. Hindi buburahin ang file sa disk.</translation>
     </message>
     <message>
         <source>Removed “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inalis ang “%1”.</translation>
     </message>
     <message>
         <source>Rename media</source>
@@ -4651,31 +4651,31 @@
     </message>
     <message>
         <source>Media name</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangalan ng media</translation>
     </message>
     <message>
         <source>Replace Media</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang media</translation>
     </message>
     <message>
         <source>Export Image</source>
-        <translation type="unfinished"></translation>
+        <translation>I-export ang larawan</translation>
     </message>
     <message>
         <source>PNG image (*.png)</source>
-        <translation type="unfinished"></translation>
+        <translation>PNG image (*.png)</translation>
     </message>
     <message>
         <source>JPEG image (*.jpg *.jpeg)</source>
-        <translation type="unfinished"></translation>
+        <translation>JPEG image (*.jpg *.jpeg)</translation>
     </message>
     <message>
         <source>Exported “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-export ang “%1”.</translation>
     </message>
     <message>
         <source>Couldn’t export that image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-export ang larawang iyon.</translation>
     </message>
     <message numerus="yes">
         <source>Replaced with “%1”. %n clips were shortened to fit the new file.</source>
@@ -4686,19 +4686,19 @@
     </message>
     <message>
         <source>Replaced with “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinalitan ng “%1”.</translation>
     </message>
     <message>
         <source>“%1” is now in an edit-friendly format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nasa format na madaling i-edit ang “%1”.</translation>
     </message>
     <message>
         <source>Saved “%1”. Drag it onto the timeline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-save ang “%1”. I-drag ito papunta sa timeline.</translation>
     </message>
     <message>
         <source>Import Media</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-import ng media</translation>
     </message>
     <message>
         <source>Media</source>
@@ -4706,15 +4706,15 @@
     </message>
     <message>
         <source>“%1” is used by 1 clip on the timeline. Removing this media will also remove that clip and any transitions connected to it. The file on disk is not deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ginagamit ng 1 clip sa timeline ang “%1”. Kapag inalis ang media na ito, aalisin din ang clip at mga konektadong transition. Hindi buburahin ang file sa disk.</translation>
     </message>
     <message>
         <source>“%1” is used by %2 clips on the timeline. Removing this media will also remove those clips and any transitions connected to them. The files on disk are not deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ginagamit ng %2 clip sa timeline ang “%1”. Kapag inalis ang media na ito, aalisin din ang mga clip at konektadong transition. Hindi buburahin ang mga file sa disk.</translation>
     </message>
     <message>
         <source>Couldn’t import that folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-import ang folder na iyon.</translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders — as many as one folder import takes. Import the remaining subfolders separately.</source>
@@ -4739,11 +4739,11 @@
     </message>
     <message>
         <source>All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lahat ng file (*)</translation>
     </message>
     <message>
         <source>Import Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-import ng folder</translation>
     </message>
     <message>
         <source>Collect Media to Folder</source>
@@ -6045,7 +6045,7 @@
     </message>
     <message>
         <source>All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lahat ng file (*)</translation>
     </message>
     <message>
         <source>Save Project As</source>
@@ -8775,7 +8775,7 @@
     </message>
     <message>
         <source>Import Media</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-import ng media</translation>
     </message>
     <message>
         <source>Could not open that file. This package cannot read files dropped from other apps — use Import to pick them instead.</source>
