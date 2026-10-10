@@ -7033,19 +7033,19 @@
     </message>
     <message>
         <source>Custom model: %1 (missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义模型：%1（缺失）</translation>
     </message>
     <message>
         <source>Custom model: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义模型：%1</translation>
     </message>
     <message>
         <source>Delete prop…</source>
-        <translation type="unfinished"></translation>
+        <translation>删除道具…</translation>
     </message>
     <message>
         <source>Delete this prop?</source>
-        <translation type="unfinished"></translation>
+        <translation>删除此道具？</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -7053,34 +7053,34 @@
     </message>
     <message>
         <source>“%1” will be removed from your face props. Effects using it will show it as missing until it is imported again.</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1”将从面部道具中移除。使用它的效果会显示为缺失，直到重新导入。</translation>
     </message>
 </context>
 <context>
     <name>FadeCurveWindow</name>
     <message>
         <source>Custom curve</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义曲线</translation>
     </message>
     <message>
         <source>Progress curve — %1</source>
-        <translation type="unfinished"></translation>
+        <translation>进度曲线 — %1</translation>
     </message>
     <message>
         <source>Progress curve</source>
-        <translation type="unfinished"></translation>
+        <translation>进度曲线</translation>
     </message>
     <message>
         <source>Fade shape — %1</source>
-        <translation type="unfinished"></translation>
+        <translation>淡入淡出形状 — %1</translation>
     </message>
     <message>
         <source>Fade shape</source>
-        <translation type="unfinished"></translation>
+        <translation>淡入淡出形状</translation>
     </message>
     <message>
         <source>Points</source>
-        <translation type="unfinished"></translation>
+        <translation>点</translation>
     </message>
     <message>
         <source>Bezier</source>
@@ -7096,7 +7096,7 @@
     </message>
     <message>
         <source>Ease</source>
-        <translation type="unfinished"></translation>
+        <translation>缓动</translation>
     </message>
     <message>
         <source>Natural</source>
@@ -7104,19 +7104,19 @@
     </message>
     <message>
         <source>Ease In</source>
-        <translation type="unfinished"></translation>
+        <translation>缓入</translation>
     </message>
     <message>
         <source>Ease Out</source>
-        <translation type="unfinished"></translation>
+        <translation>缓出</translation>
     </message>
     <message>
         <source>Drag the two handles to shape the cubic. The ends stay pinned, and handles are held inside the box so the curve cannot fold back on itself.</source>
-        <translation type="unfinished"></translation>
+        <translation>拖动两个控制柄来调整三次曲线。端点保持固定，控制柄限制在框内，避免曲线回折。</translation>
     </message>
     <message>
         <source>Drag the middle points to shape the ramp (ends stay silent→full). Double-click to add a point; Delete removes the selection.</source>
-        <translation type="unfinished"></translation>
+        <translation>拖动中间点调整渐变曲线（两端保持从静音到满音量）。双击可添加点；按 Delete 删除所选点。</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -7146,26 +7146,26 @@
     <name>FontCatalog</name>
     <message>
         <source>High-Impact &amp; Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>醒目大胆</translation>
     </message>
     <message>
         <source>Clean &amp; Minimal</source>
-        <translation type="unfinished"></translation>
+        <translation>简洁极简</translation>
     </message>
     <message>
         <source>Classy &amp; Editorial</source>
-        <translation type="unfinished"></translation>
+        <translation>优雅编辑风</translation>
     </message>
     <message>
         <source>Creative &amp; Playful</source>
-        <translation type="unfinished"></translation>
+        <translation>创意活泼</translation>
     </message>
 </context>
 <context>
     <name>FontPicker</name>
     <message>
         <source>Install the font pack for curated families →</source>
-        <translation type="unfinished"></translation>
+        <translation>安装字体包以浏览精选字体系列 →</translation>
     </message>
 </context>
 <context>
@@ -7180,7 +7180,7 @@
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>图像</translation>
     </message>
     <message>
         <source>Text</source>
@@ -7188,15 +7188,15 @@
     </message>
     <message>
         <source>Subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>字幕</translation>
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>形状</translation>
     </message>
     <message>
         <source>Sticker</source>
-        <translation type="unfinished"></translation>
+        <translation>贴纸</translation>
     </message>
     <message>
         <source>Adjustment</source>
@@ -8366,7 +8366,7 @@
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>形状</translation>
     </message>
     <message>
         <source>Rectangle</source>
@@ -9290,7 +9290,7 @@
     </message>
     <message>
         <source>Subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>字幕</translation>
     </message>
     <message>
         <source>Graphic</source>
@@ -10028,7 +10028,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>形状</translation>
     </message>
     <message>
         <source>Motion</source>
@@ -10131,7 +10131,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Ease</source>
-        <translation type="unfinished"></translation>
+        <translation>缓动</translation>
     </message>
     <message>
         <source>Ease — accelerates out and decelerates in</source>
@@ -11507,7 +11507,7 @@ If playback stutters, try another.</source>
     <name>ShapeInspector</name>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>形状</translation>
     </message>
     <message>
         <source>Shape drawn by this clip</source>
@@ -11563,7 +11563,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Points</source>
-        <translation type="unfinished"></translation>
+        <translation>点</translation>
     </message>
     <message>
         <source>Inner radius</source>
@@ -11746,7 +11746,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Points</source>
-        <translation type="unfinished"></translation>
+        <translation>点</translation>
     </message>
 </context>
 <context>
@@ -12781,7 +12781,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Ease</source>
-        <translation type="unfinished"></translation>
+        <translation>缓动</translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -14009,7 +14009,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>字幕</translation>
     </message>
     <message>
         <source>Graphic</source>
@@ -14351,7 +14351,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>字幕</translation>
     </message>
     <message>
         <source>Graphic</source>
