@@ -927,9 +927,10 @@
     </message>
     <message numerus="yes">
         <source>%n coin(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n монета</numerusform>
+            <numerusform>%n монеты</numerusform>
+            <numerusform>%n монет</numerusform>
         </translation>
     </message>
     <message>
@@ -1731,9 +1732,10 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n клип</numerusform>
+            <numerusform>%n клипа</numerusform>
+            <numerusform>%n клипов</numerusform>
         </translation>
     </message>
     <message>
@@ -1820,9 +1822,10 @@
     <name>AndroidTransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 · %n клип</numerusform>
+            <numerusform>%1 · %n клипа</numerusform>
+            <numerusform>%1 · %n клипов</numerusform>
         </translation>
     </message>
     <message>
@@ -2457,9 +2460,10 @@
     </message>
     <message numerus="yes">
         <source>Imported %n subtitles</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Импортированы субтитры: %n</numerusform>
+            <numerusform>Импортированы субтитры: %n</numerusform>
+            <numerusform>Импортировано субтитров: %n</numerusform>
         </translation>
     </message>
     <message>
@@ -2579,9 +2583,10 @@
     </message>
     <message numerus="yes">
         <source>Found %n scene(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Найдена %n сцена</numerusform>
+            <numerusform>Найдены %n сцены</numerusform>
+            <numerusform>Найдено %n сцен</numerusform>
         </translation>
     </message>
     <message>
@@ -4561,16 +4566,18 @@
     </message>
     <message numerus="yes">
         <source>%n items removed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Удалён %n элемент</numerusform>
+            <numerusform>Удалены %n элемента</numerusform>
+            <numerusform>Удалено %n элементов</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n items moved</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Перемещён %n элемент</numerusform>
+            <numerusform>Перемещены %n элемента</numerusform>
+            <numerusform>Перемещено %n элементов</numerusform>
         </translation>
     </message>
     <message>
@@ -4871,9 +4878,10 @@
     </message>
     <message numerus="yes">
         <source>%n items</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n элемент</numerusform>
+            <numerusform>%n элемента</numerusform>
+            <numerusform>%n элементов</numerusform>
         </translation>
     </message>
     <message>
@@ -4882,9 +4890,10 @@
     </message>
     <message numerus="yes">
         <source>Removed %n items.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Удалён %n элемент.</numerusform>
+            <numerusform>Удалены %n элемента.</numerusform>
+            <numerusform>Удалено %n элементов.</numerusform>
         </translation>
     </message>
 </context>
@@ -5728,16 +5737,18 @@
     </message>
     <message numerus="yes">
         <source>%n second(s) left</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Осталась %n секунда</numerusform>
+            <numerusform>Осталось %n секунды</numerusform>
+            <numerusform>Осталось %n секунд</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) left</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Осталась %n минута</numerusform>
+            <numerusform>Осталось %n минуты</numerusform>
+            <numerusform>Осталось %n минут</numerusform>
         </translation>
     </message>
     <message>
@@ -5769,9 +5780,10 @@
     </message>
     <message numerus="yes">
         <source>%n active</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Активен: %n</numerusform>
+            <numerusform>Активны: %n</numerusform>
+            <numerusform>Активно: %n</numerusform>
         </translation>
     </message>
     <message>
@@ -5811,9 +5823,10 @@
     </message>
     <message numerus="yes">
         <source>%n style(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n стиль</numerusform>
+            <numerusform>%n стиля</numerusform>
+            <numerusform>%n стилей</numerusform>
         </translation>
     </message>
     <message>
@@ -5822,9 +5835,10 @@
     </message>
     <message numerus="yes">
         <source>%n colour(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n цвет</numerusform>
+            <numerusform>%n цвета</numerusform>
+            <numerusform>%n цветов</numerusform>
         </translation>
     </message>
     <message>
@@ -7714,9 +7728,10 @@
     </message>
     <message numerus="yes">
         <source>%n keyframes</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n ключевой кадр</numerusform>
+            <numerusform>%n ключевых кадра</numerusform>
+            <numerusform>%n ключевых кадров</numerusform>
         </translation>
     </message>
     <message>
@@ -8833,9 +8848,10 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Импортирован %n файл.</numerusform>
+            <numerusform>Импортировано %n файла.</numerusform>
+            <numerusform>Импортировано %n файлов.</numerusform>
         </translation>
     </message>
     <message>
@@ -12272,9 +12288,10 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>%n coin(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n монета</numerusform>
+            <numerusform>%n монеты</numerusform>
+            <numerusform>%n монет</numerusform>
         </translation>
     </message>
     <message>
@@ -12336,9 +12353,10 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>%n captions</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n подпись</numerusform>
+            <numerusform>%n подписи</numerusform>
+            <numerusform>%n подписей</numerusform>
         </translation>
     </message>
     <message>
@@ -14456,9 +14474,10 @@ If playback stutters, try another.</source>
     <name>TransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 · %n клип</numerusform>
+            <numerusform>%1 · %n клипа</numerusform>
+            <numerusform>%1 · %n клипов</numerusform>
         </translation>
     </message>
     <message>
@@ -14478,9 +14497,10 @@ If playback stutters, try another.</source>
     <name>TransformSpanBracket</name>
     <message numerus="yes">
         <source>%n track(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n дорожка</numerusform>
+            <numerusform>%n дорожки</numerusform>
+            <numerusform>%n дорожек</numerusform>
         </translation>
     </message>
     <message>
@@ -14489,9 +14509,10 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>Covers %n track(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Охватывает %n дорожку</numerusform>
+            <numerusform>Охватывает %n дорожки</numerusform>
+            <numerusform>Охватывает %n дорожек</numerusform>
         </translation>
     </message>
 </context>
