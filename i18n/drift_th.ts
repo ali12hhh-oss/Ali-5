@@ -759,7 +759,7 @@
     </message>
     <message>
         <source>Frames per second</source>
-        <translation type="unfinished"></translation>
+        <translation>เฟรมต่อวินาที</translation>
     </message>
     <message>
         <source>%1×%2 · %3 · %4 fps</source>
@@ -782,7 +782,7 @@
     </message>
     <message>
         <source>“%1” is ready.</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1” พร้อมแล้ว</translation>
     </message>
     <message>
         <source>Downloading…</source>
@@ -790,15 +790,15 @@
     </message>
     <message>
         <source>No source in the marketplace can open links.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีแหล่งที่มาในมาร์เก็ตเพลสที่เปิดลิงก์ได้</translation>
     </message>
     <message>
         <source>That source didn’t recognise this link.</source>
-        <translation type="unfinished"></translation>
+        <translation>แหล่งที่มานั้นไม่รู้จักลิงก์นี้</translation>
     </message>
     <message>
         <source>Which source should open this link?</source>
-        <translation type="unfinished"></translation>
+        <translation>ต้องการให้แหล่งที่มาใดเปิดลิงก์นี้</translation>
     </message>
     <message>
         <source>Loading sources…</source>
@@ -814,11 +814,11 @@
     </message>
     <message>
         <source>Pick another source</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกแหล่งที่มาอื่น</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดในเบราว์เซอร์</translation>
     </message>
     <message>
         <source>Add to timeline</source>
@@ -826,7 +826,7 @@
     </message>
     <message>
         <source>Keep browsing</source>
-        <translation type="unfinished"></translation>
+        <translation>เรียกดูต่อ</translation>
     </message>
 </context>
 <context>
@@ -841,19 +841,19 @@
     </message>
     <message>
         <source>Canvas set to %1×%2 at %3 fps from your first clip.</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าผืนงานเป็น %1×%2 ที่ %3 fps ตามคลิปแรกแล้ว</translation>
     </message>
     <message>
         <source>That share had no link in it.</source>
-        <translation type="unfinished"></translation>
+        <translation>รายการที่แชร์ไม่มีลิงก์</translation>
     </message>
     <message>
         <source>Links can’t be opened in this build.</source>
-        <translation type="unfinished"></translation>
+        <translation>บิลด์นี้ไม่รองรับการเปิดลิงก์</translation>
     </message>
     <message>
         <source>That download is no longer in your media.</source>
-        <translation type="unfinished"></translation>
+        <translation>รายการดาวน์โหลดนั้นไม่อยู่ในสื่อของคุณแล้ว</translation>
     </message>
     <message>
         <source>Open Project</source>
@@ -861,39 +861,39 @@
     </message>
     <message>
         <source>Import in progress…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังนำเข้า…</translation>
     </message>
     <message>
         <source>Saved to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกไปที่ %1 แล้ว</translation>
     </message>
     <message>
         <source>Export finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกเสร็จแล้ว</translation>
     </message>
     <message>
         <source>Export cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการส่งออกแล้ว</translation>
     </message>
     <message>
         <source>Export failed. Check the save location and free space.</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกไม่สำเร็จ โปรดตรวจสอบตำแหน่งบันทึกและพื้นที่ว่าง</translation>
     </message>
     <message>
         <source>Couldn&apos;t create the shareable copy: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างสำเนาสำหรับแชร์ไม่ได้: %1</translation>
     </message>
     <message>
         <source>Captions created.</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างคำบรรยายแล้ว</translation>
     </message>
     <message>
         <source>Couldn’t create captions: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างคำบรรยายไม่ได้: %1</translation>
     </message>
     <message>
         <source>Couldn’t create captions.</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างคำบรรยายไม่ได้</translation>
     </message>
     <message>
         <source>Couldn’t install “%1”: %2</source>
@@ -901,11 +901,11 @@
     </message>
     <message>
         <source>Imported “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้า “%1” แล้ว</translation>
     </message>
     <message>
         <source>Imported from the marketplace.</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าจากมาร์เก็ตเพลสแล้ว</translation>
     </message>
 </context>
 <context>
@@ -934,11 +934,11 @@
     </message>
     <message>
         <source>Light mode</source>
-        <translation type="unfinished"></translation>
+        <translation>โหมดสว่าง</translation>
     </message>
     <message>
         <source>Dark mode</source>
-        <translation type="unfinished"></translation>
+        <translation>โหมดมืด</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -950,11 +950,11 @@
     </message>
     <message>
         <source>Update available</source>
-        <translation type="unfinished"></translation>
+        <translation>มีอัปเดตพร้อมใช้งาน</translation>
     </message>
     <message>
         <source>Debug info</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อมูลดีบัก</translation>
     </message>
 </context>
 <context>
@@ -969,23 +969,23 @@
     </message>
     <message>
         <source>Audio only — trim it below</source>
-        <translation type="unfinished"></translation>
+        <translation>มีแต่เสียง — ตัดแต่งด้านล่าง</translation>
     </message>
     <message>
         <source>Unlock source frame ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>ปลดล็อกอัตราส่วนเฟรมต้นฉบับ</translation>
     </message>
     <message>
         <source>Lock source frame ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>ล็อกอัตราส่วนเฟรมต้นฉบับ</translation>
     </message>
     <message>
         <source>Trim</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัดแต่ง</translation>
     </message>
     <message>
         <source>Crop</source>
-        <translation type="unfinished"></translation>
+        <translation>ครอบตัด</translation>
     </message>
     <message>
         <source>Keeping %1 to %2  ·  %3s</source>
@@ -993,27 +993,27 @@
     </message>
     <message>
         <source>Start here</source>
-        <translation type="unfinished"></translation>
+        <translation>เริ่มที่นี่</translation>
     </message>
     <message>
         <source>End here</source>
-        <translation type="unfinished"></translation>
+        <translation>จบที่นี่</translation>
     </message>
     <message>
         <source>Undo trim</source>
-        <translation type="unfinished"></translation>
+        <translation>เลิกทำการตัดแต่ง</translation>
     </message>
     <message>
         <source>Drag inside the box to move it, corners to resize</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากภายในกรอบเพื่อย้าย และลากมุมเพื่อปรับขนาด</translation>
     </message>
     <message>
         <source>Undo crop</source>
-        <translation type="unfinished"></translation>
+        <translation>เลิกทำการครอบตัด</translation>
     </message>
     <message>
         <source>Saving…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังบันทึก…</translation>
     </message>
     <message>
         <source>Save keeps your changes as a new file in this project.</source>
@@ -1033,42 +1033,42 @@
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>หมุน</translation>
     </message>
 </context>
 <context>
     <name>AndroidMoreToolsSheet</name>
     <message>
         <source>More tools</source>
-        <translation type="unfinished"></translation>
+        <translation>เครื่องมือเพิ่มเติม</translation>
     </message>
     <message>
         <source>Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิป</translation>
     </message>
     <message>
         <source>Select multiple</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกหลายรายการ</translation>
     </message>
     <message>
         <source>Tap clips to add them to the selection</source>
-        <translation type="unfinished"></translation>
+        <translation>แตะคลิปเพื่อเพิ่มลงในการเลือก</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัด</translation>
     </message>
     <message>
         <source>Remove the clip and keep it to paste</source>
-        <translation type="unfinished"></translation>
+        <translation>นำคลิปออกและเก็บไว้เพื่อวางภายหลัง</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอก</translation>
     </message>
     <message>
         <source>Keep a copy to paste</source>
-        <translation type="unfinished"></translation>
+        <translation>เก็บสำเนาไว้เพื่อวาง</translation>
     </message>
     <message>
         <source>Paste attributes…</source>
@@ -1076,7 +1076,7 @@
     </message>
     <message>
         <source>Apply what you copied from another clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้สิ่งที่คัดลอกจากคลิปอื่น</translation>
     </message>
     <message>
         <source>Rename…</source>
@@ -2409,7 +2409,7 @@
     </message>
     <message>
         <source>Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิป</translation>
     </message>
     <message>
         <source>Getting noise removal ready…</source>
@@ -2653,7 +2653,7 @@
     </message>
     <message>
         <source>Saving…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังบันทึก…</translation>
     </message>
     <message>
         <source>Converting…</source>
@@ -5391,7 +5391,7 @@
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอก</translation>
     </message>
 </context>
 <context>
@@ -5459,7 +5459,7 @@
     <name>DebugInfoDialog</name>
     <message>
         <source>Debug info</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อมูลดีบัก</translation>
     </message>
     <message>
         <source>Copy report</source>
@@ -6740,7 +6740,7 @@
     </message>
     <message>
         <source>Export cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการส่งออกแล้ว</translation>
     </message>
     <message>
         <source>Video</source>
@@ -6899,7 +6899,7 @@
     </message>
     <message>
         <source>Export finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกเสร็จแล้ว</translation>
     </message>
     <message>
         <source>Play</source>
@@ -7256,11 +7256,11 @@
     </message>
     <message>
         <source>Unlock source frame ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>ปลดล็อกอัตราส่วนเฟรมต้นฉบับ</translation>
     </message>
     <message>
         <source>Lock source frame ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>ล็อกอัตราส่วนเฟรมต้นฉบับ</translation>
     </message>
     <message>
         <source>Width</source>
@@ -7296,7 +7296,7 @@
     </message>
     <message>
         <source>Trim</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัดแต่ง</translation>
     </message>
     <message>
         <source>Which part of the original file this clip plays</source>
@@ -8137,11 +8137,11 @@
     </message>
     <message>
         <source>Export finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกเสร็จแล้ว</translation>
     </message>
     <message>
         <source>Export cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการส่งออกแล้ว</translation>
     </message>
     <message>
         <source>Export failed. Check the save location and free space on your disk.</source>
@@ -8149,19 +8149,19 @@
     </message>
     <message>
         <source>Couldn&apos;t create the shareable copy: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างสำเนาสำหรับแชร์ไม่ได้: %1</translation>
     </message>
     <message>
         <source>Captions created.</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างคำบรรยายแล้ว</translation>
     </message>
     <message>
         <source>Couldn’t create captions: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างคำบรรยายไม่ได้: %1</translation>
     </message>
     <message>
         <source>Couldn’t create captions.</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างคำบรรยายไม่ได้</translation>
     </message>
     <message>
         <source>Couldn’t install “%1”: %2</source>
@@ -8169,11 +8169,11 @@
     </message>
     <message>
         <source>Imported “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้า “%1” แล้ว</translation>
     </message>
     <message>
         <source>Imported from the marketplace.</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าจากมาร์เก็ตเพลสแล้ว</translation>
     </message>
 </context>
 <context>
@@ -8894,11 +8894,11 @@
     </message>
     <message>
         <source>Unlock source frame ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>ปลดล็อกอัตราส่วนเฟรมต้นฉบับ</translation>
     </message>
     <message>
         <source>Lock source frame ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>ล็อกอัตราส่วนเฟรมต้นฉบับ</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -8930,7 +8930,7 @@
     </message>
     <message>
         <source>Saving…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังบันทึก…</translation>
     </message>
     <message>
         <source>Choose the part and framing to keep, then Next.</source>
@@ -8982,7 +8982,7 @@
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>หมุน</translation>
     </message>
 </context>
 <context>
@@ -9456,7 +9456,7 @@
     </message>
     <message>
         <source>Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิป</translation>
     </message>
     <message numerus="yes">
         <source>Pasting from “%1” onto %n selected clip(s):</source>
@@ -9665,7 +9665,7 @@
     </message>
     <message>
         <source>Debug info</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อมูลดีบัก</translation>
     </message>
     <message>
         <source>Audio only</source>
@@ -10034,7 +10034,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Frames per second</source>
-        <translation type="unfinished"></translation>
+        <translation>เฟรมต่อวินาที</translation>
     </message>
     <message>
         <source>Video: %1×%2, %3 frames per second</source>
@@ -10398,7 +10398,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิป</translation>
     </message>
     <message>
         <source>Cannot open file: %1</source>
@@ -13427,7 +13427,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Select multiple</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกหลายรายการ</translation>
     </message>
     <message>
         <source>Open composite</source>
@@ -13503,11 +13503,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัด</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอก</translation>
     </message>
     <message>
         <source>Paste attributes…</source>
@@ -14303,7 +14303,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>หมุน</translation>
     </message>
     <message>
         <source>Rings on the preview turn the clip about each axis</source>
@@ -14434,7 +14434,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิป</translation>
     </message>
     <message numerus="yes">
         <source>+%n more</source>
@@ -14698,7 +14698,7 @@ If playback stutters, try another.</source>
     <name>UpdateDialog</name>
     <message>
         <source>Update available</source>
-        <translation type="unfinished"></translation>
+        <translation>มีอัปเดตพร้อมใช้งาน</translation>
     </message>
     <message>
         <source>Drift %1 is available</source>
@@ -15009,7 +15009,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Frames per second</source>
-        <translation type="unfinished"></translation>
+        <translation>เฟรมต่อวินาที</translation>
     </message>
     <message>
         <source>Cancel crop</source>
