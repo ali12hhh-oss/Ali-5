@@ -9622,46 +9622,46 @@
     </message>
     <message>
         <source>Playhead update (p95)</source>
-        <translation type="unfinished"></translation>
+        <translation>Playhead update (p95)</translation>
     </message>
     <message>
         <source>Audio mix load (p95)</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio mix load (p95)</translation>
     </message>
     <message>
         <source>Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga sample</translation>
     </message>
 </context>
 <context>
     <name>PreviewPanel</name>
     <message>
         <source>REC %1s</source>
-        <translation type="unfinished"></translation>
+        <translation>REC %1s</translation>
     </message>
     <message>
         <source>PAUSED %1s</source>
-        <translation type="unfinished"></translation>
+        <translation>NA-PAUSE %1s</translation>
     </message>
     <message>
         <source>Nothing to preview yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala pang puwedeng i-preview</translation>
     </message>
     <message>
         <source>Import media and drag it onto the timeline below to see it here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-import ng media at i-drag ito sa timeline sa ibaba para makita rito.</translation>
     </message>
     <message>
         <source>GPU preview unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi available ang GPU preview</translation>
     </message>
     <message>
         <source>Your graphics driver only provides %1. Drift&apos;s preview needs OpenGL 3.3.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 lang ang sinusuportahan ng graphics driver mo. Kailangan ng preview ng Drift ang OpenGL 3.3.</translation>
     </message>
     <message>
         <source>Drift could not start its GPU renderer, so the preview cannot draw.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi masimulan ng Drift ang GPU renderer kaya hindi maipakita ang preview.</translation>
     </message>
     <message>
         <source>Debug info</source>
@@ -9669,7 +9669,7 @@
     </message>
     <message>
         <source>Audio only</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio lang</translation>
     </message>
     <message>
         <source>No clip at the current time</source>
@@ -9684,15 +9684,15 @@
     <name>PreviewToolbar</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Current time / total · %1 frames per second</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasalukuyang oras / kabuuan · %1 frame bawat segundo</translation>
     </message>
     <message>
         <source>Jump back 1s · Shift for 5s · Ctrl for 10s</source>
-        <translation type="unfinished"></translation>
+        <translation>Bumalik ng 1s · Shift para sa 5s · Ctrl para sa 10s</translation>
     </message>
     <message>
         <source>Previous frame</source>
@@ -9712,19 +9712,19 @@
     </message>
     <message>
         <source>Loop work area on — click to turn off</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-on ang loop ng work area — i-click para i-off</translation>
     </message>
     <message>
         <source>Loop work area off — click to turn on</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-off ang loop ng work area — i-click para i-on</translation>
     </message>
     <message>
         <source>Jump forward 1s · Shift for 5s · Ctrl for 10s</source>
-        <translation type="unfinished"></translation>
+        <translation>Sumulong ng 1s · Shift para sa 5s · Ctrl para sa 10s</translation>
     </message>
     <message>
         <source>Preview zoom — Ctrl+scroll over the preview to zoom, middle-drag to pan. Click to reset to 100%.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preview zoom — Ctrl+scroll sa preview para mag-zoom, middle-drag para mag-pan. I-click para i-reset sa 100%.</translation>
     </message>
     <message>
         <source>Full</source>
@@ -9746,11 +9746,13 @@
         <source>Preview quality — lower is smoother while editing.
 Full, Half and Quarter are fixed fractions of the project resolution: Full composites exactly what an export would.
 Auto renders only as many pixels as the preview actually shows, and lowers that further while playback cannot keep up.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preview quality — mas mababa ang setting, mas maayos habang nag-e-edit.
+Ang Full, Half, at Quarter ay mga takdang bahagi ng resolution ng project; ang Full ay nagko-composite ng eksaktong katulad ng export.
+Ang Auto ay nagre-render lamang ng mga pixel na ipinapakita ng preview at ibinababa pa ito kapag hindi makahabol ang playback.</translation>
     </message>
     <message>
         <source>Playback speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilis ng playback</translation>
     </message>
     <message>
         <source>How video is decoded for preview.
@@ -9758,7 +9760,11 @@ Auto picks per clip: hardware for high-quality 4K, software otherwise.
 Software is smoother for most clips. It uses more CPU.
 Hardware is better for high-quality 4K, and forces one GPU decoder.
 If playback stutters, try another.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paraan ng pag-decode ng video para sa preview.
+Pinipili ng Auto bawat clip: hardware para sa high-quality 4K, software para sa iba.
+Mas maayos ang software sa karamihan ng clip pero mas maraming CPU ang gamit.
+Mas mainam ang hardware para sa high-quality 4K at gumagamit ng iisang GPU decoder.
+Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Toggle guides</source>
@@ -9770,11 +9776,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Keep mask handles on the preview while another clip is selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Panatilihin ang mga handle ng mask sa preview kahit ibang clip ang napili</translation>
     </message>
     <message>
         <source>Exit fullscreen preview (Esc)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumabas sa full-screen preview (Esc)</translation>
     </message>
     <message>
         <source>Fullscreen preview</source>
@@ -9782,11 +9788,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Decoding on a different graphics card</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagde-decode gamit ang ibang graphics card</translation>
     </message>
     <message>
         <source>Use anyway</source>
-        <translation type="unfinished"></translation>
+        <translation>Gamitin pa rin</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9794,15 +9800,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Launching Drift with prime-run (or DRI_PRIME=1) puts OpenGL on the same card as the decoder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang paglunsad sa Drift gamit ang prime-run (o DRI_PRIME=1) ay maglalagay sa OpenGL sa parehong card ng decoder.</translation>
     </message>
     <message>
         <source>Run Drift on the high-performance graphics card</source>
-        <translation type="unfinished"></translation>
+        <translation>Patakbuhin ang Drift sa high-performance graphics card</translation>
     </message>
     <message>
         <source>Set Drift to High performance in Windows Settings &gt; Display &gt; Graphics, then restart Drift.</source>
-        <translation type="unfinished"></translation>
+        <translation>Itakda ang Drift sa High performance sa Windows Settings &gt; Display &gt; Graphics, pagkatapos ay i-restart ang Drift.</translation>
     </message>
     <message>
         <source>Open graphics settings</source>
@@ -9813,106 +9819,106 @@ If playback stutters, try another.</source>
     <name>Project</name>
     <message>
         <source>This project was saved by a newer version of Drift (project format %1; this build reads up to %2).</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-save ang project na ito gamit ang mas bagong Drift (format ng project %1; nababasa ng build na ito hanggang %2).</translation>
     </message>
     <message>
         <source>This file isn’t a Drift project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi Drift project ang file na ito.</translation>
     </message>
 </context>
 <context>
     <name>ProjectBundle</name>
     <message>
         <source>compressed block is corrupt</source>
-        <translation type="unfinished"></translation>
+        <translation>Sira ang compressed block</translation>
     </message>
     <message>
         <source>cannot open %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabuksan ang %1</translation>
     </message>
     <message>
         <source>file is too short to be a Drift project</source>
-        <translation type="unfinished"></translation>
+        <translation>Masyadong maikli ang file para maging Drift project</translation>
     </message>
     <message>
         <source>not a Drift project (bad magic)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi Drift project (mali ang magic signature)</translation>
     </message>
     <message>
         <source>unsupported container revision</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi suportadong container revision</translation>
     </message>
     <message>
         <source>project manifest has an implausible size</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi makatwiran ang laki ng project manifest</translation>
     </message>
     <message>
         <source>project file is truncated</source>
-        <translation type="unfinished"></translation>
+        <translation>Naputol ang project file</translation>
     </message>
     <message>
         <source>project manifest is corrupt</source>
-        <translation type="unfinished"></translation>
+        <translation>Sira ang project manifest</translation>
     </message>
     <message>
         <source>project manifest is not valid JSON: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi valid na JSON ang project manifest: %1</translation>
     </message>
     <message>
         <source>project manifest has no format version</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang format version ang project manifest</translation>
     </message>
     <message>
         <source>this project was saved by a newer version of Drift (format %1) — update to open it</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-save ang project gamit ang mas bagong Drift (format %1)—mag-update para mabuksan ito</translation>
     </message>
     <message>
         <source>project blob table is not contiguous</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi magkakadugtong ang project blob table</translation>
     </message>
     <message>
         <source>project blob table is implausible</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi makatwiran ang project blob table</translation>
     </message>
     <message>
         <source>project media entry names no blob</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang blob naระบุในรายการ media ng project</translation>
     </message>
     <message>
         <source>unsafe file name in project: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ligtas na pangalan ng file sa project: %1</translation>
     </message>
     <message>
         <source>project file contains no timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang timeline ang project file</translation>
     </message>
     <message>
         <source>project file is truncated or has trailing data</source>
-        <translation type="unfinished"></translation>
+        <translation>Naputol ang project file o may dagdag na data sa dulo</translation>
     </message>
     <message>
         <source>cannot compress %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-compress ang %1</translation>
     </message>
     <message>
         <source>project is too large to save</source>
-        <translation type="unfinished"></translation>
+        <translation>Masyadong malaki ang project para i-save</translation>
     </message>
     <message>
         <source>cannot compress the project manifest</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-compress ang project manifest</translation>
     </message>
     <message>
         <source>cannot write %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi maisulat ang %1</translation>
     </message>
     <message>
         <source>cannot write the project manifest</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi maisulat ang project manifest</translation>
     </message>
     <message>
         <source>cannot write project data</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi maisulat ang data ng project</translation>
     </message>
     <message>
         <source>Cancelled</source>
@@ -9920,11 +9926,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>cannot read %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabasa ang %1</translation>
     </message>
     <message>
         <source>%1 changed while saving</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagbago ang %1 habang sine-save</translation>
     </message>
     <message>
         <source>cannot finish writing %1</source>
@@ -11867,7 +11873,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Audio only</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio lang</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -11934,7 +11940,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Playback speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilis ng playback</translation>
     </message>
     <message>
         <source>Custom speed…</source>
@@ -13705,7 +13711,7 @@ If playback stutters, try another.</source>
     <name>TimelineToolbar</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -14315,7 +14321,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Global</source>
