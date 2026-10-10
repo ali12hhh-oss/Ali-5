@@ -2159,7 +2159,7 @@
     </message>
     <message>
         <source>Subtitles</source>
-        <translation type="unfinished">Mga Subtitle</translation>
+        <translation>Mga subtitle</translation>
     </message>
     <message>
         <source>Subtitle clip added</source>
@@ -2219,7 +2219,7 @@
     </message>
     <message>
         <source>Starting…</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagsisimula…</translation>
     </message>
     <message>
         <source>Done</source>
@@ -4747,7 +4747,7 @@
     </message>
     <message>
         <source>Subtitles</source>
-        <translation type="unfinished">Mga Subtitle</translation>
+        <translation>Mga subtitle</translation>
     </message>
     <message>
         <source>Stickers</source>
@@ -4755,7 +4755,7 @@
     </message>
     <message>
         <source>Shapes</source>
-        <translation type="unfinished">Mga Hugis</translation>
+        <translation>Mga hugis</translation>
     </message>
     <message>
         <source>Scenes</source>
@@ -6144,7 +6144,7 @@
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">I-update</translation>
+        <translation>I-update</translation>
     </message>
     <message>
         <source>Drift %1 is available</source>
@@ -6152,7 +6152,7 @@
     </message>
     <message>
         <source>Agent access</source>
-        <translation type="unfinished">Access ng agent</translation>
+        <translation>Access ng agent</translation>
     </message>
     <message>
         <source>Export in progress (%1%) — click to view</source>
@@ -8176,7 +8176,7 @@
     </message>
     <message>
         <source>Starting…</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagsisimula…</translation>
     </message>
     <message>
         <source>Preparing…</source>
@@ -8734,7 +8734,7 @@
     </message>
     <message>
         <source>Add to timeline</source>
-        <translation type="unfinished">Idagdag sa timeline</translation>
+        <translation>Idagdag sa timeline</translation>
     </message>
     <message numerus="yes">
         <source>Move %n items to folder…</source>
@@ -8993,7 +8993,7 @@
     </message>
     <message>
         <source>%1… %2%</source>
-        <translation type="unfinished">%1… %2%</translation>
+        <translation>%1… %2%</translation>
     </message>
     <message>
         <source>used version %1</source>
@@ -9001,7 +9001,7 @@
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">I-install</translation>
+        <translation>I-install</translation>
     </message>
     <message>
         <source>Reopen the project once they finish installing.</source>
@@ -9079,7 +9079,7 @@
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished">Itago</translation>
+        <translation>Itago</translation>
     </message>
     <message>
         <source>What plays once the animation has run its length</source>
@@ -10061,7 +10061,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Subtitles</source>
-        <translation type="unfinished">Mga Subtitle</translation>
+        <translation>Mga subtitle</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -11218,7 +11218,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Agent access</source>
-        <translation type="unfinished">Access ng agent</translation>
+        <translation>Access ng agent</translation>
     </message>
     <message>
         <source>Cloud providers</source>
@@ -12301,7 +12301,7 @@ If playback stutters, try another.</source>
     <name>SubtitleCue</name>
     <message>
         <source>Subtitles</source>
-        <translation type="unfinished">Mga Subtitle</translation>
+        <translation>Mga subtitle</translation>
     </message>
     <message>
         <source>Subtitles (%1)</source>
@@ -12312,7 +12312,7 @@ If playback stutters, try another.</source>
     <name>SubtitleCueLane</name>
     <message>
         <source>Subtitles</source>
-        <translation type="unfinished">Mga Subtitle</translation>
+        <translation>Mga subtitle</translation>
     </message>
     <message numerus="yes">
         <source>%n captions</source>
@@ -12330,7 +12330,7 @@ If playback stutters, try another.</source>
     <name>SubtitleEditor</name>
     <message>
         <source>Subtitles</source>
-        <translation type="unfinished">Mga Subtitle</translation>
+        <translation>Mga subtitle</translation>
     </message>
     <message>
         <source>%1 captions</source>
@@ -13939,7 +13939,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Subtitles</source>
-        <translation type="unfinished">Mga Subtitle</translation>
+        <translation>Mga subtitle</translation>
     </message>
     <message>
         <source>%1, track %2</source>
@@ -14703,7 +14703,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Later</source>
-        <translation type="unfinished">Mamaya</translation>
+        <translation>Mamaya</translation>
     </message>
     <message>
         <source>Download</source>
@@ -14849,7 +14849,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished">Itago</translation>
+        <translation>Itago</translation>
     </message>
     <message>
         <source>What plays once the animation has run its length</source>
