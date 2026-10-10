@@ -930,7 +930,7 @@
         <translation>
             <numerusform>%n عملة</numerusform>
             <numerusform>%n عملة</numerusform>
-            <numerusform>عملتان</numerusform>
+            <numerusform>%n عملة</numerusform>
             <numerusform>%n عملات</numerusform>
             <numerusform>%n عملة</numerusform>
             <numerusform>%n عملة</numerusform>
@@ -2502,8 +2502,8 @@
         <source>Multicam ready: %n camera(s) lined up at the start. Drag a clip to adjust its sync, then pick a shot.</source>
         <translation>
             <numerusform>تم تجهيز التصوير متعدد الكاميرات: اصطفّت %n كاميرا عند البداية. اسحب مقطعاً لضبط المزامنة، ثم اختر اللقطة.</numerusform>
-            <numerusform>تم تجهيز التصوير متعدد الكاميرات: اصطفّت كاميرا واحدة عند البداية. اسحب المقطع لضبط المزامنة، ثم اختر اللقطة.</numerusform>
-            <numerusform>تم تجهيز التصوير متعدد الكاميرات: اصطفّت كاميرتان عند البداية. اسحب مقطعاً لضبط المزامنة، ثم اختر اللقطة.</numerusform>
+            <numerusform>تم تجهيز التصوير متعدد الكاميرات: اصطفّت %n كاميرا عند البداية. اسحب مقطعاً لضبط المزامنة، ثم اختر اللقطة.</numerusform>
+            <numerusform>تم تجهيز التصوير متعدد الكاميرات: اصطفّت %n كاميرا عند البداية. اسحب مقطعاً لضبط المزامنة، ثم اختر اللقطة.</numerusform>
             <numerusform>تم تجهيز التصوير متعدد الكاميرات: اصطفّت %n كاميرات عند البداية. اسحب مقطعاً لضبط المزامنة، ثم اختر اللقطة.</numerusform>
             <numerusform>تم تجهيز التصوير متعدد الكاميرات: اصطفّت %n كاميرا عند البداية. اسحب مقطعاً لضبط المزامنة، ثم اختر اللقطة.</numerusform>
             <numerusform>تم تجهيز التصوير متعدد الكاميرات: اصطفّت %n كاميرا عند البداية. اسحب مقطعاً لضبط المزامنة، ثم اختر اللقطة.</numerusform>
@@ -3727,8 +3727,8 @@
         <source>Created %n text clips</source>
         <translation>
             <numerusform>تم إنشاء %n مقطع نصي</numerusform>
-            <numerusform>تم إنشاء مقطع نصي واحد</numerusform>
-            <numerusform>تم إنشاء مقطعين نصيين</numerusform>
+            <numerusform>تم إنشاء %n مقطع نصي</numerusform>
+            <numerusform>تم إنشاء %n مقطع نصي</numerusform>
             <numerusform>تم إنشاء %n مقاطع نصية</numerusform>
             <numerusform>تم إنشاء %n مقطعًا نصيًا</numerusform>
             <numerusform>تم إنشاء %n مقطع نصي</numerusform>
@@ -3766,10 +3766,10 @@
         <source>Transform layer now covers %n track(s)</source>
         <translation>
             <numerusform>طبقة التحويل تغطي الآن %n مسار</numerusform>
-            <numerusform>طبقة التحويل تغطي الآن مساراً واحداً</numerusform>
-            <numerusform>طبقة التحويل تغطي الآن مسارين</numerusform>
+            <numerusform>طبقة التحويل تغطي الآن %n مسار</numerusform>
+            <numerusform>طبقة التحويل تغطي الآن %n مسار</numerusform>
             <numerusform>طبقة التحويل تغطي الآن %n مسارات</numerusform>
-            <numerusform>طبقة التحويل تغطي الآن %n مساراً</numerusform>
+            <numerusform>طبقة التحويل تغطي الآن %n مسارًا</numerusform>
             <numerusform>طبقة التحويل تغطي الآن %n مسار</numerusform>
         </translation>
     </message>
@@ -3949,8 +3949,8 @@
         <source>Imported %n face prop(s)</source>
         <translation>
             <numerusform>تم استيراد %n عنصر وجه</numerusform>
-            <numerusform>تم استيراد عنصر وجه واحد</numerusform>
-            <numerusform>تم استيراد عنصري وجه</numerusform>
+            <numerusform>تم استيراد %n عنصر وجه</numerusform>
+            <numerusform>تم استيراد %n عنصر وجه</numerusform>
             <numerusform>تم استيراد %n عناصر وجه</numerusform>
             <numerusform>تم استيراد %n عنصر وجه</numerusform>
             <numerusform>تم استيراد %n عنصر وجه</numerusform>
@@ -3960,8 +3960,8 @@
         <source>Imported %n face prop(s); %1 skipped: %2</source>
         <translation>
             <numerusform>تم استيراد %n عنصر وجه؛ تم تخطي %1: %2</numerusform>
-            <numerusform>تم استيراد عنصر وجه واحد؛ تم تخطي %1: %2</numerusform>
-            <numerusform>تم استيراد عنصري وجه؛ تم تخطي %1: %2</numerusform>
+            <numerusform>تم استيراد %n عنصر وجه؛ تم تخطي %1: %2</numerusform>
+            <numerusform>تم استيراد %n عنصر وجه؛ تم تخطي %1: %2</numerusform>
             <numerusform>تم استيراد %n عناصر وجه؛ تم تخطي %1: %2</numerusform>
             <numerusform>تم استيراد %n عنصر وجه؛ تم تخطي %1: %2</numerusform>
             <numerusform>تم استيراد %n عنصر وجه؛ تم تخطي %1: %2</numerusform>
@@ -4087,8 +4087,8 @@
         <source>Pasted attributes onto %n clip(s)</source>
         <translation>
             <numerusform>تم لصق السمات على %n مقطع</numerusform>
-            <numerusform>تم لصق السمات على مقطع واحد</numerusform>
-            <numerusform>تم لصق السمات على مقطعين</numerusform>
+            <numerusform>تم لصق السمات على %n مقطع</numerusform>
+            <numerusform>تم لصق السمات على %n مقطع</numerusform>
             <numerusform>تم لصق السمات على %n مقاطع</numerusform>
             <numerusform>تم لصق السمات على %n مقطعًا</numerusform>
             <numerusform>تم لصق السمات على %n مقطع</numerusform>
@@ -4258,8 +4258,8 @@
         <source>Pasted %n clips</source>
         <translation>
             <numerusform>تم لصق %n مقطع</numerusform>
-            <numerusform>تم لصق مقطع واحد</numerusform>
-            <numerusform>تم لصق مقطعين</numerusform>
+            <numerusform>تم لصق %n مقطع</numerusform>
+            <numerusform>تم لصق %n مقطع</numerusform>
             <numerusform>تم لصق %n مقاطع</numerusform>
             <numerusform>تم لصق %n مقطعًا</numerusform>
             <numerusform>تم لصق %n مقطع</numerusform>
@@ -4365,10 +4365,10 @@
         <source>Media collected, but %n original(s) couldn’t be deleted</source>
         <translation>
             <numerusform>تم جمع الوسائط، لكن تعذّر حذف %n ملف أصلي</numerusform>
-            <numerusform>تم جمع الوسائط، لكن تعذّر حذف ملف أصلي واحد</numerusform>
-            <numerusform>تم جمع الوسائط، لكن تعذّر حذف ملفين أصليين</numerusform>
+            <numerusform>تم جمع الوسائط، لكن تعذّر حذف %n ملف أصلي</numerusform>
+            <numerusform>تم جمع الوسائط، لكن تعذّر حذف %n ملف أصلي</numerusform>
             <numerusform>تم جمع الوسائط، لكن تعذّر حذف %n ملفات أصلية</numerusform>
-            <numerusform>تم جمع الوسائط، لكن تعذّر حذف %n ملفاً أصلياً</numerusform>
+            <numerusform>تم جمع الوسائط، لكن تعذّر حذف %n ملفًا أصليًا</numerusform>
             <numerusform>تم جمع الوسائط، لكن تعذّر حذف %n ملف أصلي</numerusform>
         </translation>
     </message>
@@ -4504,8 +4504,8 @@
         <source>Applied to %n caption clip(s)</source>
         <translation>
             <numerusform>تم التطبيق على %n مقطع ترجمة</numerusform>
-            <numerusform>تم التطبيق على مقطع ترجمة واحد</numerusform>
-            <numerusform>تم التطبيق على مقطعي ترجمة</numerusform>
+            <numerusform>تم التطبيق على %n مقطع ترجمة</numerusform>
+            <numerusform>تم التطبيق على %n مقطع ترجمة</numerusform>
             <numerusform>تم التطبيق على %n مقاطع ترجمة</numerusform>
             <numerusform>تم التطبيق على %n مقطع ترجمة</numerusform>
             <numerusform>تم التطبيق على %n مقطع ترجمة</numerusform>
@@ -4749,8 +4749,8 @@
         <source>Replaced with “%1”. %n clips were shortened to fit the new file.</source>
         <translation>
             <numerusform>تم الاستبدال بـ “%1”. تم تقصير %n مقطعاً ليتناسب مع الملف الجديد.</numerusform>
-            <numerusform>تم الاستبدال بـ “%1”. تم تقصير مقطع واحد ليتناسب مع الملف الجديد.</numerusform>
-            <numerusform>تم الاستبدال بـ “%1”. تم تقصير مقطعين ليتناسبا مع الملف الجديد.</numerusform>
+            <numerusform>تم الاستبدال بـ “%1”. تم تقصير %n مقطع ليتناسب مع الملف الجديد.</numerusform>
+            <numerusform>تم الاستبدال بـ “%1”. تم تقصير %n مقطع ليتناسب مع الملف الجديد.</numerusform>
             <numerusform>تم الاستبدال بـ “%1”. تم تقصير %n مقاطع لتتناسب مع الملف الجديد.</numerusform>
             <numerusform>تم الاستبدال بـ “%1”. تم تقصير %n مقطعاً ليتناسب مع الملف الجديد.</numerusform>
             <numerusform>تم الاستبدال بـ “%1”. تم تقصير %n مقطع ليتناسب مع الملف الجديد.</numerusform>
@@ -4792,8 +4792,8 @@
         <source>Imported %n files into %1 folders — as many as one folder import takes. Import the remaining subfolders separately.</source>
         <translation>
             <numerusform>تم استيراد %n ملف إلى %1 مجلدات — وهذا أقصى ما تستورده عملية مجلد واحد. استورد المجلدات الفرعية المتبقية بشكل منفصل.</numerusform>
-            <numerusform>تم استيراد الملفات إلى %1 مجلدات — وهذا أقصى ما تستورده عملية مجلد واحد. استورد المجلدات الفرعية المتبقية بشكل منفصل.</numerusform>
-            <numerusform>تم استيراد الملفات إلى %1 مجلدات — وهذا أقصى ما تستورده عملية مجلد واحد. استورد المجلدات الفرعية المتبقية بشكل منفصل.</numerusform>
+            <numerusform>تم استيراد %n ملف إلى %1 مجلدات — وهذا أقصى ما تستورده عملية مجلد واحد. استورد المجلدات الفرعية المتبقية بشكل منفصل.</numerusform>
+            <numerusform>تم استيراد %n ملف إلى %1 مجلدات — وهذا أقصى ما تستورده عملية مجلد واحد. استورد المجلدات الفرعية المتبقية بشكل منفصل.</numerusform>
             <numerusform>تم استيراد %n ملفات إلى %1 مجلدات — وهذا أقصى ما تستورده عملية مجلد واحد. استورد المجلدات الفرعية المتبقية بشكل منفصل.</numerusform>
             <numerusform>تم استيراد %n ملفاً إلى %1 مجلدات — وهذا أقصى ما تستورده عملية مجلد واحد. استورد المجلدات الفرعية المتبقية بشكل منفصل.</numerusform>
             <numerusform>تم استيراد %n ملف إلى %1 مجلدات — وهذا أقصى ما تستورده عملية مجلد واحد. استورد المجلدات الفرعية المتبقية بشكل منفصل.</numerusform>
@@ -4803,8 +4803,8 @@
         <source>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</source>
         <translation>
             <numerusform>تم استيراد %n ملف إلى %1 مجلدات. تم تخطي %2 ملفاً لأن Drift لا يتعرف على تنسيقها. اسحبها إلى مكتبة الوسائط لمحاولة استيرادها رغم ذلك.</numerusform>
-            <numerusform>تم استيراد الملفات إلى %1 مجلدات. تم تخطي %2 لأن Drift لا يتعرف على تنسيقها. اسحبها إلى مكتبة الوسائط لمحاولة استيرادها رغم ذلك.</numerusform>
-            <numerusform>تم استيراد الملفات إلى %1 مجلدات. تم تخطي %2 لأن Drift لا يتعرف على تنسيقها. اسحبها إلى مكتبة الوسائط لمحاولة استيرادها رغم ذلك.</numerusform>
+            <numerusform>تم استيراد %n ملف إلى %1 مجلدات. تم تخطي %2 لأن Drift لا يتعرف على تنسيقها. اسحبها إلى مكتبة الوسائط لمحاولة استيرادها رغم ذلك.</numerusform>
+            <numerusform>تم استيراد %n ملف إلى %1 مجلدات. تم تخطي %2 لأن Drift لا يتعرف على تنسيقها. اسحبها إلى مكتبة الوسائط لمحاولة استيرادها رغم ذلك.</numerusform>
             <numerusform>تم استيراد %n ملفات إلى %1 مجلدات. تم تخطي %2 ملفاً لأن Drift لا يتعرف على تنسيقها. اسحبها إلى مكتبة الوسائط لمحاولة استيرادها رغم ذلك.</numerusform>
             <numerusform>تم استيراد %n ملفاً إلى %1 مجلدات. تم تخطي %2 ملفاً لأن Drift لا يتعرف على تنسيقها. اسحبها إلى مكتبة الوسائط لمحاولة استيرادها رغم ذلك.</numerusform>
             <numerusform>تم استيراد %n ملف إلى %1 مجلدات. تم تخطي %2 ملف لأن Drift لا يتعرف على تنسيقها. اسحبها إلى مكتبة الوسائط لمحاولة استيرادها رغم ذلك.</numerusform>
@@ -4814,8 +4814,8 @@
         <source>Imported %n files into %1 folders.</source>
         <translation>
             <numerusform>تم استيراد %n ملف إلى %1 مجلدات.</numerusform>
-            <numerusform>تم استيراد ملف واحد إلى %1 مجلدات.</numerusform>
-            <numerusform>تم استيراد ملفين إلى %1 مجلدات.</numerusform>
+            <numerusform>تم استيراد %n ملف إلى %1 مجلدات.</numerusform>
+            <numerusform>تم استيراد %n ملف إلى %1 مجلدات.</numerusform>
             <numerusform>تم استيراد %n ملفات إلى %1 مجلدات.</numerusform>
             <numerusform>تم استيراد %n ملفاً إلى %1 مجلدات.</numerusform>
             <numerusform>تم استيراد %n ملف إلى %1 مجلدات.</numerusform>
@@ -8884,8 +8884,8 @@
         <source>Move %n items to folder…</source>
         <translation>
             <numerusform>نقل %n عنصر إلى المجلد…</numerusform>
-            <numerusform>نقل عنصر واحد إلى المجلد…</numerusform>
-            <numerusform>نقل عنصرين إلى المجلد…</numerusform>
+            <numerusform>نقل %n عنصر إلى المجلد…</numerusform>
+            <numerusform>نقل %n عنصر إلى المجلد…</numerusform>
             <numerusform>نقل %n عناصر إلى المجلد…</numerusform>
             <numerusform>نقل %n عنصرًا إلى المجلد…</numerusform>
             <numerusform>نقل %n عنصر إلى المجلد…</numerusform>
@@ -8945,8 +8945,8 @@
         <source>%n clip(s) may play back slowly. A proxy makes previewing smoother; export still uses the original.</source>
         <translation>
             <numerusform>قد يكون تشغيل %n مقطع بطيئاً. تساعد النسخة الوسيطة على سلاسة المعاينة، بينما يستخدم التصدير الملف الأصلي.</numerusform>
-            <numerusform>قد يكون تشغيل مقطع واحد بطيئاً. تساعد النسخة الوسيطة على سلاسة المعاينة، بينما يستخدم التصدير الملف الأصلي.</numerusform>
-            <numerusform>قد يكون تشغيل مقطعين بطيئاً. تساعد النسخة الوسيطة على سلاسة المعاينة، بينما يستخدم التصدير الملف الأصلي.</numerusform>
+            <numerusform>قد يكون تشغيل %n مقطع بطيئاً. تساعد النسخة الوسيطة على سلاسة المعاينة، بينما يستخدم التصدير الملف الأصلي.</numerusform>
+            <numerusform>قد يكون تشغيل %n مقطع بطيئاً. تساعد النسخة الوسيطة على سلاسة المعاينة، بينما يستخدم التصدير الملف الأصلي.</numerusform>
             <numerusform>قد يكون تشغيل %n مقاطع بطيئاً. تساعد النسخة الوسيطة على سلاسة المعاينة، بينما يستخدم التصدير الملف الأصلي.</numerusform>
             <numerusform>قد يكون تشغيل %n مقطعاً بطيئاً. تساعد النسخة الوسيطة على سلاسة المعاينة، بينما يستخدم التصدير الملف الأصلي.</numerusform>
             <numerusform>قد يكون تشغيل %n مقطع بطيئاً. تساعد النسخة الوسيطة على سلاسة المعاينة، بينما يستخدم التصدير الملف الأصلي.</numerusform>
@@ -8960,8 +8960,8 @@
         <source>%n clip(s) have a variable frame rate, which can drift out of sync with audio. Convert them to an edit-friendly format to fix it.</source>
         <translation>
             <numerusform>لدى %n مقطع معدل إطارات متغير، وقد يؤدي ذلك إلى عدم تزامنه مع الصوت. حوّله إلى تنسيق مناسب للتحرير لحل المشكلة.</numerusform>
-            <numerusform>لدى مقطع واحد معدل إطارات متغير، وقد يؤدي ذلك إلى عدم تزامنه مع الصوت. حوّله إلى تنسيق مناسب للتحرير لحل المشكلة.</numerusform>
-            <numerusform>لدى مقطعين معدل إطارات متغير، وقد يؤدي ذلك إلى عدم تزامنهما مع الصوت. حوّلهما إلى تنسيق مناسب للتحرير لحل المشكلة.</numerusform>
+            <numerusform>لدى %n مقطع معدل إطارات متغير، وقد يؤدي ذلك إلى عدم تزامنه مع الصوت. حوّله إلى تنسيق مناسب للتحرير لحل المشكلة.</numerusform>
+            <numerusform>لدى %n مقطع معدل إطارات متغير، وقد يؤدي ذلك إلى عدم تزامنه مع الصوت. حوّله إلى تنسيق مناسب للتحرير لحل المشكلة.</numerusform>
             <numerusform>لدى %n مقاطع معدل إطارات متغير، وقد يؤدي ذلك إلى عدم تزامنها مع الصوت. حوّلها إلى تنسيق مناسب للتحرير لحل المشكلة.</numerusform>
             <numerusform>لدى %n مقطعاً معدل إطارات متغير، وقد يؤدي ذلك إلى عدم تزامنه مع الصوت. حوّله إلى تنسيق مناسب للتحرير لحل المشكلة.</numerusform>
             <numerusform>لدى %n مقطع معدل إطارات متغير، وقد يؤدي ذلك إلى عدم تزامنه مع الصوت. حوّله إلى تنسيق مناسب للتحرير لحل المشكلة.</numerusform>
@@ -9622,8 +9622,8 @@
         <source>Pasting from “%1” onto %n selected clip(s):</source>
         <translation>
             <numerusform>لصق من “%1” على %n مقطع محدد:</numerusform>
-            <numerusform>لصق من “%1” على مقطع محدد واحد:</numerusform>
-            <numerusform>لصق من “%1” على مقطعين محددين:</numerusform>
+            <numerusform>لصق من “%1” على %n مقطع محدد:</numerusform>
+            <numerusform>لصق من “%1” على %n مقطع محدد:</numerusform>
             <numerusform>لصق من “%1” على %n مقاطع محددة:</numerusform>
             <numerusform>لصق من “%1” على %n مقطعاً محدداً:</numerusform>
             <numerusform>لصق من “%1” على %n مقطع محدد:</numerusform>
@@ -12455,7 +12455,7 @@ If playback stutters, try another.</source>
         <translation>
             <numerusform>%n عملة</numerusform>
             <numerusform>%n عملة</numerusform>
-            <numerusform>عملتان</numerusform>
+            <numerusform>%n عملة</numerusform>
             <numerusform>%n عملات</numerusform>
             <numerusform>%n عملة</numerusform>
             <numerusform>%n عملة</numerusform>
@@ -12522,8 +12522,8 @@ If playback stutters, try another.</source>
         <source>%n captions</source>
         <translation>
             <numerusform>%n تسمية توضيحية</numerusform>
-            <numerusform>تسمية توضيحية واحدة</numerusform>
-            <numerusform>تسميتان توضيحيتان</numerusform>
+            <numerusform>%n تسمية توضيحية</numerusform>
+            <numerusform>%n تسمية توضيحية</numerusform>
             <numerusform>%n تسميات توضيحية</numerusform>
             <numerusform>%n تسمية توضيحية</numerusform>
             <numerusform>%n تسمية توضيحية</numerusform>
@@ -14179,8 +14179,8 @@ If playback stutters, try another.</source>
         <source>This removes the track and its %n clips. You can undo afterwards.</source>
         <translation>
             <numerusform>سيؤدي هذا إلى إزالة المسار ومقاطعِه وعددها %n. يمكنك التراجع بعد ذلك.</numerusform>
-            <numerusform>سيؤدي هذا إلى إزالة المسار ومقطعه الواحد. يمكنك التراجع بعد ذلك.</numerusform>
-            <numerusform>سيؤدي هذا إلى إزالة المسار ومقطعيه. يمكنك التراجع بعد ذلك.</numerusform>
+            <numerusform>سيؤدي هذا إلى إزالة المسار ومقاطعِه وعددها %n. يمكنك التراجع بعد ذلك.</numerusform>
+            <numerusform>سيؤدي هذا إلى إزالة المسار ومقاطعِه وعددها %n. يمكنك التراجع بعد ذلك.</numerusform>
             <numerusform>سيؤدي هذا إلى إزالة المسار ومقاطعِه وعددها %n. يمكنك التراجع بعد ذلك.</numerusform>
             <numerusform>سيؤدي هذا إلى إزالة المسار ومقاطعِه وعددها %n. يمكنك التراجع بعد ذلك.</numerusform>
             <numerusform>سيؤدي هذا إلى إزالة المسار ومقاطعِه وعددها %n. يمكنك التراجع بعد ذلك.</numerusform>
