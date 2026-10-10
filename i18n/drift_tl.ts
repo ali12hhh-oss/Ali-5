@@ -3377,119 +3377,119 @@
     </message>
     <message>
         <source>Animation slot</source>
-        <translation type="unfinished"></translation>
+        <translation>Animation slot</translation>
     </message>
     <message>
         <source>Animation slot updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang animation slot</translation>
     </message>
     <message>
         <source>Clip mask updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang clip mask</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Parihaba</translation>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>Elipse</translation>
     </message>
     <message>
         <source>Star</source>
-        <translation type="unfinished"></translation>
+        <translation>Bituin</translation>
     </message>
     <message>
         <source>Heart</source>
-        <translation type="unfinished"></translation>
+        <translation>Puso</translation>
     </message>
     <message>
         <source>Bars</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga bar</translation>
     </message>
     <message>
         <source>Freeform</source>
-        <translation type="unfinished"></translation>
+        <translation>Freeform</translation>
     </message>
     <message>
         <source>Add mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng mask</translation>
     </message>
     <message>
         <source>Mask added</source>
-        <translation type="unfinished"></translation>
+        <translation>Naidagdag ang mask</translation>
     </message>
     <message>
         <source>Add mask point</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng mask point</translation>
     </message>
     <message>
         <source>Mask point added</source>
-        <translation type="unfinished"></translation>
+        <translation>Naidagdag ang mask point</translation>
     </message>
     <message>
         <source>Remove mask point</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang mask point</translation>
     </message>
     <message>
         <source>Mask point removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Naalis ang mask point</translation>
     </message>
     <message>
         <source>That transition has no sound; audio tracks take crossfade or dip</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang tunog ang transition na ito; crossfade o dip ang gagamitin ng mga audio track</translation>
     </message>
     <message>
         <source>Replace transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang transition</translation>
     </message>
     <message>
         <source>Transition updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang transition</translation>
     </message>
     <message>
         <source>Track solo</source>
-        <translation type="unfinished"></translation>
+        <translation>I-solo ang track</translation>
     </message>
     <message>
         <source>Track soloed</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-solo ang track</translation>
     </message>
     <message>
         <source>Track unsoloed</source>
-        <translation type="unfinished"></translation>
+        <translation>Inalis sa solo ang track</translation>
     </message>
     <message>
         <source>Track volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume ng track</translation>
     </message>
     <message>
         <source>Track volume changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabago ang volume ng track</translation>
     </message>
     <message>
         <source>Track pan</source>
-        <translation type="unfinished"></translation>
+        <translation>Pan ng track</translation>
     </message>
     <message>
         <source>Track pan changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabago ang pan ng track</translation>
     </message>
     <message>
         <source>Keep ranges</source>
-        <translation type="unfinished"></translation>
+        <translation>Panatilihin ang mga range</translation>
     </message>
     <message>
         <source>Assemble</source>
-        <translation type="unfinished"></translation>
+        <translation>Buuin</translation>
     </message>
     <message>
         <source>Cut words</source>
-        <translation type="unfinished"></translation>
+        <translation>Putulin ang mga salita</translation>
     </message>
     <message>
         <source>Add transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng transition</translation>
     </message>
     <message>
         <source>Effect</source>
@@ -3501,15 +3501,15 @@
     </message>
     <message>
         <source>Frame video</source>
-        <translation type="unfinished"></translation>
+        <translation>I-frame ang video</translation>
     </message>
     <message>
         <source>Video framing saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-save ang video framing</translation>
     </message>
     <message>
         <source>Frame source video</source>
-        <translation type="unfinished"></translation>
+        <translation>I-frame ang source video</translation>
     </message>
     <message>
         <source>%1 (trimmed)</source>
@@ -3525,7 +3525,7 @@
     </message>
     <message>
         <source>Transform selection together</source>
-        <translation type="unfinished"></translation>
+        <translation>I-transform nang sabay ang napiling mga item</translation>
     </message>
     <message>
         <source>Select transform layer</source>
@@ -3533,23 +3533,23 @@
     </message>
     <message>
         <source>3D gizmo: move</source>
-        <translation type="unfinished"></translation>
+        <translation>3D gizmo: ilipat</translation>
     </message>
     <message>
         <source>3D gizmo: rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>3D gizmo: i-rotate</translation>
     </message>
     <message>
         <source>3D gizmo: scale</source>
-        <translation type="unfinished"></translation>
+        <translation>3D gizmo: i-scale</translation>
     </message>
     <message>
         <source>3D gizmo: switch global/local axes</source>
-        <translation type="unfinished"></translation>
+        <translation>3D gizmo: palitan ang global/local axes</translation>
     </message>
     <message>
         <source>Custom guides</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga custom guide</translation>
     </message>
     <message>
         <source>%1 copy</source>
@@ -3597,7 +3597,7 @@
     </message>
     <message>
         <source>Stabilization rendering failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabigo ang stabilization rendering: %1</translation>
     </message>
     <message>
         <source>Stabilization analysis failed.</source>
@@ -3605,23 +3605,23 @@
     </message>
     <message>
         <source>Stabilization analysis failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabigo ang stabilization analysis: %1</translation>
     </message>
     <message>
         <source>Audio adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>Pag-aayos ng audio</translation>
     </message>
     <message>
         <source>Drop a transition where two clips meet.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drop ang transition kung saan nagtatagpo ang dalawang clip.</translation>
     </message>
     <message>
         <source>Transform layers take no effects or masks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi tumatanggap ng effect o mask ang mga transform layer.</translation>
     </message>
     <message>
         <source>Audio effects go on clips with sound.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para lang sa mga clip na may tunog ang audio effect.</translation>
     </message>
     <message>
         <source>That goes on a video, image, shape or text clip.</source>
@@ -8383,27 +8383,27 @@
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Parihaba</translation>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>Elipse</translation>
     </message>
     <message>
         <source>Star</source>
-        <translation type="unfinished"></translation>
+        <translation>Bituin</translation>
     </message>
     <message>
         <source>Heart</source>
-        <translation type="unfinished"></translation>
+        <translation>Puso</translation>
     </message>
     <message>
         <source>Bars</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga bar</translation>
     </message>
     <message>
         <source>Freeform</source>
-        <translation type="unfinished"></translation>
+        <translation>Freeform</translation>
     </message>
     <message>
         <source>Combine</source>
@@ -9319,7 +9319,7 @@
     </message>
     <message>
         <source>Audio adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>Pag-aayos ng audio</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -11611,7 +11611,7 @@ If playback stutters, try another.</source>
     <name>ShapeStyle</name>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Parihaba</translation>
     </message>
     <message>
         <source>Rounded rectangle</source>
@@ -11623,7 +11623,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>Elipse</translation>
     </message>
     <message>
         <source>Circle</source>
@@ -11699,7 +11699,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Star</source>
-        <translation type="unfinished"></translation>
+        <translation>Bituin</translation>
     </message>
     <message>
         <source>Burst</source>
@@ -11715,7 +11715,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Heart</source>
-        <translation type="unfinished"></translation>
+        <translation>Puso</translation>
     </message>
     <message>
         <source>Cross</source>
@@ -13923,7 +13923,7 @@ If playback stutters, try another.</source>
     <name>TimelineTrackItem</name>
     <message>
         <source>Audio adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>Pag-aayos ng audio</translation>
     </message>
     <message>
         <source>Mask</source>
