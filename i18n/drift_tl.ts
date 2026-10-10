@@ -1914,7 +1914,7 @@
     </message>
     <message>
         <source>Fade in / out (volume)</source>
-        <translation>Fade in / out (volume)</translation>
+        <translation>Pag-fade in / out (lakas ng tunog)</translation>
     </message>
     <message>
         <source>Style</source>
@@ -2817,7 +2817,7 @@
     </message>
     <message>
         <source>Transition curve</source>
-        <translation>Transition curve</translation>
+        <translation>Kurba ng transisyon</translation>
     </message>
     <message>
         <source>Transition curve updated</source>
@@ -2829,7 +2829,7 @@
     </message>
     <message>
         <source>Custom transition curve</source>
-        <translation>Custom transition curve</translation>
+        <translation>Pasadyang kurba ng transisyon</translation>
     </message>
     <message>
         <source>Custom transition curve applied</source>
@@ -4663,11 +4663,11 @@
     </message>
     <message>
         <source>PNG image (*.png)</source>
-        <translation>PNG image (*.png)</translation>
+        <translation>Larawang PNG (*.png)</translation>
     </message>
     <message>
         <source>JPEG image (*.jpg *.jpeg)</source>
-        <translation>JPEG image (*.jpg *.jpeg)</translation>
+        <translation>Larawang JPEG (*.jpg *.jpeg)</translation>
     </message>
     <message>
         <source>Exported “%1”.</source>
@@ -5236,7 +5236,7 @@
     </message>
     <message>
         <source>Master</source>
-        <translation>Master</translation>
+        <translation>Pangunahin</translation>
     </message>
     <message>
         <source>Unmute master</source>
@@ -6132,7 +6132,7 @@
     </message>
     <message>
         <source>Debug info…</source>
-        <translation>Debug info…</translation>
+        <translation>Impormasyon sa pag-debug…</translation>
     </message>
     <message>
         <source>More settings…</source>
@@ -6243,7 +6243,7 @@
     </message>
     <message>
         <source>Adjustment layer</source>
-        <translation>Adjustment layer</translation>
+        <translation>Layer ng pagsasaayos</translation>
     </message>
     <message>
         <source>No effects match “%1”.</source>
@@ -6720,7 +6720,7 @@
     </message>
     <message>
         <source>Custom…</source>
-        <translation>Custom…</translation>
+        <translation>Pasadya…</translation>
     </message>
     <message>
         <source>Export GIF</source>
@@ -6748,7 +6748,7 @@
     </message>
     <message>
         <source>Audio</source>
-        <translation>Audio</translation>
+        <translation>Tunog</translation>
     </message>
     <message>
         <source>GIF</source>
@@ -6804,7 +6804,7 @@
     </message>
     <message>
         <source>Constant Quality</source>
-        <translation>Constant Quality</translation>
+        <translation>Palagiang kalidad</translation>
     </message>
     <message>
         <source>Bitrate</source>
@@ -6816,7 +6816,7 @@
     </message>
     <message>
         <source>Quality (RF)</source>
-        <translation>Quality (RF)</translation>
+        <translation>Kalidad (RF)</translation>
     </message>
     <message>
         <source>Higher quality</source>
@@ -7025,7 +7025,7 @@
     <name>FacePropPicker</name>
     <message>
         <source>Prop</source>
-        <translation>Prop</translation>
+        <translation>Props</translation>
     </message>
     <message>
         <source>Import</source>
@@ -7084,7 +7084,7 @@
     <name>FadeCurveWindow</name>
     <message>
         <source>Custom curve</source>
-        <translation>Custom curve</translation>
+        <translation>Pasadyang kurba</translation>
     </message>
     <message>
         <source>Progress curve — %1</source>
@@ -7092,7 +7092,7 @@
     </message>
     <message>
         <source>Progress curve</source>
-        <translation>Progress curve</translation>
+        <translation>Kurba ng progreso</translation>
     </message>
     <message>
         <source>Fade shape — %1</source>
@@ -7100,7 +7100,7 @@
     </message>
     <message>
         <source>Fade shape</source>
-        <translation>Fade shape</translation>
+        <translation>Hugis ng fade</translation>
     </message>
     <message>
         <source>Points</source>
@@ -7128,11 +7128,11 @@
     </message>
     <message>
         <source>Ease In</source>
-        <translation>Ease In</translation>
+        <translation>Dahan-dahang pasok</translation>
     </message>
     <message>
         <source>Ease Out</source>
-        <translation>Ease Out</translation>
+        <translation>Dahan-dahang labas</translation>
     </message>
     <message>
         <source>Drag the two handles to shape the cubic. The ends stay pinned, and handles are held inside the box so the curve cannot fold back on itself.</source>
@@ -7200,7 +7200,7 @@
     </message>
     <message>
         <source>Audio</source>
-        <translation>Audio</translation>
+        <translation>Tunog</translation>
     </message>
     <message>
         <source>Image</source>
@@ -7244,7 +7244,7 @@
     </message>
     <message>
         <source>Transform layer</source>
-        <translation>Transform layer</translation>
+        <translation>Layer ng pagbabago</translation>
     </message>
     <message>
         <source>Original dimensions: %1 × %2</source>
@@ -7252,7 +7252,7 @@
     </message>
     <message>
         <source>Source frame box</source>
-        <translation>Source frame box</translation>
+        <translation>Kahon ng source frame</translation>
     </message>
     <message>
         <source>Unlock source frame ratio</source>
@@ -8569,7 +8569,7 @@
     </message>
     <message>
         <source>Audio</source>
-        <translation>Audio</translation>
+        <translation>Tunog</translation>
     </message>
     <message>
         <source>Images</source>
@@ -9311,7 +9311,7 @@
     </message>
     <message>
         <source>Audio</source>
-        <translation>Audio</translation>
+        <translation>Tunog</translation>
     </message>
     <message>
         <source>Text</source>
@@ -10095,7 +10095,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation>Audio</translation>
+        <translation>Tunog</translation>
     </message>
     <message>
         <source>Speed</source>
@@ -13463,7 +13463,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Covers…</source>
-        <translation>Covers…</translation>
+        <translation>Mga cover…</translation>
     </message>
     <message>
         <source>Select covered clips</source>
@@ -14044,7 +14044,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation>Audio</translation>
+        <translation>Tunog</translation>
     </message>
     <message>
         <source>Text</source>
@@ -14092,7 +14092,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Covers…</source>
-        <translation>Covers…</translation>
+        <translation>Mga cover…</translation>
     </message>
     <message>
         <source>Select covered clips</source>
@@ -14386,7 +14386,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation>Audio</translation>
+        <translation>Tunog</translation>
     </message>
     <message>
         <source>Text</source>
