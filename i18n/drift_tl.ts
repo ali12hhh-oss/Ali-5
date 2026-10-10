@@ -5892,7 +5892,7 @@
     </message>
     <message>
         <source>Licence &lt;a href=&quot;%1&quot;&gt;CC BY-NC-SA 4.0&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisensya: &lt;a href="%1"&gt;CC BY-NC-SA 4.0&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Licence %1</source>
@@ -10289,7 +10289,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Could not read the clip&apos;s streams</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabasa ang mga stream ng clip</translation>
     </message>
     <message>
         <source>The clip has no video</source>
@@ -10317,7 +10317,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Clips with transparency can&apos;t use a proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi maaaring gumamit ng proxy ang mga clip na may transparency</translation>
     </message>
     <message>
         <source>Could not allocate decode buffers</source>
@@ -10456,7 +10456,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Root element is not &lt;mlt&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang root element ay hindi &lt;mlt&gt;</translation>
     </message>
     <message>
         <source>XML parse error at line %1, column %2: %3</source>
@@ -10464,7 +10464,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Root element is &lt;%1&gt;, expected &lt;fcpxml&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang root element ay &lt;%1&gt;, inaasahan ang &lt;fcpxml&gt;</translation>
     </message>
     <message>
         <source>Cannot open DaVinci Resolve project archive: %1</source>
@@ -10511,7 +10511,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source> (missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>(nawawala)</translation>
     </message>
     <message>
         <source>This file has been moved or deleted:
@@ -10631,11 +10631,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Preview one frame, then enhance the whole video. The result is added to the media bin. Enhancing is slow — minutes per second of video without a GPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-preview muna ang isang frame, pagkatapos ay pagandahin ang buong video. Idadagdag ang resulta sa media bin. Mabagal ang pagpapahusay — maaaring umabot ng ilang minuto bawat segundo ng video kapag walang GPU.</translation>
     </message>
     <message>
         <source>Preview one frame, then enhance the part of the clip used on the timeline. The result is added to the media bin. Enhancing is slow — minutes per second of video without a GPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-preview muna ang isang frame, pagkatapos ay pagandahin ang bahaging ginagamit sa timeline. Idadagdag ang resulta sa media bin. Mabagal ito — maaaring umabot ng ilang minuto bawat segundo ng video kapag walang GPU.</translation>
     </message>
     <message>
         <source>Remove compression</source>
@@ -10659,7 +10659,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Up to about %1 on a typical laptop CPU. Preview a frame for an estimate for this computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hanggang humigit-kumulang %1 sa karaniwang CPU ng laptop. I-preview ang isang frame upang matantiya ang bilis sa computer na ito.</translation>
     </message>
     <message>
         <source>Preview this frame</source>
@@ -10766,15 +10766,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Drift will render a reversed copy of this clip so it plays back smoothly. You can keep editing while it runs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagawa ang Drift ng baligtad na kopya ng clip upang maayos itong ma-play. Maaari ka pa ring mag-edit habang tumatakbo ito.</translation>
     </message>
     <message>
         <source>This can take a few minutes on longer clips.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maaaring tumagal nang ilang minuto ang mas mahahabang clip.</translation>
     </message>
     <message>
         <source>About %1 of video to render.</source>
-        <translation type="unfinished"></translation>
+        <translation>Humigit-kumulang %1 ng video ang kailangang i-render.</translation>
     </message>
     <message>
         <source>%1 min</source>
@@ -10816,7 +10816,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>ScenesTab</name>
     <message>
         <source>Finds where the picture cuts in the selected video clip, and ranks each shot by movement and loudness. Click a shot to jump to it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hinahanap ang mga cut sa napiling video clip at niraranggo ang bawat kuha ayon sa galaw at lakas ng tunog. I-click ang kuha upang lumipat dito.</translation>
     </message>
     <message>
         <source>Find scenes</source>
@@ -10840,11 +10840,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Also label each shot with what is in it. Slower.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nilalagyan din ng label ang bawat kuha batay sa laman nito. Mas mabagal ito.</translation>
     </message>
     <message>
         <source>Needs the Scene Labels add-on — install it from Extras</source>
-        <translation type="unfinished"></translation>
+        <translation>Kailangan ang Scene Labels add-on — i-install ito mula sa Extras</translation>
     </message>
     <message>
         <source>Sensitivity</source>
@@ -10868,7 +10868,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Switch between timeline order and activity ranking</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumipat sa pagitan ng pagkakasunod-sunod sa timeline at ranggo ng aktibidad</translation>
     </message>
     <message>
         <source>%1 scenes</source>
@@ -10876,7 +10876,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>These scenes are from another clip. Select it again, or run Find scenes on the current one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mula sa ibang clip ang mga eksenang ito. Piliin itong muli o patakbuhin ang Find scenes sa kasalukuyang clip.</translation>
     </message>
     <message>
         <source>No scenes yet</source>
@@ -10900,7 +10900,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>%1 – %2  ·  %3s</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 – %2 · %3 s</translation>
     </message>
 </context>
 <context>
@@ -10923,7 +10923,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>Mabilis</translation>
     </message>
     <message>
         <source>Looking at this moment…</source>
@@ -10967,11 +10967,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Adds a mask layer under the clip. The clip itself is left alone — flip it to the background, or remove it, from the Masks tab.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagdaragdag ng mask layer sa ilalim ng clip. Hindi binabago ang clip mismo — maaari itong gawing background o alisin sa tab na Masks.</translation>
     </message>
     <message>
         <source>The cutout is only for this effect — no extra tracks are added.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para lamang sa epektong ito ang cutout — walang idinadagdag na track.</translation>
     </message>
     <message>
         <source>Clear points</source>
@@ -10991,7 +10991,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Each moment is processed, so longer clips take longer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinoproseso ang bawat sandali kaya mas matagal ang mas mahahabang clip.</translation>
     </message>
 </context>
 <context>
@@ -11017,7 +11017,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Show alignment guides over the preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Ipakita ang mga gabay sa pag-align sa preview</translation>
     </message>
     <message>
         <source>Background</source>
@@ -11061,11 +11061,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>360p</source>
-        <translation type="unfinished"></translation>
+        <translation>360p</translation>
     </message>
     <message>
         <source>540p</source>
-        <translation type="unfinished"></translation>
+        <translation>540p</translation>
     </message>
     <message>
         <source>720p</source>
@@ -11097,11 +11097,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Power saving (integrated GPU)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagtitipid ng kuryente (integrated GPU)</translation>
     </message>
     <message>
         <source>High performance (discrete GPU)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mataas na performance (discrete GPU)</translation>
     </message>
     <message>
         <source>Which graphics card Drift runs on. High performance keeps video decoded on an NVIDIA card on that card; power saving uses less battery. Takes effect after restart.</source>
@@ -11125,7 +11125,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Where playback is heard. “System default” follows whatever your computer is set to, including when that changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dito maririnig ang playback. Sinusunod ng “System default” ang kasalukuyang setting ng computer, pati na kapag nagbago ito.</translation>
     </message>
     <message>
         <source>Microphone input</source>
@@ -11133,7 +11133,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Audio device used for recording voiceovers onto audio tracks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio device na ginagamit sa pag-record ng voiceover sa mga audio track.</translation>
     </message>
     <message>
         <source>Interface</source>
@@ -11145,27 +11145,27 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>100% (system)</source>
-        <translation type="unfinished"></translation>
+        <translation>100% (system)</translation>
     </message>
     <message>
         <source>Makes buttons, text, and icons larger. This is extra scale on top of the size already set in your display settings. Takes effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinalalaki ang mga button, text, at icon. Idinadagdag ang scaling na ito sa laki na itinakda sa display settings. Magkakabisa pagkatapos mag-restart.</translation>
     </message>
     <message>
         <source>Restart Drift to apply this size.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-restart ang Drift upang mailapat ang laki na ito.</translation>
     </message>
     <message>
         <source>Horizontal mouse-wheel pan</source>
-        <translation type="unfinished"></translation>
+        <translation>Pahalang na pag-pan gamit ang mouse wheel</translation>
     </message>
     <message>
         <source>Scroll pans left and right along the timeline. Shift+scroll moves between tracks. Middle-click drag also pans.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-scroll upang gumalaw pakaliwa at pakanan sa timeline. Gamitin ang Shift+scroll upang lumipat sa pagitan ng mga track. Maaari ring mag-pan sa pamamagitan ng pag-drag habang pinipindot ang middle button.</translation>
     </message>
     <message>
         <source>Haptic feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Haptic feedback</translation>
     </message>
     <message>
         <source>Vibrate on taps, snaps, and edits. Uses this device’s own haptic effects when it has them.</source>
@@ -12098,7 +12098,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>StartScreen</name>
     <message>
         <source> (missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>(nawawala)</translation>
     </message>
     <message>
         <source>This file has been moved or deleted:
@@ -12116,7 +12116,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>New Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Bagong proyekto</translation>
     </message>
     <message>
         <source>Open Project…</source>
@@ -12201,7 +12201,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Filters</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga filter</translation>
     </message>
     <message>
         <source>Get from %1</source>
@@ -12473,7 +12473,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>This can take a few minutes on longer clips.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maaaring tumagal nang ilang minuto ang mas mahahabang clip.</translation>
     </message>
 </context>
 <context>
