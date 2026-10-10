@@ -6941,7 +6941,7 @@
     </message>
     <message>
         <source>invalid variant id “%1”</source>
-        <translation>이 편집의 여러 구간으로 이동</translation>
+        <translation>잘못된 변형 ID “%1”</translation>
     </message>
     <message>
         <source>a variant must name a .glb model in the prop folder</source>
@@ -8876,11 +8876,11 @@
     </message>
     <message>
         <source>%1p</source>
-        <translation>복제</translation>
+        <translation>%1p</translation>
     </message>
     <message>
         <source>Length %1</source>
-        <translation>더 보기</translation>
+        <translation>길이 %1</translation>
     </message>
     <message>
         <source>This video is under 700 pixels on its shorter side. Upscaling it with an AI model can make it look sharper.</source>
@@ -8940,7 +8940,7 @@
     </message>
     <message>
         <source>Next</source>
-        <translation>화질: %1</translation>
+        <translation>다음</translation>
     </message>
     <message>
         <source>Done</source>
@@ -10339,19 +10339,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 h %2 min</source>
-        <translation>이전 프레임</translation>
+        <translation>%1시간 %2분</translation>
     </message>
     <message>
         <source>Enhancing… %1% — about %2 left</source>
-        <translation>일시정지</translation>
+        <translation>향상 중… %1% — 약 %2 남음</translation>
     </message>
     <message>
         <source>Enhancing… %1%</source>
-        <translation>재생</translation>
+        <translation>향상 중… %1%</translation>
     </message>
     <message>
         <source>Enhancing this frame… %1%</source>
-        <translation>다음 프레임</translation>
+        <translation>이 프레임 향상 중… %1%</translation>
     </message>
     <message>
         <source>Scanning frame %1 of %2…</source>
@@ -10669,11 +10669,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 h %2 min</source>
-        <translation>보기 및 재생 설정</translation>
+        <translation>%1시간 %2분</translation>
     </message>
     <message>
         <source>%1 s per frame</source>
-        <translation>전체 화면 미리보기 종료</translation>
+        <translation>프레임당 %1초</translation>
     </message>
     <message>
         <source>No upscaling</source>
