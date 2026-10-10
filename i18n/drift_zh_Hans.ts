@@ -10500,50 +10500,50 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Save with media…</source>
-        <translation type="unfinished"></translation>
+        <translation>保存并包含媒体…</translation>
     </message>
     <message>
         <source>Save as JSON…</source>
-        <translation type="unfinished"></translation>
+        <translation>另存为 JSON…</translation>
     </message>
     <message>
         <source>Open JSON…</source>
-        <translation type="unfinished"></translation>
+        <translation>打开 JSON…</translation>
     </message>
     <message>
         <source>Project properties…</source>
-        <translation type="unfinished"></translation>
+        <translation>项目属性…</translation>
     </message>
     <message>
         <source>Close project</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭项目</translation>
     </message>
 </context>
 <context>
     <name>RecoveryDialog</name>
     <message>
         <source>Unsaved work from last session</source>
-        <translation type="unfinished"></translation>
+        <translation>上次会话中未保存的工作</translation>
     </message>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>恢复</translation>
     </message>
     <message>
         <source>New session</source>
-        <translation type="unfinished"></translation>
+        <translation>新建会话</translation>
     </message>
     <message>
         <source>Your last session had unsaved changes. You can restore them or start a new empty session.</source>
-        <translation type="unfinished"></translation>
+        <translation>上次会话有未保存的更改。你可以恢复这些更改，或开始一个新的空白会话。</translation>
     </message>
     <message>
         <source>Untitled project</source>
-        <translation type="unfinished"></translation>
+        <translation>未命名项目</translation>
     </message>
     <message>
         <source>Auto-saved: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>已自动保存：%1</translation>
     </message>
 </context>
 <context>
@@ -10558,7 +10558,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 (custom, experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1（自定义，实验性）</translation>
     </message>
     <message>
         <source>Original</source>
@@ -10566,23 +10566,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Enhanced — out of date, preview again</source>
-        <translation type="unfinished"></translation>
+        <translation>增强结果已过期，请重新预览</translation>
     </message>
     <message>
         <source>Enhanced %1 × %2</source>
-        <translation type="unfinished"></translation>
+        <translation>已增强 %1 × %2</translation>
     </message>
     <message>
         <source>Loading this frame…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在加载此帧…</translation>
     </message>
     <message>
         <source>Working…</source>
-        <translation type="unfinished"></translation>
+        <translation>处理中…</translation>
     </message>
     <message>
         <source>Choose models, then Preview to compare this frame</source>
-        <translation type="unfinished"></translation>
+        <translation>选择模型，然后点击“预览”比较此帧</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -10610,11 +10610,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Upscale</source>
-        <translation type="unfinished"></translation>
+        <translation>提升分辨率</translation>
     </message>
     <message>
         <source>Output: %1 × %2</source>
-        <translation type="unfinished"></translation>
+        <translation>输出：%1 × %2</translation>
     </message>
     <message>
         <source> — larger than 4K, which is slow to edit and export</source>
@@ -10634,15 +10634,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Anime and drawings</source>
-        <translation type="unfinished"></translation>
+        <translation>动漫与绘画</translation>
     </message>
     <message>
         <source>Live action</source>
-        <translation type="unfinished"></translation>
+        <translation>实拍影像</translation>
     </message>
     <message>
         <source>3D animation and games</source>
-        <translation type="unfinished"></translation>
+        <translation>3D 动画与游戏</translation>
     </message>
     <message>
         <source>General</source>
@@ -10670,7 +10670,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>under a second</source>
-        <translation type="unfinished"></translation>
+        <translation>不到一秒</translation>
     </message>
     <message>
         <source>%1 s</source>
@@ -10686,11 +10686,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 s per frame</source>
-        <translation type="unfinished"></translation>
+        <translation>每帧 %1 秒</translation>
     </message>
     <message>
         <source>No upscaling</source>
-        <translation type="unfinished"></translation>
+        <translation>不提升分辨率</translation>
     </message>
     <message>
         <source>Keep the original size.</source>
@@ -10721,15 +10721,15 @@ If playback stutters, try another.</source>
     <name>ReverseProgressDialog</name>
     <message>
         <source>Reversing clip</source>
-        <translation type="unfinished"></translation>
+        <translation>正在反转片段</translation>
     </message>
     <message>
         <source>Reverse clip</source>
-        <translation type="unfinished"></translation>
+        <translation>反转片段</translation>
     </message>
     <message>
         <source>Working…</source>
-        <translation type="unfinished"></translation>
+        <translation>处理中…</translation>
     </message>
     <message>
         <source>Drift will render a reversed copy of this clip so it plays back smoothly. You can keep editing while it runs.</source>
@@ -10757,14 +10757,14 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Reverse</source>
-        <translation type="unfinished"></translation>
+        <translation>反转</translation>
     </message>
 </context>
 <context>
     <name>ReverseRenderer</name>
     <message>
         <source>Nothing to reverse</source>
-        <translation type="unfinished"></translation>
+        <translation>没有可反转的内容</translation>
     </message>
     <message>
         <source>Could not allocate decode buffers</source>
@@ -10772,7 +10772,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Reversing cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>已取消反转</translation>
     </message>
     <message>
         <source>No frames could be decoded from this clip</source>
@@ -10787,11 +10787,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Find scenes</source>
-        <translation type="unfinished"></translation>
+        <translation>查找场景</translation>
     </message>
     <message>
         <source>Scan the selected clip for shot boundaries</source>
-        <translation type="unfinished"></translation>
+        <translation>扫描所选片段以检测镜头切换点</translation>
     </message>
     <message>
         <source>Select a video clip first</source>
@@ -10803,7 +10803,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Identify objects</source>
-        <translation type="unfinished"></translation>
+        <translation>识别对象</translation>
     </message>
     <message>
         <source>Also label each shot with what is in it. Slower.</source>
@@ -10815,11 +10815,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Sensitivity</source>
-        <translation type="unfinished"></translation>
+        <translation>灵敏度</translation>
     </message>
     <message>
         <source>Scene detection sensitivity</source>
-        <translation type="unfinished"></translation>
+        <translation>场景检测灵敏度</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -10827,11 +10827,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Most active first</source>
-        <translation type="unfinished"></translation>
+        <translation>按活动程度从高到低</translation>
     </message>
     <message>
         <source>In order</source>
-        <translation type="unfinished"></translation>
+        <translation>按顺序</translation>
     </message>
     <message>
         <source>Switch between timeline order and activity ranking</source>
@@ -10839,7 +10839,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 scenes</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 个场景</translation>
     </message>
     <message>
         <source>These scenes are from another clip. Select it again, or run Find scenes on the current one.</source>
@@ -10847,11 +10847,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>No scenes yet</source>
-        <translation type="unfinished"></translation>
+        <translation>尚无场景</translation>
     </message>
     <message>
         <source>No video clip selected</source>
-        <translation type="unfinished"></translation>
+        <translation>未选择视频片段</translation>
     </message>
     <message>
         <source>Run Find scenes to split this clip into its shots.</source>
@@ -11936,7 +11936,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Reverse</source>
-        <translation type="unfinished"></translation>
+        <translation>反转</translation>
     </message>
     <message>
         <source>Not rendered — playback may stutter</source>
@@ -12434,7 +12434,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Working…</source>
-        <translation type="unfinished"></translation>
+        <translation>处理中…</translation>
     </message>
     <message>
         <source>This can take a few minutes on longer clips.</source>
@@ -13366,7 +13366,7 @@ If playback stutters, try another.</source>
     <name>ThemedDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>确定</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -14630,7 +14630,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Untitled project</source>
-        <translation type="unfinished"></translation>
+        <translation>未命名项目</translation>
     </message>
     <message>
         <source>Don&apos;t Save</source>
@@ -14703,15 +14703,15 @@ If playback stutters, try another.</source>
     <name>UpscaleModelCard</name>
     <message>
         <source>Anime and drawings</source>
-        <translation type="unfinished"></translation>
+        <translation>动漫与绘画</translation>
     </message>
     <message>
         <source>Live action</source>
-        <translation type="unfinished"></translation>
+        <translation>实拍影像</translation>
     </message>
     <message>
         <source>3D animation and games</source>
-        <translation type="unfinished"></translation>
+        <translation>3D 动画与游戏</translation>
     </message>
     <message>
         <source>General</source>
