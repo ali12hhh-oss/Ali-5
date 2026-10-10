@@ -5168,11 +5168,11 @@
     </message>
     <message>
         <source>Unmute</source>
-        <translation type="unfinished"></translation>
+        <translation>I-unmute</translation>
     </message>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"></translation>
+        <translation>I-mute</translation>
     </message>
     <message>
         <source>Unsolo</source>
@@ -5325,7 +5325,7 @@
     </message>
     <message>
         <source>Overlay</source>
-        <translation type="unfinished"></translation>
+        <translation>Overlay</translation>
     </message>
     <message>
         <source>Add</source>
@@ -5333,19 +5333,19 @@
     </message>
     <message>
         <source>Darken</source>
-        <translation type="unfinished"></translation>
+        <translation>Padilimin</translation>
     </message>
     <message>
         <source>Lighten</source>
-        <translation type="unfinished"></translation>
+        <translation>Padilawin</translation>
     </message>
     <message>
         <source>How this clip blends with the layers below</source>
-        <translation type="unfinished"></translation>
+        <translation>Kung paano ihinahalo ang clip na ito sa mga layer sa ibaba</translation>
     </message>
     <message>
         <source>Reset to Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>I-reset sa Normal</translation>
     </message>
 </context>
 <context>
@@ -5363,23 +5363,23 @@
     <name>CollectMediaDialog</name>
     <message>
         <source>Collecting media</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinokolekta ang media</translation>
     </message>
     <message>
         <source>Collect media to folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipunin ang media sa folder</translation>
     </message>
     <message>
         <source>Gathering your media into one folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinagsasama ang media sa iisang folder.</translation>
     </message>
     <message>
         <source>Every file this project uses goes into Video, Audio, Images, Derived and Other folders inside “%1”, and the project is relinked to them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilalagay ang lahat ng file ng project sa mga folder na Video, Audio, Images, Derived, at Other sa loob ng “%1”, at muling ili-link ang project sa mga ito.</translation>
     </message>
     <message>
         <source>Copy leaves the originals where they are. Move deletes them once everything has landed, and clears undo history.</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniiwan ng Copy ang mga orihinal sa kinalalagyan nila. Buburahin ng Move ang mga ito kapag nailipat na ang lahat at iki-clear ang undo history.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5387,7 +5387,7 @@
     </message>
     <message>
         <source>Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilipat</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -5398,61 +5398,61 @@
     <name>ColorEyedropper</name>
     <message>
         <source>Drag to a colour and lift to pick it</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drag sa nais na kulay at bitawan para piliin</translation>
     </message>
     <message>
         <source>Click a colour to pick it. Esc cancels.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-click ang kulay para piliin. Pindutin ang Esc para kanselahin.</translation>
     </message>
 </context>
 <context>
     <name>ColorSwatchField</name>
     <message>
         <source>Choose colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng kulay</translation>
     </message>
     <message>
         <source>Enter a color like #FF0000</source>
-        <translation type="unfinished"></translation>
+        <translation>Maglagay ng kulay gaya ng #FF0000</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Piliin ang kulay</translation>
     </message>
 </context>
 <context>
     <name>CropOverlay</name>
     <message>
         <source>Drag the edges to reframe</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drag ang mga gilid para baguhin ang framing</translation>
     </message>
     <message>
         <source>Ctrl + scroll to zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl + scroll para mag-zoom</translation>
     </message>
     <message>
         <source>Middle-drag to pan</source>
-        <translation type="unfinished"></translation>
+        <translation>I-middle-drag para mag-pan</translation>
     </message>
     <message>
         <source>Fit view</source>
-        <translation type="unfinished"></translation>
+        <translation>I-fit ang view</translation>
     </message>
     <message>
         <source>Recentre and reset zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>I-center muli at i-reset ang zoom</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished">I-reset</translation>
+        <translation>I-reset</translation>
     </message>
     <message>
         <source>Reset crop to the full video size</source>
-        <translation type="unfinished"></translation>
+        <translation>I-reset ang crop sa buong laki ng video</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished">Gamitin</translation>
+        <translation>Ilapat</translation>
     </message>
 </context>
 <context>
@@ -5463,7 +5463,7 @@
     </message>
     <message>
         <source>Copy report</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopyahin ang ulat</translation>
     </message>
     <message>
         <source>Close</source>
@@ -5471,171 +5471,171 @@
     </message>
     <message>
         <source>Copied to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Nakopya sa clipboard</translation>
     </message>
     <message>
         <source>Unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi available</translation>
     </message>
     <message>
         <source>Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>Playback</translation>
     </message>
     <message>
         <source>Video decoders</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga video decoder</translation>
     </message>
     <message>
         <source>Codec Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangalan ng codec</translation>
     </message>
     <message>
         <source>Software Decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Software decoding</translation>
     </message>
     <message>
         <source>Hardware Decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Hardware decoding</translation>
     </message>
     <message>
         <source>Video encoders</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga video encoder</translation>
     </message>
     <message>
         <source>Software Encoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Software encoding</translation>
     </message>
     <message>
         <source>Hardware Encoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Hardware encoding</translation>
     </message>
     <message>
         <source>Software: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Software: %1</translation>
     </message>
     <message>
         <source>Hardware: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hardware: %1</translation>
     </message>
     <message>
         <source>Supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Suportado</translation>
     </message>
     <message>
         <source>Not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi suportado</translation>
     </message>
     <message>
         <source>Checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga pagsusuri</translation>
     </message>
     <message>
         <source>Open Add-ons</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan ang Add-ons</translation>
     </message>
     <message>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>System</translation>
     </message>
     <message>
         <source>Delivered well above displayed means frames are being produced that the display never shows — a cadence problem rather than a slow machine.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kapag mas mataas nang malaki ang delivered kaysa displayed, may mga frame na ginagawa pero hindi ipinapakita ng display—problema ito sa frame cadence, hindi sa bagal ng makina.</translation>
     </message>
     <message>
         <source>Show live stats on the preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Ipakita ang live stats sa preview</translation>
     </message>
     <message>
         <source>Stays on after this dialog closes, so you can watch the numbers while the timeline plays.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mananatili ito kahit isara ang dialog para makita mo ang mga numero habang tumatakbo ang timeline.</translation>
     </message>
     <message>
         <source>Where the time goes</source>
-        <translation type="unfinished"></translation>
+        <translation>Kung saan napupunta ang oras</translation>
     </message>
     <message>
         <source>Decodes a fixed 1080p60 clip, and the first clip on the timeline, through each stage of the preview. Takes a few seconds.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dini-decode ang nakatakdang 1080p60 clip at ang unang clip sa timeline sa bawat yugto ng preview. Aabutin ito ng ilang segundo.</translation>
     </message>
     <message>
         <source>Measuring…</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinusukat…</translation>
     </message>
     <message>
         <source>Run test</source>
-        <translation type="unfinished"></translation>
+        <translation>Patakbuhin ang pagsubok</translation>
     </message>
     <message>
         <source>Reference clip (1080p60)</source>
-        <translation type="unfinished"></translation>
+        <translation>Reference clip (1080p60)</translation>
     </message>
     <message>
         <source>Timeline clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Timeline clip</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Source</translation>
     </message>
     <message>
         <source>Decoder</source>
-        <translation type="unfinished"></translation>
+        <translation>Decoder</translation>
     </message>
     <message>
         <source> (hardware)</source>
-        <translation type="unfinished"></translation>
+        <translation>(hardware)</translation>
     </message>
     <message>
         <source> (software)</source>
-        <translation type="unfinished"></translation>
+        <translation>(software)</translation>
     </message>
     <message>
         <source>Preview upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Preview upload</translation>
     </message>
     <message>
         <source>Decode</source>
-        <translation type="unfinished"></translation>
+        <translation>Decode</translation>
     </message>
     <message>
         <source>Readback to CPU costs</source>
-        <translation type="unfinished"></translation>
+        <translation>ค่าใช้จ่ายในการอ่านกลับไปยัง CPU</translation>
     </message>
     <message>
         <source>Compositing costs</source>
-        <translation type="unfinished"></translation>
+        <translation>ค่าใช้จ่ายในการ compositing</translation>
     </message>
     <message>
         <source>Total per frame</source>
-        <translation type="unfinished"></translation>
+        <translation>เวลารวมต่อเฟรม</translation>
     </message>
     <message>
         <source>Budget at this frame rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Budget sa frame rate na ito</translation>
     </message>
     <message>
         <source>Findings</source>
-        <translation type="unfinished"></translation>
+        <translation>ผลการตรวจสอบ</translation>
     </message>
     <message>
         <source>Nothing stood out. Turn on the live stats above, play the timeline for a few seconds, then reopen this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang kapansin-pansing problema. I-on ang live stats sa itaas, patakbuhin ang timeline nang ilang segundo, saka buksan muli ito.</translation>
     </message>
     <message>
         <source>Need help? Copy the report above when you file an issue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kailangan ng tulong? Kopyahin ang ulat sa itaas kapag nagsumite ng issue.</translation>
     </message>
     <message>
         <source>Report a bug</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-ulat ng bug</translation>
     </message>
     <message>
         <source>Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumentasyon</translation>
     </message>
     <message>
         <source>Questions and support on Discord</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga tanong at suporta sa Discord</translation>
     </message>
 </context>
 <context>
@@ -5646,7 +5646,7 @@
     </message>
     <message>
         <source>A short section of the clip is previewed here. Confirming runs the whole clip and adds the result as a new audio track above this one — the original is left untouched.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ipi-preview rito ang maikling bahagi ng clip. Kapag kinumpirma, ipoproseso ang buong clip at idaragdag ang resulta bilang bagong audio track sa ibabaw nito—mananatiling hindi nagbabago ang orihinal.</translation>
     </message>
     <message>
         <source>Original</source>
@@ -5658,7 +5658,7 @@
     </message>
     <message>
         <source>· playing</source>
-        <translation type="unfinished"></translation>
+        <translation>· nagpe-play</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -5670,7 +5670,7 @@
     </message>
     <message>
         <source>Preview from</source>
-        <translation type="unfinished"></translation>
+        <translation>Preview mula sa</translation>
     </message>
     <message>
         <source>s</source>
@@ -5872,7 +5872,7 @@
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished">I-reset</translation>
+        <translation>I-reset</translation>
     </message>
     <message>
         <source>%1 s</source>
@@ -5924,7 +5924,7 @@
     </message>
     <message>
         <source>Choose colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng kulay</translation>
     </message>
 </context>
 <context>
@@ -5966,7 +5966,7 @@
     <name>DriftAssetsHome</name>
     <message>
         <source>Apply</source>
-        <translation type="unfinished">Gamitin</translation>
+        <translation>Ilapat</translation>
     </message>
     <message>
         <source>Add</source>
@@ -7144,7 +7144,7 @@
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished">Gamitin</translation>
+        <translation>Ilapat</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -8902,7 +8902,7 @@
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished">I-reset</translation>
+        <translation>I-reset</translation>
     </message>
     <message>
         <source>Upscale this video?</source>
@@ -9059,7 +9059,7 @@
     </message>
     <message>
         <source>Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>Playback</translation>
     </message>
     <message>
         <source>Animation</source>
@@ -9614,7 +9614,7 @@
     </message>
     <message>
         <source>Preview upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Preview upload</translation>
     </message>
     <message>
         <source>Playhead update (median)</source>
@@ -10042,7 +10042,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished">I-reset</translation>
+        <translation>I-reset</translation>
     </message>
     <message>
         <source>Restore the size suggested by your first clip</source>
@@ -11110,7 +11110,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>Playback</translation>
     </message>
     <message>
         <source>Audio output</source>
@@ -11369,7 +11369,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Overlay</source>
-        <translation type="unfinished"></translation>
+        <translation>Overlay</translation>
     </message>
     <message>
         <source>Add</source>
@@ -11377,11 +11377,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Darken</source>
-        <translation type="unfinished"></translation>
+        <translation>Padilimin</translation>
     </message>
     <message>
         <source>Lighten</source>
-        <translation type="unfinished"></translation>
+        <translation>Padilawin</translation>
     </message>
     <message>
         <source>Centre</source>
@@ -11907,7 +11907,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished">I-reset</translation>
+        <translation>I-reset</translation>
     </message>
     <message>
         <source>Applied as a copy on a new track — the original clip is left alone.</source>
@@ -11919,7 +11919,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished">Gamitin</translation>
+        <translation>Ilapat</translation>
     </message>
 </context>
 <context>
@@ -12968,7 +12968,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished">Gamitin</translation>
+        <translation>Ilapat</translation>
     </message>
     <message>
         <source>Apply the text to this clip</source>
@@ -13190,7 +13190,7 @@ If playback stutters, try another.</source>
     <name>TextParamSlots</name>
     <message>
         <source>Reset</source>
-        <translation type="unfinished">I-reset</translation>
+        <translation>I-reset</translation>
     </message>
     <message>
         <source>Text for this slot</source>
@@ -13378,7 +13378,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Enter a color like #FF0000</source>
-        <translation type="unfinished"></translation>
+        <translation>Maglagay ng kulay gaya ng #FF0000</translation>
     </message>
     <message>
         <source>Hex colour</source>
@@ -14295,7 +14295,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilipat</translation>
     </message>
     <message>
         <source>Arrows on the preview move the clip along each axis</source>
@@ -14824,7 +14824,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>Playback</translation>
     </message>
     <message>
         <source>Fit</source>
