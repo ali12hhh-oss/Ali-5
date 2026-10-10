@@ -8199,7 +8199,7 @@
     </message>
     <message>
         <source>Could not import that file.</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าไฟล์นั้นไม่ได้</translation>
     </message>
     <message>
         <source>In the media bin</source>
@@ -8207,82 +8207,82 @@
     </message>
     <message>
         <source>Marketplace account connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>เชื่อมต่อบัญชีตลาดแล้ว</translation>
     </message>
     <message>
         <source>Daily limit reached for this source. Try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>ถึงขีดจำกัดรายวันของแหล่งนี้แล้ว โปรดลองอีกครั้งภายหลัง</translation>
     </message>
     <message>
         <source>This item needs a connected account.</source>
-        <translation type="unfinished"></translation>
+        <translation>รายการนี้ต้องเชื่อมต่อบัญชีก่อน</translation>
     </message>
     <message>
         <source>Not enough coins.</source>
-        <translation type="unfinished"></translation>
+        <translation>เหรียญไม่เพียงพอ</translation>
     </message>
     <message>
         <source>This source is temporarily unavailable.</source>
-        <translation type="unfinished"></translation>
+        <translation>แหล่งนี้ไม่พร้อมใช้งานชั่วคราว</translation>
     </message>
     <message>
         <source>That item is no longer available.</source>
-        <translation type="unfinished"></translation>
+        <translation>รายการนี้ไม่มีให้ใช้งานแล้ว</translation>
     </message>
     <message>
         <source>Could not reach the marketplace.</source>
-        <translation type="unfinished"></translation>
+        <translation>เชื่อมต่อตลาดไม่ได้</translation>
     </message>
     <message>
         <source>Could not prepare that file.</source>
-        <translation type="unfinished"></translation>
+        <translation>เตรียมไฟล์นั้นไม่ได้</translation>
     </message>
     <message>
         <source>Could not complete that request.</source>
-        <translation type="unfinished"></translation>
+        <translation>ดำเนินการตามคำขอนี้ไม่สำเร็จ</translation>
     </message>
     <message>
         <source>The marketplace took too long to answer. Try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>ตลาดตอบกลับช้าเกินไป โปรดลองอีกครั้ง</translation>
     </message>
     <message>
         <source>Couldn’t reach the marketplace. Check your connection and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>เชื่อมต่อตลาดไม่ได้ โปรดตรวจสอบการเชื่อมต่อแล้วลองอีกครั้ง</translation>
     </message>
 </context>
 <context>
     <name>MarketConsentPanel</name>
     <message>
         <source>The marketplace is experimental</source>
-        <translation type="unfinished"></translation>
+        <translation>ตลาดยังอยู่ในขั้นทดลอง</translation>
     </message>
     <message>
         <source>This feature is still being built and can change or stop working at any time. Before you use it, please read what it can and cannot do.</source>
-        <translation type="unfinished"></translation>
+        <translation>ฟีเจอร์นี้ยังอยู่ระหว่างพัฒนาและอาจเปลี่ยนแปลงหรือหยุดทำงานได้ทุกเมื่อ โปรดอ่านคำอธิบายความสามารถและข้อจำกัดก่อนใช้งาน</translation>
     </message>
     <message>
         <source>You get a limited number of downloads per day. The limit is small, may change without notice, and once it is used up you have to wait.</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนดาวน์โหลดต่อวันมีจำกัด โควตามีไม่มากและอาจเปลี่ยนโดยไม่แจ้งล่วงหน้า เมื่อใช้หมดแล้วต้องรอ</translation>
     </message>
     <message>
         <source>We cannot guarantee that any source stays available. Sources can be removed, rate-limited or broken by the sites they pull from, at any time and without warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>เราไม่สามารถรับประกันว่าแหล่งใดจะพร้อมใช้งานตลอดไป เว็บไซต์ต้นทางอาจลบ จำกัดอัตราการเข้าถึง หรือทำให้แหล่งใช้งานไม่ได้ทุกเมื่อโดยไม่แจ้งล่วงหน้า</translation>
     </message>
     <message>
         <source>We cannot guarantee that a download will succeed, finish, or give you the quality you picked. Some items will simply fail.</source>
-        <translation type="unfinished"></translation>
+        <translation>เราไม่สามารถรับประกันว่าการดาวน์โหลดจะสำเร็จ เสร็จสมบูรณ์ หรือได้คุณภาพตามที่เลือก บางรายการอาจดาวน์โหลดไม่สำเร็จ</translation>
     </message>
     <message>
         <source>Everything here comes from third parties. Drift does not host, own or vet it — you are responsible for making sure you have the right to use whatever you download.</source>
-        <translation type="unfinished"></translation>
+        <translation>เนื้อหาทั้งหมดมาจากบุคคลที่สาม Drift ไม่ได้โฮสต์ เป็นเจ้าของ หรือตรวจสอบเนื้อหา คุณต้องรับผิดชอบในการตรวจสอบว่ามีสิทธิ์ใช้สิ่งที่ดาวน์โหลด</translation>
     </message>
     <message>
         <source>I understand</source>
-        <translation type="unfinished"></translation>
+        <translation>เข้าใจแล้ว</translation>
     </message>
     <message>
         <source>Continue to the marketplace</source>
-        <translation type="unfinished"></translation>
+        <translation>ไปยังตลาดต่อ</translation>
     </message>
 </context>
 <context>
@@ -8300,31 +8300,31 @@
     <name>MarketTab</name>
     <message>
         <source>Stock</source>
-        <translation type="unfinished"></translation>
+        <translation>สต็อก</translation>
     </message>
     <message>
         <source>Marketplace unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>ตลาดไม่พร้อมใช้งาน</translation>
     </message>
     <message>
         <source>This build does not include the marketplace.</source>
-        <translation type="unfinished"></translation>
+        <translation>บิลด์นี้ไม่มีตลาด</translation>
     </message>
     <message>
         <source>Search assets</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหาแอสเซ็ต</translation>
     </message>
     <message>
         <source>Search, or paste a link</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหา หรือวางลิงก์</translation>
     </message>
     <message>
         <source>Assets</source>
-        <translation type="unfinished"></translation>
+        <translation>แอสเซ็ต</translation>
     </message>
     <message>
         <source>Stock footage</source>
-        <translation type="unfinished"></translation>
+        <translation>ฟุตเทจสต็อก</translation>
     </message>
     <message>
         <source>Loading sources…</source>
@@ -8332,7 +8332,7 @@
     </message>
     <message>
         <source>Couldn’t reach the marketplace</source>
-        <translation type="unfinished"></translation>
+        <translation>เชื่อมต่อตลาดไม่ได้</translation>
     </message>
     <message>
         <source>Try again</source>
@@ -8351,11 +8351,11 @@
     </message>
     <message>
         <source>Drag a mask from the Masks tab onto a clip to edit it here</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากมาสก์จากแท็บ Masks ไปวางบนคลิปเพื่อแก้ไขที่นี่</translation>
     </message>
     <message>
         <source>Select a clip at the playhead to edit its masks</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกคลิปที่ตำแหน่งหัวอ่านเพื่อแก้ไขมาสก์</translation>
     </message>
 </context>
 <context>
@@ -8394,7 +8394,7 @@
     </message>
     <message>
         <source>Combine</source>
-        <translation type="unfinished"></translation>
+        <translation>รวม</translation>
     </message>
     <message>
         <source>Add</source>
@@ -8402,27 +8402,27 @@
     </message>
     <message>
         <source>Subtract</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบออก</translation>
     </message>
     <message>
         <source>Intersect</source>
-        <translation type="unfinished"></translation>
+        <translation>หาจุดตัด</translation>
     </message>
     <message>
         <source>Remove cutout layer</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเลเยอร์แยกวัตถุออก</translation>
     </message>
     <message>
         <source>Remove mask</source>
-        <translation type="unfinished"></translation>
+        <translation>นำมาสก์ออก</translation>
     </message>
     <message>
         <source>Center X</source>
-        <translation type="unfinished"></translation>
+        <translation>จุดกึ่งกลาง X</translation>
     </message>
     <message>
         <source>Center Y</source>
-        <translation type="unfinished"></translation>
+        <translation>จุดกึ่งกลาง Y</translation>
     </message>
     <message>
         <source>Width</source>
@@ -8438,42 +8438,42 @@
     </message>
     <message>
         <source>Feather</source>
-        <translation type="unfinished"></translation>
+        <translation>ฟุ้งขอบ</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"></translation>
+        <translation>กลับด้าน</translation>
     </message>
 </context>
 <context>
     <name>MasksTab</name>
     <message>
         <source>Click to apply to the selection, or drag onto a clip</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิกเพื่อใช้กับรายการที่เลือก หรือลากไปวางบนคลิป</translation>
     </message>
     <message>
         <source>Select a clip, or drag a mask onto one</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกคลิป หรือลากมาสก์ไปวางบนคลิป</translation>
     </message>
     <message>
         <source>Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>วัตถุหลัก</translation>
     </message>
     <message>
         <source>Cut out subject…</source>
-        <translation type="unfinished"></translation>
+        <translation>แยกวัตถุหลัก…</translation>
     </message>
     <message>
         <source>Trace the subject and pin the result as a mask layer</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตามขอบวัตถุหลักและตรึงผลลัพธ์เป็นเลเยอร์มาสก์</translation>
     </message>
     <message>
         <source>Select a video clip first</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกคลิปวิดีโอก่อน</translation>
     </message>
     <message>
         <source>Download people cutout (about 20 MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลดเครื่องมือแยกบุคคล (ประมาณ 20 MB)</translation>
     </message>
     <message>
         <source>Install AI engine first</source>
@@ -8481,50 +8481,50 @@
     </message>
     <message>
         <source>Add click-to-pick cutout (about 190 MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลดเครื่องมือเลือกวัตถุด้วยการคลิก (ประมาณ 190 MB)</translation>
     </message>
     <message>
         <source>Image or video as mask…</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้รูปภาพหรือวิดีโอเป็นมาสก์…</translation>
     </message>
     <message>
         <source>Use a file&apos;s own pixels as the coverage map</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้พิกเซลของไฟล์เป็นแผนที่การครอบคลุม</translation>
     </message>
     <message>
         <source>Choose a mask image or video</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกรูปภาพหรือวิดีโอสำหรับมาสก์</translation>
     </message>
     <message>
         <source>Media files (*.png *.jpg *.jpeg *.webp *.heic *.heif *.avif *.tif *.tiff *.bmp *.gif *.mp4 *.mov *.mkv *.webm)</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์สื่อ (*.png *.jpg *.jpeg *.webp *.heic *.heif *.avif *.tif *.tiff *.bmp *.gif *.mp4 *.mov *.mkv *.webm)</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์ทั้งหมด (*)</translation>
     </message>
     <message>
         <source>%1 — click to apply, or drag onto a clip</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 — คลิกเพื่อใช้ หรือลากไปวางบนคลิป</translation>
     </message>
     <message>
         <source>%1 — drag onto a clip</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 — ลากไปวางบนคลิป</translation>
     </message>
     <message>
         <source>Select a clip first, or drag the mask onto one</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกคลิปก่อน หรือลากมาสก์ไปวางบนคลิป</translation>
     </message>
 </context>
 <context>
     <name>MediaAssetsTab</name>
     <message>
         <source>No media yet</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่มีสื่อ</translation>
     </message>
     <message>
         <source>Import files or drop them here, then drag them onto the timeline. Right-click a clip to preview and trim it first.</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าไฟล์หรือลากมาวางที่นี่ จากนั้นลากไปยังไทม์ไลน์ คลิกขวาที่คลิปเพื่อดูตัวอย่างและตัดก่อน</translation>
     </message>
     <message>
         <source>Import media</source>
@@ -8532,11 +8532,11 @@
     </message>
     <message>
         <source>Import folder</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าโฟลเดอร์</translation>
     </message>
     <message>
         <source>Supported formats</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปแบบที่รองรับ</translation>
     </message>
     <message>
         <source>Video</source>
@@ -8548,7 +8548,7 @@
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปภาพ</translation>
     </message>
     <message>
         <source>Vector</source>
@@ -10788,7 +10788,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Select a video clip first</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกคลิปวิดีโอก่อน</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -12335,7 +12335,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์ทั้งหมด (*)</translation>
     </message>
     <message>
         <source>Export</source>
@@ -12461,7 +12461,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์ทั้งหมด (*)</translation>
     </message>
     <message>
         <source>Add auto caption</source>
