@@ -2612,9 +2612,10 @@
     </message>
     <message numerus="yes">
         <source>%n media items and referenced clips removed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Удалён %n медиафайл и связанный клип</numerusform>
+            <numerusform>Удалено %n медиафайла и связанных клипа</numerusform>
+            <numerusform>Удалено %n медиафайлов и связанных клипов</numerusform>
         </translation>
     </message>
     <message>
@@ -3703,9 +3704,10 @@
     </message>
     <message numerus="yes">
         <source>Created %n text clips</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Создан %n текстовый клип</numerusform>
+            <numerusform>Создано %n текстовых клипа</numerusform>
+            <numerusform>Создано %n текстовых клипов</numerusform>
         </translation>
     </message>
     <message>
@@ -3918,9 +3920,10 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Импортирован %n элемент оформления лица</numerusform>
+            <numerusform>Импортировано %n элемента оформления лица</numerusform>
+            <numerusform>Импортировано %n элементов оформления лица</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -4049,9 +4052,10 @@
     </message>
     <message numerus="yes">
         <source>Pasted attributes onto %n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Атрибуты вставлены в %n клип</numerusform>
+            <numerusform>Атрибуты вставлены в %n клипа</numerusform>
+            <numerusform>Атрибуты вставлены в %n клипов</numerusform>
         </translation>
     </message>
     <message>
@@ -4216,9 +4220,10 @@
     </message>
     <message numerus="yes">
         <source>Pasted %n clips</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Вставлен %n клип</numerusform>
+            <numerusform>Вставлено %n клипа</numerusform>
+            <numerusform>Вставлено %n клипов</numerusform>
         </translation>
     </message>
     <message>
@@ -6116,7 +6121,11 @@
     </message>
     <message numerus="yes">
         <source>Downloads — %n running</source>
-        <translation>Загрузки — выполняется: %n</translation>
+        <translation>
+            <numerusform>Загрузки — выполняется: %n</numerusform>
+            <numerusform>Загрузки — выполняется: %n</numerusform>
+            <numerusform>Загрузки — выполняется: %n</numerusform>
+        </translation>
     </message>
     <message>
         <source>Downloads</source>
@@ -8690,7 +8699,11 @@
     </message>
     <message numerus="yes">
         <source>Create %n proxies</source>
-        <translation>Создать прокси: %n</translation>
+        <translation>
+            <numerusform>Создать прокси: %n</numerusform>
+            <numerusform>Создать прокси: %n</numerusform>
+            <numerusform>Создать прокси: %n</numerusform>
+        </translation>
     </message>
     <message>
         <source>Create proxy</source>
@@ -8698,7 +8711,11 @@
     </message>
     <message numerus="yes">
         <source>Remove %n proxies</source>
-        <translation>Удалить прокси: %n</translation>
+        <translation>
+            <numerusform>Удалить прокси: %n</numerusform>
+            <numerusform>Удалить прокси: %n</numerusform>
+            <numerusform>Удалить прокси: %n</numerusform>
+        </translation>
     </message>
     <message>
         <source>Remove proxy</source>
@@ -8754,7 +8771,11 @@
     </message>
     <message numerus="yes">
         <source>Add %n items to timeline</source>
-        <translation>Добавить на таймлайн элементов: %n</translation>
+        <translation>
+            <numerusform>Добавить на таймлайн элементов: %n</numerusform>
+            <numerusform>Добавить на таймлайн элементов: %n</numerusform>
+            <numerusform>Добавить на таймлайн элементов: %n</numerusform>
+        </translation>
     </message>
     <message>
         <source>Add to timeline</source>
@@ -8762,9 +8783,10 @@
     </message>
     <message numerus="yes">
         <source>Move %n items to folder…</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Переместить %n элемент в папку…</numerusform>
+            <numerusform>Переместить %n элемента в папку…</numerusform>
+            <numerusform>Переместить %n элементов в папку…</numerusform>
         </translation>
     </message>
     <message>
@@ -8773,7 +8795,11 @@
     </message>
     <message numerus="yes">
         <source>Remove %n items from project</source>
-        <translation>Удалить из проекта элементов: %n</translation>
+        <translation>
+            <numerusform>Удалить из проекта элементов: %n</numerusform>
+            <numerusform>Удалить из проекта элементов: %n</numerusform>
+            <numerusform>Удалить из проекта элементов: %n</numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -8856,7 +8882,11 @@
     </message>
     <message numerus="yes">
         <source>Could not import any of the %n selected files.</source>
-        <translation>Не удалось импортировать ни одного из выбранных файлов (%n).</translation>
+        <translation>
+            <numerusform>Не удалось импортировать ни одного из выбранных файлов (%n).</numerusform>
+            <numerusform>Не удалось импортировать ни одного из выбранных файлов (%n).</numerusform>
+            <numerusform>Не удалось импортировать ни одного из выбранных файлов (%n).</numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -12208,7 +12238,11 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>Filters — %n applied</source>
-        <translation>Фильтры — применено: %n</translation>
+        <translation>
+            <numerusform>Фильтры — применено: %n</numerusform>
+            <numerusform>Фильтры — применено: %n</numerusform>
+            <numerusform>Фильтры — применено: %n</numerusform>
+        </translation>
     </message>
     <message>
         <source>Filters</source>
@@ -14002,9 +14036,10 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>This removes the track and its %n clips. You can undo afterwards.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Дорожка и %n клип будут удалены. Это действие можно отменить.</numerusform>
+            <numerusform>Дорожка и %n клипа будут удалены. Это действие можно отменить.</numerusform>
+            <numerusform>Дорожка и %n клипов будут удалены. Это действие можно отменить.</numerusform>
         </translation>
     </message>
     <message>
@@ -14459,7 +14494,11 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>+%n more</source>
-        <translation>Ещё: %n</translation>
+        <translation>
+            <numerusform>Ещё: %n</numerusform>
+            <numerusform>Ещё: %n</numerusform>
+            <numerusform>Ещё: %n</numerusform>
+        </translation>
     </message>
 </context>
 <context>
