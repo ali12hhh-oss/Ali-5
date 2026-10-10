@@ -10236,82 +10236,82 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Failed to write a proxy packet</source>
-        <translation type="unfinished"></translation>
+        <translation>เขียนแพ็กเก็ตพร็อกซีไม่สำเร็จ</translation>
     </message>
     <message>
         <source>Could not flush the proxy encoder</source>
-        <translation type="unfinished"></translation>
+        <translation>ล้างข้อมูลตัวเข้ารหัสพร็อกซีไม่ได้</translation>
     </message>
     <message>
         <source>Could not write the proxy trailer</source>
-        <translation type="unfinished"></translation>
+        <translation>เขียนส่วนท้ายของไฟล์พร็อกซีไม่ได้</translation>
     </message>
     <message>
         <source>Could not move the proxy into place</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้ายพร็อกซีไปยังตำแหน่งปลายทางไม่ได้</translation>
     </message>
     <message>
         <source>Could not open the clip</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดคลิปไม่ได้</translation>
     </message>
     <message>
         <source>Could not read the clip&apos;s streams</source>
-        <translation type="unfinished"></translation>
+        <translation>อ่านสตรีมของคลิปไม่ได้</translation>
     </message>
     <message>
         <source>The clip has no video</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิปนี้ไม่มีวิดีโอ</translation>
     </message>
     <message>
         <source>No decoder for this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีตัวถอดรหัสสำหรับคลิปนี้</translation>
     </message>
     <message>
         <source>Could not allocate the decoder</source>
-        <translation type="unfinished"></translation>
+        <translation>จัดสรรตัวถอดรหัสไม่ได้</translation>
     </message>
     <message>
         <source>Could not configure the decoder</source>
-        <translation type="unfinished"></translation>
+        <translation>กำหนดค่าตัวถอดรหัสไม่ได้</translation>
     </message>
     <message>
         <source>Could not open the decoder</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดตัวถอดรหัสไม่ได้</translation>
     </message>
     <message>
         <source>The clip has no usable video size</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิปนี้ไม่มีขนาดวิดีโอที่ใช้งานได้</translation>
     </message>
     <message>
         <source>Clips with transparency can&apos;t use a proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิปที่มีความโปร่งใสใช้พร็อกซีไม่ได้</translation>
     </message>
     <message>
         <source>Could not allocate decode buffers</source>
-        <translation type="unfinished"></translation>
+        <translation>จัดสรรบัฟเฟอร์ถอดรหัสไม่ได้</translation>
     </message>
     <message>
         <source>Proxy cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการสร้างพร็อกซีแล้ว</translation>
     </message>
     <message>
         <source>No frames could be decoded from this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ถอดรหัสเฟรมจากคลิปนี้ไม่ได้เลย</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Measuring loudness…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังวัดความดัง…</translation>
     </message>
     <message>
         <source>Identifying objects in scene %1 of %2…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังระบุวัตถุในฉากที่ %1 จาก %2…</translation>
     </message>
     <message>
         <source>Nothing to scan in this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีอะไรให้สแกนในคลิปนี้</translation>
     </message>
     <message>
         <source>Could not open the media file</source>
@@ -10319,15 +10319,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>This file has no video to scan</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์นี้ไม่มีวิดีโอให้สแกน</translation>
     </message>
     <message>
         <source>Loading the depth model…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังโหลดโมเดลความลึก…</translation>
     </message>
     <message>
         <source>No cache directory</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีโฟลเดอร์แคช</translation>
     </message>
     <message>
         <source>Could not decode frame %1</source>
@@ -10335,7 +10335,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Estimating depth, frame %1 of %2…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังประเมินความลึก เฟรมที่ %1 จาก %2…</translation>
     </message>
     <message>
         <source>Loading the models…</source>
@@ -10347,23 +10347,23 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 นาที</translation>
     </message>
     <message>
         <source>%1 h %2 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ชม. %2 นาที</translation>
     </message>
     <message>
         <source>Enhancing… %1% — about %2 left</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังปรับปรุง… %1% — เหลือประมาณ %2</translation>
     </message>
     <message>
         <source>Enhancing… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังปรับปรุง… %1%</translation>
     </message>
     <message>
         <source>Enhancing this frame… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังปรับปรุงเฟรมนี้… %1%</translation>
     </message>
     <message>
         <source>Scanning frame %1 of %2…</source>
@@ -10375,83 +10375,83 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Cannot open file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดไฟล์ไม่ได้: %1</translation>
     </message>
     <message>
         <source>File is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์ว่างเปล่า</translation>
     </message>
     <message>
         <source>Failed to decompress Premiere project archive</source>
-        <translation type="unfinished"></translation>
+        <translation>คลายไฟล์เก็บโปรเจกต์ Premiere ไม่สำเร็จ</translation>
     </message>
     <message>
         <source>XML parse error at line %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อผิดพลาดในการแยกวิเคราะห์ XML ที่บรรทัด %1: %2</translation>
     </message>
     <message>
         <source>Imported Premiere Project</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าโปรเจกต์ Premiere แล้ว</translation>
     </message>
     <message>
         <source>V%1</source>
-        <translation type="unfinished"></translation>
+        <translation>V%1</translation>
     </message>
     <message>
         <source>A%1</source>
-        <translation type="unfinished"></translation>
+        <translation>A%1</translation>
     </message>
     <message>
         <source>Not a valid ZIP archive</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์ ZIP ไม่ถูกต้อง</translation>
     </message>
     <message>
         <source>MOGRT archive is empty or invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์เก็บ MOGRT ว่างเปล่าหรือไม่ถูกต้อง</translation>
     </message>
     <message>
         <source>Could not open file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดไฟล์ไม่ได้: %1</translation>
     </message>
     <message>
         <source>Invalid or corrupt MLT / Kdenlive project</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรเจกต์ MLT / Kdenlive ไม่ถูกต้องหรือเสียหาย</translation>
     </message>
     <message>
         <source>Failed to parse MLT XML document</source>
-        <translation type="unfinished"></translation>
+        <translation>แยกวิเคราะห์เอกสาร MLT XML ไม่สำเร็จ</translation>
     </message>
     <message>
         <source>Root element is not &lt;mlt&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>องค์ประกอบรากไม่ใช่ &lt;mlt&gt;</translation>
     </message>
     <message>
         <source>XML parse error at line %1, column %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อผิดพลาดในการแยกวิเคราะห์ XML ที่บรรทัด %1 คอลัมน์ %2: %3</translation>
     </message>
     <message>
         <source>Root element is &lt;%1&gt;, expected &lt;fcpxml&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>องค์ประกอบรากคือ &lt;%1&gt; แต่คาดว่าจะเป็น &lt;fcpxml&gt;</translation>
     </message>
     <message>
         <source>Cannot open DaVinci Resolve project archive: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดไฟล์เก็บโปรเจกต์ DaVinci Resolve ไม่ได้: %1</translation>
     </message>
     <message>
         <source>DaVinci Resolve project archive is empty or invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์เก็บโปรเจกต์ DaVinci Resolve ว่างเปล่าหรือไม่ถูกต้อง</translation>
     </message>
     <message>
         <source>No edit events found in EDL</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พบเหตุการณ์ตัดต่อใน EDL</translation>
     </message>
     <message>
         <source>Failed to parse OpenTimelineIO JSON: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>แยกวิเคราะห์ OpenTimelineIO JSON ไม่สำเร็จ: %1</translation>
     </message>
     <message>
         <source>Not an OpenTimelineIO Timeline or Stack (schema: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่ใช่ Timeline หรือ Stack ของ OpenTimelineIO (schema: %1)</translation>
     </message>
 </context>
 <context>
@@ -10470,32 +10470,33 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Previous projects</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรเจกต์ก่อนหน้า</translation>
     </message>
     <message>
         <source>No previous projects</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีโปรเจกต์ก่อนหน้า</translation>
     </message>
     <message>
         <source> (missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>(หายไป)</translation>
     </message>
     <message>
         <source>This file has been moved or deleted:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์นี้ถูกย้ายหรือลบแล้ว:
+%1</translation>
     </message>
     <message>
         <source>Initialize new project</source>
-        <translation type="unfinished"></translation>
+        <translation>เริ่มต้นโปรเจกต์ใหม่</translation>
     </message>
     <message>
         <source>Open project…</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดโปรเจกต์…</translation>
     </message>
     <message>
         <source>Save as…</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกเป็น…</translation>
     </message>
     <message>
         <source>Save with media…</source>
@@ -10677,11 +10678,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 นาที</translation>
     </message>
     <message>
         <source>%1 h %2 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ชม. %2 นาที</translation>
     </message>
     <message>
         <source>%1 s per frame</source>
@@ -10744,7 +10745,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 นาที</translation>
     </message>
     <message>
         <source>%1 s</source>
@@ -10767,7 +10768,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Could not allocate decode buffers</source>
-        <translation type="unfinished"></translation>
+        <translation>จัดสรรบัฟเฟอร์ถอดรหัสไม่ได้</translation>
     </message>
     <message>
         <source>Reversing cancelled</source>
@@ -10775,7 +10776,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>No frames could be decoded from this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ถอดรหัสเฟรมจากคลิปนี้ไม่ได้เลย</translation>
     </message>
 </context>
 <context>
@@ -12064,12 +12065,13 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     <name>StartScreen</name>
     <message>
         <source> (missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>(หายไป)</translation>
     </message>
     <message>
         <source>This file has been moved or deleted:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์นี้ถูกย้ายหรือลบแล้ว:
+%1</translation>
     </message>
     <message>
         <source>Remove from recents</source>
