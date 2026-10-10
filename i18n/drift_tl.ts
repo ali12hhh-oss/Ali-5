@@ -8224,7 +8224,7 @@
     </message>
     <message>
         <source>Could not import that file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-import ang file na iyon.</translation>
     </message>
     <message>
         <source>In the media bin</source>
@@ -8232,82 +8232,82 @@
     </message>
     <message>
         <source>Marketplace account connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nakakonekta na ang marketplace account.</translation>
     </message>
     <message>
         <source>Daily limit reached for this source. Try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Naabot na ang pang-araw-araw na limit para sa source na ito. Subukan muli mamaya.</translation>
     </message>
     <message>
         <source>This item needs a connected account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kailangan ng item na ito ng nakakonektang account.</translation>
     </message>
     <message>
         <source>Not enough coins.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kulang ang coins.</translation>
     </message>
     <message>
         <source>This source is temporarily unavailable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pansamantalang hindi available ang source na ito.</translation>
     </message>
     <message>
         <source>That item is no longer available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi na available ang item na iyon.</translation>
     </message>
     <message>
         <source>Could not reach the marketplace.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi maabot ang marketplace.</translation>
     </message>
     <message>
         <source>Could not prepare that file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi naihanda ang file na iyon.</translation>
     </message>
     <message>
         <source>Could not complete that request.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi nakumpleto ang kahilingang iyon.</translation>
     </message>
     <message>
         <source>The marketplace took too long to answer. Try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Masyadong matagal sumagot ang marketplace. Subukan muli.</translation>
     </message>
     <message>
         <source>Couldn’t reach the marketplace. Check your connection and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi maabot ang marketplace. Suriin ang koneksyon at subukan muli.</translation>
     </message>
 </context>
 <context>
     <name>MarketConsentPanel</name>
     <message>
         <source>The marketplace is experimental</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksperimental pa ang marketplace</translation>
     </message>
     <message>
         <source>This feature is still being built and can change or stop working at any time. Before you use it, please read what it can and cannot do.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ginagawa pa ang feature na ito at maaari itong magbago o tumigil anumang oras. Basahin muna kung ano ang kaya at hindi nito kaya bago gamitin.</translation>
     </message>
     <message>
         <source>You get a limited number of downloads per day. The limit is small, may change without notice, and once it is used up you have to wait.</source>
-        <translation type="unfinished"></translation>
+        <translation>May limit ang dami ng download bawat araw. Mababa ang limit at maaaring magbago nang walang abiso; kapag naubos ito, kailangan mong maghintay.</translation>
     </message>
     <message>
         <source>We cannot guarantee that any source stays available. Sources can be removed, rate-limited or broken by the sites they pull from, at any time and without warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi namin magagarantiya na mananatiling available ang anumang source. Maaaring alisin, lagyan ng rate limit, o masira ito ng mga site na pinanggagalingan anumang oras nang walang babala.</translation>
     </message>
     <message>
         <source>We cannot guarantee that a download will succeed, finish, or give you the quality you picked. Some items will simply fail.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi namin magagarantiya na magtatagumpay o matatapos ang download, o makukuha nito ang kalidad na pinili mo. May ilang item na sadyang mabibigo.</translation>
     </message>
     <message>
         <source>Everything here comes from third parties. Drift does not host, own or vet it — you are responsible for making sure you have the right to use whatever you download.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lahat ng narito ay mula sa third party. Hindi ito hina-host, pag-aari, o sinusuri ng Drift—responsibilidad mong tiyaking may karapatan kang gamitin ang anumang ida-download.</translation>
     </message>
     <message>
         <source>I understand</source>
-        <translation type="unfinished"></translation>
+        <translation>Naiintindihan ko</translation>
     </message>
     <message>
         <source>Continue to the marketplace</source>
-        <translation type="unfinished"></translation>
+        <translation>Magpatuloy sa marketplace</translation>
     </message>
 </context>
 <context>
@@ -8325,31 +8325,31 @@
     <name>MarketTab</name>
     <message>
         <source>Stock</source>
-        <translation type="unfinished"></translation>
+        <translation>Stock</translation>
     </message>
     <message>
         <source>Marketplace unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi available ang marketplace</translation>
     </message>
     <message>
         <source>This build does not include the marketplace.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi kasama ang marketplace sa build na ito.</translation>
     </message>
     <message>
         <source>Search assets</source>
-        <translation type="unfinished"></translation>
+        <translation>Maghanap ng asset</translation>
     </message>
     <message>
         <source>Search, or paste a link</source>
-        <translation type="unfinished"></translation>
+        <translation>Maghanap o i-paste ang link</translation>
     </message>
     <message>
         <source>Assets</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga asset</translation>
     </message>
     <message>
         <source>Stock footage</source>
-        <translation type="unfinished"></translation>
+        <translation>Stock footage</translation>
     </message>
     <message>
         <source>Loading sources…</source>
@@ -8357,7 +8357,7 @@
     </message>
     <message>
         <source>Couldn’t reach the marketplace</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi maabot ang marketplace</translation>
     </message>
     <message>
         <source>Try again</source>
@@ -8376,11 +8376,11 @@
     </message>
     <message>
         <source>Drag a mask from the Masks tab onto a clip to edit it here</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drag ang mask mula sa tab na Masks papunta sa clip para i-edit ito rito.</translation>
     </message>
     <message>
         <source>Select a clip at the playhead to edit its masks</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng clip sa playhead para i-edit ang mga mask nito</translation>
     </message>
 </context>
 <context>
@@ -8419,7 +8419,7 @@
     </message>
     <message>
         <source>Combine</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagsamahin</translation>
     </message>
     <message>
         <source>Add</source>
@@ -8427,27 +8427,27 @@
     </message>
     <message>
         <source>Subtract</source>
-        <translation type="unfinished"></translation>
+        <translation>Ibawas</translation>
     </message>
     <message>
         <source>Intersect</source>
-        <translation type="unfinished"></translation>
+        <translation>I-intersect</translation>
     </message>
     <message>
         <source>Remove cutout layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang cutout layer</translation>
     </message>
     <message>
         <source>Remove mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang mask</translation>
     </message>
     <message>
         <source>Center X</source>
-        <translation type="unfinished"></translation>
+        <translation>Center X</translation>
     </message>
     <message>
         <source>Center Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Center Y</translation>
     </message>
     <message>
         <source>Width</source>
@@ -8463,42 +8463,42 @@
     </message>
     <message>
         <source>Feather</source>
-        <translation type="unfinished"></translation>
+        <translation>Feather</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"></translation>
+        <translation>Baligtarin</translation>
     </message>
 </context>
 <context>
     <name>MasksTab</name>
     <message>
         <source>Click to apply to the selection, or drag onto a clip</source>
-        <translation type="unfinished"></translation>
+        <translation>I-click para ilapat sa napili o i-drag papunta sa clip</translation>
     </message>
     <message>
         <source>Select a clip, or drag a mask onto one</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng clip o i-drag ang mask papunta rito</translation>
     </message>
     <message>
         <source>Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Subject</translation>
     </message>
     <message>
         <source>Cut out subject…</source>
-        <translation type="unfinished"></translation>
+        <translation>I-cut out ang subject…</translation>
     </message>
     <message>
         <source>Trace the subject and pin the result as a mask layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Sundan ang outline ng subject at i-pin ang resulta bilang mask layer</translation>
     </message>
     <message>
         <source>Select a video clip first</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili muna ng video clip</translation>
     </message>
     <message>
         <source>Download people cutout (about 20 MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>I-download ang people cutout (mga 20 MB)</translation>
     </message>
     <message>
         <source>Install AI engine first</source>
@@ -8506,50 +8506,50 @@
     </message>
     <message>
         <source>Add click-to-pick cutout (about 190 MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>I-download ang click-to-pick cutout (mga 190 MB)</translation>
     </message>
     <message>
         <source>Image or video as mask…</source>
-        <translation type="unfinished"></translation>
+        <translation>Gamitin ang larawan o video bilang mask…</translation>
     </message>
     <message>
         <source>Use a file&apos;s own pixels as the coverage map</source>
-        <translation type="unfinished"></translation>
+        <translation>Gamitin ang mga pixel ng file bilang coverage map</translation>
     </message>
     <message>
         <source>Choose a mask image or video</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng larawan o video para sa mask</translation>
     </message>
     <message>
         <source>Media files (*.png *.jpg *.jpeg *.webp *.heic *.heif *.avif *.tif *.tiff *.bmp *.gif *.mp4 *.mov *.mkv *.webm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga media file (*.png *.jpg *.jpeg *.webp *.heic *.heif *.avif *.tif *.tiff *.bmp *.gif *.mp4 *.mov *.mkv *.webm)</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lahat ng file (*)</translation>
     </message>
     <message>
         <source>%1 — click to apply, or drag onto a clip</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 — i-click para ilapat o i-drag papunta sa clip</translation>
     </message>
     <message>
         <source>%1 — drag onto a clip</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 — i-drag papunta sa clip</translation>
     </message>
     <message>
         <source>Select a clip first, or drag the mask onto one</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili muna ng clip o i-drag ang mask papunta rito</translation>
     </message>
 </context>
 <context>
     <name>MediaAssetsTab</name>
     <message>
         <source>No media yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala pang media</translation>
     </message>
     <message>
         <source>Import files or drop them here, then drag them onto the timeline. Right-click a clip to preview and trim it first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-import ng mga file o i-drop dito, pagkatapos i-drag sa timeline. I-right-click ang clip para i-preview at i-trim muna.</translation>
     </message>
     <message>
         <source>Import media</source>
@@ -8557,11 +8557,11 @@
     </message>
     <message>
         <source>Import folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-import ng folder</translation>
     </message>
     <message>
         <source>Supported formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga suportadong format</translation>
     </message>
     <message>
         <source>Video</source>
@@ -8573,7 +8573,7 @@
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga larawan</translation>
     </message>
     <message>
         <source>Vector</source>
@@ -10821,7 +10821,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Select a video clip first</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili muna ng video clip</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -12370,7 +12370,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lahat ng file (*)</translation>
     </message>
     <message>
         <source>Export</source>
@@ -12496,7 +12496,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lahat ng file (*)</translation>
     </message>
     <message>
         <source>Add auto caption</source>
