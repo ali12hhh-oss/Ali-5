@@ -7548,7 +7548,7 @@
     </message>
     <message>
         <source>Built-in sets can&apos;t be changed. Duplicate one to make an editable copy.</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขชุดที่มีมาให้ไม่ได้ ให้ทำสำเนาเพื่อสร้างชุดที่แก้ไขได้</translation>
     </message>
     <message>
         <source>This set came with the project. Save it to your guide sets to edit it.</source>
@@ -7642,11 +7642,11 @@
     </message>
     <message>
         <source>Mask rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>การหมุนมาสก์</translation>
     </message>
     <message>
         <source>Mask feather</source>
-        <translation type="unfinished"></translation>
+        <translation>การฟุ้งขอบมาสก์</translation>
     </message>
     <message>
         <source>Keyframes</source>
@@ -7654,11 +7654,11 @@
     </message>
     <message>
         <source>Analyzing…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังวิเคราะห์…</translation>
     </message>
     <message>
         <source>Hide the beat markers</source>
-        <translation type="unfinished"></translation>
+        <translation>ซ่อนเครื่องหมายจังหวะ</translation>
     </message>
     <message>
         <source>Find the beat and show markers</source>
@@ -7666,27 +7666,27 @@
     </message>
     <message>
         <source>Hide hits</source>
-        <translation type="unfinished"></translation>
+        <translation>ซ่อนจุดเน้นจังหวะ</translation>
     </message>
     <message>
         <source>Find beats and hits in the audio under this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหาจังหวะและจุดเน้นในเสียงใต้คลิปนี้</translation>
     </message>
     <message>
         <source>%1 (keyframes off)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (ปิดคีย์เฟรม)</translation>
     </message>
     <message>
         <source>%1 — click to hide this curve</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 — คลิกเพื่อซ่อนเส้นโค้งนี้</translation>
     </message>
     <message>
         <source>%1 — click to show this curve</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 — คลิกเพื่อแสดงเส้นโค้งนี้</translation>
     </message>
     <message>
         <source>No keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีคีย์เฟรม</translation>
     </message>
     <message numerus="yes">
         <source>%n keyframes</source>
@@ -7696,11 +7696,11 @@
     </message>
     <message>
         <source> BPM</source>
-        <translation type="unfinished"></translation>
+        <translation>BPM</translation>
     </message>
     <message>
         <source> · no beat found</source>
-        <translation type="unfinished"></translation>
+        <translation>· ไม่พบจังหวะ</translation>
     </message>
     <message>
         <source>Move keyframe</source>
@@ -7708,7 +7708,7 @@
     </message>
     <message>
         <source>Edit keyframe curve</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขเส้นโค้งคีย์เฟรม</translation>
     </message>
 </context>
 <context>
@@ -7770,86 +7770,86 @@
     </message>
     <message>
         <source>Quality</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณภาพ</translation>
     </message>
     <message>
         <source>%1×%2 · %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1×%2 · %3</translation>
     </message>
     <message>
         <source>Preview shows the canvas aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>พรีวิวแสดงอัตราส่วนภาพของผืนงาน</translation>
     </message>
 </context>
 <context>
     <name>LayoutPresets</name>
     <message>
         <source>YouTube</source>
-        <translation type="unfinished"></translation>
+        <translation>YouTube</translation>
     </message>
     <message>
         <source>Instagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Instagram</translation>
     </message>
     <message>
         <source>Facebook</source>
-        <translation type="unfinished"></translation>
+        <translation>Facebook</translation>
     </message>
     <message>
         <source>TikTok</source>
-        <translation type="unfinished"></translation>
+        <translation>TikTok</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเติม</translation>
     </message>
     <message>
         <source>YT Video</source>
-        <translation type="unfinished"></translation>
+        <translation>วิดีโอ YouTube</translation>
     </message>
     <message>
         <source>YT Short</source>
-        <translation type="unfinished"></translation>
+        <translation>YouTube Shorts</translation>
     </message>
     <message>
         <source>IG Reel</source>
-        <translation type="unfinished"></translation>
+        <translation>Instagram Reels</translation>
     </message>
     <message>
         <source>IG Story</source>
-        <translation type="unfinished"></translation>
+        <translation>Instagram Story</translation>
     </message>
     <message>
         <source>IG Post</source>
-        <translation type="unfinished"></translation>
+        <translation>โพสต์ Instagram</translation>
     </message>
     <message>
         <source>IG Feed</source>
-        <translation type="unfinished"></translation>
+        <translation>ฟีด Instagram</translation>
     </message>
     <message>
         <source>FB Reel</source>
-        <translation type="unfinished"></translation>
+        <translation>Facebook Reels</translation>
     </message>
     <message>
         <source>FB Video</source>
-        <translation type="unfinished"></translation>
+        <translation>วิดีโอ Facebook</translation>
     </message>
     <message>
         <source>FB Story</source>
-        <translation type="unfinished"></translation>
+        <translation>Facebook Story</translation>
     </message>
     <message>
         <source>Snapchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Snapchat</translation>
     </message>
     <message>
         <source>X / Twitter</source>
-        <translation type="unfinished"></translation>
+        <translation>X / Twitter</translation>
     </message>
     <message>
         <source>LinkedIn</source>
-        <translation type="unfinished"></translation>
+        <translation>LinkedIn</translation>
     </message>
     <message>
         <source>Square</source>
@@ -10911,7 +10911,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Quality</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณภาพ</translation>
     </message>
     <message>
         <source>AI: %1</source>
@@ -11137,7 +11137,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Language for menus and labels. Takes effect immediately.</source>
-        <translation type="unfinished"></translation>
+        <translation>ภาษาสำหรับเมนูและป้ายกำกับ มีผลทันที</translation>
     </message>
     <message>
         <source>App</source>
