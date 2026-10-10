@@ -5333,11 +5333,11 @@
     <name>CloudProviders</name>
     <message>
         <source>No key set</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่ได้ตั้งคีย์</translation>
     </message>
     <message>
         <source>Key works</source>
-        <translation type="unfinished"></translation>
+        <translation>คีย์ใช้งานได้</translation>
     </message>
 </context>
 <context>
@@ -5655,7 +5655,7 @@
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>วินาที</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5666,46 +5666,46 @@
     <name>DepthEffectOverlay</name>
     <message>
         <source>Aim light</source>
-        <translation type="unfinished"></translation>
+        <translation>เล็งทิศทางแสง</translation>
     </message>
     <message>
         <source>Move light</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้ายแสง</translation>
     </message>
     <message>
         <source>Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>โฟกัส</translation>
     </message>
     <message>
         <source>Pick focus</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกจุดโฟกัส</translation>
     </message>
     <message>
         <source>Move focus</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้ายจุดโฟกัส</translation>
     </message>
 </context>
 <context>
     <name>DownloadFormat</name>
     <message>
         <source>%1 B</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 B</translation>
     </message>
     <message>
         <source>%1 KB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 KB</translation>
     </message>
     <message>
         <source>%1 MB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 MB</translation>
     </message>
     <message>
         <source>%1 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 GB</translation>
     </message>
     <message>
         <source>%1/s</source>
-        <translation type="unfinished"></translation>
+        <translation>%1/วินาที</translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) left</source>
@@ -5721,23 +5721,23 @@
     </message>
     <message>
         <source>Cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกแล้ว</translation>
     </message>
     <message>
         <source>Waiting for a free slot</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังรอตำแหน่งว่าง</translation>
     </message>
     <message>
         <source>%1 · in the media bin</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 · ในคลังสื่อ</translation>
     </message>
     <message>
         <source>In the media bin</source>
-        <translation type="unfinished"></translation>
+        <translation>อยู่ในคลังสื่อ</translation>
     </message>
     <message>
         <source>%1 of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 จาก %2</translation>
     </message>
 </context>
 <context>
@@ -5754,11 +5754,11 @@
     </message>
     <message>
         <source>No downloads running</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีการดาวน์โหลดที่กำลังทำงาน</translation>
     </message>
     <message>
         <source>%1 at a time</source>
-        <translation type="unfinished"></translation>
+        <translation>ครั้งละ %1 รายการ</translation>
     </message>
     <message>
         <source>Clear finished</source>
@@ -5766,11 +5766,11 @@
     </message>
     <message>
         <source>Nothing downloaded yet</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่มีรายการที่ดาวน์โหลด</translation>
     </message>
     <message>
         <source>Downloads from the Market tab show up here while they run.</source>
-        <translation type="unfinished"></translation>
+        <translation>รายการที่ดาวน์โหลดจากแท็บ Market จะแสดงที่นี่ระหว่างดาวน์โหลด</translation>
     </message>
     <message>
         <source>Try again</source>
@@ -5805,11 +5805,11 @@
     </message>
     <message>
         <source>Loops, %1 s</source>
-        <translation type="unfinished"></translation>
+        <translation>วนซ้ำ %1 วินาที</translation>
     </message>
     <message>
         <source>Added</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มแล้ว</translation>
     </message>
     <message>
         <source>Retry</source>
@@ -5817,7 +5817,7 @@
     </message>
     <message>
         <source>Downloaded, works offline</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลดแล้ว ใช้งานออฟไลน์ได้</translation>
     </message>
 </context>
 <context>
@@ -8171,7 +8171,7 @@
     </message>
     <message>
         <source>Cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกแล้ว</translation>
     </message>
     <message>
         <source>Could not connect the marketplace account.</source>
@@ -8203,7 +8203,7 @@
     </message>
     <message>
         <source>In the media bin</source>
-        <translation type="unfinished"></translation>
+        <translation>อยู่ในคลังสื่อ</translation>
     </message>
     <message>
         <source>Marketplace account connected.</source>
@@ -9106,7 +9106,7 @@
     </message>
     <message>
         <source>Move light</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้ายแสง</translation>
     </message>
     <message>
         <source>Drag the light around the sphere. The light stays fixed to the camera, not the model.</source>
@@ -9883,7 +9883,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกแล้ว</translation>
     </message>
     <message>
         <source>cannot read %1</source>
@@ -10583,7 +10583,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>วินาที</translation>
     </message>
     <message>
         <source>Fit</source>
@@ -10895,7 +10895,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>วินาที</translation>
     </message>
     <message>
         <source>Left-click marks the subject, right-click marks what to exclude. Click a marker to remove it.</source>
@@ -11850,7 +11850,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>วินาที</translation>
     </message>
     <message>
         <source>s → </source>
@@ -12245,7 +12245,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลด</translation>
     </message>
     <message>
         <source>You have used today’s downloads from this source</source>
@@ -14684,7 +14684,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลด</translation>
     </message>
     <message>
         <source>Opens the release page in your browser</source>
