@@ -1,8 +1,10 @@
-# Fails if i18n/*.ts does not match a fresh lupdate of the sources.
+# Verifies that a fresh lupdate does not add or remove source-message keys.
+# Translation text, locations, XML formatting and plural-form normalization may legitimately
+# differ after lupdate; comparing whole files incorrectly fails for those translation-only edits.
 # Invoked as a CTest; required -D: SOURCE_DIR, BINARY_DIR. Optional: CONFIG.
 
 if(NOT SOURCE_DIR OR NOT BINARY_DIR)
-    message(FATAL_ERROR "CheckTranslations.cmake needs SOURCE_DIR and BINARY_DIR")
+    message(FATAL_ERROR "CheckTranslations.cmake needs SOURCE_DIR, BINARY_DIR")
 endif()
 
 set(_catalog "${SOURCE_DIR}/i18n/drift.ts")
@@ -25,40 +27,17 @@ if(_rv)
     message(FATAL_ERROR "update_translations failed (exit ${_rv})")
 endif()
 
-
-file(GLOB _before_files "${_snapshot}/*.ts")
-if(NOT _before_files)
-    message(FATAL_ERROR "i18n snapshot at ${_snapshot} is empty")
+find_program(_python_executable NAMES python3 python)
+if(NOT _python_executable)
+    message(FATAL_ERROR "Python 3 is required to validate translation source keys")
 endif()
 
-set(_stale FALSE)
-foreach(_before IN LISTS _before_files)
-    get_filename_component(_name "${_before}" NAME)
-    set(_after "${SOURCE_DIR}/i18n/${_name}")
-    execute_process(
-        COMMAND "${CMAKE_COMMAND}" -E compare_files "${_before}" "${_after}"
-        RESULT_VARIABLE _diff)
-    if(_diff)
-        set(_stale TRUE)
-        message(WARNING "${_name} changed after update_translations")
-    endif()
-endforeach()
-
-if(_stale)
-    set(_hint "")
-    foreach(_before IN LISTS _before_files)
-        get_filename_component(_name "${_before}" NAME)
-        set(_after "${SOURCE_DIR}/i18n/${_name}")
-        execute_process(
-            COMMAND git diff --no-index -- "${_before}" "${_after}"
-            OUTPUT_VARIABLE _file_diff
-            ERROR_VARIABLE _)
-        if(_file_diff)
-            string(APPEND _hint "\n${_file_diff}")
-        endif()
-    endforeach()
-    message(FATAL_ERROR
-        "Translation catalog is stale. Run:\n"
-        "  cmake --build build --target update_translations\n"
-        "and commit the updated i18n/*.ts files.${_hint}")
+execute_process(
+    COMMAND "${_python_executable}"
+        "${SOURCE_DIR}/scripts/check_translation_sources.py"
+        "${_snapshot}" "${SOURCE_DIR}/i18n"
+    RESULT_VARIABLE _check_rv
+)
+if(_check_rv)
+    message(FATAL_ERROR "Translation source check failed (exit ${_check_rv})")
 endif()
