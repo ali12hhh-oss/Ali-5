@@ -2488,9 +2488,10 @@
     </message>
     <message numerus="yes">
         <source>Multicam ready: %n camera(s) lined up at the start. Drag a clip to adjust its sync, then pick a shot.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Multicam gotowy: %n kamera ustawiona na początku. Przeciągnij klip, aby dopasować synchronizację, a następnie wybierz ujęcie.</numerusform>
+            <numerusform>Multicam gotowy: %n kamery ustawione na początku. Przeciągnij klip, aby dopasować synchronizację, a następnie wybierz ujęcie.</numerusform>
+            <numerusform>Multicam gotowy: %n kamer ustawionych na początku. Przeciągnij klip, aby dopasować synchronizację, a następnie wybierz ujęcie.</numerusform>
         </translation>
     </message>
     <message>
@@ -3737,9 +3738,10 @@
     </message>
     <message numerus="yes">
         <source>Transform layer now covers %n track(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Warstwa transformacji obejmuje teraz %n ścieżkę</numerusform>
+            <numerusform>Warstwa transformacji obejmuje teraz %n ścieżki</numerusform>
+            <numerusform>Warstwa transformacji obejmuje teraz %n ścieżek</numerusform>
         </translation>
     </message>
     <message>
@@ -3923,9 +3925,10 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s); %1 skipped: %2</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Zaimportowano %n element do twarzy; pominięto %1: %2</numerusform>
+            <numerusform>Zaimportowano %n elementy do twarzy; pominięto %1: %2</numerusform>
+            <numerusform>Zaimportowano %n elementów do twarzy; pominięto %1: %2</numerusform>
         </translation>
     </message>
     <message>
@@ -4316,9 +4319,10 @@
     </message>
     <message numerus="yes">
         <source>Media collected, but %n original(s) couldn’t be deleted</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Zebrano multimedia, ale nie udało się usunąć %n oryginału</numerusform>
+            <numerusform>Zebrano multimedia, ale nie udało się usunąć %n oryginałów</numerusform>
+            <numerusform>Zebrano multimedia, ale nie udało się usunąć %n oryginałów</numerusform>
         </translation>
     </message>
     <message>
@@ -4451,9 +4455,10 @@
     </message>
     <message numerus="yes">
         <source>Applied to %n caption clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Zastosowano do %n klipu napisów</numerusform>
+            <numerusform>Zastosowano do %n klipów napisów</numerusform>
+            <numerusform>Zastosowano do %n klipów napisów</numerusform>
         </translation>
     </message>
     <message>
@@ -4686,9 +4691,10 @@
     </message>
     <message numerus="yes">
         <source>Replaced with “%1”. %n clips were shortened to fit the new file.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Zastąpiono przez „%1”. Skrócono %n klip, aby pasował do nowego pliku.</numerusform>
+            <numerusform>Zastąpiono przez „%1”. Skrócono %n klipy, aby pasowały do nowego pliku.</numerusform>
+            <numerusform>Zastąpiono przez „%1”. Skrócono %n klipów, aby pasowały do nowego pliku.</numerusform>
         </translation>
     </message>
     <message>
@@ -4725,23 +4731,26 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders — as many as one folder import takes. Import the remaining subfolders separately.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Zaimportowano %n plików do %1 folderów — to limit jednego importu folderu. Zaimportuj pozostałe podfoldery osobno.</numerusform>
+            <numerusform>Zaimportowano %n plików do %1 folderów — to limit jednego importu folderu. Zaimportuj pozostałe podfoldery osobno.</numerusform>
+            <numerusform>Zaimportowano %n plików do %1 folderów — to limit jednego importu folderu. Zaimportuj pozostałe podfoldery osobno.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Zaimportowano %n plików do %1 folderów. Pominięto %2 pliki — Drift nie rozpoznaje ich formatu. Przeciągnij je do biblioteki, aby mimo to spróbować.</numerusform>
+            <numerusform>Zaimportowano %n plików do %1 folderów. Pominięto %2 pliki — Drift nie rozpoznaje ich formatu. Przeciągnij je do biblioteki, aby mimo to spróbować.</numerusform>
+            <numerusform>Zaimportowano %n plików do %1 folderów. Pominięto %2 plików — Drift nie rozpoznaje ich formatu. Przeciągnij je do biblioteki, aby mimo to spróbować.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Zaimportowano %n plik do %1 folderów.</numerusform>
+            <numerusform>Zaimportowano %n pliki do %1 folderów.</numerusform>
+            <numerusform>Zaimportowano %n plików do %1 folderów.</numerusform>
         </translation>
     </message>
     <message>
@@ -8818,9 +8827,10 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) may play back slowly. A proxy makes previewing smoother; export still uses the original.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Odtwarzanie %n klipu może być wolne. Proxy usprawnia podgląd; eksport nadal używa oryginału.</numerusform>
+            <numerusform>Odtwarzanie %n klipów może być wolne. Proxy usprawnia podgląd; eksport nadal używa oryginałów.</numerusform>
+            <numerusform>Odtwarzanie %n klipów może być wolne. Proxy usprawnia podgląd; eksport nadal używa oryginałów.</numerusform>
         </translation>
     </message>
     <message>
@@ -8829,9 +8839,10 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) have a variable frame rate, which can drift out of sync with audio. Convert them to an edit-friendly format to fix it.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n klip ma zmienną liczbę klatek, co może powodować desynchronizację dźwięku. Przekonwertuj go do formatu przyjaznego montażowi.</numerusform>
+            <numerusform>%n klipy mają zmienną liczbę klatek, co może powodować desynchronizację dźwięku. Przekonwertuj je do formatu przyjaznego montażowi.</numerusform>
+            <numerusform>%n klipów ma zmienną liczbę klatek, co może powodować desynchronizację dźwięku. Przekonwertuj je do formatu przyjaznego montażowi.</numerusform>
         </translation>
     </message>
     <message>
@@ -9056,9 +9067,10 @@
     </message>
     <message numerus="yes">
         <source>%n animation(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n animacja</numerusform>
+            <numerusform>%n animacje</numerusform>
+            <numerusform>%n animacji</numerusform>
         </translation>
     </message>
     <message>
@@ -9476,9 +9488,10 @@
     </message>
     <message numerus="yes">
         <source>Pasting from “%1” onto %n selected clip(s):</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Wklejanie z „%1” do %n zaznaczonego klipu:</numerusform>
+            <numerusform>Wklejanie z „%1” do %n zaznaczonych klipów:</numerusform>
+            <numerusform>Wklejanie z „%1” do %n zaznaczonych klipów:</numerusform>
         </translation>
     </message>
     <message>
@@ -9507,9 +9520,10 @@
     </message>
     <message numerus="yes">
         <source>Video Effects (%n effect(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Efekty wideo (%n efekt)</numerusform>
+            <numerusform>Efekty wideo (%n efekty)</numerusform>
+            <numerusform>Efekty wideo (%n efektów)</numerusform>
         </translation>
     </message>
     <message>
@@ -9526,9 +9540,10 @@
     </message>
     <message numerus="yes">
         <source>Audio Effects (%n effect(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Efekty audio (%n efekt)</numerusform>
+            <numerusform>Efekty audio (%n efekty)</numerusform>
+            <numerusform>Efekty audio (%n efektów)</numerusform>
         </translation>
     </message>
     <message>
@@ -9541,9 +9556,10 @@
     </message>
     <message numerus="yes">
         <source>Transitions (%n transition(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Przejścia (%n przejście)</numerusform>
+            <numerusform>Przejścia (%n przejścia)</numerusform>
+            <numerusform>Przejścia (%n przejść)</numerusform>
         </translation>
     </message>
     <message>
