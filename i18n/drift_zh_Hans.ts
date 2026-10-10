@@ -1115,7 +1115,7 @@
     </message>
     <message>
         <source>Move, scale or tilt the selected clips&apos; tracks as one</source>
-        <translation type="unfinished"></translation>
+        <translation>整体移动、缩放或倾斜所选片段的轨道</translation>
     </message>
     <message>
         <source>Select transform layer</source>
@@ -1131,7 +1131,7 @@
     </message>
     <message>
         <source>Every clip this layer moves</source>
-        <translation type="unfinished"></translation>
+        <translation>此图层移动的所有片段</translation>
     </message>
     <message>
         <source>Covers</source>
@@ -1155,7 +1155,7 @@
     </message>
     <message>
         <source>One audio clip per audio track in the file</source>
-        <translation type="unfinished"></translation>
+        <translation>文件中每条音轨对应一个音频片段</translation>
     </message>
     <message>
         <source>Convert to edit-friendly format</source>
@@ -1179,7 +1179,7 @@
     </message>
     <message>
         <source>Join every subtitle clip on the track</source>
-        <translation type="unfinished"></translation>
+        <translation>合并轨道上的所有字幕片段</translation>
     </message>
     <message>
         <source>Convert to text clips</source>
@@ -1211,7 +1211,7 @@
     </message>
     <message>
         <source>Take the adjustment out of this lane</source>
-        <translation type="unfinished"></translation>
+        <translation>从此轨道中移除调整</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -1311,7 +1311,7 @@
     </message>
     <message>
         <source>Separate audio from video</source>
-        <translation type="unfinished"></translation>
+        <translation>分离音频和视频</translation>
     </message>
     <message>
         <source>Timeline</source>
@@ -1319,43 +1319,43 @@
     </message>
     <message>
         <source>Snapping</source>
-        <translation type="unfinished"></translation>
+        <translation>吸附</translation>
     </message>
     <message>
         <source>Line clip edges up with cuts and markers</source>
-        <translation type="unfinished"></translation>
+        <translation>使片段边缘与剪切点和标记对齐</translation>
     </message>
     <message>
         <source>Ripple</source>
-        <translation type="unfinished"></translation>
+        <translation>波纹编辑</translation>
     </message>
     <message>
         <source>Close gaps when trimming</source>
-        <translation type="unfinished"></translation>
+        <translation>修剪时自动闭合空隙</translation>
     </message>
     <message>
         <source>Overlap</source>
-        <translation type="unfinished"></translation>
+        <translation>重叠</translation>
     </message>
     <message>
         <source>Allow clip overlap</source>
-        <translation type="unfinished"></translation>
+        <translation>允许片段重叠</translation>
     </message>
     <message>
         <source>Beat markers</source>
-        <translation type="unfinished"></translation>
+        <translation>节拍标记</translation>
     </message>
     <message>
         <source>Find the beat and show markers</source>
-        <translation type="unfinished"></translation>
+        <translation>检测节拍并显示标记</translation>
     </message>
     <message>
         <source>Markers &amp; view</source>
-        <translation type="unfinished"></translation>
+        <translation>标记与视图</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴</translation>
     </message>
     <message>
         <source>Paste at current time</source>
@@ -1367,23 +1367,23 @@
     </message>
     <message>
         <source>Add or remove a bookmark here</source>
-        <translation type="unfinished"></translation>
+        <translation>在此添加或移除书签</translation>
     </message>
     <message>
         <source>Work area in</source>
-        <translation type="unfinished"></translation>
+        <translation>工作区域起点</translation>
     </message>
     <message>
         <source>Mark work area in at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>将当前位置设为工作区域起点</translation>
     </message>
     <message>
         <source>Work area out</source>
-        <translation type="unfinished"></translation>
+        <translation>工作区域终点</translation>
     </message>
     <message>
         <source>Mark work area out at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>将当前位置设为工作区域终点</translation>
     </message>
     <message>
         <source>Clear work area</source>
@@ -1391,11 +1391,11 @@
     </message>
     <message>
         <source>Shorter layers</source>
-        <translation type="unfinished"></translation>
+        <translation>缩短轨道高度</translation>
     </message>
     <message>
         <source>Taller layers</source>
-        <translation type="unfinished"></translation>
+        <translation>加高轨道</translation>
     </message>
     <message>
         <source>Analyzing…</source>
@@ -1418,19 +1418,19 @@
     </message>
     <message>
         <source>Full</source>
-        <translation type="unfinished"></translation>
+        <translation>完整</translation>
     </message>
     <message>
         <source>Half</source>
-        <translation type="unfinished"></translation>
+        <translation>一半</translation>
     </message>
     <message>
         <source>Quarter</source>
-        <translation type="unfinished"></translation>
+        <translation>四分之一</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>自动</translation>
     </message>
     <message>
         <source>Quality: %1</source>
@@ -1466,11 +1466,11 @@
     </message>
     <message>
         <source>Loop work area on — tap to turn off</source>
-        <translation type="unfinished"></translation>
+        <translation>工作区域循环已开启，点击关闭</translation>
     </message>
     <message>
         <source>Loop work area off — tap to turn on</source>
-        <translation type="unfinished"></translation>
+        <translation>工作区域循环已关闭，点击开启</translation>
     </message>
     <message>
         <source>Forward 1 second</source>
@@ -1486,14 +1486,14 @@
     </message>
     <message>
         <source>Fullscreen preview</source>
-        <translation type="unfinished"></translation>
+        <translation>全屏预览</translation>
     </message>
 </context>
 <context>
     <name>AndroidProjectSheet</name>
     <message>
         <source>Project</source>
-        <translation type="unfinished"></translation>
+        <translation>项目</translation>
     </message>
     <message>
         <source>Export</source>
@@ -1501,7 +1501,7 @@
     </message>
     <message>
         <source>Render the finished video</source>
-        <translation type="unfinished"></translation>
+        <translation>渲染完成的视频</translation>
     </message>
     <message>
         <source>Save</source>
@@ -1509,7 +1509,7 @@
     </message>
     <message>
         <source>Keep this project on the device</source>
-        <translation type="unfinished"></translation>
+        <translation>将此项目保留在设备上</translation>
     </message>
     <message>
         <source>Save as</source>
@@ -1517,15 +1517,15 @@
     </message>
     <message>
         <source>Keep the original and carry on in a copy</source>
-        <translation type="unfinished"></translation>
+        <translation>保留原项目并在副本中继续</translation>
     </message>
     <message>
         <source>Share a copy</source>
-        <translation type="unfinished"></translation>
+        <translation>分享副本</translation>
     </message>
     <message>
         <source>One file with the media packed inside</source>
-        <translation type="unfinished"></translation>
+        <translation>将媒体打包在一个文件中</translation>
     </message>
     <message>
         <source>Canvas &amp; layout</source>
@@ -1533,19 +1533,19 @@
     </message>
     <message>
         <source>Video size, aspect and frame rate</source>
-        <translation type="unfinished"></translation>
+        <translation>视频尺寸、宽高比和帧率</translation>
     </message>
     <message>
         <source>Crop video size</source>
-        <translation type="unfinished"></translation>
+        <translation>裁剪视频画面</translation>
     </message>
     <message>
         <source>Drag the preview edges to change what’s included</source>
-        <translation type="unfinished"></translation>
+        <translation>拖动预览边缘以调整画面范围</translation>
     </message>
     <message>
         <source>Project properties</source>
-        <translation type="unfinished"></translation>
+        <translation>项目属性</translation>
     </message>
     <message>
         <source>Name, resolution and timebase</source>
@@ -1718,11 +1718,11 @@
     </message>
     <message>
         <source>Variable frame rate. This clip can drift out of sync with its audio. Right-click it and choose Convert to edit-friendly format.</source>
-        <translation type="unfinished"></translation>
+        <translation>可变帧率。此片段可能与音频逐渐不同步。右键单击并选择“转换为便于编辑的格式”。</translation>
     </message>
     <message>
         <source>Transform layer: moves, scales and turns every track its bracket covers</source>
-        <translation type="unfinished"></translation>
+        <translation>变换图层：移动、缩放和旋转括号范围内的所有轨道</translation>
     </message>
     <message>
         <source>Keyframes</source>
@@ -1730,9 +1730,7 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s)</source>
-        <translation>
-            <numerusform>%n 个片段</numerusform>
-        </translation>
+        <translation>%n 个片段</translation>
     </message>
     <message>
         <source>All</source>
@@ -1818,9 +1816,7 @@
     <name>AndroidTransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>
-            <numerusform>%1 · %n 个片段</numerusform>
-        </translation>
+        <translation>%1 · %n 个片段</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -1828,7 +1824,7 @@
     </message>
     <message>
         <source>Select %1</source>
-        <translation type="unfinished"></translation>
+        <translation>选择 %1</translation>
     </message>
 </context>
 <context>
@@ -1935,11 +1931,11 @@
     </message>
     <message>
         <source>Edit custom curve…</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑自定义曲线…</translation>
     </message>
     <message>
         <source>Letter and word animations live in the Text tab, under Animate. This moves the whole clip.</source>
-        <translation type="unfinished"></translation>
+        <translation>字母和单词动画位于“文本”选项卡的“动画”中。此操作会移动整个片段。</translation>
     </message>
 </context>
 <context>
@@ -1966,7 +1962,7 @@
     </message>
     <message>
         <source>Converting %1 to an edit-friendly format…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在将 %1 转换为便于编辑的格式…</translation>
     </message>
     <message>
         <source>That media is no longer in this project.</source>
@@ -1974,7 +1970,7 @@
     </message>
     <message>
         <source>“%1” is %2, but this slot holds %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1”是%2，但此槽位需要%3。</translation>
     </message>
     <message>
         <source>Media replaced</source>
@@ -2062,7 +2058,7 @@
     </message>
     <message>
         <source>Add/remove bookmark at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>在当前时间添加/移除书签</translation>
     </message>
     <message>
         <source>Go to next bookmark</source>
@@ -2082,11 +2078,11 @@
     </message>
     <message>
         <source>Go to work area in</source>
-        <translation type="unfinished"></translation>
+        <translation>跳转到工作区域起点</translation>
     </message>
     <message>
         <source>Go to work area out</source>
-        <translation type="unfinished"></translation>
+        <translation>跳转到工作区域终点</translation>
     </message>
     <message>
         <source>Clear work area</source>
@@ -2106,7 +2102,7 @@
     </message>
     <message>
         <source>Faster preview takes effect after you restart Drift.</source>
-        <translation type="unfinished"></translation>
+        <translation>重启 Drift 后，更快的预览设置才会生效。</translation>
     </message>
     <message>
         <source>System default</source>
@@ -2138,27 +2134,27 @@
     </message>
     <message>
         <source>Split left</source>
-        <translation type="unfinished"></translation>
+        <translation>向左拆分</translation>
     </message>
     <message>
         <source>Split right</source>
-        <translation type="unfinished"></translation>
+        <translation>向右拆分</translation>
     </message>
     <message>
         <source>Trim updated</source>
-        <translation type="unfinished"></translation>
+        <translation>修剪已更新</translation>
     </message>
     <message>
         <source>Clip duplicated</source>
-        <translation type="unfinished"></translation>
+        <translation>已复制片段</translation>
     </message>
     <message>
         <source>Your text here</source>
-        <translation type="unfinished"></translation>
+        <translation>在此输入文本</translation>
     </message>
     <message>
         <source>Text clip added</source>
-        <translation type="unfinished"></translation>
+        <translation>已添加文本片段</translation>
     </message>
     <message>
         <source>Subtitles</source>
@@ -2166,59 +2162,59 @@
     </message>
     <message>
         <source>Subtitle clip added</source>
-        <translation type="unfinished"></translation>
+        <translation>已添加字幕片段</translation>
     </message>
     <message>
         <source>No subtitle file selected</source>
-        <translation type="unfinished"></translation>
+        <translation>未选择字幕文件</translation>
     </message>
     <message>
         <source>Could not read subtitle file</source>
-        <translation type="unfinished"></translation>
+        <translation>无法读取字幕文件</translation>
     </message>
     <message>
         <source>Subtitles imported</source>
-        <translation type="unfinished"></translation>
+        <translation>已导入字幕</translation>
     </message>
     <message>
         <source>Select a subtitle clip to import into</source>
-        <translation type="unfinished"></translation>
+        <translation>选择要导入字幕的片段</translation>
     </message>
     <message>
         <source>Select a subtitle clip to export</source>
-        <translation type="unfinished"></translation>
+        <translation>选择要导出的字幕片段</translation>
     </message>
     <message>
         <source>This subtitle clip has no captions</source>
-        <translation type="unfinished"></translation>
+        <translation>此字幕片段没有字幕内容</translation>
     </message>
     <message>
         <source>No save location selected</source>
-        <translation type="unfinished"></translation>
+        <translation>未选择保存位置</translation>
     </message>
     <message>
         <source>Could not write subtitle file</source>
-        <translation type="unfinished"></translation>
+        <translation>无法写入字幕文件</translation>
     </message>
     <message>
         <source>Subtitles saved</source>
-        <translation type="unfinished"></translation>
+        <translation>字幕已保存</translation>
     </message>
     <message>
         <source>Auto-detect</source>
-        <translation type="unfinished"></translation>
+        <translation>自动检测</translation>
     </message>
     <message>
         <source>Subtitle generation already in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>字幕生成已在进行中</translation>
     </message>
     <message>
         <source>Select a video or audio clip to create captions</source>
-        <translation type="unfinished"></translation>
+        <translation>选择视频或音频片段以生成字幕</translation>
     </message>
     <message>
         <source>This clip has no sound</source>
-        <translation type="unfinished"></translation>
+        <translation>此片段没有声音</translation>
     </message>
     <message>
         <source>Starting…</source>
@@ -2230,179 +2226,179 @@
     </message>
     <message>
         <source>Getting speech recognition ready…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在准备语音识别…</translation>
     </message>
     <message>
         <source>Reading audio…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在读取音频…</translation>
     </message>
     <message>
         <source>Subtitle generation cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>已取消字幕生成</translation>
     </message>
     <message>
         <source>Reading audio… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>正在读取音频…%1%</translation>
     </message>
     <message>
         <source>No audio decoded</source>
-        <translation type="unfinished"></translation>
+        <translation>未能解码音频</translation>
     </message>
     <message>
         <source>Transcribing…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在转写…</translation>
     </message>
     <message>
         <source>Transcribing (%1)…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在转写（%1）…</translation>
     </message>
     <message>
         <source>Building caption track…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在创建字幕轨道…</translation>
     </message>
     <message>
         <source>No speech detected</source>
-        <translation type="unfinished"></translation>
+        <translation>未检测到语音</translation>
     </message>
     <message>
         <source>Subtitles generated</source>
-        <translation type="unfinished"></translation>
+        <translation>字幕已生成</translation>
     </message>
     <message>
         <source>Select a video clip to cut out</source>
-        <translation type="unfinished"></translation>
+        <translation>选择要抠像的视频片段</translation>
     </message>
     <message>
         <source>Custom speed works on video and audio clips</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义速度适用于视频和音频片段</translation>
     </message>
     <message>
         <source>This clip has no media to speed up or slow down</source>
-        <translation type="unfinished"></translation>
+        <translation>此片段没有可调整速度的媒体</translation>
     </message>
     <message>
         <source>That clip moved — open Custom speed again</source>
-        <translation type="unfinished"></translation>
+        <translation>该片段已移动，请重新打开“自定义速度”</translation>
     </message>
     <message>
         <source>Custom speed applied</source>
-        <translation type="unfinished"></translation>
+        <translation>已应用自定义速度</translation>
     </message>
     <message>
         <source>Speed curve removed</source>
-        <translation type="unfinished"></translation>
+        <translation>已移除速度曲线</translation>
     </message>
     <message>
         <source>That clip moved — open Custom fade again</source>
-        <translation type="unfinished"></translation>
+        <translation>该片段已移动，请重新打开“自定义淡化”</translation>
     </message>
     <message>
         <source>Custom fade applied</source>
-        <translation type="unfinished"></translation>
+        <translation>已应用自定义淡化</translation>
     </message>
     <message>
         <source>Cutout is already running</source>
-        <translation type="unfinished"></translation>
+        <translation>抠像任务已在运行</translation>
     </message>
     <message>
         <source>This clip has no video to cut out</source>
-        <translation type="unfinished"></translation>
+        <translation>此片段没有可抠像的视频</translation>
     </message>
     <message>
         <source>Click the subject first</source>
-        <translation type="unfinished"></translation>
+        <translation>请先点击主体</translation>
     </message>
     <message>
         <source>Getting ready…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在准备…</translation>
     </message>
     <message>
         <source>Clip is too short to cut out</source>
-        <translation type="unfinished"></translation>
+        <translation>片段太短，无法抠像</translation>
     </message>
     <message>
         <source>Could not create a cutout file</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建抠像文件</translation>
     </message>
     <message>
         <source>Cutout cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>已取消抠像</translation>
     </message>
     <message>
         <source>Could not decode frame %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法解码第 %1 帧</translation>
     </message>
     <message>
         <source>Processing frame %1 of %2…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在处理第 %1/%2 帧…</translation>
     </message>
     <message>
         <source>Cutout complete — subject cut out on %1 of %2 frames</source>
-        <translation type="unfinished"></translation>
+        <translation>抠像完成——已在 %2 帧中的 %1 帧分离主体</translation>
     </message>
     <message>
         <source>Cutout complete</source>
-        <translation type="unfinished"></translation>
+        <translation>抠像完成</translation>
     </message>
     <message>
         <source>Clear Face Track</source>
-        <translation type="unfinished"></translation>
+        <translation>清除人脸轨道</translation>
     </message>
     <message>
         <source>Face detection already in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>人脸检测已在进行中</translation>
     </message>
     <message>
         <source>Select a video clip to detect faces in</source>
-        <translation type="unfinished"></translation>
+        <translation>选择要检测人脸的视频片段</translation>
     </message>
     <message>
         <source>Clip has no video to scan</source>
-        <translation type="unfinished"></translation>
+        <translation>片段中没有可扫描的视频</translation>
     </message>
     <message>
         <source>Clip is too short to scan</source>
-        <translation type="unfinished"></translation>
+        <translation>片段太短，无法扫描</translation>
     </message>
     <message>
         <source>Face detection cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>已取消人脸检测</translation>
     </message>
     <message>
         <source>Scanning frame %1 of %2…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在扫描第 %1/%2 帧…</translation>
     </message>
     <message>
         <source>No faces found in this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>此片段中未发现人脸</translation>
     </message>
     <message>
         <source>Could not write the face track</source>
-        <translation type="unfinished"></translation>
+        <translation>无法写入人脸轨道</translation>
     </message>
     <message>
         <source>Face detection complete — a face was visible in %1 of %2 frames</source>
-        <translation type="unfinished"></translation>
+        <translation>人脸检测完成——在 %2 帧中有 %1 帧检测到人脸</translation>
     </message>
     <message>
         <source>Face detection complete</source>
-        <translation type="unfinished"></translation>
+        <translation>人脸检测完成</translation>
     </message>
     <message>
         <source>Scanned clip no longer exists</source>
-        <translation type="unfinished"></translation>
+        <translation>已扫描的片段已不存在</translation>
     </message>
     <message>
         <source>Detect Faces</source>
-        <translation type="unfinished"></translation>
+        <translation>检测人脸</translation>
     </message>
     <message>
         <source>That clip no longer exists</source>
-        <translation type="unfinished"></translation>
+        <translation>该片段已不存在</translation>
     </message>
     <message>
         <source>Cut out subject</source>
-        <translation type="unfinished"></translation>
+        <translation>抠出主体</translation>
     </message>
     <message>
         <source>Clip</source>
@@ -2410,159 +2406,155 @@
     </message>
     <message>
         <source>Getting noise removal ready…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在准备降噪…</translation>
     </message>
     <message>
         <source>Clip is too short to process</source>
-        <translation type="unfinished"></translation>
+        <translation>片段太短，无法处理</translation>
     </message>
     <message>
         <source>Noise removal cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>已取消降噪</translation>
     </message>
     <message>
         <source>Removing noise (left)…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在去除左声道噪声…</translation>
     </message>
     <message>
         <source>Removing noise (right)…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在去除右声道噪声…</translation>
     </message>
     <message>
         <source>Writing audio…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在写入音频…</translation>
     </message>
     <message>
         <source>Noise removal already in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>降噪已在进行中</translation>
     </message>
     <message>
         <source>Select a video or audio clip</source>
-        <translation type="unfinished"></translation>
+        <translation>选择视频或音频片段</translation>
     </message>
     <message>
         <source>Clip has no audio</source>
-        <translation type="unfinished"></translation>
+        <translation>片段没有音频</translation>
     </message>
     <message>
         <source>Could not create a preview file</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建预览文件</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished"></translation>
+        <translation>就绪</translation>
     </message>
     <message numerus="yes">
         <source>Imported %n subtitles</source>
-        <translation>
-            <numerusform>已导入 %n 条字幕</numerusform>
-        </translation>
+        <translation>已导入 %n 条字幕</translation>
     </message>
     <message>
         <source>No audio output devices were found, so playback will be silent.</source>
-        <translation type="unfinished"></translation>
+        <translation>未找到音频输出设备，播放时将没有声音。</translation>
     </message>
     <message>
         <source>Multicam window</source>
-        <translation type="unfinished"></translation>
+        <translation>多机位窗口</translation>
     </message>
     <message>
         <source>Creating captions…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在创建字幕…</translation>
     </message>
     <message>
         <source>Angle %1</source>
-        <translation type="unfinished"></translation>
+        <translation>机位 %1</translation>
     </message>
     <message>
         <source>Set up multicam</source>
-        <translation type="unfinished"></translation>
+        <translation>设置多机位</translation>
     </message>
     <message numerus="yes">
         <source>Multicam ready: %n camera(s) lined up at the start. Drag a clip to adjust its sync, then pick a shot.</source>
-        <translation>
-            <numerusform>多机位已就绪：开头已对齐 %n 台摄像机。拖动片段调整同步，然后选择镜头。</numerusform>
-        </translation>
+        <translation>多机位已就绪：%n 个摄像机已在起点对齐。拖动片段调整同步，然后选择镜头。</translation>
     </message>
     <message>
         <source>Select at least two video clips on different tracks.</source>
-        <translation type="unfinished"></translation>
+        <translation>请至少选择位于不同轨道上的两个视频片段。</translation>
     </message>
     <message>
         <source>Hardware decoding failed on this clip; using software decoding instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>此片段的硬件解码失败，将改用软件解码。</translation>
     </message>
     <message>
         <source>%1 decoding failed on this clip; using software decoding instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>此片段的 %1 解码失败，将改用软件解码。</translation>
     </message>
     <message>
         <source>Copy effects from clip</source>
-        <translation type="unfinished"></translation>
+        <translation>复制片段效果</translation>
     </message>
     <message>
         <source>Paste effects onto clip</source>
-        <translation type="unfinished"></translation>
+        <translation>将效果粘贴到片段</translation>
     </message>
     <message>
         <source>That angle has nothing at the current time.</source>
-        <translation type="unfinished"></translation>
+        <translation>该机位在当前时间没有画面。</translation>
     </message>
     <message>
         <source>Too close to the edge of the shot to cut here.</source>
-        <translation type="unfinished"></translation>
+        <translation>太靠近镜头边缘，无法在此处剪切。</translation>
     </message>
     <message>
         <source>Save multicam as separate tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>将多机位保存为独立轨道</translation>
     </message>
     <message>
         <source>Save combined multicam</source>
-        <translation type="unfinished"></translation>
+        <translation>保存合并的多机位</translation>
     </message>
     <message>
         <source>Cutting out subject…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在抠出主体…</translation>
     </message>
     <message>
         <source>Select a video clip to stabilize</source>
-        <translation type="unfinished"></translation>
+        <translation>选择要稳定的视频片段</translation>
     </message>
     <message>
         <source>Clip has no video file</source>
-        <translation type="unfinished"></translation>
+        <translation>片段没有视频文件</translation>
     </message>
     <message>
         <source>Stabilization already in progress for this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>此片段正在进行防抖处理</translation>
     </message>
     <message>
         <source>Could not create stabilization cache directory</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建防抖缓存目录</translation>
     </message>
     <message>
         <source>Stabilize Video</source>
-        <translation type="unfinished"></translation>
+        <translation>视频防抖</translation>
     </message>
     <message>
         <source>Video stabilized successfully!</source>
-        <translation type="unfinished"></translation>
+        <translation>视频防抖成功！</translation>
     </message>
     <message>
         <source>Remove Stabilization</source>
-        <translation type="unfinished"></translation>
+        <translation>移除防抖效果</translation>
     </message>
     <message>
         <source>Change Stabilization Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>更改防抖平滑度</translation>
     </message>
     <message>
         <source>Change Stabilization Tripod Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>更改防抖三脚架模式</translation>
     </message>
     <message>
         <source>Detecting faces…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在检测人脸…</translation>
     </message>
     <message>
         <source>Already looking for scenes</source>
@@ -4196,7 +4188,7 @@
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴</translation>
     </message>
     <message numerus="yes">
         <source>Pasted %n clips</source>
@@ -7663,7 +7655,7 @@
     </message>
     <message>
         <source>Find the beat and show markers</source>
-        <translation type="unfinished"></translation>
+        <translation>检测节拍并显示标记</translation>
     </message>
     <message>
         <source>Hide hits</source>
@@ -9420,7 +9412,7 @@
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9523,7 +9515,7 @@
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>自动</translation>
     </message>
     <message>
         <source>Software</source>
@@ -9696,19 +9688,19 @@
     </message>
     <message>
         <source>Full</source>
-        <translation type="unfinished"></translation>
+        <translation>完整</translation>
     </message>
     <message>
         <source>Half</source>
-        <translation type="unfinished"></translation>
+        <translation>一半</translation>
     </message>
     <message>
         <source>Quarter</source>
-        <translation type="unfinished"></translation>
+        <translation>四分之一</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>自动</translation>
     </message>
     <message>
         <source>Preview quality — lower is smoother while editing.
@@ -9746,7 +9738,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Fullscreen preview</source>
-        <translation type="unfinished"></translation>
+        <translation>全屏预览</translation>
     </message>
     <message>
         <source>Decoding on a different graphics card</source>
@@ -9923,7 +9915,7 @@ If playback stutters, try another.</source>
     <name>ProjectPropertiesDialog</name>
     <message>
         <source>Project properties</source>
-        <translation type="unfinished"></translation>
+        <translation>项目属性</translation>
     </message>
     <message>
         <source>Save</source>
@@ -10326,7 +10318,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Could not decode frame %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法解码第 %1 帧</translation>
     </message>
     <message>
         <source>Estimating depth, frame %1 of %2…</source>
@@ -10362,7 +10354,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Scanning frame %1 of %2…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在扫描第 %1/%2 帧…</translation>
     </message>
     <message>
         <source>Clip</source>
@@ -10868,7 +10860,7 @@ If playback stutters, try another.</source>
     <name>SegmentationWindow</name>
     <message>
         <source>Cut out subject</source>
-        <translation type="unfinished"></translation>
+        <translation>抠出主体</translation>
     </message>
     <message>
         <source>Anything (click to pick)</source>
@@ -11969,7 +11961,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Could not write subtitle file</source>
-        <translation type="unfinished"></translation>
+        <translation>无法写入字幕文件</translation>
     </message>
 </context>
 <context>
@@ -13560,11 +13552,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Variable frame rate. This clip can drift out of sync with its audio. Right-click it and choose Convert to edit-friendly format.</source>
-        <translation type="unfinished"></translation>
+        <translation>可变帧率。此片段可能与音频逐渐不同步。右键单击并选择“转换为便于编辑的格式”。</translation>
     </message>
     <message>
         <source>Transform layer: moves, scales and turns every track its bracket covers</source>
-        <translation type="unfinished"></translation>
+        <translation>变换图层：移动、缩放和旋转括号范围内的所有轨道</translation>
     </message>
     <message>
         <source>Save effect preset</source>
@@ -13743,7 +13735,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Add/remove bookmark at current time</source>
-        <translation type="unfinished"></translation>
+        <translation>在当前时间添加/移除书签</translation>
     </message>
     <message>
         <source>Mark work area in</source>
@@ -13823,11 +13815,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Close gaps when trimming</source>
-        <translation type="unfinished"></translation>
+        <translation>修剪时自动闭合空隙</translation>
     </message>
     <message>
         <source>Allow clip overlap</source>
-        <translation type="unfinished"></translation>
+        <translation>允许片段重叠</translation>
     </message>
     <message>
         <source>Zoom out</source>
@@ -14414,9 +14406,7 @@ If playback stutters, try another.</source>
     <name>TransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>
-            <numerusform>%1 · %n 个片段</numerusform>
-        </translation>
+        <translation>%1 · %n 个片段</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -14424,7 +14414,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Select %1</source>
-        <translation type="unfinished"></translation>
+        <translation>选择 %1</translation>
     </message>
     <message>
         <source>Select the transform layer moving this clip (%1)</source>
@@ -14941,7 +14931,7 @@ If playback stutters, try another.</source>
     <name>VfrWarning</name>
     <message>
         <source>Variable frame rate. This clip can drift out of sync with its audio. Right-click it and choose Convert to edit-friendly format.</source>
-        <translation type="unfinished"></translation>
+        <translation>可变帧率。此片段可能与音频逐渐不同步。右键单击并选择“转换为便于编辑的格式”。</translation>
     </message>
 </context>
 <context>
@@ -14980,11 +14970,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Crop video size</source>
-        <translation type="unfinished"></translation>
+        <translation>裁剪视频画面</translation>
     </message>
     <message>
         <source>Drag the preview edges to change what’s included</source>
-        <translation type="unfinished"></translation>
+        <translation>拖动预览边缘以调整画面范围</translation>
     </message>
     <message>
         <source>Changing size doesn’t shrink your clips — anything outside the new edges is cut off.</source>
