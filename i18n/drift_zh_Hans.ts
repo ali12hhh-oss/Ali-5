@@ -3620,63 +3620,63 @@
     </message>
     <message>
         <source>That goes on a video, image, shape or text clip.</source>
-        <translation type="unfinished"></translation>
+        <translation>将其应用到视频、图像、形状或文本片段。</translation>
     </message>
     <message>
         <source>Drop that onto a clip to apply it.</source>
-        <translation type="unfinished"></translation>
+        <translation>将其拖到片段上即可应用。</translation>
     </message>
     <message>
         <source>Add to new track</source>
-        <translation type="unfinished"></translation>
+        <translation>添加到新轨道</translation>
     </message>
     <message>
         <source>Move clip in 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>在 3D 空间中移动片段</translation>
     </message>
     <message>
         <source>Rotate clip in 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>在 3D 空间中旋转片段</translation>
     </message>
     <message>
         <source>Scale clip</source>
-        <translation type="unfinished"></translation>
+        <translation>缩放片段</translation>
     </message>
     <message>
         <source>Audio effects go on the timeline.</source>
-        <translation type="unfinished"></translation>
+        <translation>音频效果应放置在时间轴上。</translation>
     </message>
     <message>
         <source>Audio goes on the timeline.</source>
-        <translation type="unfinished"></translation>
+        <translation>音频应放置在时间轴上。</translation>
     </message>
     <message>
         <source>Drop that onto a clip in the preview.</source>
-        <translation type="unfinished"></translation>
+        <translation>将其拖到预览中的片段上。</translation>
     </message>
     <message>
         <source>Add to preview</source>
-        <translation type="unfinished"></translation>
+        <translation>添加到预览</translation>
     </message>
     <message>
         <source>Enable 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>启用 3D</translation>
     </message>
     <message>
         <source>Disable 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用 3D</translation>
     </message>
     <message>
         <source>Clip is a 3D layer</source>
-        <translation type="unfinished"></translation>
+        <translation>片段是 3D 图层</translation>
     </message>
     <message>
         <source>Clip is flat</source>
-        <translation type="unfinished"></translation>
+        <translation>片段是平面图层</translation>
     </message>
     <message>
         <source>Subtitles converted to text</source>
-        <translation type="unfinished"></translation>
+        <translation>字幕已转换为文本</translation>
     </message>
     <message numerus="yes">
         <source>Created %n text clips</source>
@@ -3687,23 +3687,23 @@
     </message>
     <message>
         <source>Text converted to subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>文本已转换为字幕</translation>
     </message>
     <message>
         <source>Add transform layer</source>
-        <translation type="unfinished"></translation>
+        <translation>添加变换图层</translation>
     </message>
     <message>
         <source>Transform layer added</source>
-        <translation type="unfinished"></translation>
+        <translation>已添加变换图层</translation>
     </message>
     <message>
         <source>Add transform clip</source>
-        <translation type="unfinished"></translation>
+        <translation>添加变换片段</translation>
     </message>
     <message>
         <source>Transform clip added</source>
-        <translation type="unfinished"></translation>
+        <translation>已添加变换片段</translation>
     </message>
     <message>
         <source>Transform together</source>
@@ -3711,7 +3711,7 @@
     </message>
     <message>
         <source>Change transform span</source>
-        <translation type="unfinished"></translation>
+        <translation>更改变换范围</translation>
     </message>
     <message numerus="yes">
         <source>Transform layer now covers %n track(s)</source>
@@ -3721,63 +3721,63 @@
     </message>
     <message>
         <source>Transition added</source>
-        <translation type="unfinished"></translation>
+        <translation>已添加转场</translation>
     </message>
     <message>
         <source>Remove transition</source>
-        <translation type="unfinished"></translation>
+        <translation>移除转场</translation>
     </message>
     <message>
         <source>Transition removed</source>
-        <translation type="unfinished"></translation>
+        <translation>已移除转场</translation>
     </message>
     <message>
         <source>Transition duration</source>
-        <translation type="unfinished"></translation>
+        <translation>转场时长</translation>
     </message>
     <message>
         <source>Transition duration updated</source>
-        <translation type="unfinished"></translation>
+        <translation>转场时长已更新</translation>
     </message>
     <message>
         <source>Transition kind</source>
-        <translation type="unfinished"></translation>
+        <translation>转场类型</translation>
     </message>
     <message>
         <source>Transition kind updated</source>
-        <translation type="unfinished"></translation>
+        <translation>转场类型已更新</translation>
     </message>
     <message>
         <source>Edit transition</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑转场</translation>
     </message>
     <message>
         <source>Add keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>添加关键帧</translation>
     </message>
     <message>
         <source>Keyframe set</source>
-        <translation type="unfinished"></translation>
+        <translation>已设置关键帧</translation>
     </message>
     <message>
         <source>Remove keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>移除关键帧</translation>
     </message>
     <message>
         <source>Keyframe removed</source>
-        <translation type="unfinished"></translation>
+        <translation>已移除关键帧</translation>
     </message>
     <message>
         <source>Move keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>移动关键帧</translation>
     </message>
     <message>
         <source>Enable keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>启用关键帧</translation>
     </message>
     <message>
         <source>Disable keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用关键帧</translation>
     </message>
     <message>
         <source>Keyframes enabled</source>
@@ -7694,7 +7694,7 @@
     </message>
     <message>
         <source>Move keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>移动关键帧</translation>
     </message>
     <message>
         <source>Edit keyframe curve</source>
@@ -13402,7 +13402,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Add transform layer</source>
-        <translation type="unfinished"></translation>
+        <translation>添加变换图层</translation>
     </message>
     <message>
         <source>Select transform layer</source>
@@ -13752,7 +13752,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Add transform layer</source>
-        <translation type="unfinished"></translation>
+        <translation>添加变换图层</translation>
     </message>
     <message>
         <source>Add transform layer — moves the selected clips&apos; tracks as one</source>
@@ -14230,7 +14230,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Scale clip</source>
-        <translation type="unfinished"></translation>
+        <translation>缩放片段</translation>
     </message>
     <message>
         <source>Opacity &amp; rotation</source>
@@ -14536,11 +14536,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Edit transition</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑转场</translation>
     </message>
     <message>
         <source>Remove transition</source>
-        <translation type="unfinished"></translation>
+        <translation>移除转场</translation>
     </message>
 </context>
 <context>
