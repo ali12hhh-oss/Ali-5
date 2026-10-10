@@ -3552,11 +3552,11 @@
     </message>
     <message>
         <source>Select a video clip to enhance</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกคลิปวิดีโอเพื่อปรับปรุง</translation>
     </message>
     <message>
         <source>Choose a model to enhance with</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกรุ่นโมเดลสำหรับปรับปรุง</translation>
     </message>
     <message>
         <source>This clip is already being enhanced</source>
@@ -3576,11 +3576,11 @@
     </message>
     <message>
         <source>Enhanced video added to the media bin</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มวิดีโอที่ปรับปรุงแล้วลงในคลังสื่อ</translation>
     </message>
     <message>
         <source>Enhancing video…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังปรับปรุงวิดีโอ…</translation>
     </message>
     <message>
         <source>This build of Drift has no video stabilization support</source>
@@ -3596,7 +3596,7 @@
     </message>
     <message>
         <source>Stabilization analysis failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>วิเคราะห์การปรับเสถียรภาพไม่สำเร็จ</translation>
     </message>
     <message>
         <source>Stabilization analysis failed: %1</source>
@@ -3620,63 +3620,63 @@
     </message>
     <message>
         <source>That goes on a video, image, shape or text clip.</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้สิ่งนี้กับคลิปวิดีโอ รูปภาพ รูปร่าง หรือข้อความ</translation>
     </message>
     <message>
         <source>Drop that onto a clip to apply it.</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากไปวางบนคลิปเพื่อใช้งาน</translation>
     </message>
     <message>
         <source>Add to new track</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มลงในแทร็กใหม่</translation>
     </message>
     <message>
         <source>Move clip in 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้ายคลิปในพื้นที่ 3D</translation>
     </message>
     <message>
         <source>Rotate clip in 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>หมุนคลิปในพื้นที่ 3D</translation>
     </message>
     <message>
         <source>Scale clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ปรับขนาดคลิป</translation>
     </message>
     <message>
         <source>Audio effects go on the timeline.</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์เสียงต้องวางบนไทม์ไลน์</translation>
     </message>
     <message>
         <source>Audio goes on the timeline.</source>
-        <translation type="unfinished"></translation>
+        <translation>เสียงต้องวางบนไทม์ไลน์</translation>
     </message>
     <message>
         <source>Drop that onto a clip in the preview.</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากไปวางบนคลิปในหน้าตัวอย่าง</translation>
     </message>
     <message>
         <source>Add to preview</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มลงในหน้าตัวอย่าง</translation>
     </message>
     <message>
         <source>Enable 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดใช้ 3D</translation>
     </message>
     <message>
         <source>Disable 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดใช้ 3D</translation>
     </message>
     <message>
         <source>Clip is a 3D layer</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิปเป็นเลเยอร์ 3D</translation>
     </message>
     <message>
         <source>Clip is flat</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิปเป็นเลเยอร์แบน</translation>
     </message>
     <message>
         <source>Subtitles converted to text</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงคำบรรยายเป็นข้อความแล้ว</translation>
     </message>
     <message numerus="yes">
         <source>Created %n text clips</source>
@@ -3687,23 +3687,23 @@
     </message>
     <message>
         <source>Text converted to subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลงข้อความเป็นคำบรรยายแล้ว</translation>
     </message>
     <message>
         <source>Add transform layer</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเลเยอร์แปลงรูปแบบ</translation>
     </message>
     <message>
         <source>Transform layer added</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเลเยอร์แปลงรูปแบบแล้ว</translation>
     </message>
     <message>
         <source>Add transform clip</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มคลิปแปลงรูปแบบ</translation>
     </message>
     <message>
         <source>Transform clip added</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มคลิปแปลงรูปแบบแล้ว</translation>
     </message>
     <message>
         <source>Transform together</source>
@@ -3711,7 +3711,7 @@
     </message>
     <message>
         <source>Change transform span</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนช่วงการแปลงรูปแบบ</translation>
     </message>
     <message numerus="yes">
         <source>Transform layer now covers %n track(s)</source>
@@ -3721,63 +3721,63 @@
     </message>
     <message>
         <source>Transition added</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มทรานซิชันแล้ว</translation>
     </message>
     <message>
         <source>Remove transition</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบทรานซิชัน</translation>
     </message>
     <message>
         <source>Transition removed</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบทรานซิชันแล้ว</translation>
     </message>
     <message>
         <source>Transition duration</source>
-        <translation type="unfinished"></translation>
+        <translation>ระยะเวลาทรานซิชัน</translation>
     </message>
     <message>
         <source>Transition duration updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตระยะเวลาทรานซิชันแล้ว</translation>
     </message>
     <message>
         <source>Transition kind</source>
-        <translation type="unfinished"></translation>
+        <translation>ประเภททรานซิชัน</translation>
     </message>
     <message>
         <source>Transition kind updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตประเภททรานซิชันแล้ว</translation>
     </message>
     <message>
         <source>Edit transition</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขทรานซิชัน</translation>
     </message>
     <message>
         <source>Add keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มคีย์เฟรม</translation>
     </message>
     <message>
         <source>Keyframe set</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าคีย์เฟรมแล้ว</translation>
     </message>
     <message>
         <source>Remove keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบคีย์เฟรม</translation>
     </message>
     <message>
         <source>Keyframe removed</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบคีย์เฟรมแล้ว</translation>
     </message>
     <message>
         <source>Move keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้ายคีย์เฟรม</translation>
     </message>
     <message>
         <source>Enable keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดใช้คีย์เฟรม</translation>
     </message>
     <message>
         <source>Disable keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดใช้คีย์เฟรม</translation>
     </message>
     <message>
         <source>Keyframes enabled</source>
@@ -7694,7 +7694,7 @@
     </message>
     <message>
         <source>Move keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้ายคีย์เฟรม</translation>
     </message>
     <message>
         <source>Edit keyframe curve</source>
@@ -13402,7 +13402,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Add transform layer</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเลเยอร์แปลงรูปแบบ</translation>
     </message>
     <message>
         <source>Select transform layer</source>
@@ -13752,7 +13752,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Add transform layer</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเลเยอร์แปลงรูปแบบ</translation>
     </message>
     <message>
         <source>Add transform layer — moves the selected clips&apos; tracks as one</source>
@@ -14230,7 +14230,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Scale clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ปรับขนาดคลิป</translation>
     </message>
     <message>
         <source>Opacity &amp; rotation</source>
@@ -14536,11 +14536,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Edit transition</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขทรานซิชัน</translation>
     </message>
     <message>
         <source>Remove transition</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบทรานซิชัน</translation>
     </message>
 </context>
 <context>
