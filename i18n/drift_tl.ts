@@ -1550,15 +1550,15 @@
     </message>
     <message>
         <source>Name, resolution and timebase</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangalan, resolution, at timebase</translation>
     </message>
     <message>
         <source>Multicam</source>
-        <translation type="unfinished"></translation>
+        <translation>Multicam</translation>
     </message>
     <message>
         <source>Sync and switch between angles</source>
-        <translation type="unfinished"></translation>
+        <translation>I-sync at lumipat sa iba't ibang anggulo</translation>
     </message>
     <message>
         <source>App settings</source>
@@ -1566,7 +1566,7 @@
     </message>
     <message>
         <source>Appearance, extras and agent access</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitsura, mga extra, at access ng agent</translation>
     </message>
 </context>
 <context>
@@ -1577,7 +1577,7 @@
     </message>
     <message>
         <source>Pick a clip, start now</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng clip at magsimula ngayon</translation>
     </message>
     <message>
         <source>New project</source>
@@ -1585,11 +1585,11 @@
     </message>
     <message>
         <source>Choose a canvas, start empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng canvas at magsimula sa blangko</translation>
     </message>
     <message>
         <source>Create polished videos fast</source>
-        <translation type="unfinished"></translation>
+        <translation>Mabilis na gumawa ng pinakinis na mga video</translation>
     </message>
     <message>
         <source>Recent projects</source>
@@ -1651,23 +1651,23 @@
     <name>AndroidTimeline</name>
     <message>
         <source>Save effect preset</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save ang effect preset</translation>
     </message>
     <message>
         <source>Convert to subtitle?</source>
-        <translation type="unfinished"></translation>
+        <translation>I-convert bilang subtitle?</translation>
     </message>
     <message>
         <source>Convert</source>
-        <translation type="unfinished"></translation>
+        <translation>I-convert</translation>
     </message>
     <message>
         <source>The selected text clips will be replaced by one subtitle clip. Every caption will use the position and style of the first text clip.</source>
-        <translation type="unfinished"></translation>
+        <translation>Papalitan ang mga napiling text clip ng isang subtitle clip. Gagamitin ng bawat caption ang posisyon at estilo ng unang text clip.</translation>
     </message>
     <message>
         <source>Rename clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang pangalan ng clip</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -1679,11 +1679,11 @@
     </message>
     <message>
         <source>Clip name</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangalan ng clip</translation>
     </message>
     <message>
         <source>Rename bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang pangalan ng bookmark</translation>
     </message>
     <message>
         <source>Label</source>
@@ -1691,7 +1691,7 @@
     </message>
     <message>
         <source>Bookmark name</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangalan ng bookmark</translation>
     </message>
     <message>
         <source>Bookmark</source>
@@ -1707,15 +1707,15 @@
     </message>
     <message>
         <source>Previewing from a low-resolution proxy. Export uses the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagpa-preview gamit ang low-resolution proxy. Ang export ay gagamit ng orihinal.</translation>
     </message>
     <message>
         <source>Edit-friendly</source>
-        <translation type="unfinished"></translation>
+        <translation>Madaling i-edit</translation>
     </message>
     <message>
         <source>Converted to a constant frame rate for smooth editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-convert sa constant frame rate para sa mas maayos na pag-edit</translation>
     </message>
     <message>
         <source>Variable frame rate. This clip can drift out of sync with its audio. Right-click it and choose Convert to edit-friendly format.</source>
@@ -1750,15 +1750,15 @@
     </message>
     <message>
         <source>Add new track</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng bagong track</translation>
     </message>
     <message>
         <source>Go to bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumunta sa bookmark</translation>
     </message>
     <message>
         <source>Move to playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilipat sa playhead</translation>
     </message>
     <message>
         <source>Rename…</source>
@@ -1778,7 +1778,7 @@
     </message>
     <message>
         <source>Close gap</source>
-        <translation type="unfinished">Isara ang puwang</translation>
+        <translation>Isara ang puwang</translation>
     </message>
     <message>
         <source>New track</source>
@@ -1813,7 +1813,7 @@
     </message>
     <message>
         <source>Show export progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Ipakita ang progreso ng export</translation>
     </message>
 </context>
 <context>
@@ -1827,7 +1827,7 @@
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished">Pagbabagong-anyo</translation>
+        <translation>Transform</translation>
     </message>
     <message>
         <source>Select %1</source>
@@ -1846,43 +1846,43 @@
     </message>
     <message>
         <source>Slide up</source>
-        <translation type="unfinished"></translation>
+        <translation>I-slide pataas</translation>
     </message>
     <message>
         <source>Slide down</source>
-        <translation type="unfinished"></translation>
+        <translation>I-slide pababa</translation>
     </message>
     <message>
         <source>Slide left</source>
-        <translation type="unfinished"></translation>
+        <translation>I-slide pakaliwa</translation>
     </message>
     <message>
         <source>Slide right</source>
-        <translation type="unfinished"></translation>
+        <translation>I-slide pakanan</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-zoom in</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-zoom out</translation>
     </message>
     <message>
         <source>Pop</source>
-        <translation type="unfinished"></translation>
+        <translation>Pop</translation>
     </message>
     <message>
         <source>Spin CW</source>
-        <translation type="unfinished"></translation>
+        <translation>Paikot pakanan</translation>
     </message>
     <message>
         <source>Spin CCW</source>
-        <translation type="unfinished"></translation>
+        <translation>Paikot pakaliwa</translation>
     </message>
     <message>
         <source>Bounce</source>
-        <translation type="unfinished"></translation>
+        <translation>Tumalbog</translation>
     </message>
     <message>
         <source>Linear</source>
@@ -1902,19 +1902,19 @@
     </message>
     <message>
         <source>Bezier</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezier</translation>
     </message>
     <message>
         <source>Not available</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi available</translation>
     </message>
     <message>
         <source>Animation applies to video, image, shape, text, and audio.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumagana ang animation sa video, larawan, hugis, text, at audio.</translation>
     </message>
     <message>
         <source>Fade in / out (volume)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fade in / out (volume)</translation>
     </message>
     <message>
         <source>Style</source>
@@ -1922,7 +1922,7 @@
     </message>
     <message>
         <source>Pick how the clip enters and leaves. Fade is one option — same style controls as slide or zoom.</source>
-        <translation type="unfinished"></translation>
+        <translation>Piliin kung paano papasok at lalabas ang clip. Isa ang fade sa mga opsyon—kapareho ang mga kontrol nito ng slide o zoom.</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -2741,11 +2741,11 @@
     </message>
     <message>
         <source>Zoom in</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-zoom in</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-zoom out</translation>
     </message>
     <message>
         <source>The graphics card choice takes effect after you restart Drift.</source>
@@ -3105,7 +3105,7 @@
     </message>
     <message>
         <source>Rename clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang pangalan ng clip</translation>
     </message>
     <message>
         <source>Clip renamed</source>
@@ -4541,7 +4541,7 @@
     </message>
     <message>
         <source>Close gap</source>
-        <translation type="unfinished">Isara ang puwang</translation>
+        <translation>Isara ang puwang</translation>
     </message>
     <message>
         <source>Folder created</source>
@@ -6184,7 +6184,7 @@
     </message>
     <message>
         <source>Multicam</source>
-        <translation type="unfinished"></translation>
+        <translation>Multicam</translation>
     </message>
     <message>
         <source>Workspace</source>
@@ -7108,7 +7108,7 @@
     </message>
     <message>
         <source>Bezier</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezier</translation>
     </message>
     <message>
         <source>Linear</source>
@@ -7228,7 +7228,7 @@
     </message>
     <message>
         <source>Clip name</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangalan ng clip</translation>
     </message>
     <message>
         <source>Untitled clip</source>
@@ -7236,7 +7236,7 @@
     </message>
     <message>
         <source>Rename clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang pangalan ng clip</translation>
     </message>
     <message>
         <source>Type</source>
@@ -8101,7 +8101,7 @@
     </message>
     <message>
         <source>Multicam</source>
-        <translation type="unfinished"></translation>
+        <translation>Multicam</translation>
     </message>
     <message>
         <source>&amp;Help</source>
@@ -8703,11 +8703,11 @@
     </message>
     <message>
         <source>Edit-friendly</source>
-        <translation type="unfinished"></translation>
+        <translation>Madaling i-edit</translation>
     </message>
     <message>
         <source>Converted to a constant frame rate for smooth editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-convert sa constant frame rate para sa mas maayos na pag-edit</translation>
     </message>
     <message>
         <source>Collapse folder</source>
@@ -8821,7 +8821,7 @@
     </message>
     <message>
         <source>Convert</source>
-        <translation type="unfinished"></translation>
+        <translation>I-convert</translation>
     </message>
     <message>
         <source>Imported %1 of %2 files. The rest could not be opened — this package cannot read files dropped from other apps. Use Import instead.</source>
@@ -8993,7 +8993,7 @@
     </message>
     <message>
         <source>Install all</source>
-        <translation type="unfinished">I-install lahat</translation>
+        <translation>I-install lahat</translation>
     </message>
     <message>
         <source>Skip</source>
@@ -9209,7 +9209,7 @@
     <name>MulticamWindow</name>
     <message>
         <source>Multicam</source>
-        <translation type="unfinished"></translation>
+        <translation>Multicam</translation>
     </message>
     <message>
         <source>Pick the camera. Cuts stay staged until you save.</source>
@@ -9335,7 +9335,7 @@
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished">Pagbabagong-anyo</translation>
+        <translation>Transform</translation>
     </message>
     <message>
         <source>New track</source>
@@ -10077,7 +10077,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished">Pagbabagong-anyo</translation>
+        <translation>Transform</translation>
     </message>
     <message>
         <source>Stabilization</source>
@@ -10129,7 +10129,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Save effect preset</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save ang effect preset</translation>
     </message>
     <message>
         <source>Save effect as preset</source>
@@ -11210,7 +11210,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Extra packs</source>
-        <translation type="unfinished">Mga dagdag na pakete</translation>
+        <translation>Mga karagdagang pack</translation>
     </message>
     <message>
         <source>Remind about essential packs</source>
@@ -11926,7 +11926,7 @@ If playback stutters, try another.</source>
     <name>SpeedFadeInspector</name>
     <message>
         <source>Not available</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi available</translation>
     </message>
     <message>
         <source>Speed applies to video, audio and composite clips.</source>
@@ -12104,7 +12104,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Create polished videos fast</source>
-        <translation type="unfinished"></translation>
+        <translation>Mabilis na gumawa ng pinakinis na mga video</translation>
     </message>
     <message>
         <source>New Project</source>
@@ -12151,7 +12151,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Nothing in this category</source>
-        <translation type="unfinished">Walang laman sa kategoryang ito</translation>
+        <translation>Walang laman sa kategoryang ito</translation>
     </message>
     <message>
         <source>Try a different name.</source>
@@ -12732,7 +12732,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Bounce</source>
-        <translation type="unfinished"></translation>
+        <translation>Tumalbog</translation>
     </message>
     <message>
         <source>Save style…</source>
@@ -13582,15 +13582,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Previewing from a low-resolution proxy. Export uses the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagpa-preview gamit ang low-resolution proxy. Ang export ay gagamit ng orihinal.</translation>
     </message>
     <message>
         <source>Edit-friendly</source>
-        <translation type="unfinished"></translation>
+        <translation>Madaling i-edit</translation>
     </message>
     <message>
         <source>Converted to a constant frame rate for smooth editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-convert sa constant frame rate para sa mas maayos na pag-edit</translation>
     </message>
     <message>
         <source>Variable frame rate. This clip can drift out of sync with its audio. Right-click it and choose Convert to edit-friendly format.</source>
@@ -13602,11 +13602,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Save effect preset</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save ang effect preset</translation>
     </message>
     <message>
         <source>Add new track</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng bagong track</translation>
     </message>
     <message>
         <source>Click or drag to seek</source>
@@ -13614,7 +13614,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Go to bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumunta sa bookmark</translation>
     </message>
     <message>
         <source>Rename…</source>
@@ -13650,7 +13650,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Rename bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang pangalan ng bookmark</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -13662,7 +13662,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Bookmark name</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangalan ng bookmark</translation>
     </message>
     <message>
         <source>Bookmark</source>
@@ -13670,19 +13670,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Convert to subtitle?</source>
-        <translation type="unfinished"></translation>
+        <translation>I-convert bilang subtitle?</translation>
     </message>
     <message>
         <source>Convert</source>
-        <translation type="unfinished"></translation>
+        <translation>I-convert</translation>
     </message>
     <message>
         <source>The selected text clips will be replaced by one subtitle clip. Every caption will use the position and style of the first text clip.</source>
-        <translation type="unfinished"></translation>
+        <translation>Papalitan ang mga napiling text clip ng isang subtitle clip. Gagamitin ng bawat caption ang posisyon at estilo ng unang text clip.</translation>
     </message>
     <message>
         <source>Rename clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang pangalan ng clip</translation>
     </message>
     <message>
         <source>Name</source>
@@ -13690,7 +13690,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Clip name</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangalan ng clip</translation>
     </message>
     <message>
         <source>My look</source>
@@ -13865,7 +13865,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-zoom out</translation>
     </message>
     <message>
         <source>Timeline zoom</source>
@@ -13881,7 +13881,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-zoom in</translation>
     </message>
     <message>
         <source>Fit timeline in view</source>
@@ -13943,7 +13943,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished">Pagbabagong-anyo</translation>
+        <translation>Transform</translation>
     </message>
     <message>
         <source>Adjustment</source>
@@ -14028,7 +14028,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished">Pagbabagong-anyo</translation>
+        <translation>Transform</translation>
     </message>
     <message>
         <source>Adjustment</source>
@@ -14359,7 +14359,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished">Pagbabagong-anyo</translation>
+        <translation>Transform</translation>
     </message>
     <message>
         <source>3D layer</source>
@@ -14374,7 +14374,7 @@ If playback stutters, try another.</source>
     <name>TransformLayerCard</name>
     <message>
         <source>Transform</source>
-        <translation type="unfinished">Pagbabagong-anyo</translation>
+        <translation>Transform</translation>
     </message>
     <message>
         <source>Audio</source>
@@ -14455,7 +14455,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished">Pagbabagong-anyo</translation>
+        <translation>Transform</translation>
     </message>
     <message>
         <source>Select %1</source>
@@ -14574,7 +14574,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Bezier</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezier</translation>
     </message>
     <message>
         <source>On</source>
@@ -14629,7 +14629,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Nothing in this category</source>
-        <translation type="unfinished">Walang laman sa kategoryang ito</translation>
+        <translation>Walang laman sa kategoryang ito</translation>
     </message>
     <message>
         <source>Try a different name.</source>
