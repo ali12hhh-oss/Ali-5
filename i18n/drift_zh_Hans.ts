@@ -14125,23 +14125,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Show track</source>
-        <translation type="unfinished"></translation>
+        <translation>显示轨道</translation>
     </message>
     <message>
         <source>Hide track</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏轨道</translation>
     </message>
     <message>
         <source>Taller row</source>
-        <translation type="unfinished"></translation>
+        <translation>增高轨道行</translation>
     </message>
     <message>
         <source>Shorter row</source>
-        <translation type="unfinished"></translation>
+        <translation>降低轨道行</translation>
     </message>
     <message>
         <source>Rename track</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名轨道</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -14149,11 +14149,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Track name</source>
-        <translation type="unfinished"></translation>
+        <translation>轨道名称</translation>
     </message>
     <message>
         <source>Clips show: %1 (click to change)</source>
-        <translation type="unfinished"></translation>
+        <translation>片段显示：%1（点击更改）</translation>
     </message>
     <message>
         <source>Rename…</source>
@@ -14204,7 +14204,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Also moved by %1</source>
-        <translation type="unfinished"></translation>
+        <translation>也受 %1 控制而移动</translation>
     </message>
     <message>
         <source>Select</source>
@@ -14212,7 +14212,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Move to a time, set a value, then click the diamond to add a keyframe. With Auto keyframes on, dragging a slider or the preview also creates them.</source>
-        <translation type="unfinished"></translation>
+        <translation>将播放头移到指定时间并设置数值，然后点击菱形按钮添加关键帧。启用自动关键帧后，拖动滑块或预览画面也会创建关键帧。</translation>
     </message>
     <message>
         <source>Auto keyframes</source>
@@ -14220,11 +14220,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Position (px)</source>
-        <translation type="unfinished"></translation>
+        <translation>位置（px）</translation>
     </message>
     <message>
         <source>Offset (px)</source>
-        <translation type="unfinished"></translation>
+        <translation>偏移（px）</translation>
     </message>
     <message>
         <source>Measured inside %1&apos;s frame</source>
@@ -14232,7 +14232,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Size (px)</source>
-        <translation type="unfinished"></translation>
+        <translation>尺寸（px）</translation>
     </message>
     <message>
         <source>Scale</source>
@@ -14240,11 +14240,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Edit width and height separately</source>
-        <translation type="unfinished"></translation>
+        <translation>分别编辑宽度和高度</translation>
     </message>
     <message>
         <source>Scale width and height together</source>
-        <translation type="unfinished"></translation>
+        <translation>同时缩放宽度和高度</translation>
     </message>
     <message>
         <source>Scale clip</source>
@@ -14256,15 +14256,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Rotate 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>旋转 90°</translation>
     </message>
     <message>
         <source>Tilt the whole group as one flat card</source>
-        <translation type="unfinished"></translation>
+        <translation>将整个组作为一张平面卡片倾斜</translation>
     </message>
     <message>
         <source>Tilt the clip and push it in depth, with 3D grips on the preview. Turning it off flattens the clip again.</source>
-        <translation type="unfinished"></translation>
+        <translation>倾斜片段并沿深度方向推移，可在预览中使用 3D 控制柄。关闭后片段会恢复为平面。</translation>
     </message>
     <message>
         <source>Move</source>
@@ -14272,7 +14272,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Arrows on the preview move the clip along each axis</source>
-        <translation type="unfinished"></translation>
+        <translation>使用预览中的箭头沿各个轴移动片段</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -14280,11 +14280,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Rings on the preview turn the clip about each axis</source>
-        <translation type="unfinished"></translation>
+        <translation>使用预览中的圆环绕各轴旋转片段</translation>
     </message>
     <message>
         <source>Handles on the preview stretch the clip along its own edges</source>
-        <translation type="unfinished"></translation>
+        <translation>使用预览中的控制柄沿片段边缘调整大小</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
@@ -14292,15 +14292,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Global</source>
-        <translation type="unfinished"></translation>
+        <translation>全局</translation>
     </message>
     <message>
         <source>Gizmo follows the camera: X across, Y down, Z toward you</source>
-        <translation type="unfinished"></translation>
+        <translation>控制器跟随摄像机方向：X 为横向，Y 为向下，Z 朝向你</translation>
     </message>
     <message>
         <source>Local</source>
-        <translation type="unfinished"></translation>
+        <translation>局部</translation>
     </message>
     <message>
         <source>Gizmo follows the clip&apos;s own edges and face, however it is turned</source>
@@ -14308,15 +14308,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Flip</source>
-        <translation type="unfinished"></translation>
+        <translation>翻转</translation>
     </message>
     <message>
         <source>Flip H</source>
-        <translation type="unfinished"></translation>
+        <translation>水平翻转</translation>
     </message>
     <message>
         <source>Flip V</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直翻转</translation>
     </message>
     <message>
         <source>Reset position &amp; size</source>
@@ -14324,11 +14324,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Reset position</source>
-        <translation type="unfinished"></translation>
+        <translation>重置位置</translation>
     </message>
     <message>
         <source>Fix orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>修正方向</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -14336,7 +14336,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>3D layer</source>
-        <translation type="unfinished"></translation>
+        <translation>3D 图层</translation>
     </message>
     <message>
         <source>Corrects the source&apos;s own rotation losslessly — unlike Angle above, this changes decoding, not just the on-screen box.</source>
@@ -14387,7 +14387,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Moves, scales, turns and fades every track under it as one. Each clip keeps its own transform inside the group.</source>
-        <translation type="unfinished"></translation>
+        <translation>将下方所有轨道作为整体移动、缩放、旋转和淡化。组内每个片段仍保留自己的变换设置。</translation>
     </message>
     <message>
         <source>Covers</source>
@@ -14395,15 +14395,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Nothing</source>
-        <translation type="unfinished"></translation>
+        <translation>无</translation>
     </message>
     <message>
         <source>At the playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>位于播放头位置</translation>
     </message>
     <message>
         <source>No covered clip plays here.</source>
-        <translation type="unfinished"></translation>
+        <translation>此处没有被覆盖的片段可播放。</translation>
     </message>
     <message>
         <source>Clip</source>
@@ -14435,7 +14435,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Select the transform layer moving this clip (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>选择正在移动此片段的变换图层（%1）</translation>
     </message>
 </context>
 <context>
@@ -14448,7 +14448,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Transform layer span end</source>
-        <translation type="unfinished"></translation>
+        <translation>变换图层范围结束</translation>
     </message>
     <message numerus="yes">
         <source>Covers %n track(s)</source>
@@ -14488,15 +14488,15 @@ If playback stutters, try another.</source>
     <name>TransitionInspector</name>
     <message>
         <source>Select where two clips overlap (shown in purple), or drag a clip so it overlaps the next one.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择两个片段重叠的位置（以紫色显示），或拖动片段使其与下一个片段重叠。</translation>
     </message>
     <message>
         <source>Transitions work between two clips on a video, shape, or text track.</source>
-        <translation type="unfinished"></translation>
+        <translation>转场可用于视频、形状或文本轨道上的两个片段之间。</translation>
     </message>
     <message>
         <source>No transition after this clip. Add one at the cut to the next clip.</source>
-        <translation type="unfinished"></translation>
+        <translation>此片段后没有转场。可在与下一个片段的切点处添加转场。</translation>
     </message>
     <message>
         <source>Add crossfade (0.5 s)</source>
