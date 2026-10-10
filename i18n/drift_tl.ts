@@ -6494,11 +6494,11 @@
     </message>
     <message>
         <source>Scan for faces…</source>
-        <translation type="unfinished"></translation>
+        <translation>I-scan ang mga mukha…</translation>
     </message>
     <message>
         <source>Clear face track</source>
-        <translation type="unfinished"></translation>
+        <translation>I-clear ang face track</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -6506,7 +6506,7 @@
     </message>
     <message>
         <source>Download face detection (about 5 MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>I-download ang face detection (mga 5 MB)</translation>
     </message>
     <message>
         <source>Install AI engine first</source>
@@ -6514,67 +6514,67 @@
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>Depth</translation>
     </message>
     <message>
         <source>Depth effects follow one clip&apos;s depth. Add this to a clip rather than to an adjustment layer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinusundan ng depth effect ang depth ng isang clip. Idagdag ito sa clip, hindi sa adjustment layer.</translation>
     </message>
     <message>
         <source>These effects need the clip&apos;s depth, so it has to be estimated first. It runs in the background and takes roughly half a second per frame.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kailangan ng mga effect na ito ang depth ng clip kaya dapat muna itong tantiyahin. Tumatakbo ito sa background at tumatagal nang humigit-kumulang kalahating segundo bawat frame.</translation>
     </message>
     <message>
         <source>High quality</source>
-        <translation type="unfinished"></translation>
+        <translation>Mataas na kalidad</translation>
     </message>
     <message>
         <source>Sharper depth edges, about twice as slow</source>
-        <translation type="unfinished"></translation>
+        <translation>Mas malinaw na depth edge, humigit-kumulang dalawang beses na mas mabagal</translation>
     </message>
     <message>
         <source>Re-estimate depth</source>
-        <translation type="unfinished"></translation>
+        <translation>Tantiyahin muli ang depth</translation>
     </message>
     <message>
         <source>Estimate depth</source>
-        <translation type="unfinished"></translation>
+        <translation>Tantiyahin ang depth</translation>
     </message>
     <message>
         <source>Clear depth</source>
-        <translation type="unfinished"></translation>
+        <translation>I-clear ang depth</translation>
     </message>
     <message>
         <source>This clip was scanned before the face mesh was supported. Re-detect faces to enable 3D Face Mesh and Face Retouch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-scan ang clip na ito bago suportahan ang face mesh. I-detect muli ang mga mukha para paganahin ang 3D Face Mesh at Face Retouch.</translation>
     </message>
     <message>
         <source>Move to a time, set a value, then click the diamond to add a keyframe. With Auto keyframes on, dragging a slider also creates them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumunta sa oras na gusto mo, magtakda ng value, pagkatapos i-click ang diyamante para magdagdag ng keyframe. Kapag naka-on ang Auto keyframes, lumilikha rin ng keyframe ang pag-drag sa slider.</translation>
     </message>
     <message>
         <source>Auto keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto keyframes</translation>
     </message>
     <message>
         <source>No effects yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala pang effect</translation>
     </message>
     <message>
         <source>Drag a preset from the Effects library onto this clip, or click a preset card.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drag ang preset mula sa Effects library papunta sa clip na ito, o i-click ang preset card.</translation>
     </message>
     <message>
         <source>Browse effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Tingnan ang mga effect</translation>
     </message>
     <message>
         <source>Copy this effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopyahin ang effect na ito</translation>
     </message>
     <message>
         <source>Save as preset…</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save bilang preset…</translation>
     </message>
     <message>
         <source>%1 (not installed)</source>
@@ -6582,11 +6582,11 @@
     </message>
     <message>
         <source>Move effect up</source>
-        <translation type="unfinished"></translation>
+        <translation>Itaas ang effect</translation>
     </message>
     <message>
         <source>Move effect down</source>
-        <translation type="unfinished"></translation>
+        <translation>Ibaba ang effect</translation>
     </message>
     <message>
         <source>Disable effect</source>
@@ -6610,19 +6610,19 @@
     </message>
     <message>
         <source>Choose %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Piliin ang %1</translation>
     </message>
     <message>
         <source>Automatic (clip beneath)</source>
-        <translation type="unfinished"></translation>
+        <translation>Awtomatiko (clip sa ibaba)</translation>
     </message>
     <message>
         <source>: (none)</source>
-        <translation type="unfinished"></translation>
+        <translation>: (wala)</translation>
     </message>
     <message>
         <source>Choose file</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng file</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -6630,31 +6630,31 @@
     </message>
     <message>
         <source>Pick %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Piliin ang %1</translation>
     </message>
     <message>
         <source>Edit %1</source>
-        <translation type="unfinished"></translation>
+        <translation>I-edit ang %1</translation>
     </message>
     <message>
         <source>Face %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mukha %1</translation>
     </message>
     <message>
         <source>Anything in “%1” nearer than Distance passes in front of this layer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anumang nasa “%1” na mas malapit kaysa sa Distance ay lilitaw sa harap ng layer na ito.</translation>
     </message>
     <message>
         <source>Anything in “%1” (the clip beneath at the playhead) nearer than Distance passes in front of this layer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anumang nasa “%1” (ang clip sa ibaba sa posisyon ng playhead) na mas malapit kaysa sa Distance ay lilitaw sa harap ng layer na ito.</translation>
     </message>
     <message>
         <source>Place this layer above a video or image clip. It goes behind whatever in that clip is nearer than Distance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilagay ang layer na ito sa ibabaw ng video o image clip. Mananatili ito sa likod ng anumang nasa clip na mas malapit kaysa sa Distance.</translation>
     </message>
     <message>
         <source>“%1” needs its depth estimated before anything in it can pass in front. It runs in the background and takes roughly half a second per frame.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kailangang tantiyahin muna ang depth ng “%1” bago lumitaw sa harap ang mga bagay dito. Tumatakbo ito sa background at tumatagal nang humigit-kumulang kalahating segundo bawat frame.</translation>
     </message>
     <message>
         <source>Paste effects</source>
@@ -6665,11 +6665,11 @@
     <name>EmojiPicker</name>
     <message>
         <source>No emoji pack installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang naka-install na emoji pack</translation>
     </message>
     <message>
         <source>Install the sticker pack to use emoji.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-install ang sticker pack para magamit ang emoji.</translation>
     </message>
     <message>
         <source>Get extras</source>
@@ -6681,7 +6681,7 @@
     </message>
     <message>
         <source>No emoji match “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang emoji na tumutugma sa “%1”.</translation>
     </message>
 </context>
 <context>
@@ -6692,27 +6692,27 @@
     </message>
     <message>
         <source>96 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>96 kbps</translation>
     </message>
     <message>
         <source>128 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>128 kbps</translation>
     </message>
     <message>
         <source>160 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>160 kbps</translation>
     </message>
     <message>
         <source>192 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>192 kbps</translation>
     </message>
     <message>
         <source>256 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>256 kbps</translation>
     </message>
     <message>
         <source>320 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>320 kbps</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -6720,23 +6720,23 @@
     </message>
     <message>
         <source>Custom…</source>
-        <translation type="unfinished"></translation>
+        <translation>Custom…</translation>
     </message>
     <message>
         <source>Export GIF</source>
-        <translation type="unfinished"></translation>
+        <translation>I-export ang GIF</translation>
     </message>
     <message>
         <source>Export Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>I-export ang audio</translation>
     </message>
     <message>
         <source>Export Video</source>
-        <translation type="unfinished"></translation>
+        <translation>I-export ang video</translation>
     </message>
     <message>
         <source>Export started…</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagsimula na ang pag-export…</translation>
     </message>
     <message>
         <source>Export cancelled.</source>
@@ -6752,31 +6752,31 @@
     </message>
     <message>
         <source>GIF</source>
-        <translation type="unfinished"></translation>
+        <translation>GIF</translation>
     </message>
     <message>
         <source>GIF encoder is not available in this build</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi available ang GIF encoder sa build na ito</translation>
     </message>
     <message>
         <source>Export work area only (%1 – %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>I-export lang ang work area (%1 – %2)</translation>
     </message>
     <message>
         <source>Encode only the marked In/Out range instead of the full timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>I-encode lang ang minarkahang In/Out range sa halip na buong timeline</translation>
     </message>
     <message>
         <source>Saves what you see in the preview. Pick a size — the picture shape stays the same.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sine-save ang nakikita sa preview. Pumili ng laki—mananatili ang aspect ratio.</translation>
     </message>
     <message>
         <source>Downscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Bawasan ang resolution</translation>
     </message>
     <message>
         <source>Export at %1×%2</source>
-        <translation type="unfinished"></translation>
+        <translation>I-export sa %1×%2</translation>
     </message>
     <message>
         <source>Frame rate</source>
@@ -6784,51 +6784,51 @@
     </message>
     <message>
         <source>fps</source>
-        <translation type="unfinished"></translation>
+        <translation>fps</translation>
     </message>
     <message>
         <source>Exporting above the project rate pulls extra frames from the source footage where it has them — this is what makes slowed clips look smooth. Where it doesn&apos;t, frames repeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kapag nag-export nang mas mataas sa frame rate ng project, kukuha ng dagdag na frame mula sa source footage kung mayroon para maging makinis ang slow motion. Kung wala, uulitin ang mga frame.</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Advanced</translation>
     </message>
     <message>
         <source>Video encoder</source>
-        <translation type="unfinished"></translation>
+        <translation>Video encoder</translation>
     </message>
     <message>
         <source>Keeps a transparent canvas. Set the project background to Transparent so holes stay empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinananatili ang transparent canvas. Itakda sa Transparent ang background ng project para manatiling walang laman ang mga butas.</translation>
     </message>
     <message>
         <source>Constant Quality</source>
-        <translation type="unfinished"></translation>
+        <translation>Constant Quality</translation>
     </message>
     <message>
         <source>Bitrate</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitrate</translation>
     </message>
     <message>
         <source>RF %1</source>
-        <translation type="unfinished"></translation>
+        <translation>RF %1</translation>
     </message>
     <message>
         <source>Quality (RF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Quality (RF)</translation>
     </message>
     <message>
         <source>Higher quality</source>
-        <translation type="unfinished"></translation>
+        <translation>Mas mataas na kalidad</translation>
     </message>
     <message>
         <source>Lower quality</source>
-        <translation type="unfinished"></translation>
+        <translation>Mas mababang kalidad</translation>
     </message>
     <message>
         <source>Bitrate (kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitrate (kbps)</translation>
     </message>
     <message>
         <source>kbps</source>
@@ -7634,7 +7634,7 @@
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>Depth</translation>
     </message>
     <message>
         <source>Perspective</source>
@@ -9115,7 +9115,7 @@
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>Depth</translation>
     </message>
     <message>
         <source>Rotation X</source>
@@ -9174,7 +9174,7 @@
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>Depth</translation>
     </message>
     <message>
         <source>Rotation X</source>
@@ -10196,7 +10196,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Edit %1</source>
-        <translation type="unfinished"></translation>
+        <translation>I-edit ang %1</translation>
     </message>
     <message>
         <source>Click to type an exact %1</source>
@@ -11521,7 +11521,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>Depth</translation>
     </message>
     <message>
         <source>Angle</source>
@@ -12820,7 +12820,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Advanced</translation>
     </message>
     <message>
         <source>Custom animator (set via MCP). Preset controls are disabled.</source>
@@ -14215,7 +14215,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>Depth</translation>
     </message>
     <message>
         <source>Perspective</source>
@@ -14243,7 +14243,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Auto keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto keyframes</translation>
     </message>
     <message>
         <source>Position (px)</source>
