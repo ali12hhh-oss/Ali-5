@@ -9220,15 +9220,15 @@
     </message>
     <message>
         <source>GPU preview unavailable — see Help → Debug info</source>
-        <translation type="unfinished"></translation>
+        <translation>GPU 预览不可用 — 请查看“帮助 → 调试信息”</translation>
     </message>
     <message>
         <source>Program</source>
-        <translation type="unfinished"></translation>
+        <translation>主输出</translation>
     </message>
     <message>
         <source>Previous frame</source>
-        <translation type="unfinished"></translation>
+        <translation>上一帧</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -9240,11 +9240,11 @@
     </message>
     <message>
         <source>Next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>下一帧</translation>
     </message>
     <message>
         <source>Seek</source>
-        <translation type="unfinished"></translation>
+        <translation>定位</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9252,11 +9252,11 @@
     </message>
     <message>
         <source>Save as separate tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>保存为独立轨道</translation>
     </message>
     <message>
         <source>Save combined</source>
-        <translation type="unfinished"></translation>
+        <translation>保存合并结果</translation>
     </message>
 </context>
 <context>
@@ -9271,7 +9271,7 @@
     </message>
     <message>
         <source>My style</source>
-        <translation type="unfinished"></translation>
+        <translation>我的样式</translation>
     </message>
 </context>
 <context>
@@ -9294,7 +9294,7 @@
     </message>
     <message>
         <source>Graphic</source>
-        <translation type="unfinished"></translation>
+        <translation>图形</translation>
     </message>
     <message>
         <source>Adjustment</source>
@@ -9317,7 +9317,7 @@
     <name>PackageProgressDialog</name>
     <message>
         <source>Preparing shareable copy</source>
-        <translation type="unfinished"></translation>
+        <translation>正在准备可分享的副本</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9325,30 +9325,30 @@
     </message>
     <message>
         <source>Copying your media into one file so it opens on any computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>正在将媒体打包到一个文件中，以便在任何电脑上打开。</translation>
     </message>
 </context>
 <context>
     <name>PaintEditor</name>
     <message>
         <source>Texture Image</source>
-        <translation type="unfinished"></translation>
+        <translation>纹理图像</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.webp)</source>
-        <translation type="unfinished"></translation>
+        <translation>图像（*.png *.jpg *.jpeg *.webp）</translation>
     </message>
     <message>
         <source>Paint</source>
-        <translation type="unfinished"></translation>
+        <translation>绘制</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation>纯色</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>渐变</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -9364,19 +9364,19 @@
     </message>
     <message>
         <source>Choose the paint colour</source>
-        <translation type="unfinished"></translation>
+        <translation>选择绘制颜色</translation>
     </message>
     <message>
         <source>Change image…</source>
-        <translation type="unfinished"></translation>
+        <translation>更改图像…</translation>
     </message>
     <message>
         <source>Choose image…</source>
-        <translation type="unfinished"></translation>
+        <translation>选择图像…</translation>
     </message>
     <message>
         <source>No image</source>
-        <translation type="unfinished"></translation>
+        <translation>没有图像</translation>
     </message>
     <message>
         <source>Fit</source>
@@ -9384,19 +9384,19 @@
     </message>
     <message>
         <source>Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>平铺</translation>
     </message>
     <message>
         <source>Repeat the image across the layer</source>
-        <translation type="unfinished"></translation>
+        <translation>在整个图层上重复平铺图像</translation>
     </message>
     <message>
         <source>Cover</source>
-        <translation type="unfinished"></translation>
+        <translation>铺满</translation>
     </message>
     <message>
         <source>Stretch one copy of the image over the layer</source>
-        <translation type="unfinished"></translation>
+        <translation>拉伸一份图像以覆盖整个图层</translation>
     </message>
     <message>
         <source>Scale</source>
@@ -9408,14 +9408,14 @@
     </message>
     <message>
         <source>Adjust paint effect</source>
-        <translation type="unfinished"></translation>
+        <translation>调整绘制效果</translation>
     </message>
 </context>
 <context>
     <name>PasteAttributesDialog</name>
     <message>
         <source>Paste Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴属性</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -9437,27 +9437,27 @@
     </message>
     <message>
         <source>Video Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>视频属性</translation>
     </message>
     <message>
         <source>Transform (motion, position, scale, opacity)</source>
-        <translation type="unfinished"></translation>
+        <translation>变换（运动、位置、缩放、不透明度）</translation>
     </message>
     <message>
         <source>, reverse</source>
-        <translation type="unfinished"></translation>
+        <translation>, 倒放</translation>
     </message>
     <message>
         <source>, speed curve</source>
-        <translation type="unfinished"></translation>
+        <translation>, 速度曲线</translation>
     </message>
     <message>
         <source>Speed / Retime (%1x%2%3)</source>
-        <translation type="unfinished"></translation>
+        <translation>速度 / 重定时（%1x%2%3）</translation>
     </message>
     <message>
         <source>Speed / Retime</source>
-        <translation type="unfinished"></translation>
+        <translation>速度 / 重定时</translation>
     </message>
     <message numerus="yes">
         <source>Video Effects (%n effect(s))</source>
@@ -9467,15 +9467,15 @@
     </message>
     <message>
         <source>Video Effects (none)</source>
-        <translation type="unfinished"></translation>
+        <translation>视频效果（无）</translation>
     </message>
     <message>
         <source>Audio Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>音频属性</translation>
     </message>
     <message>
         <source>Volume &amp; Fades (volume keyframes, in/out ramps)</source>
-        <translation type="unfinished"></translation>
+        <translation>音量与淡化（音量关键帧、淡入/淡出曲线）</translation>
     </message>
     <message numerus="yes">
         <source>Audio Effects (%n effect(s))</source>
@@ -9485,7 +9485,7 @@
     </message>
     <message>
         <source>Audio Effects (none)</source>
-        <translation type="unfinished"></translation>
+        <translation>音频效果（无）</translation>
     </message>
     <message>
         <source>Transitions</source>
@@ -9499,26 +9499,26 @@
     </message>
     <message>
         <source>Replace existing effects (instead of appending)</source>
-        <translation type="unfinished"></translation>
+        <translation>替换现有效果（而不是追加）</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>全选</translation>
     </message>
     <message>
         <source>Select None</source>
-        <translation type="unfinished"></translation>
+        <translation>全不选</translation>
     </message>
 </context>
 <context>
     <name>PlaybackEngine</name>
     <message>
         <source>%1 decodes on %2, but Drift draws on %3. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 在 %2 上解码，但 Drift 在 %3 上绘制。每一帧都需要经过系统内存复制，比直接在负责绘制的显卡上解码更慢。</translation>
     </message>
     <message>
         <source>%1 decodes on a different graphics card than the one Drift draws on. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 使用的解码显卡与 Drift 的绘制显卡不同。每一帧都要经过系统内存复制，比在负责绘制的显卡上解码更慢。</translation>
     </message>
     <message>
         <source>Auto</source>
@@ -9526,58 +9526,58 @@
     </message>
     <message>
         <source>Software</source>
-        <translation type="unfinished"></translation>
+        <translation>ซอฟต์แวร์</translation>
     </message>
     <message>
         <source>Hardware (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>硬件（%1）</translation>
     </message>
 </context>
 <context>
     <name>PlaybackStats</name>
     <message>
         <source>Delivered frames</source>
-        <translation type="unfinished"></translation>
+        <translation>输出帧数</translation>
     </message>
     <message>
         <source>Displayed frames</source>
-        <translation type="unfinished"></translation>
+        <translation>显示帧数</translation>
     </message>
     <message>
         <source>Display refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>显示器刷新率</translation>
     </message>
     <message>
         <source>Delivery jitter</source>
-        <translation type="unfinished"></translation>
+        <translation>输出抖动</translation>
     </message>
     <message>
         <source>Composite (median)</source>
-        <translation type="unfinished"></translation>
+        <translation>合成耗时（中位数）</translation>
     </message>
     <message>
         <source>Composite (p95)</source>
-        <translation type="unfinished"></translation>
+        <translation>合成耗时（第 95 百分位）</translation>
     </message>
     <message>
         <source>Decode wait (median)</source>
-        <translation type="unfinished"></translation>
+        <translation>解码等待（中位数）</translation>
     </message>
     <message>
         <source>Preview scale</source>
-        <translation type="unfinished"></translation>
+        <translation>预览缩放比例</translation>
     </message>
     <message>
         <source>Frames dropped</source>
-        <translation type="unfinished"></translation>
+        <translation>丢帧数</translation>
     </message>
     <message>
         <source>Requests coalesced</source>
-        <translation type="unfinished"></translation>
+        <translation>合并请求数</translation>
     </message>
     <message>
         <source>Composites in flight (peak)</source>
-        <translation type="unfinished"></translation>
+        <translation>同时处理的合成任务峰值</translation>
     </message>
     <message>
         <source>Preview upload</source>
@@ -9585,7 +9585,7 @@
     </message>
     <message>
         <source>Playhead update (median)</source>
-        <translation type="unfinished"></translation>
+        <translation>播放头更新时间（中位数）</translation>
     </message>
     <message>
         <source>Playhead update (p95)</source>
@@ -9644,7 +9644,7 @@
     </message>
     <message>
         <source>Seek</source>
-        <translation type="unfinished"></translation>
+        <translation>定位</translation>
     </message>
 </context>
 <context>
@@ -9663,7 +9663,7 @@
     </message>
     <message>
         <source>Previous frame</source>
-        <translation type="unfinished"></translation>
+        <translation>上一帧</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -9675,7 +9675,7 @@
     </message>
     <message>
         <source>Next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>下一帧</translation>
     </message>
     <message>
         <source>Loop work area on — click to turn off</source>
@@ -11308,11 +11308,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation>纯色</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>渐变</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -13163,11 +13163,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Change image…</source>
-        <translation type="unfinished"></translation>
+        <translation>更改图像…</translation>
     </message>
     <message>
         <source>Choose image…</source>
-        <translation type="unfinished"></translation>
+        <translation>选择图像…</translation>
     </message>
     <message>
         <source>Slot Image</source>
@@ -13175,7 +13175,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.webp)</source>
-        <translation type="unfinished"></translation>
+        <translation>图像（*.png *.jpg *.jpeg *.webp）</translation>
     </message>
 </context>
 <context>
@@ -14013,7 +14013,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Graphic</source>
-        <translation type="unfinished"></translation>
+        <translation>图形</translation>
     </message>
     <message>
         <source>Everything below</source>
@@ -14355,7 +14355,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Graphic</source>
-        <translation type="unfinished"></translation>
+        <translation>图形</translation>
     </message>
     <message>
         <source>Adjustment</source>
@@ -14798,7 +14798,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Cover</source>
-        <translation type="unfinished"></translation>
+        <translation>铺满</translation>
     </message>
     <message>
         <source>Stretch</source>
@@ -15100,7 +15100,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>渐变</translation>
     </message>
     <message>
         <source>Shine</source>
