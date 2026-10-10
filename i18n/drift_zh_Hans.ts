@@ -6926,82 +6926,82 @@
     </message>
     <message>
         <source>param “%1” must be a number</source>
-        <translation type="unfinished"></translation>
+        <translation>参数“%1”必须是数字</translation>
     </message>
     <message>
         <source>param “occlusion” must be true or false</source>
-        <translation type="unfinished"></translation>
+        <translation>参数“occlusion”必须为 true 或 false</translation>
     </message>
     <message>
         <source>variants must be a list</source>
-        <translation type="unfinished"></translation>
+        <translation>variants 必须是列表</translation>
     </message>
     <message>
         <source>a variant must be an object</source>
-        <translation type="unfinished"></translation>
+        <translation>variant 必须是对象</translation>
     </message>
     <message>
         <source>invalid variant id “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的 variant ID“%1”</translation>
     </message>
     <message>
         <source>a variant must name a .glb model in the prop folder</source>
-        <translation type="unfinished"></translation>
+        <translation>variant 必须指定道具文件夹中的 .glb 模型</translation>
     </message>
     <message>
         <source>a variant thumbnail must be a file in the prop folder</source>
-        <translation type="unfinished"></translation>
+        <translation>variant 缩略图必须是道具文件夹中的文件</translation>
     </message>
     <message>
         <source>a variant names the same file twice</source>
-        <translation type="unfinished"></translation>
+        <translation>variant 重复指定了同一个文件</translation>
     </message>
     <message>
         <source>Could not open %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开 %1</translation>
     </message>
     <message>
         <source>%1 is not a .zip archive. Other archive formats are not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 不是 .zip 压缩包。不支持其他压缩格式。</translation>
     </message>
     <message>
         <source>%1 has too many files</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 包含的文件过多</translation>
     </message>
     <message>
         <source>No face props (prop.json) found in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>在 %1 中未找到面部道具（prop.json）</translation>
     </message>
     <message>
         <source>%1 has too many props</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 中的道具过多</translation>
     </message>
     <message>
         <source>%1 is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>缺少 %1</translation>
     </message>
     <message>
         <source>%1 is too large or damaged</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 过大或已损坏</translation>
     </message>
     <message>
         <source>%1 is too large or unreadable</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 过大或无法读取</translation>
     </message>
     <message>
         <source>“%1” is not an imported face prop</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1”不是已导入的面部道具</translation>
     </message>
     <message>
         <source>Could not delete “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>无法删除“%1”</translation>
     </message>
 </context>
 <context>
     <name>FacePropPicker</name>
     <message>
         <source>Prop</source>
-        <translation type="unfinished"></translation>
+        <translation>道具</translation>
     </message>
     <message>
         <source>Import</source>
@@ -7009,27 +7009,27 @@
     </message>
     <message>
         <source>Import face props from a .zip</source>
-        <translation type="unfinished"></translation>
+        <translation>从 .zip 导入面部道具</translation>
     </message>
     <message>
         <source>Import Face Props</source>
-        <translation type="unfinished"></translation>
+        <translation>导入面部道具</translation>
     </message>
     <message>
         <source>Zip archives (*.zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>ZIP 压缩包（*.zip）</translation>
     </message>
     <message>
         <source>Import zip…</source>
-        <translation type="unfinished"></translation>
+        <translation>导入 ZIP…</translation>
     </message>
     <message>
         <source>Import folder…</source>
-        <translation type="unfinished"></translation>
+        <translation>导入文件夹…</translation>
     </message>
     <message>
         <source>No face props installed. Import a .zip from Drift-Assets, or any folder of props that carry a prop.json.</source>
-        <translation type="unfinished"></translation>
+        <translation>尚未安装面部道具。请导入 Drift-Assets 中的 .zip 文件，或包含 prop.json 的道具文件夹。</translation>
     </message>
     <message>
         <source>Custom model: %1 (missing)</source>
