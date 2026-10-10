@@ -6470,11 +6470,11 @@
     </message>
     <message>
         <source>Scan for faces…</source>
-        <translation type="unfinished"></translation>
+        <translation>扫描人脸…</translation>
     </message>
     <message>
         <source>Clear face track</source>
-        <translation type="unfinished"></translation>
+        <translation>清除人脸跟踪</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -6482,7 +6482,7 @@
     </message>
     <message>
         <source>Download face detection (about 5 MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>下载人脸检测组件（约 5 MB）</translation>
     </message>
     <message>
         <source>Install AI engine first</source>
@@ -6490,67 +6490,67 @@
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>深度</translation>
     </message>
     <message>
         <source>Depth effects follow one clip&apos;s depth. Add this to a clip rather than to an adjustment layer.</source>
-        <translation type="unfinished"></translation>
+        <translation>深度效果会跟踪单个片段的深度。请将其添加到片段，而不是调整图层。</translation>
     </message>
     <message>
         <source>These effects need the clip&apos;s depth, so it has to be estimated first. It runs in the background and takes roughly half a second per frame.</source>
-        <translation type="unfinished"></translation>
+        <translation>这些效果需要片段的深度信息，因此必须先估算深度。该过程会在后台运行，每帧约需半秒。</translation>
     </message>
     <message>
         <source>High quality</source>
-        <translation type="unfinished"></translation>
+        <translation>高质量</translation>
     </message>
     <message>
         <source>Sharper depth edges, about twice as slow</source>
-        <translation type="unfinished"></translation>
+        <translation>深度边缘更清晰，速度约慢一倍</translation>
     </message>
     <message>
         <source>Re-estimate depth</source>
-        <translation type="unfinished"></translation>
+        <translation>重新估算深度</translation>
     </message>
     <message>
         <source>Estimate depth</source>
-        <translation type="unfinished"></translation>
+        <translation>估算深度</translation>
     </message>
     <message>
         <source>Clear depth</source>
-        <translation type="unfinished"></translation>
+        <translation>清除深度</translation>
     </message>
     <message>
         <source>This clip was scanned before the face mesh was supported. Re-detect faces to enable 3D Face Mesh and Face Retouch.</source>
-        <translation type="unfinished"></translation>
+        <translation>此片段是在支持人脸网格之前扫描的。请重新检测人脸以启用 3D Face Mesh 和 Face Retouch。</translation>
     </message>
     <message>
         <source>Move to a time, set a value, then click the diamond to add a keyframe. With Auto keyframes on, dragging a slider also creates them.</source>
-        <translation type="unfinished"></translation>
+        <translation>将播放头移到所需时间并设置数值，然后点击菱形按钮添加关键帧。启用自动关键帧后，拖动滑块也会创建关键帧。</translation>
     </message>
     <message>
         <source>Auto keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>自动关键帧</translation>
     </message>
     <message>
         <source>No effects yet</source>
-        <translation type="unfinished"></translation>
+        <translation>尚无效果</translation>
     </message>
     <message>
         <source>Drag a preset from the Effects library onto this clip, or click a preset card.</source>
-        <translation type="unfinished"></translation>
+        <translation>将“效果”库中的预设拖到此片段上，或点击预设卡片。</translation>
     </message>
     <message>
         <source>Browse effects</source>
-        <translation type="unfinished"></translation>
+        <translation>浏览效果</translation>
     </message>
     <message>
         <source>Copy this effect</source>
-        <translation type="unfinished"></translation>
+        <translation>复制此效果</translation>
     </message>
     <message>
         <source>Save as preset…</source>
-        <translation type="unfinished"></translation>
+        <translation>另存为预设…</translation>
     </message>
     <message>
         <source>%1 (not installed)</source>
@@ -6558,11 +6558,11 @@
     </message>
     <message>
         <source>Move effect up</source>
-        <translation type="unfinished"></translation>
+        <translation>上移效果</translation>
     </message>
     <message>
         <source>Move effect down</source>
-        <translation type="unfinished"></translation>
+        <translation>下移效果</translation>
     </message>
     <message>
         <source>Disable effect</source>
@@ -6586,19 +6586,19 @@
     </message>
     <message>
         <source>Choose %1</source>
-        <translation type="unfinished"></translation>
+        <translation>选择 %1</translation>
     </message>
     <message>
         <source>Automatic (clip beneath)</source>
-        <translation type="unfinished"></translation>
+        <translation>自动（下方片段）</translation>
     </message>
     <message>
         <source>: (none)</source>
-        <translation type="unfinished"></translation>
+        <translation>:（无）</translation>
     </message>
     <message>
         <source>Choose file</source>
-        <translation type="unfinished"></translation>
+        <translation>选择文件</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -6606,11 +6606,11 @@
     </message>
     <message>
         <source>Pick %1</source>
-        <translation type="unfinished"></translation>
+        <translation>选择 %1</translation>
     </message>
     <message>
         <source>Edit %1</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑 %1</translation>
     </message>
     <message>
         <source>Face %1</source>
@@ -6618,19 +6618,19 @@
     </message>
     <message>
         <source>Anything in “%1” nearer than Distance passes in front of this layer.</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1”中距离小于“距离”值的内容会显示在此图层前方。</translation>
     </message>
     <message>
         <source>Anything in “%1” (the clip beneath at the playhead) nearer than Distance passes in front of this layer.</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1”（播放头下方的片段）中距离小于“距离”值的内容会显示在此图层前方。</translation>
     </message>
     <message>
         <source>Place this layer above a video or image clip. It goes behind whatever in that clip is nearer than Distance.</source>
-        <translation type="unfinished"></translation>
+        <translation>将此图层放在视频或图像片段上方。片段中距离小于“距离”值的内容会显示在此图层前方。</translation>
     </message>
     <message>
         <source>“%1” needs its depth estimated before anything in it can pass in front. It runs in the background and takes roughly half a second per frame.</source>
-        <translation type="unfinished"></translation>
+        <translation>必须先估算“%1”的深度，其中的内容才能显示在前方。此过程会在后台运行，每帧约需半秒。</translation>
     </message>
     <message>
         <source>Paste effects</source>
@@ -6641,11 +6641,11 @@
     <name>EmojiPicker</name>
     <message>
         <source>No emoji pack installed</source>
-        <translation type="unfinished"></translation>
+        <translation>未安装表情包</translation>
     </message>
     <message>
         <source>Install the sticker pack to use emoji.</source>
-        <translation type="unfinished"></translation>
+        <translation>安装贴纸包即可使用表情符号。</translation>
     </message>
     <message>
         <source>Get extras</source>
@@ -6657,7 +6657,7 @@
     </message>
     <message>
         <source>No emoji match “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有与“%1”匹配的表情符号。</translation>
     </message>
 </context>
 <context>
@@ -6668,27 +6668,27 @@
     </message>
     <message>
         <source>96 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>96 kbps</translation>
     </message>
     <message>
         <source>128 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>128 kbps</translation>
     </message>
     <message>
         <source>160 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>160 kbps</translation>
     </message>
     <message>
         <source>192 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>192 kbps</translation>
     </message>
     <message>
         <source>256 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>256 kbps</translation>
     </message>
     <message>
         <source>320 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>320 kbps</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -6696,23 +6696,23 @@
     </message>
     <message>
         <source>Custom…</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义…</translation>
     </message>
     <message>
         <source>Export GIF</source>
-        <translation type="unfinished"></translation>
+        <translation>导出 GIF</translation>
     </message>
     <message>
         <source>Export Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>导出音频</translation>
     </message>
     <message>
         <source>Export Video</source>
-        <translation type="unfinished"></translation>
+        <translation>导出视频</translation>
     </message>
     <message>
         <source>Export started…</source>
-        <translation type="unfinished"></translation>
+        <translation>已开始导出…</translation>
     </message>
     <message>
         <source>Export cancelled.</source>
@@ -6728,31 +6728,31 @@
     </message>
     <message>
         <source>GIF</source>
-        <translation type="unfinished"></translation>
+        <translation>GIF</translation>
     </message>
     <message>
         <source>GIF encoder is not available in this build</source>
-        <translation type="unfinished"></translation>
+        <translation>此版本不提供 GIF 编码器</translation>
     </message>
     <message>
         <source>Export work area only (%1 – %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>仅导出工作区（%1 – %2）</translation>
     </message>
     <message>
         <source>Encode only the marked In/Out range instead of the full timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>仅编码标记的入点/出点范围，而不是整个时间轴</translation>
     </message>
     <message>
         <source>Saves what you see in the preview. Pick a size — the picture shape stays the same.</source>
-        <translation type="unfinished"></translation>
+        <translation>保存预览中显示的画面。选择尺寸后，画面比例将保持不变。</translation>
     </message>
     <message>
         <source>Downscale</source>
-        <translation type="unfinished"></translation>
+        <translation>缩小分辨率</translation>
     </message>
     <message>
         <source>Export at %1×%2</source>
-        <translation type="unfinished"></translation>
+        <translation>以 %1×%2 导出</translation>
     </message>
     <message>
         <source>Frame rate</source>
@@ -6760,51 +6760,51 @@
     </message>
     <message>
         <source>fps</source>
-        <translation type="unfinished"></translation>
+        <translation>帧/秒</translation>
     </message>
     <message>
         <source>Exporting above the project rate pulls extra frames from the source footage where it has them — this is what makes slowed clips look smooth. Where it doesn&apos;t, frames repeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>以高于项目帧率的速度导出时，会在源素材有足够帧的地方提取额外帧，让慢动作片段更流畅；如果没有额外帧，则会重复现有帧。</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>高级</translation>
     </message>
     <message>
         <source>Video encoder</source>
-        <translation type="unfinished"></translation>
+        <translation>视频编码器</translation>
     </message>
     <message>
         <source>Keeps a transparent canvas. Set the project background to Transparent so holes stay empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>保留透明画布。将项目背景设为“透明”，空白区域才会保持透明。</translation>
     </message>
     <message>
         <source>Constant Quality</source>
-        <translation type="unfinished"></translation>
+        <translation>恒定质量</translation>
     </message>
     <message>
         <source>Bitrate</source>
-        <translation type="unfinished"></translation>
+        <translation>比特率</translation>
     </message>
     <message>
         <source>RF %1</source>
-        <translation type="unfinished"></translation>
+        <translation>RF %1</translation>
     </message>
     <message>
         <source>Quality (RF)</source>
-        <translation type="unfinished"></translation>
+        <translation>质量（RF）</translation>
     </message>
     <message>
         <source>Higher quality</source>
-        <translation type="unfinished"></translation>
+        <translation>更高质量</translation>
     </message>
     <message>
         <source>Lower quality</source>
-        <translation type="unfinished"></translation>
+        <translation>更低质量</translation>
     </message>
     <message>
         <source>Bitrate (kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation>比特率（kbps）</translation>
     </message>
     <message>
         <source>kbps</source>
@@ -7610,7 +7610,7 @@
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>深度</translation>
     </message>
     <message>
         <source>Perspective</source>
@@ -9086,7 +9086,7 @@
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>深度</translation>
     </message>
     <message>
         <source>Rotation X</source>
@@ -9145,7 +9145,7 @@
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>深度</translation>
     </message>
     <message>
         <source>Rotation X</source>
@@ -10163,7 +10163,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Edit %1</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑 %1</translation>
     </message>
     <message>
         <source>Click to type an exact %1</source>
@@ -11488,7 +11488,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>深度</translation>
     </message>
     <message>
         <source>Angle</source>
@@ -12785,7 +12785,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>高级</translation>
     </message>
     <message>
         <source>Custom animator (set via MCP). Preset controls are disabled.</source>
@@ -14180,7 +14180,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>深度</translation>
     </message>
     <message>
         <source>Perspective</source>
@@ -14208,7 +14208,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Auto keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>自动关键帧</translation>
     </message>
     <message>
         <source>Position (px)</source>
