@@ -1731,7 +1731,10 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s)</source>
-        <translation>%n clip</translation>
+        <translation>
+            <numerusform>%n clip</numerusform>
+            <numerusform>%n clip</numerusform>
+        </translation>
     </message>
     <message>
         <source>All</source>
@@ -1817,7 +1820,10 @@
     <name>AndroidTransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>%1 · %n clip</translation>
+        <translation>
+            <numerusform>%1 · %n clip</numerusform>
+            <numerusform>%1 · %n clip</numerusform>
+        </translation>
     </message>
     <message>
         <source>Transform</source>
@@ -2451,7 +2457,10 @@
     </message>
     <message numerus="yes">
         <source>Imported %n subtitles</source>
-        <translation>Na-import ang %n subtitle</translation>
+        <translation>
+            <numerusform>Na-import ang %n subtitle</numerusform>
+            <numerusform>Na-import ang %n subtitle</numerusform>
+        </translation>
     </message>
     <message>
         <source>No audio output devices were found, so playback will be silent.</source>
@@ -2475,7 +2484,10 @@
     </message>
     <message numerus="yes">
         <source>Multicam ready: %n camera(s) lined up at the start. Drag a clip to adjust its sync, then pick a shot.</source>
-        <translation>Handa na ang multicam: naka-align sa simula ang %n camera. I-drag ang clip para ayusin ang sync, pagkatapos pumili ng shot.</translation>
+        <translation>
+            <numerusform>Handa na ang multicam: naka-align sa simula ang %n camera. I-drag ang clip para ayusin ang sync, pagkatapos pumili ng shot.</numerusform>
+            <numerusform>Handa na ang multicam: naka-align sa simula ang %n camera. I-drag ang clip para ayusin ang sync, pagkatapos pumili ng shot.</numerusform>
+        </translation>
     </message>
     <message>
         <source>Select at least two video clips on different tracks.</source>
@@ -2594,9 +2606,9 @@
     </message>
     <message numerus="yes">
         <source>%n media items and referenced clips removed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Inalis ang %n media item at mga kaugnay na clip</numerusform>
+            <numerusform>Inalis ang %n media item at mga kaugnay na clip</numerusform>
         </translation>
     </message>
     <message>
@@ -3685,9 +3697,9 @@
     </message>
     <message numerus="yes">
         <source>Created %n text clips</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Gumawa ng %n text clip</numerusform>
+            <numerusform>Gumawa ng %n text clip</numerusform>
         </translation>
     </message>
     <message>
@@ -3899,9 +3911,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Nag-import ng %n face prop</numerusform>
+            <numerusform>Nag-import ng %n face prop</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -4029,9 +4041,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted attributes onto %n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Ipinaste ang mga attribute sa %n clip</numerusform>
+            <numerusform>Ipinaste ang mga attribute sa %n clip</numerusform>
         </translation>
     </message>
     <message>
@@ -4196,9 +4208,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted %n clips</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Ipinaste ang %n clip</numerusform>
+            <numerusform>Ipinaste ang %n clip</numerusform>
         </translation>
     </message>
     <message>
@@ -6081,9 +6093,9 @@
     </message>
     <message numerus="yes">
         <source>Downloads — %n running</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Mga download — %n ang tumatakbo</numerusform>
+            <numerusform>Mga download — %n ang tumatakbo</numerusform>
         </translation>
     </message>
     <message>
@@ -8657,9 +8669,9 @@
     </message>
     <message numerus="yes">
         <source>Create %n proxies</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Gumawa ng %n proxy</numerusform>
+            <numerusform>Gumawa ng %n proxy</numerusform>
         </translation>
     </message>
     <message>
@@ -8668,9 +8680,9 @@
     </message>
     <message numerus="yes">
         <source>Remove %n proxies</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Alisin ang %n proxy</numerusform>
+            <numerusform>Alisin ang %n proxy</numerusform>
         </translation>
     </message>
     <message>
@@ -8727,9 +8739,9 @@
     </message>
     <message numerus="yes">
         <source>Add %n items to timeline</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Idagdag ang %n item sa timeline</numerusform>
+            <numerusform>Idagdag ang %n item sa timeline</numerusform>
         </translation>
     </message>
     <message>
@@ -8738,9 +8750,9 @@
     </message>
     <message numerus="yes">
         <source>Move %n items to folder…</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Ilipat ang %n item sa folder…</numerusform>
+            <numerusform>Ilipat ang %n item sa folder…</numerusform>
         </translation>
     </message>
     <message>
@@ -8749,9 +8761,9 @@
     </message>
     <message numerus="yes">
         <source>Remove %n items from project</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Alisin ang %n item sa project</numerusform>
+            <numerusform>Alisin ang %n item sa project</numerusform>
         </translation>
     </message>
 </context>
@@ -8832,9 +8844,9 @@
     </message>
     <message numerus="yes">
         <source>Could not import any of the %n selected files.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Hindi ma-import ang alinman sa %n napiling file.</numerusform>
+            <numerusform>Hindi ma-import ang alinman sa %n napiling file.</numerusform>
         </translation>
     </message>
 </context>
@@ -12174,9 +12186,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>Filters — %n applied</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Mga filter — %n ang nailapat</numerusform>
+            <numerusform>Mga filter — %n ang nailapat</numerusform>
         </translation>
     </message>
     <message>
@@ -13969,9 +13981,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>This removes the track and its %n clips. You can undo afterwards.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Aalisin nito ang track at ang %n clip nito. Maaari mo itong i-undo pagkatapos.</numerusform>
+            <numerusform>Aalisin nito ang track at ang %n clip nito. Maaari mo itong i-undo pagkatapos.</numerusform>
         </translation>
     </message>
     <message>
@@ -14426,9 +14438,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>+%n more</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>+%n pa</numerusform>
+            <numerusform>+%n pa</numerusform>
         </translation>
     </message>
 </context>
@@ -14436,7 +14448,10 @@ If playback stutters, try another.</source>
     <name>TransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation>%1 · %n clip</translation>
+        <translation>
+            <numerusform>%1 · %n clip</numerusform>
+            <numerusform>%1 · %n clip</numerusform>
+        </translation>
     </message>
     <message>
         <source>Transform</source>
