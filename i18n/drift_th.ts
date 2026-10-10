@@ -10618,11 +10618,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source> — larger than 4K, which is slow to edit and export</source>
-        <translation type="unfinished"></translation>
+        <translation>— สูงกว่า 4K ซึ่งทำให้การแก้ไขและส่งออกช้าลง</translation>
     </message>
     <message>
         <source>Up to about %1 on this computer&apos;s CPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>ประมาณไม่เกิน %1 บน CPU ของคอมพิวเตอร์เครื่องนี้</translation>
     </message>
     <message>
         <source>Up to about %1 on a typical laptop CPU. Preview a frame for an estimate for this computer.</source>
@@ -10658,7 +10658,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Speeds are per frame of this clip. Custom models are experimental and may not work. Drop an ONNX export (fp32 or fp16, RGB, 1x/2x/4x) into the folder; put the scale in the file name, e.g. &quot;2x_Name.onnx&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>ความเร็วคำนวณต่อเฟรมของคลิปนี้ โมเดลที่กำหนดเองยังเป็นรุ่นทดลองและอาจใช้งานไม่ได้ วางไฟล์ส่งออก ONNX (fp32 หรือ fp16, RGB, 1x/2x/4x) ในโฟลเดอร์ และระบุสเกลในชื่อไฟล์ เช่น "2x_Name.onnx"</translation>
     </message>
     <message>
         <source>Refresh model list</source>
@@ -10950,7 +10950,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Cut out &amp; apply effect</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัดแยกและใช้เอฟเฟกต์</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -11076,7 +11076,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Choose which graphics card Drift runs on in Windows Settings, under Display &gt; Graphics. Takes effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกการ์ดกราฟิกที่ Drift ใช้ใน Windows Settings ภายใต้ Display &gt; Graphics มีผลหลังรีสตาร์ต</translation>
     </message>
     <message>
         <source>Open graphics settings</source>
@@ -11212,7 +11212,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Keys are stored unencrypted in Drift&apos;s settings. ELEVENLABS_API_KEY and FISH_API_KEY in the environment take precedence. Use is billed to your own account.</source>
-        <translation type="unfinished"></translation>
+        <translation>คีย์จะถูกเก็บโดยไม่เข้ารหัสในการตั้งค่าของ Drift ตัวแปรสภาพแวดล้อม ELEVENLABS_API_KEY และ FISH_API_KEY จะมีลำดับความสำคัญก่อน ค่าใช้บริการจะเรียกเก็บจากบัญชีของคุณ</translation>
     </message>
     <message>
         <source>Transcription (Scribe), voiceover, sound effects</source>
@@ -11853,7 +11853,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>s / </source>
-        <translation type="unfinished"></translation>
+        <translation>วินาที /</translation>
     </message>
     <message>
         <source>s</source>
@@ -11861,7 +11861,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>s → </source>
-        <translation type="unfinished"></translation>
+        <translation>วินาที →</translation>
     </message>
     <message>
         <source>Add point</source>
@@ -11932,7 +11932,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source> (reversed)</source>
-        <translation type="unfinished"></translation>
+        <translation>(ย้อนกลับ)</translation>
     </message>
     <message>
         <source>Reverse</source>
@@ -12363,7 +12363,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Offset the exported captions by this clip&apos;s start so they match the exported video</source>
-        <translation type="unfinished"></translation>
+        <translation>ชดเชยเวลาคำบรรยายที่ส่งออกตามเวลาเริ่มต้นของคลิปนี้ เพื่อให้ตรงกับวิดีโอที่ส่งออก</translation>
     </message>
     <message>
         <source>(empty)</source>
@@ -12489,7 +12489,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Create captions from the selected clips&apos; speech — several clips become one caption clip</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างคำบรรยายจากเสียงพูดของคลิปที่เลือก — หลายคลิปจะกลายเป็นคลิปคำบรรยายเดียว</translation>
     </message>
     <message>
         <source>Select a video or audio clip first</source>
@@ -12637,7 +12637,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Choose the gradient&apos;s first colour</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกสีแรกของการไล่สี</translation>
     </message>
     <message>
         <source>Edits the first gradient stop</source>
@@ -12649,7 +12649,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Aa</source>
-        <translation type="unfinished"></translation>
+        <translation>Aa</translation>
     </message>
     <message>
         <source>None</source>
@@ -12981,7 +12981,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Save this text&apos;s style as a reusable preset</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกสไตล์ข้อความนี้เป็นค่าที่ตั้งไว้เพื่อใช้ซ้ำ</translation>
     </message>
     <message>
         <source>Effect</source>
@@ -13148,7 +13148,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Aa</source>
-        <translation type="unfinished"></translation>
+        <translation>Aa</translation>
     </message>
     <message>
         <source>Text effect</source>
@@ -13774,7 +13774,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Add transform layer — moves the selected clips&apos; tracks as one</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเลเยอร์แปลง — ย้ายแทร็กของคลิปที่เลือกเป็นชุดเดียว</translation>
     </message>
     <message>
         <source>Main</source>
@@ -13973,31 +13973,31 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>TF</source>
-        <translation type="unfinished"></translation>
+        <translation>TF</translation>
     </message>
     <message>
         <source>FX</source>
-        <translation type="unfinished"></translation>
+        <translation>FX</translation>
     </message>
     <message>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
     <message>
         <source>T</source>
-        <translation type="unfinished"></translation>
+        <translation>T</translation>
     </message>
     <message>
         <source>S</source>
-        <translation type="unfinished"></translation>
+        <translation>S</translation>
     </message>
     <message>
         <source>G</source>
-        <translation type="unfinished"></translation>
+        <translation>G</translation>
     </message>
     <message>
         <source>V</source>
-        <translation type="unfinished"></translation>
+        <translation>V</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -14228,7 +14228,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Measured inside %1&apos;s frame</source>
-        <translation type="unfinished"></translation>
+        <translation>วัดภายในเฟรมของ %1</translation>
     </message>
     <message>
         <source>Size (px)</source>
@@ -14252,7 +14252,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Opacity &amp; rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>ความทึบและการหมุน</translation>
     </message>
     <message>
         <source>Rotate 90°</source>
@@ -14304,7 +14304,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Gizmo follows the clip&apos;s own edges and face, however it is turned</source>
-        <translation type="unfinished"></translation>
+        <translation>กิซโมอิงตามขอบและพื้นผิวของคลิปเอง ไม่ว่าคลิปจะหมุนอย่างไร</translation>
     </message>
     <message>
         <source>Flip</source>
@@ -14320,7 +14320,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Reset position &amp; size</source>
-        <translation type="unfinished"></translation>
+        <translation>รีเซ็ตตำแหน่งและขนาด</translation>
     </message>
     <message>
         <source>Reset position</source>
@@ -14340,7 +14340,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Corrects the source&apos;s own rotation losslessly — unlike Angle above, this changes decoding, not just the on-screen box.</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขการหมุนของสื่อต้นฉบับโดยไม่สูญเสียคุณภาพ ต่างจากมุมด้านบนตรงที่เปลี่ยนการถอดรหัส ไม่ใช่แค่กรอบบนหน้าจอ</translation>
     </message>
 </context>
 <context>
@@ -14465,19 +14465,19 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Grid &amp; Geometric</source>
-        <translation type="unfinished"></translation>
+        <translation>กริดและเรขาคณิต</translation>
     </message>
     <message>
         <source>Particle &amp; Liquid</source>
-        <translation type="unfinished"></translation>
+        <translation>อนุภาคและของเหลว</translation>
     </message>
     <message>
         <source>Glitch &amp; Digital</source>
-        <translation type="unfinished"></translation>
+        <translation>กลิตช์และดิจิทัล</translation>
     </message>
     <message>
         <source>Stylized &amp; Cinematic</source>
-        <translation type="unfinished"></translation>
+        <translation>สไตไลซ์และภาพยนตร์</translation>
     </message>
     <message>
         <source>Other</source>
@@ -14634,7 +14634,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Don&apos;t Save</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่บันทึก</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -14684,7 +14684,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Don&apos;t mention %1 again. Later releases are still announced.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่ต้องแจ้ง %1 อีก แต่ยังคงแจ้งรุ่นใหม่ในอนาคต</translation>
     </message>
     <message>
         <source>Later</source>
@@ -14734,7 +14734,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     <name>VectorInspector</name>
     <message>
         <source>Toggle %1&apos;s keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิด/ปิดคีย์เฟรมของ %1</translation>
     </message>
     <message>
         <source>Key %1 at the playhead</source>
@@ -14746,7 +14746,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Back to the drawing&apos;s own %1</source>
-        <translation type="unfinished"></translation>
+        <translation>กลับไปใช้ค่า %1 เดิมของภาพวาด</translation>
     </message>
     <message>
         <source>Replace Animation</source>
@@ -14862,7 +14862,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source> (defs)</source>
-        <translation type="unfinished"></translation>
+        <translation>(defs)</translation>
     </message>
     <message>
         <source>Which part of the drawing the rows below restyle</source>
@@ -15173,7 +15173,9 @@ The video preview cannot render, and Drift may not start at all. Update your gra
         <source>Drift has been running for %1 seconds but its window has not drawn anything yet.
 
 If the window is blank or black, your graphics driver is most likely outdated or faulty. Update it from your GPU vendor&apos;s website (AMD, NVIDIA or Intel) and start Drift again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift ทำงานมาแล้ว %1 วินาที แต่หน้าต่างยังไม่แสดงอะไรเลย
+
+หากหน้าต่างว่างเปล่าหรือเป็นสีดำ ไดรเวอร์กราฟิกอาจเก่าหรือมีปัญหา โปรดอัปเดตจากเว็บไซต์ผู้ผลิต GPU (AMD, NVIDIA หรือ Intel) แล้วเปิด Drift อีกครั้ง</translation>
     </message>
 </context>
 </TS>
