@@ -11133,7 +11133,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>ภาษา</translation>
     </message>
     <message>
         <source>Language for menus and labels. Takes effect immediately.</source>
