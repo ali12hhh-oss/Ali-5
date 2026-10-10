@@ -8910,7 +8910,7 @@
     </message>
     <message>
         <source>Save writes a new file over this item in the bin.</source>
-        <translation type="unfinished"></translation>
+        <translation>保存会生成新文件并覆盖媒体箱中的此项目。</translation>
     </message>
     <message>
         <source>Save keeps the original video and stores this framing.</source>
@@ -8918,11 +8918,11 @@
     </message>
     <message>
         <source>Nothing to save — drag this item onto the timeline when you are ready.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有需要保存的内容 — 准备好后将此项目拖到时间轴。</translation>
     </message>
     <message>
         <source>Adjust the frame or Reset to restore the full image.</source>
-        <translation type="unfinished"></translation>
+        <translation>调整画幅，或点击“重置”恢复完整图像。</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -8938,7 +8938,7 @@
     </message>
     <message>
         <source>Upscale…</source>
-        <translation type="unfinished"></translation>
+        <translation>提升分辨率…</translation>
     </message>
     <message>
         <source>Save</source>
@@ -8961,7 +8961,7 @@
     <name>MissingAddonsDialog</name>
     <message>
         <source>Extra packs needed</source>
-        <translation type="unfinished"></translation>
+        <translation>需要额外组件包</translation>
     </message>
     <message>
         <source>Install all</source>
@@ -8969,11 +8969,11 @@
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>跳过</translation>
     </message>
     <message>
         <source>This project was saved with extra packs you don&apos;t have. It has opened, but anything they provide will not show until they are installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>此项目保存时使用了你尚未安装的附加组件包。项目已打开，但在安装这些组件前，其提供的内容不会显示。</translation>
     </message>
     <message>
         <source>%1… %2%</source>
@@ -8981,7 +8981,7 @@
     </message>
     <message>
         <source>used version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>使用版本 %1</translation>
     </message>
     <message>
         <source>Install</source>
@@ -8989,26 +8989,26 @@
     </message>
     <message>
         <source>Reopen the project once they finish installing.</source>
-        <translation type="unfinished"></translation>
+        <translation>安装完成后，请重新打开项目。</translation>
     </message>
 </context>
 <context>
     <name>Model3DInspector</name>
     <message>
         <source>Replace 3D Model</source>
-        <translation type="unfinished"></translation>
+        <translation>替换 3D 模型</translation>
     </message>
     <message>
         <source>glTF binary (*.glb)</source>
-        <translation type="unfinished"></translation>
+        <translation>glTF 二进制文件（*.glb）</translation>
     </message>
     <message>
         <source>Could not load the model</source>
-        <translation type="unfinished"></translation>
+        <translation>无法加载模型</translation>
     </message>
     <message>
         <source>3D model</source>
-        <translation type="unfinished"></translation>
+        <translation>3D 模型</translation>
     </message>
     <message numerus="yes">
         <source>%n animation(s)</source>
@@ -9018,15 +9018,15 @@
     </message>
     <message>
         <source>static</source>
-        <translation type="unfinished"></translation>
+        <translation>静态</translation>
     </message>
     <message>
         <source>Replace model…</source>
-        <translation type="unfinished"></translation>
+        <translation>替换模型…</translation>
     </message>
     <message>
         <source>Load another .glb; position, length, pose and lighting stay</source>
-        <translation type="unfinished"></translation>
+        <translation>加载另一个 .glb；位置、尺寸、姿态和灯光将保持不变</translation>
     </message>
     <message>
         <source>Playback</source>
@@ -9038,27 +9038,27 @@
     </message>
     <message>
         <source>Animation %1</source>
-        <translation type="unfinished"></translation>
+        <translation>动画 %1</translation>
     </message>
     <message>
         <source>Which of the file&apos;s animations plays</source>
-        <translation type="unfinished"></translation>
+        <translation>选择播放文件中的哪段动画</translation>
     </message>
     <message>
         <source>After the end</source>
-        <translation type="unfinished"></translation>
+        <translation>结束后</translation>
     </message>
     <message>
         <source>Hold last frame</source>
-        <translation type="unfinished"></translation>
+        <translation>停留在最后一帧</translation>
     </message>
     <message>
         <source>Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>循环</translation>
     </message>
     <message>
         <source>Ping-pong</source>
-        <translation type="unfinished"></translation>
+        <translation>往返循环</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -9066,23 +9066,23 @@
     </message>
     <message>
         <source>What plays once the animation has run its length</source>
-        <translation type="unfinished"></translation>
+        <translation>动画播放完毕后的行为</translation>
     </message>
     <message>
         <source>Start offset</source>
-        <translation type="unfinished"></translation>
+        <translation>起始偏移</translation>
     </message>
     <message>
         <source>Pose</source>
-        <translation type="unfinished"></translation>
+        <translation>姿态</translation>
     </message>
     <message>
         <source>Rotations follow the model&apos;s own axes: X tilts, Y then spins about the tilted up axis, Z rolls after both.</source>
-        <translation type="unfinished"></translation>
+        <translation>旋转遵循模型自身的坐标轴：X 轴倾斜，Y 轴围绕倾斜后的上轴旋转，Z 轴在两者之后翻滚。</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>尺寸</translation>
     </message>
     <message>
         <source>Depth</source>
@@ -9090,19 +9090,19 @@
     </message>
     <message>
         <source>Rotation X</source>
-        <translation type="unfinished"></translation>
+        <translation>X 轴旋转</translation>
     </message>
     <message>
         <source>Rotation Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Y 轴旋转</translation>
     </message>
     <message>
         <source>Rotation Z</source>
-        <translation type="unfinished"></translation>
+        <translation>Z 轴旋转</translation>
     </message>
     <message>
         <source>Lighting</source>
-        <translation type="unfinished"></translation>
+        <translation>灯光</translation>
     </message>
     <message>
         <source>Move light</source>
@@ -9110,38 +9110,38 @@
     </message>
     <message>
         <source>Drag the light around the sphere. The light stays fixed to the camera, not the model.</source>
-        <translation type="unfinished"></translation>
+        <translation>拖动球体周围的灯光。灯光固定在摄像机上，而不是模型上。</translation>
     </message>
     <message>
         <source>Behind</source>
-        <translation type="unfinished"></translation>
+        <translation>后方</translation>
     </message>
     <message>
         <source>Put the light on the far side of the model for a rim light</source>
-        <translation type="unfinished"></translation>
+        <translation>将灯光放在模型远侧以形成轮廓光</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>方向</translation>
     </message>
     <message>
         <source>Elevation</source>
-        <translation type="unfinished"></translation>
+        <translation>仰角</translation>
     </message>
     <message>
         <source>Intensity</source>
-        <translation type="unfinished"></translation>
+        <translation>强度</translation>
     </message>
     <message>
         <source>Ambient</source>
-        <translation type="unfinished"></translation>
+        <translation>环境光</translation>
     </message>
 </context>
 <context>
     <name>Model3dSource</name>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>尺寸</translation>
     </message>
     <message>
         <source>Depth</source>
@@ -9149,31 +9149,31 @@
     </message>
     <message>
         <source>Rotation X</source>
-        <translation type="unfinished"></translation>
+        <translation>X 轴旋转</translation>
     </message>
     <message>
         <source>Rotation Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Y 轴旋转</translation>
     </message>
     <message>
         <source>Rotation Z</source>
-        <translation type="unfinished"></translation>
+        <translation>Z 轴旋转</translation>
     </message>
     <message>
         <source>Light direction</source>
-        <translation type="unfinished"></translation>
+        <translation>灯光方向</translation>
     </message>
     <message>
         <source>Light elevation</source>
-        <translation type="unfinished"></translation>
+        <translation>灯光仰角</translation>
     </message>
     <message>
         <source>Light intensity</source>
-        <translation type="unfinished"></translation>
+        <translation>灯光强度</translation>
     </message>
     <message>
         <source>Ambient light</source>
-        <translation type="unfinished"></translation>
+        <translation>环境光</translation>
     </message>
 </context>
 <context>
@@ -9184,39 +9184,39 @@
     </message>
     <message>
         <source>Pick the camera. Cuts stay staged until you save.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择摄像机。保存前，剪切结果只会暂存。</translation>
     </message>
     <message>
         <source>Ready to set up</source>
-        <translation type="unfinished"></translation>
+        <translation>准备设置</translation>
     </message>
     <message>
         <source>No angles to switch between</source>
-        <translation type="unfinished"></translation>
+        <translation>没有可切换的机位</translation>
     </message>
     <message>
         <source>Your imported videos will go on a track each, stacked so the top camera is the program.</source>
-        <translation type="unfinished"></translation>
+        <translation>导入的视频会分别放在独立轨道上，并上下堆叠；最上方的摄像机将作为主输出。</translation>
     </message>
     <message>
         <source>Select at least two video clips on different tracks, then open Multicam again.</source>
-        <translation type="unfinished"></translation>
+        <translation>请在不同轨道上至少选择两个视频片段，然后重新打开多机位功能。</translation>
     </message>
     <message>
         <source>Set up from my media</source>
-        <translation type="unfinished"></translation>
+        <translation>使用我的媒体设置</translation>
     </message>
     <message>
         <source>Nothing here</source>
-        <translation type="unfinished"></translation>
+        <translation>这里没有内容</translation>
     </message>
     <message>
         <source>Switch the program to %1 (key %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>将主输出切换为 %1（按键 %2）</translation>
     </message>
     <message>
         <source>No clip at the current time</source>
-        <translation type="unfinished"></translation>
+        <translation>当前时间没有片段</translation>
     </message>
     <message>
         <source>GPU preview unavailable — see Help → Debug info</source>
@@ -9640,7 +9640,7 @@
     </message>
     <message>
         <source>No clip at the current time</source>
-        <translation type="unfinished"></translation>
+        <translation>当前时间没有片段</translation>
     </message>
     <message>
         <source>Seek</source>
@@ -11101,7 +11101,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>尺寸</translation>
     </message>
     <message>
         <source>100% (system)</source>
@@ -12737,7 +12737,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>尺寸</translation>
     </message>
     <message>
         <source>Stroke</source>
@@ -13101,7 +13101,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>循环</translation>
     </message>
     <message>
         <source>Plays for every caption</source>
@@ -14672,7 +14672,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>跳过</translation>
     </message>
     <message>
         <source>Don&apos;t mention %1 again. Later releases are still announced.</source>
@@ -14810,19 +14810,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>After the end</source>
-        <translation type="unfinished"></translation>
+        <translation>结束后</translation>
     </message>
     <message>
         <source>Hold last frame</source>
-        <translation type="unfinished"></translation>
+        <translation>停留在最后一帧</translation>
     </message>
     <message>
         <source>Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>循环</translation>
     </message>
     <message>
         <source>Ping-pong</source>
-        <translation type="unfinished"></translation>
+        <translation>往返循环</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -14830,11 +14830,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>What plays once the animation has run its length</source>
-        <translation type="unfinished"></translation>
+        <translation>动画播放完毕后的行为</translation>
     </message>
     <message>
         <source>Start offset</source>
-        <translation type="unfinished"></translation>
+        <translation>起始偏移</translation>
     </message>
     <message>
         <source>Appearance</source>
