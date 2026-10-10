@@ -7057,19 +7057,19 @@
     </message>
     <message>
         <source>Custom model: %1 (missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Custom model: %1 (nawawala)</translation>
     </message>
     <message>
         <source>Custom model: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Custom model: %1</translation>
     </message>
     <message>
         <source>Delete prop…</source>
-        <translation type="unfinished"></translation>
+        <translation>Burahin ang prop…</translation>
     </message>
     <message>
         <source>Delete this prop?</source>
-        <translation type="unfinished"></translation>
+        <translation>Burahin ang prop na ito?</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -7077,34 +7077,34 @@
     </message>
     <message>
         <source>“%1” will be removed from your face props. Effects using it will show it as missing until it is imported again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aalisin ang “%1” sa face props mo. Ipapakitang nawawala ang mga effect na gumagamit nito hanggang ma-import itong muli.</translation>
     </message>
 </context>
 <context>
     <name>FadeCurveWindow</name>
     <message>
         <source>Custom curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Custom curve</translation>
     </message>
     <message>
         <source>Progress curve — %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Progress curve — %1</translation>
     </message>
     <message>
         <source>Progress curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Progress curve</translation>
     </message>
     <message>
         <source>Fade shape — %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fade shape — %1</translation>
     </message>
     <message>
         <source>Fade shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Fade shape</translation>
     </message>
     <message>
         <source>Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga punto</translation>
     </message>
     <message>
         <source>Bezier</source>
@@ -7120,7 +7120,7 @@
     </message>
     <message>
         <source>Ease</source>
-        <translation type="unfinished"></translation>
+        <translation>Ease</translation>
     </message>
     <message>
         <source>Natural</source>
@@ -7128,19 +7128,19 @@
     </message>
     <message>
         <source>Ease In</source>
-        <translation type="unfinished"></translation>
+        <translation>Ease In</translation>
     </message>
     <message>
         <source>Ease Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Ease Out</translation>
     </message>
     <message>
         <source>Drag the two handles to shape the cubic. The ends stay pinned, and handles are held inside the box so the curve cannot fold back on itself.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drag ang dalawang handle para hubugin ang cubic curve. Naka-lock ang mga dulo at nasa loob ng kahon ang mga handle para hindi bumaluktot pabalik ang curve.</translation>
     </message>
     <message>
         <source>Drag the middle points to shape the ramp (ends stay silent→full). Double-click to add a point; Delete removes the selection.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drag ang gitnang mga punto para hubugin ang ramp (mananatiling tahimik→buo ang mga dulo). I-double-click para magdagdag ng punto; Delete para alisin ang napili.</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -7170,26 +7170,26 @@
     <name>FontCatalog</name>
     <message>
         <source>High-Impact &amp; Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Matapang at kapansin-pansin</translation>
     </message>
     <message>
         <source>Clean &amp; Minimal</source>
-        <translation type="unfinished"></translation>
+        <translation>Malinis at minimal</translation>
     </message>
     <message>
         <source>Classy &amp; Editorial</source>
-        <translation type="unfinished"></translation>
+        <translation>Elegante at editorial</translation>
     </message>
     <message>
         <source>Creative &amp; Playful</source>
-        <translation type="unfinished"></translation>
+        <translation>Malikhain at mapaglaro</translation>
     </message>
 </context>
 <context>
     <name>FontPicker</name>
     <message>
         <source>Install the font pack for curated families →</source>
-        <translation type="unfinished"></translation>
+        <translation>I-install ang font pack para sa mga piling font family →</translation>
     </message>
 </context>
 <context>
@@ -7204,7 +7204,7 @@
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Larawan</translation>
     </message>
     <message>
         <source>Text</source>
@@ -7212,15 +7212,15 @@
     </message>
     <message>
         <source>Subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtitle</translation>
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Hugis</translation>
     </message>
     <message>
         <source>Sticker</source>
-        <translation type="unfinished"></translation>
+        <translation>Sticker</translation>
     </message>
     <message>
         <source>Adjustment</source>
@@ -8391,7 +8391,7 @@
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Hugis</translation>
     </message>
     <message>
         <source>Rectangle</source>
@@ -9319,7 +9319,7 @@
     </message>
     <message>
         <source>Subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtitle</translation>
     </message>
     <message>
         <source>Graphic</source>
@@ -10061,7 +10061,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Hugis</translation>
     </message>
     <message>
         <source>Motion</source>
@@ -10164,7 +10164,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Ease</source>
-        <translation type="unfinished"></translation>
+        <translation>Ease</translation>
     </message>
     <message>
         <source>Ease — accelerates out and decelerates in</source>
@@ -11540,7 +11540,7 @@ If playback stutters, try another.</source>
     <name>ShapeInspector</name>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Hugis</translation>
     </message>
     <message>
         <source>Shape drawn by this clip</source>
@@ -11596,7 +11596,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga punto</translation>
     </message>
     <message>
         <source>Inner radius</source>
@@ -11779,7 +11779,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga punto</translation>
     </message>
 </context>
 <context>
@@ -12816,7 +12816,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Ease</source>
-        <translation type="unfinished"></translation>
+        <translation>Ease</translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -14044,7 +14044,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtitle</translation>
     </message>
     <message>
         <source>Graphic</source>
@@ -14386,7 +14386,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtitle</translation>
     </message>
     <message>
         <source>Graphic</source>
