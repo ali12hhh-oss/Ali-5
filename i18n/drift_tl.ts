@@ -8577,71 +8577,71 @@
     </message>
     <message>
         <source>Vector</source>
-        <translation type="unfinished"></translation>
+        <translation>Vector</translation>
     </message>
     <message>
         <source>3D</source>
-        <translation type="unfinished"></translation>
+        <translation>3D</translation>
     </message>
     <message>
         <source>Search media</source>
-        <translation type="unfinished"></translation>
+        <translation>Maghanap ng media</translation>
     </message>
     <message>
         <source>Grid view</source>
-        <translation type="unfinished"></translation>
+        <translation>Grid view</translation>
     </message>
     <message>
         <source>List view</source>
-        <translation type="unfinished"></translation>
+        <translation>List view</translation>
     </message>
     <message>
         <source>Tree view</source>
-        <translation type="unfinished"></translation>
+        <translation>Tree view</translation>
     </message>
     <message>
         <source>Sort by name</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagbukud-bukurin ayon sa pangalan</translation>
     </message>
     <message>
         <source>Sort by type</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagbukud-bukurin ayon sa uri</translation>
     </message>
     <message>
         <source>Expand all</source>
-        <translation type="unfinished"></translation>
+        <translation>Palawakin lahat</translation>
     </message>
     <message>
         <source>Collapse all</source>
-        <translation type="unfinished"></translation>
+        <translation>I-collapse lahat</translation>
     </message>
     <message>
         <source>No media match “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang media na tumutugma sa “%1”</translation>
     </message>
     <message>
         <source>Try a different name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Subukan ang ibang pangalan.</translation>
     </message>
     <message>
         <source>Creating proxy for %1 (%2 more)</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumagawa ng proxy para sa %1 (%2 pa)</translation>
     </message>
     <message>
         <source>Creating proxy for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumagawa ng proxy para sa %1</translation>
     </message>
     <message>
         <source>Stop creating proxies</source>
-        <translation type="unfinished"></translation>
+        <translation>Itigil ang paggawa ng proxy</translation>
     </message>
     <message>
         <source>Converting %1 to an edit-friendly format</source>
-        <translation type="unfinished"></translation>
+        <translation>Kino-convert ang %1 sa format na madaling i-edit</translation>
     </message>
     <message>
         <source>Stop converting</source>
-        <translation type="unfinished"></translation>
+        <translation>Itigil ang pag-convert</translation>
     </message>
     <message>
         <source>Rename…</source>
@@ -8649,7 +8649,7 @@
     </message>
     <message>
         <source>%1 — drag to the timeline, right-click to preview</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 — i-drag sa timeline, right-click para i-preview</translation>
     </message>
     <message>
         <source>Open composite</source>
@@ -8657,15 +8657,15 @@
     </message>
     <message>
         <source>Preview and edit…</source>
-        <translation type="unfinished"></translation>
+        <translation>I-preview at i-edit…</translation>
     </message>
     <message>
         <source>Trim, crop and upscale…</source>
-        <translation type="unfinished"></translation>
+        <translation>I-trim, i-crop, at i-upscale…</translation>
     </message>
     <message>
         <source>Replace media…</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang media…</translation>
     </message>
     <message numerus="yes">
         <source>Create %n proxies</source>
@@ -8676,7 +8676,7 @@
     </message>
     <message>
         <source>Create proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumawa ng proxy</translation>
     </message>
     <message numerus="yes">
         <source>Remove %n proxies</source>
@@ -8687,15 +8687,15 @@
     </message>
     <message>
         <source>Remove proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang proxy</translation>
     </message>
     <message>
         <source>Export image…</source>
-        <translation type="unfinished"></translation>
+        <translation>I-export ang larawan…</translation>
     </message>
     <message>
         <source>Remove from project</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin sa project</translation>
     </message>
     <message>
         <source>Proxy</source>
@@ -8711,23 +8711,23 @@
     </message>
     <message>
         <source>Collapse folder</source>
-        <translation type="unfinished"></translation>
+        <translation>I-collapse ang folder</translation>
     </message>
     <message>
         <source>Expand folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Palawakin ang folder</translation>
     </message>
     <message>
         <source>Move to folder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilipat sa folder…</translation>
     </message>
     <message>
         <source>This folder is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang laman ang folder na ito</translation>
     </message>
     <message>
         <source>Drag media here, or import more.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drag ang media dito o mag-import pa.</translation>
     </message>
     <message>
         <source>Open</source>
@@ -8771,7 +8771,7 @@
     <name>MediaImport</name>
     <message>
         <source>An import is already running.</source>
-        <translation type="unfinished"></translation>
+        <translation>May kasalukuyang tumatakbong import.</translation>
     </message>
     <message>
         <source>Import Media</source>
@@ -8779,27 +8779,27 @@
     </message>
     <message>
         <source>Could not open that file. This package cannot read files dropped from other apps — use Import to pick them instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabuksan ang file. Hindi mabasa ng package na ito ang mga file na na-drop mula sa ibang app—gamitin ang Import para piliin ang mga ito.</translation>
     </message>
     <message>
         <source>Could not open those files. This package cannot read files dropped from other apps — use Import to pick them instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabuksan ang mga file na iyon. Hindi mabasa ng package na ito ang mga file na na-drop mula sa ibang app—gamitin ang Import para piliin ang mga ito.</translation>
     </message>
     <message>
         <source>Could not open that file. It may have been moved, or you may not have permission to read it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabuksan ang file. Maaaring nailipat ito o wala kang pahintulot na basahin ito.</translation>
     </message>
     <message>
         <source>Could not open any of the selected files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang mabuksan sa mga napiling file.</translation>
     </message>
     <message>
         <source>Could not read %1 — that image format is not supported by this build.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabasa ang %1 — hindi suportado ng build na ito ang format ng larawang iyon.</translation>
     </message>
     <message>
         <source>Could not read that file — the format is not supported by this build.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabasa ang file na iyon — hindi suportado ng build na ito ang format.</translation>
     </message>
     <message numerus="yes">
         <source>%n clip(s) may play back slowly. A proxy makes previewing smoother; export still uses the original.</source>
@@ -8810,7 +8810,7 @@
     </message>
     <message>
         <source>Create proxies</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumawa ng mga proxy</translation>
     </message>
     <message numerus="yes">
         <source>%n clip(s) have a variable frame rate, which can drift out of sync with audio. Convert them to an edit-friendly format to fix it.</source>
@@ -8825,11 +8825,11 @@
     </message>
     <message>
         <source>Imported %1 of %2 files. The rest could not be opened — this package cannot read files dropped from other apps. Use Import instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-import ang %1 sa %2 file. Hindi mabuksan ang natitira—hindi mabasa ng package na ito ang mga file na na-drop mula sa ibang app. Gamitin ang Import.</translation>
     </message>
     <message>
         <source>Imported %1 of %2 files. %3 could not be read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-import ang %1 sa %2 file. Hindi mabasa ang %3.</translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files.</source>
@@ -8840,7 +8840,7 @@
     </message>
     <message>
         <source>Could not import that file — the format may be unsupported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-import ang file—maaaring hindi suportado ang format.</translation>
     </message>
     <message numerus="yes">
         <source>Could not import any of the %n selected files.</source>
@@ -8854,7 +8854,7 @@
     <name>MediaPreviewWindow</name>
     <message>
         <source>Preview — %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Preview — %1</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -8862,15 +8862,15 @@
     </message>
     <message>
         <source>Play the clip and drag the ends to keep only the part you want. Save replaces this item in the media bin.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-play ang clip at i-drag ang mga dulo para panatilihin ang bahaging gusto mo. Papalitan ng Save ang item na ito sa media bin.</translation>
     </message>
     <message>
         <source>Drag the frame to crop. Save replaces this item in the media bin — then drag it onto the timeline.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drag ang frame para i-crop. Papalitan ng Save ang item sa media bin—pagkatapos ay i-drag ito sa timeline.</translation>
     </message>
     <message>
         <source>Drag the frame to choose the area to use. The original video stays available for reframing.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-drag ang frame para piliin ang bahaging gagamitin. Mananatiling available ang orihinal na video para baguhin ang framing.</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -8882,15 +8882,15 @@
     </message>
     <message>
         <source>Set In</source>
-        <translation type="unfinished"></translation>
+        <translation>Itakda ang In</translation>
     </message>
     <message>
         <source>Set Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Itakda ang Out</translation>
     </message>
     <message>
         <source>Original: %1×%2 • Frame: %3×%4</source>
-        <translation type="unfinished"></translation>
+        <translation>Orihinal: %1×%2 • Frame: %3×%4</translation>
     </message>
     <message>
         <source>Unlock source frame ratio</source>
@@ -8906,27 +8906,27 @@
     </message>
     <message>
         <source>Upscale this video?</source>
-        <translation type="unfinished"></translation>
+        <translation>I-upscale ang video na ito?</translation>
     </message>
     <message>
         <source>%1p</source>
-        <translation type="unfinished"></translation>
+        <translation>%1p</translation>
     </message>
     <message>
         <source>Length %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Haba %1</translation>
     </message>
     <message>
         <source>This video is under 700 pixels on its shorter side. Upscaling it with an AI model can make it look sharper.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mas mababa sa 700 pixels ang mas maikling gilid ng video. Maaaring luminaw ito kapag ini-upscale gamit ang AI model.</translation>
     </message>
     <message>
         <source>This resolution is already good for most projects. You can still upscale it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sapat na ang resolution na ito para sa karamihan ng project, pero maaari mo pa rin itong i-upscale.</translation>
     </message>
     <message>
         <source>Done keeps the original video and stores this range and framing. Upscale renders them as a new video in the media bin, then opens it in the Enhance window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinananatili ng Done ang orihinal na video at sine-save ang range at framing. Gagawa ang Upscale ng bagong video sa media bin at bubuksan ito sa Enhance window.</translation>
     </message>
     <message>
         <source>Saving…</source>
@@ -8934,7 +8934,7 @@
     </message>
     <message>
         <source>Choose the part and framing to keep, then Next.</source>
-        <translation type="unfinished"></translation>
+        <translation>Piliin ang bahaging at framing na pananatilihin, pagkatapos ay Next.</translation>
     </message>
     <message>
         <source>Save writes a new file over this item in the bin.</source>
@@ -12155,7 +12155,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Try a different name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Subukan ang ibang pangalan.</translation>
     </message>
     <message>
         <source>Star stickers to save them here.</source>
@@ -14633,7 +14633,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Try a different name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Subukan ang ibang pangalan.</translation>
     </message>
     <message>
         <source>Star transitions to save them here.</source>
