@@ -3781,115 +3781,115 @@
     </message>
     <message>
         <source>Keyframes enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดใช้คีย์เฟรมแล้ว</translation>
     </message>
     <message>
         <source>Keyframes disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดใช้คีย์เฟรมแล้ว</translation>
     </message>
     <message>
         <source>Keyframe easing changed</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยน easing ของคีย์เฟรมแล้ว</translation>
     </message>
     <message>
         <source>Keyframe easing updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดต easing ของคีย์เฟรมแล้ว</translation>
     </message>
     <message>
         <source>Keyframe curve changed</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนเส้นโค้งคีย์เฟรมแล้ว</translation>
     </message>
     <message>
         <source>Keyframe curve updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตเส้นโค้งคีย์เฟรมแล้ว</translation>
     </message>
     <message>
         <source>Keyframe hold changed</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนการค้างคีย์เฟรมแล้ว</translation>
     </message>
     <message>
         <source>Keyframe holds</source>
-        <translation type="unfinished"></translation>
+        <translation>การค้างคีย์เฟรม</translation>
     </message>
     <message>
         <source>Keyframe interpolates</source>
-        <translation type="unfinished"></translation>
+        <translation>การอินเตอร์โพเลตคีย์เฟรม</translation>
     </message>
     <message>
         <source>Reset transform</source>
-        <translation type="unfinished"></translation>
+        <translation>รีเซ็ตการแปลง</translation>
     </message>
     <message>
         <source>Transform reset</source>
-        <translation type="unfinished"></translation>
+        <translation>รีเซ็ตการแปลงแล้ว</translation>
     </message>
     <message>
         <source>Depth effects read one clip&apos;s depth, so they go on a clip, not on an adjustment layer.</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์ความลึกอ่านข้อมูลความลึกจากคลิปเดียว จึงต้องใส่บนคลิป ไม่ใช่เลเยอร์ปรับแต่ง</translation>
     </message>
     <message>
         <source>Face effects follow one clip&apos;s faces, so they go on a clip, not on an adjustment layer.</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์ใบหน้าติดตามใบหน้าในคลิปเดียว จึงต้องใส่บนคลิป ไม่ใช่เลเยอร์ปรับแต่ง</translation>
     </message>
     <message>
         <source>Add effect</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเอฟเฟกต์</translation>
     </message>
     <message>
         <source>Effect added</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเอฟเฟกต์แล้ว</translation>
     </message>
     <message>
         <source>Apply effect template</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้เทมเพลตเอฟเฟกต์</translation>
     </message>
     <message>
         <source>Template applied</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้เทมเพลตแล้ว</translation>
     </message>
     <message>
         <source>This effect needs a subject cutout — open Extras to install it</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์นี้ต้องใช้ส่วนเสริมแยกวัตถุ โปรดเปิดส่วนเสริมเพื่อติดตั้ง</translation>
     </message>
     <message>
         <source>Remove effect</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเอฟเฟกต์ออก</translation>
     </message>
     <message>
         <source>Effect removed</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเอฟเฟกต์ออกแล้ว</translation>
     </message>
     <message>
         <source>Enable effect</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดใช้เอฟเฟกต์</translation>
     </message>
     <message>
         <source>Disable effect</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดใช้เอฟเฟกต์</translation>
     </message>
     <message>
         <source>Effect enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดใช้เอฟเฟกต์แล้ว</translation>
     </message>
     <message>
         <source>Effect disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดใช้เอฟเฟกต์แล้ว</translation>
     </message>
     <message>
         <source>Reorder effect</source>
-        <translation type="unfinished"></translation>
+        <translation>จัดลำดับเอฟเฟกต์ใหม่</translation>
     </message>
     <message>
         <source>Effect reordered</source>
-        <translation type="unfinished"></translation>
+        <translation>จัดลำดับเอฟเฟกต์ใหม่แล้ว</translation>
     </message>
     <message>
         <source>Effect updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตเอฟเฟกต์แล้ว</translation>
     </message>
     <message>
         <source>Could not read the selected file</source>
-        <translation type="unfinished"></translation>
+        <translation>อ่านไฟล์ที่เลือกไม่ได้</translation>
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s)</source>
@@ -3906,91 +3906,91 @@
     </message>
     <message>
         <source>No face props were imported</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีการนำเข้าอุปกรณ์ใบหน้า</translation>
     </message>
     <message>
         <source>That style shares its folder with other styles</source>
-        <translation type="unfinished"></translation>
+        <translation>สไตล์นี้ใช้โฟลเดอร์ร่วมกับสไตล์อื่น</translation>
     </message>
     <message>
         <source>Could not delete the face prop</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบอุปกรณ์ใบหน้าไม่ได้</translation>
     </message>
     <message>
         <source>Face prop deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบอุปกรณ์ใบหน้าแล้ว</translation>
     </message>
     <message>
         <source>Add face prop</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มอุปกรณ์ใบหน้า</translation>
     </message>
     <message>
         <source>Apply face prop</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้เอฟเฟกต์อุปกรณ์ใบหน้า</translation>
     </message>
     <message>
         <source>Face prop applied</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้อุปกรณ์ใบหน้าแล้ว</translation>
     </message>
     <message>
         <source>Add audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเอฟเฟกต์เสียง</translation>
     </message>
     <message>
         <source>Audio effect added</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเอฟเฟกต์เสียงแล้ว</translation>
     </message>
     <message>
         <source>Remove audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเอฟเฟกต์เสียงออก</translation>
     </message>
     <message>
         <source>Audio effect removed</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเอฟเฟกต์เสียงออกแล้ว</translation>
     </message>
     <message>
         <source>Enable audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดใช้เอฟเฟกต์เสียง</translation>
     </message>
     <message>
         <source>Disable audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดใช้เอฟเฟกต์เสียง</translation>
     </message>
     <message>
         <source>Audio effect enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดใช้เอฟเฟกต์เสียงแล้ว</translation>
     </message>
     <message>
         <source>Audio effect disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดใช้เอฟเฟกต์เสียงแล้ว</translation>
     </message>
     <message>
         <source>Reorder audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>จัดลำดับเอฟเฟกต์เสียงใหม่</translation>
     </message>
     <message>
         <source>Audio effect reordered</source>
-        <translation type="unfinished"></translation>
+        <translation>จัดลำดับเอฟเฟกต์เสียงใหม่แล้ว</translation>
     </message>
     <message>
         <source>Edit audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขเอฟเฟกต์เสียง</translation>
     </message>
     <message>
         <source>Audio effect updated</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตเอฟเฟกต์เสียงแล้ว</translation>
     </message>
     <message>
         <source>This stack uses “%1”, which isn’t installed — it won’t show. Open Extras to install it.</source>
-        <translation type="unfinished"></translation>
+        <translation>สแตกนี้ใช้ “%1” ซึ่งยังไม่ได้ติดตั้ง จึงไม่แสดงผล เปิดส่วนเสริมเพื่อติดตั้ง</translation>
     </message>
     <message>
         <source>This stack uses %1 effects that aren’t installed — they won’t show. Open Extras to install them.</source>
-        <translation type="unfinished"></translation>
+        <translation>สแตกนี้ใช้เอฟเฟกต์ %1 รายการที่ยังไม่ได้ติดตั้ง จึงไม่แสดงผล เปิดส่วนเสริมเพื่อติดตั้ง</translation>
     </message>
     <message>
         <source>Effect copied</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกเอฟเฟกต์แล้ว</translation>
     </message>
     <message>
         <source>Audio effect copied</source>
@@ -4969,11 +4969,11 @@
     </message>
     <message>
         <source>Disable audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดใช้เอฟเฟกต์เสียง</translation>
     </message>
     <message>
         <source>Enable audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดใช้เอฟเฟกต์เสียง</translation>
     </message>
     <message>
         <source>Copy this audio effect</source>
@@ -4981,7 +4981,7 @@
     </message>
     <message>
         <source>Remove audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเอฟเฟกต์เสียงออก</translation>
     </message>
     <message>
         <source>On</source>
@@ -4993,7 +4993,7 @@
     </message>
     <message>
         <source>Edit audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขเอฟเฟกต์เสียง</translation>
     </message>
 </context>
 <context>
@@ -6556,15 +6556,15 @@
     </message>
     <message>
         <source>Disable effect</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดใช้เอฟเฟกต์</translation>
     </message>
     <message>
         <source>Enable effect</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดใช้เอฟเฟกต์</translation>
     </message>
     <message>
         <source>Remove effect</source>
-        <translation type="unfinished"></translation>
+        <translation>นำเอฟเฟกต์ออก</translation>
     </message>
     <message>
         <source>On</source>
