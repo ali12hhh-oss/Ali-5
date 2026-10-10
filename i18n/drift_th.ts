@@ -6808,54 +6808,54 @@
     </message>
     <message>
         <source>kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>kbps</translation>
     </message>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>พรีเซ็ต</translation>
     </message>
     <message>
         <source>Audio encoder</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวเข้ารหัสเสียง</translation>
     </message>
     <message>
         <source>Animated GIF — no audio. Mark a work area for short loops, or export up to 60 seconds.</source>
-        <translation type="unfinished"></translation>
+        <translation>GIF เคลื่อนไหวไม่มีเสียง ทำเครื่องหมายพื้นที่ทำงานสำหรับคลิปวนสั้น ๆ หรือส่งออกได้นานสูงสุด 60 วินาที</translation>
     </message>
     <message>
         <source>15 fps is a good default for small file sizes. GIF export is limited to 60 seconds.</source>
-        <translation type="unfinished"></translation>
+        <translation>15 fps เป็นค่าเริ่มต้นที่เหมาะสำหรับไฟล์ขนาดเล็ก การส่งออก GIF จำกัดไว้ที่ 60 วินาที</translation>
     </message>
     <message>
         <source>Exports the timeline audio mix only — no video track.</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกเฉพาะมิกซ์เสียงจากไทม์ไลน์ ไม่มีแทร็กวิดีโอ</translation>
     </message>
     <message>
         <source>Tags</source>
-        <translation type="unfinished"></translation>
+        <translation>แท็ก</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อเรื่อง</translation>
     </message>
     <message>
         <source>Artist</source>
-        <translation type="unfinished"></translation>
+        <translation>ศิลปิน</translation>
     </message>
     <message>
         <source>Album</source>
-        <translation type="unfinished"></translation>
+        <translation>อัลบั้ม</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>ความคิดเห็น</translation>
     </message>
 </context>
 <context>
     <name>ExportProgressDialog</name>
     <message>
         <source>Exporting video</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังส่งออกวิดีโอ</translation>
     </message>
     <message>
         <source>Export</source>
@@ -6863,7 +6863,7 @@
     </message>
     <message>
         <source>Cancel export</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการส่งออก</translation>
     </message>
     <message>
         <source>Close</source>
@@ -6871,7 +6871,7 @@
     </message>
     <message>
         <source>Rendering your video. Close to keep editing, or cancel to stop.</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังเรนเดอร์วิดีโอ ปิดหน้าต่างเพื่อแก้ไขต่อ หรือยกเลิกเพื่อหยุด</translation>
     </message>
     <message>
         <source>Export finished.</source>
@@ -6883,46 +6883,46 @@
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>แชร์</translation>
     </message>
 </context>
 <context>
     <name>FacePropImport</name>
     <message>
         <source>%1 is not a binary glTF model</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ไม่ใช่โมเดล binary glTF</translation>
     </message>
     <message>
         <source>Could not write to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>เขียนไปยัง %1 ไม่ได้</translation>
     </message>
     <message>
         <source>prop.json is not valid JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>prop.json ไม่ใช่ JSON ที่ถูกต้อง</translation>
     </message>
     <message>
         <source>prop.json is not a face prop</source>
-        <translation type="unfinished"></translation>
+        <translation>prop.json ไม่ใช่อุปกรณ์ตกแต่งใบหน้า</translation>
     </message>
     <message>
         <source>prop.json needs a newer version of Drift</source>
-        <translation type="unfinished"></translation>
+        <translation>prop.json ต้องใช้ Drift เวอร์ชันใหม่กว่า</translation>
     </message>
     <message>
         <source>invalid prop id “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>รหัส prop “%1” ไม่ถูกต้อง</translation>
     </message>
     <message>
         <source>prop.json must name a .glb model in the prop folder</source>
-        <translation type="unfinished"></translation>
+        <translation>prop.json ต้องระบุโมเดล .glb ในโฟลเดอร์ prop</translation>
     </message>
     <message>
         <source>prop.json thumbnail must be a file in the prop folder</source>
-        <translation type="unfinished"></translation>
+        <translation>ภาพขนาดย่อใน prop.json ต้องเป็นไฟล์ในโฟลเดอร์ prop</translation>
     </message>
     <message>
         <source>prop.json names the same file twice</source>
-        <translation type="unfinished"></translation>
+        <translation>prop.json ระบุไฟล์เดียวกันซ้ำสองครั้ง</translation>
     </message>
     <message>
         <source>param “%1” must be a number</source>
@@ -7139,7 +7139,7 @@
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>แชร์</translation>
     </message>
 </context>
 <context>
@@ -9930,7 +9930,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อเรื่อง</translation>
     </message>
     <message>
         <source>Untitled Project</source>
@@ -12961,7 +12961,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>พรีเซ็ต</translation>
     </message>
     <message>
         <source>A whole text style — font, colour and effect — applied in one tap</source>
