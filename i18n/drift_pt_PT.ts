@@ -3694,9 +3694,9 @@
     </message>
     <message numerus="yes">
         <source>Created %n text clips</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Foram criados %n clips de texto</numerusform>
+            <numerusform>Foram criados %n clips de texto</numerusform>
         </translation>
     </message>
     <message>
@@ -3908,9 +3908,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Foram importados %n acessórios faciais</numerusform>
+            <numerusform>Foram importados %n acessórios faciais</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -4038,9 +4038,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted attributes onto %n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Atributos colados em %n clips</numerusform>
+            <numerusform>Atributos colados em %n clips</numerusform>
         </translation>
     </message>
     <message>
@@ -4205,9 +4205,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted %n clips</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Foram colados %n clips</numerusform>
+            <numerusform>Foram colados %n clips</numerusform>
         </translation>
     </message>
     <message>
@@ -8735,9 +8735,9 @@
     </message>
     <message numerus="yes">
         <source>Move %n items to folder…</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Mover %n itens para a pasta…</numerusform>
+            <numerusform>Mover %n itens para a pasta…</numerusform>
         </translation>
     </message>
     <message>
@@ -13965,9 +13965,9 @@ Se a reprodução travar, experimente outro.</translation>
     </message>
     <message numerus="yes">
         <source>This removes the track and its %n clips. You can undo afterwards.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Isto remove a faixa e os seus %n clips. Pode anular depois.</numerusform>
+            <numerusform>Isto remove a faixa e os seus %n clips. Pode anular depois.</numerusform>
         </translation>
     </message>
     <message>
