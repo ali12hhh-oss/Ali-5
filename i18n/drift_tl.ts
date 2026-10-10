@@ -2969,27 +2969,27 @@
     </message>
     <message>
         <source>Adjustment detached</source>
-        <translation type="unfinished"></translation>
+        <translation>Inihiwalay ang adjustment</translation>
     </message>
     <message>
         <source>Unlink adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>I-unlink ang adjustment</translation>
     </message>
     <message>
         <source>Adjustment unlinked</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-unlink ang adjustment</translation>
     </message>
     <message>
         <source>Link adjustment to clip</source>
-        <translation type="unfinished"></translation>
+        <translation>I-link ang adjustment sa clip</translation>
     </message>
     <message>
         <source>Adjustment linked</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-link ang adjustment</translation>
     </message>
     <message>
         <source>Install the emoji sticker pack to add emoji</source>
-        <translation type="unfinished"></translation>
+        <translation>I-install ang emoji sticker pack para magdagdag ng emoji</translation>
     </message>
     <message>
         <source>Frame rate</source>
@@ -2997,99 +2997,99 @@
     </message>
     <message>
         <source>Project setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Setup ng proyekto</translation>
     </message>
     <message>
         <source>Project setup updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang setup ng proyekto</translation>
     </message>
     <message>
         <source>Crop canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>I-crop ang canvas</translation>
     </message>
     <message>
         <source>Video size cropped to %1×%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-crop ang laki ng video sa %1×%2</translation>
     </message>
     <message>
         <source>Change background</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang background</translation>
     </message>
     <message>
         <source>Background updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang background</translation>
     </message>
     <message>
         <source>Edit clip</source>
-        <translation type="unfinished"></translation>
+        <translation>I-edit ang clip</translation>
     </message>
     <message>
         <source>Turn on Auto keyframes to move this</source>
-        <translation type="unfinished"></translation>
+        <translation>I-on ang Auto keyframes para mailipat ito</translation>
     </message>
     <message>
         <source>Move clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilipat ang clip</translation>
     </message>
     <message>
         <source>Turn on Auto keyframes to resize this</source>
-        <translation type="unfinished"></translation>
+        <translation>I-on ang Auto keyframes para baguhin ang laki nito</translation>
     </message>
     <message>
         <source>Resize clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Baguhin ang laki ng clip</translation>
     </message>
     <message>
         <source>Turn on Auto keyframes to change this</source>
-        <translation type="unfinished"></translation>
+        <translation>I-on ang Auto keyframes para baguhin ito</translation>
     </message>
     <message>
         <source>Transform clip</source>
-        <translation type="unfinished"></translation>
+        <translation>I-transform ang clip</translation>
     </message>
     <message>
         <source>Turn on Auto keyframes to rotate this</source>
-        <translation type="unfinished"></translation>
+        <translation>I-on ang Auto keyframes para i-rotate ito</translation>
     </message>
     <message>
         <source>Rotate clip</source>
-        <translation type="unfinished"></translation>
+        <translation>I-rotate ang clip</translation>
     </message>
     <message>
         <source>Turn on Auto keyframes to edit this</source>
-        <translation type="unfinished"></translation>
+        <translation>I-on ang Auto keyframes para i-edit ito</translation>
     </message>
     <message>
         <source>Edit keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>I-edit ang keyframe</translation>
     </message>
     <message>
         <source>Edit effect</source>
-        <translation type="unfinished"></translation>
+        <translation>I-edit ang effect</translation>
     </message>
     <message>
         <source>Speed changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabago ang bilis</translation>
     </message>
     <message>
         <source>Adjust fade</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayusin ang fade</translation>
     </message>
     <message>
         <source>Mask changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabago ang mask</translation>
     </message>
     <message>
         <source>Start updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang simula</translation>
     </message>
     <message>
         <source>Duration updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang tagal</translation>
     </message>
     <message>
         <source>Text updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang text</translation>
     </message>
     <message>
         <source>Rename clip</source>
@@ -3097,87 +3097,87 @@
     </message>
     <message>
         <source>Clip renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinalitan ang pangalan ng clip</translation>
     </message>
     <message>
         <source>Edit text</source>
-        <translation type="unfinished"></translation>
+        <translation>I-edit ang text</translation>
     </message>
     <message>
         <source>Subtitles updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang subtitles</translation>
     </message>
     <message>
         <source>Adjust subtitle timing</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayusin ang timing ng subtitle</translation>
     </message>
     <message>
         <source>Subtitle cue updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang subtitle cue</translation>
     </message>
     <message>
         <source>Edit text style</source>
-        <translation type="unfinished"></translation>
+        <translation>I-edit ang text style</translation>
     </message>
     <message>
         <source>Text style updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-update ang text style</translation>
     </message>
     <message>
         <source>Apply text preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilapat ang text preset</translation>
     </message>
     <message>
         <source>Text preset applied</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-apply ang text preset</translation>
     </message>
     <message>
         <source>Could not save the text style</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-save ang text style</translation>
     </message>
     <message>
         <source>Save text style</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save ang text style</translation>
     </message>
     <message>
         <source>Text style saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-save ang text style</translation>
     </message>
     <message>
         <source>Could not rename the text style</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mapalitan ang pangalan ng text style</translation>
     </message>
     <message>
         <source>Text style renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinalitan ang pangalan ng text style</translation>
     </message>
     <message>
         <source>Could not delete the text style</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi matanggal ang text style</translation>
     </message>
     <message>
         <source>Text style deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-delete ang text style</translation>
     </message>
     <message>
         <source>Could not export the text style</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-export ang text style</translation>
     </message>
     <message>
         <source>Text style exported</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-export ang text style</translation>
     </message>
     <message>
         <source>Could not import the text style</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-import ang text style</translation>
     </message>
     <message>
         <source>Text style imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-import ang text style</translation>
     </message>
     <message>
         <source>Resize text</source>
-        <translation type="unfinished"></translation>
+        <translation>Baguhin ang laki ng text</translation>
     </message>
     <message>
         <source>Blend mode changed</source>
@@ -8360,7 +8360,7 @@
     <name>MaskOverlay</name>
     <message>
         <source>Mask changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabago ang mask</translation>
     </message>
     <message>
         <source>Drag a mask from the Masks tab onto a clip to edit it here</source>
@@ -11938,7 +11938,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Speed changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabago ang bilis</translation>
     </message>
     <message>
         <source>Custom speed</source>
@@ -12728,7 +12728,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Save text style</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save ang text style</translation>
     </message>
     <message>
         <source>My style %1</source>
@@ -13535,7 +13535,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Adjust fade</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayusin ang fade</translation>
     </message>
     <message>
         <source>Fade in %1s</source>
