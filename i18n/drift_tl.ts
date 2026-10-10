@@ -11189,31 +11189,31 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Automatically restore the last open project on startup. Closing still asks you to save; a crash snapshot never overwrites your save file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Awtomatikong ibalik ang huling binuksang proyekto sa pagsisimula. Hihilingin pa ring mag-save kapag nagsara; hindi papalitan ng crash snapshot ang save file.</translation>
     </message>
     <message>
         <source>Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga update</translation>
     </message>
     <message>
         <source>Check on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Suriin sa pagsisimula</translation>
     </message>
     <message>
         <source>Ask GitHub once a day whether a newer Drift has been released</source>
-        <translation type="unfinished"></translation>
+        <translation>Magtanong sa GitHub isang beses bawat araw kung may bagong bersyon ng Drift</translation>
     </message>
     <message>
         <source>Checking…</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinusuri…</translation>
     </message>
     <message>
         <source>Check now</source>
-        <translation type="unfinished"></translation>
+        <translation>Suriin ngayon</translation>
     </message>
     <message>
         <source>Drift %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift %1</translation>
     </message>
     <message>
         <source>Extra packs</source>
@@ -11221,19 +11221,19 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Remind about essential packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Ipaalala ang mahahalagang pack</translation>
     </message>
     <message>
         <source>Pulse the Extras icon when the video, transitions, and audio packs are not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Paganahin ang pag-pulse ng icon na Extras kapag hindi naka-install ang video, transitions, at audio pack</translation>
     </message>
     <message>
         <source>Remind about pack updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Ipaalala ang mga update ng pack</translation>
     </message>
     <message>
         <source>Pulse the Extras icon when updates are available for packs you already have installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Paganahin ang pag-pulse ng icon na Extras kapag may update para sa mga naka-install na pack</translation>
     </message>
     <message>
         <source>Agent access</source>
@@ -11241,7 +11241,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Cloud providers</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga cloud provider</translation>
     </message>
     <message>
         <source>Keys are stored unencrypted in Drift&apos;s settings. ELEVENLABS_API_KEY and FISH_API_KEY in the environment take precedence. Use is billed to your own account.</source>
@@ -11249,27 +11249,27 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Transcription (Scribe), voiceover, sound effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Transkripsyon (Scribe), voiceover, sound effect</translation>
     </message>
     <message>
         <source>Voiceover</source>
-        <translation type="unfinished"></translation>
+        <translation>Voiceover</translation>
     </message>
     <message>
         <source>No key</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang key</translation>
     </message>
     <message>
         <source>Key from the environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Key mula sa environment</translation>
     </message>
     <message>
         <source>Key %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Key %1</translation>
     </message>
     <message>
         <source>Paste API key</source>
-        <translation type="unfinished"></translation>
+        <translation>I-paste ang API key</translation>
     </message>
     <message>
         <source>Save</source>
@@ -11277,7 +11277,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Subukan</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -11285,66 +11285,66 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Allow sending audio and text to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Payagan ang pagpapadala ng audio at text sa %1</translation>
     </message>
     <message>
         <source>Needed before Drift or a connected agent can transcribe or generate audio with this service</source>
-        <translation type="unfinished"></translation>
+        <translation>Kailangan ito bago makapag-transcribe o makagawa ng audio ang Drift o nakakonektang agent gamit ang serbisyong ito</translation>
     </message>
     <message>
         <source>Default voice id</source>
-        <translation type="unfinished"></translation>
+        <translation>Default voice ID</translation>
     </message>
     <message>
         <source>Voice model</source>
-        <translation type="unfinished"></translation>
+        <translation>Voice model</translation>
     </message>
     <message>
         <source>Transcription model</source>
-        <translation type="unfinished"></translation>
+        <translation>Transcription model</translation>
     </message>
     <message>
         <source>Marketplace</source>
-        <translation type="unfinished"></translation>
+        <translation>Marketplace</translation>
     </message>
     <message>
         <source>Account connected (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nakakonekta ang account (%1)</translation>
     </message>
     <message>
         <source>Marketplace account connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Nakakonekta ang account sa Marketplace</translation>
     </message>
     <message>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>Idiskonekta</translation>
     </message>
     <message>
         <source>Unlink the marketplace account from this device</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisin ang pagkakaugnay ng Marketplace account sa device na ito</translation>
     </message>
 </context>
 <context>
     <name>ShadingLayerRow</name>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Punan</translation>
     </message>
     <message>
         <source>Stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>Stroke</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Anino</translation>
     </message>
     <message>
         <source>Glow</source>
-        <translation type="unfinished"></translation>
+        <translation>Glow</translation>
     </message>
     <message>
         <source>Extrude</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrude</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -11396,47 +11396,47 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Panlabas</translation>
     </message>
     <message>
         <source>Inside</source>
-        <translation type="unfinished"></translation>
+        <translation>Panloob</translation>
     </message>
     <message>
         <source>Dashed</source>
-        <translation type="unfinished"></translation>
+        <translation>Putol-putol</translation>
     </message>
     <message>
         <source>Dotted</source>
-        <translation type="unfinished"></translation>
+        <translation>May tuldok</translation>
     </message>
     <message>
         <source>Dash-dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Dash-dot</translation>
     </message>
     <message>
         <source>Collapse layer</source>
-        <translation type="unfinished"></translation>
+        <translation>I-collapse ang layer</translation>
     </message>
     <message>
         <source>Expand layer</source>
-        <translation type="unfinished"></translation>
+        <translation>I-expand ang layer</translation>
     </message>
     <message>
         <source>Bring forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Dalhin sa unahan</translation>
     </message>
     <message>
         <source>Send backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Ipadala sa likuran</translation>
     </message>
     <message>
         <source>Hide layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Itago ang layer</translation>
     </message>
     <message>
         <source>Show layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Ipakita ang layer</translation>
     </message>
     <message>
         <source>Duplicate layer</source>
@@ -11452,7 +11452,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Blend</source>
-        <translation type="unfinished"></translation>
+        <translation>Blend</translation>
     </message>
     <message>
         <source>Width</source>
@@ -11460,19 +11460,19 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Placement</source>
-        <translation type="unfinished"></translation>
+        <translation>Paglalagay</translation>
     </message>
     <message>
         <source>Centre the stroke on the outline, grow it outward, or keep it inside</source>
-        <translation type="unfinished"></translation>
+        <translation>Igitna ang stroke sa outline, palawakin palabas, o panatilihin sa loob</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Dash</translation>
     </message>
     <message>
         <source>Dash offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Dash offset</translation>
     </message>
     <message>
         <source>Trim start</source>
@@ -11484,19 +11484,19 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Sketchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Sketchy</translation>
     </message>
     <message>
         <source>Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Segment</translation>
     </message>
     <message>
         <source>Wobble</source>
-        <translation type="unfinished"></translation>
+        <translation>Pag-alon</translation>
     </message>
     <message>
         <source>Seed</source>
-        <translation type="unfinished"></translation>
+        <translation>Seed</translation>
     </message>
     <message>
         <source>Colour</source>
@@ -11504,19 +11504,19 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Choose the layer colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng kulay ng layer</translation>
     </message>
     <message>
         <source>Offset X</source>
-        <translation type="unfinished"></translation>
+        <translation>Offset X</translation>
     </message>
     <message>
         <source>Offset Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Offset Y</translation>
     </message>
     <message>
         <source>Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Radius</translation>
     </message>
     <message>
         <source>Blur</source>
@@ -11524,7 +11524,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Spread</source>
-        <translation type="unfinished"></translation>
+        <translation>Spread</translation>
     </message>
     <message>
         <source>Depth</source>
@@ -11536,11 +11536,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>How much the extruded side fades toward black</source>
-        <translation type="unfinished"></translation>
+        <translation>Gaano kalakas ang pag-fade ng naka-extrude na gilid patungo sa itim</translation>
     </message>
     <message>
         <source>Adjust extrude</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayusin ang extrude</translation>
     </message>
 </context>
 <context>
@@ -11551,23 +11551,23 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Shape drawn by this clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Hugis na iginuhit ng clip na ito</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Punan</translation>
     </message>
     <message>
         <source>Stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>Stroke</translation>
     </message>
     <message>
         <source>Swapping the shape keeps its position, size, style and effects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kapag pinalitan ang hugis, mananatili ang posisyon, laki, estilo, at mga epekto nito.</translation>
     </message>
     <message>
         <source>Layers</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga layer</translation>
     </message>
     <message>
         <source>Add layer</source>
@@ -11575,31 +11575,31 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Add a fill, stroke, shadow, glow or extrude layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng fill, stroke, anino, glow, o extrude layer</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Anino</translation>
     </message>
     <message>
         <source>Glow</source>
-        <translation type="unfinished"></translation>
+        <translation>Glow</translation>
     </message>
     <message>
         <source>Extrude</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrude</translation>
     </message>
     <message>
         <source>No layers. Add a fill to start.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala pang mga layer. Magdagdag ng fill upang magsimula.</translation>
     </message>
     <message>
         <source>Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometry</translation>
     </message>
     <message>
         <source>Corner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Corner radius</translation>
     </message>
     <message>
         <source>Points</source>
@@ -11607,23 +11607,23 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Inner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Inner radius</translation>
     </message>
     <message>
         <source>Head size</source>
-        <translation type="unfinished"></translation>
+        <translation>Laki ng ulo</translation>
     </message>
     <message>
         <source>Thickness</source>
-        <translation type="unfinished"></translation>
+        <translation>Kapal</translation>
     </message>
     <message>
         <source>Tail position</source>
-        <translation type="unfinished"></translation>
+        <translation>Posisyon ng buntot</translation>
     </message>
     <message>
         <source>Tail size</source>
-        <translation type="unfinished"></translation>
+        <translation>Laki ng buntot</translation>
     </message>
 </context>
 <context>
@@ -11634,7 +11634,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Rounded rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Parihabang bilugan</translation>
     </message>
     <message>
         <source>Square</source>
@@ -11646,59 +11646,59 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilog</translation>
     </message>
     <message>
         <source>Triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Tatsulok</translation>
     </message>
     <message>
         <source>Right triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Right triangle</translation>
     </message>
     <message>
         <source>Diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Diyamante</translation>
     </message>
     <message>
         <source>Pentagon</source>
-        <translation type="unfinished"></translation>
+        <translation>Pentagon</translation>
     </message>
     <message>
         <source>Hexagon</source>
-        <translation type="unfinished"></translation>
+        <translation>Hexagon</translation>
     </message>
     <message>
         <source>Octagon</source>
-        <translation type="unfinished"></translation>
+        <translation>Octagon</translation>
     </message>
     <message>
         <source>Parallelogram</source>
-        <translation type="unfinished"></translation>
+        <translation>Parallelogram</translation>
     </message>
     <message>
         <source>Trapezoid</source>
-        <translation type="unfinished"></translation>
+        <translation>Trapezoid</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Palaso</translation>
     </message>
     <message>
         <source>Double arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>ลูกศรสองหัว</translation>
     </message>
     <message>
         <source>Block arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Block arrow</translation>
     </message>
     <message>
         <source>Curved arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Curved arrow</translation>
     </message>
     <message>
         <source>Chevron</source>
-        <translation type="unfinished"></translation>
+        <translation>Chevron</translation>
     </message>
     <message>
         <source>Speech bubble</source>
@@ -11762,27 +11762,27 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Corner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Corner radius</translation>
     </message>
     <message>
         <source>Inner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Inner radius</translation>
     </message>
     <message>
         <source>Head size</source>
-        <translation type="unfinished"></translation>
+        <translation>Laki ng ulo</translation>
     </message>
     <message>
         <source>Thickness</source>
-        <translation type="unfinished"></translation>
+        <translation>Kapal</translation>
     </message>
     <message>
         <source>Tail position</source>
-        <translation type="unfinished"></translation>
+        <translation>Posisyon ng buntot</translation>
     </message>
     <message>
         <source>Tail size</source>
-        <translation type="unfinished"></translation>
+        <translation>Laki ng buntot</translation>
     </message>
     <message>
         <source>Points</source>
@@ -12784,11 +12784,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>Stroke</translation>
     </message>
     <message>
         <source>Extrude</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrude</translation>
     </message>
     <message>
         <source>Decorations</source>
@@ -12864,7 +12864,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Layers</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga layer</translation>
     </message>
     <message>
         <source>Add layer</source>
@@ -12872,11 +12872,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Add a fill, stroke, shadow, glow or extrude layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng fill, stroke, anino, glow, o extrude layer</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Punan</translation>
     </message>
     <message>
         <source>Bend</source>
@@ -12932,7 +12932,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Anino</translation>
     </message>
     <message>
         <source>Background</source>
@@ -12956,7 +12956,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Corner radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Corner radius</translation>
     </message>
     <message>
         <source>Roundness of the background box corners</source>
@@ -12964,7 +12964,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Glow</source>
-        <translation type="unfinished"></translation>
+        <translation>Glow</translation>
     </message>
     <message>
         <source>Text</source>
@@ -13044,7 +13044,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Thickness</source>
-        <translation type="unfinished"></translation>
+        <translation>Kapal</translation>
     </message>
     <message>
         <source>How far the pill extends past the word</source>
@@ -13229,11 +13229,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Offset X</source>
-        <translation type="unfinished"></translation>
+        <translation>Offset X</translation>
     </message>
     <message>
         <source>Offset Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Offset Y</translation>
     </message>
     <message>
         <source>Blur</source>
@@ -13245,7 +13245,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Spread</source>
-        <translation type="unfinished"></translation>
+        <translation>Spread</translation>
     </message>
     <message>
         <source>Trim start</source>
@@ -13257,7 +13257,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Dash offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Dash offset</translation>
     </message>
     <message>
         <source>Sketch length</source>
@@ -13309,23 +13309,23 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Punan</translation>
     </message>
     <message>
         <source>Stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>Stroke</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Anino</translation>
     </message>
     <message>
         <source>Glow</source>
-        <translation type="unfinished"></translation>
+        <translation>Glow</translation>
     </message>
     <message>
         <source>Extrude</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrude</translation>
     </message>
     <message>
         <source>Text size</source>
@@ -14908,11 +14908,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Punan</translation>
     </message>
     <message>
         <source>Stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>Stroke</translation>
     </message>
     <message>
         <source>Stroke width</source>
@@ -14963,11 +14963,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>VectorSource</name>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Punan</translation>
     </message>
     <message>
         <source>Stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>Stroke</translation>
     </message>
     <message>
         <source>Stroke width</source>
@@ -15106,7 +15106,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Anino</translation>
     </message>
     <message>
         <source>Lift</source>
