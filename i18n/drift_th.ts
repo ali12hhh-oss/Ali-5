@@ -3680,9 +3680,9 @@
     </message>
     <message numerus="yes">
         <source>Created %n text clips</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>สร้างคลิปข้อความ %n คลิปแล้ว</numerusform>
+            <numerusform>สร้างคลิปข้อความ %n คลิปแล้ว</numerusform>
         </translation>
     </message>
     <message>
@@ -3893,9 +3893,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>นำเข้าอุปกรณ์ตกแต่งใบหน้า %n รายการแล้ว</numerusform>
+            <numerusform>นำเข้าอุปกรณ์ตกแต่งใบหน้า %n รายการแล้ว</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -4022,9 +4022,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted attributes onto %n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>วางแอตทริบิวต์ลงในคลิป %n คลิปแล้ว</numerusform>
+            <numerusform>วางแอตทริบิวต์ลงในคลิป %n คลิปแล้ว</numerusform>
         </translation>
     </message>
     <message>
@@ -4189,9 +4189,9 @@
     </message>
     <message numerus="yes">
         <source>Pasted %n clips</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>วางคลิป %n คลิปแล้ว</numerusform>
+            <numerusform>วางคลิป %n คลิปแล้ว</numerusform>
         </translation>
     </message>
     <message>
@@ -6059,9 +6059,9 @@
     </message>
     <message numerus="yes">
         <source>Downloads — %n running</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ดาวน์โหลด — กำลังดำเนินการ %n รายการ</numerusform>
+            <numerusform>ดาวน์โหลด — กำลังดำเนินการ %n รายการ</numerusform>
         </translation>
     </message>
     <message>
@@ -8634,9 +8634,9 @@
     </message>
     <message numerus="yes">
         <source>Create %n proxies</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>สร้างพร็อกซี %n รายการ</numerusform>
+            <numerusform>สร้างพร็อกซี %n รายการ</numerusform>
         </translation>
     </message>
     <message>
@@ -8645,9 +8645,9 @@
     </message>
     <message numerus="yes">
         <source>Remove %n proxies</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ลบพร็อกซี %n รายการ</numerusform>
+            <numerusform>ลบพร็อกซี %n รายการ</numerusform>
         </translation>
     </message>
     <message>
@@ -8704,9 +8704,9 @@
     </message>
     <message numerus="yes">
         <source>Add %n items to timeline</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>เพิ่มรายการ %n รายการลงในไทม์ไลน์</numerusform>
+            <numerusform>เพิ่มรายการ %n รายการลงในไทม์ไลน์</numerusform>
         </translation>
     </message>
     <message>
@@ -8715,9 +8715,9 @@
     </message>
     <message numerus="yes">
         <source>Move %n items to folder…</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ย้ายรายการ %n รายการไปยังโฟลเดอร์…</numerusform>
+            <numerusform>ย้ายรายการ %n รายการไปยังโฟลเดอร์…</numerusform>
         </translation>
     </message>
     <message>
@@ -8726,9 +8726,9 @@
     </message>
     <message numerus="yes">
         <source>Remove %n items from project</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>นำรายการ %n รายการออกจากโปรเจกต์</numerusform>
+            <numerusform>นำรายการ %n รายการออกจากโปรเจกต์</numerusform>
         </translation>
     </message>
 </context>
@@ -8806,9 +8806,9 @@
     </message>
     <message numerus="yes">
         <source>Could not import any of the %n selected files.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ไม่สามารถนำเข้าไฟล์ที่เลือกทั้ง %n ไฟล์ได้</numerusform>
+            <numerusform>ไม่สามารถนำเข้าไฟล์ที่เลือกทั้ง %n ไฟล์ได้</numerusform>
         </translation>
     </message>
 </context>
@@ -12143,9 +12143,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>Filters — %n applied</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ฟิลเตอร์ — ใช้แล้ว %n รายการ</numerusform>
+            <numerusform>ฟิลเตอร์ — ใช้แล้ว %n รายการ</numerusform>
         </translation>
     </message>
     <message>
@@ -13936,9 +13936,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>This removes the track and its %n clips. You can undo afterwards.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>การดำเนินการนี้จะลบแทร็กและคลิป %n คลิป คุณสามารถเลิกทำได้ภายหลัง</numerusform>
+            <numerusform>การดำเนินการนี้จะลบแทร็กและคลิป %n คลิป คุณสามารถเลิกทำได้ภายหลัง</numerusform>
         </translation>
     </message>
     <message>
@@ -14393,9 +14393,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>+%n more</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>อีก %n รายการ</numerusform>
+            <numerusform>อีก %n รายการ</numerusform>
         </translation>
     </message>
 </context>
