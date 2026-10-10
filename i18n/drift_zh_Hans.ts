@@ -4542,11 +4542,11 @@
     </message>
     <message>
         <source>Folder deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>文件夹已删除</translation>
     </message>
     <message>
         <source>Media moved</source>
-        <translation type="unfinished"></translation>
+        <translation>媒体已移动</translation>
     </message>
     <message numerus="yes">
         <source>%n items removed</source>
@@ -4562,55 +4562,55 @@
     </message>
     <message>
         <source>Clips added</source>
-        <translation type="unfinished"></translation>
+        <translation>已添加片段</translation>
     </message>
     <message>
         <source>Folder moved</source>
-        <translation type="unfinished"></translation>
+        <translation>文件夹已移动</translation>
     </message>
     <message>
         <source>Track renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>轨道已重命名</translation>
     </message>
     <message>
         <source>Orientation changed</source>
-        <translation type="unfinished"></translation>
+        <translation>方向已更改</translation>
     </message>
     <message>
         <source>Clip orientation set to %1°</source>
-        <translation type="unfinished"></translation>
+        <translation>片段方向设为 %1°</translation>
     </message>
 </context>
 <context>
     <name>AssetCategoryChips</name>
     <message>
         <source>Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>收藏夹</translation>
     </message>
 </context>
 <context>
     <name>AssetFavoriteButton</name>
     <message>
         <source>Remove from favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>从收藏夹移除</translation>
     </message>
     <message>
         <source>Add to favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>添加到收藏夹</translation>
     </message>
 </context>
 <context>
     <name>AssetLibrary</name>
     <message>
         <source>Media files (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>媒体文件（%1）</translation>
     </message>
 </context>
 <context>
     <name>AssetsPanel</name>
     <message>
         <source>Remove this media?</source>
-        <translation type="unfinished"></translation>
+        <translation>移除此媒体？</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -4618,11 +4618,11 @@
     </message>
     <message>
         <source>“%1” will be removed from this project. The file on disk is not deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>将从此项目中移除“%1”。磁盘上的文件不会被删除。</translation>
     </message>
     <message>
         <source>Removed “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>已移除“%1”。</translation>
     </message>
     <message>
         <source>Rename media</source>
@@ -4638,31 +4638,31 @@
     </message>
     <message>
         <source>Media name</source>
-        <translation type="unfinished"></translation>
+        <translation>媒体名称</translation>
     </message>
     <message>
         <source>Replace Media</source>
-        <translation type="unfinished"></translation>
+        <translation>替换媒体</translation>
     </message>
     <message>
         <source>Export Image</source>
-        <translation type="unfinished"></translation>
+        <translation>导出图像</translation>
     </message>
     <message>
         <source>PNG image (*.png)</source>
-        <translation type="unfinished"></translation>
+        <translation>PNG 图像（*.png）</translation>
     </message>
     <message>
         <source>JPEG image (*.jpg *.jpeg)</source>
-        <translation type="unfinished"></translation>
+        <translation>JPEG 图像（*.jpg *.jpeg）</translation>
     </message>
     <message>
         <source>Exported “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>已导出“%1”。</translation>
     </message>
     <message>
         <source>Couldn’t export that image.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法导出该图像。</translation>
     </message>
     <message numerus="yes">
         <source>Replaced with “%1”. %n clips were shortened to fit the new file.</source>
@@ -4672,19 +4672,19 @@
     </message>
     <message>
         <source>Replaced with “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>已替换为“%1”。</translation>
     </message>
     <message>
         <source>“%1” is now in an edit-friendly format.</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1”现在已转换为便于编辑的格式。</translation>
     </message>
     <message>
         <source>Saved “%1”. Drag it onto the timeline.</source>
-        <translation type="unfinished"></translation>
+        <translation>已保存“%1”。将其拖到时间轴上。</translation>
     </message>
     <message>
         <source>Import Media</source>
-        <translation type="unfinished"></translation>
+        <translation>导入媒体</translation>
     </message>
     <message>
         <source>Media</source>
@@ -4692,15 +4692,15 @@
     </message>
     <message>
         <source>“%1” is used by 1 clip on the timeline. Removing this media will also remove that clip and any transitions connected to it. The file on disk is not deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>时间轴上的 1 个片段正在使用“%1”。移除此媒体也会移除该片段及其关联转场，但不会删除磁盘上的文件。</translation>
     </message>
     <message>
         <source>“%1” is used by %2 clips on the timeline. Removing this media will also remove those clips and any transitions connected to them. The files on disk are not deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>时间轴上的 %2 个片段正在使用“%1”。移除此媒体也会移除这些片段及其关联转场，但不会删除磁盘上的文件。</translation>
     </message>
     <message>
         <source>Couldn’t import that folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法导入该文件夹。</translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders — as many as one folder import takes. Import the remaining subfolders separately.</source>
@@ -4722,11 +4722,11 @@
     </message>
     <message>
         <source>All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>所有文件（*）</translation>
     </message>
     <message>
         <source>Import Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>导入文件夹</translation>
     </message>
     <message>
         <source>Collect Media to Folder</source>
@@ -6021,7 +6021,7 @@
     </message>
     <message>
         <source>All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>所有文件（*）</translation>
     </message>
     <message>
         <source>Save Project As</source>
@@ -8750,7 +8750,7 @@
     </message>
     <message>
         <source>Import Media</source>
-        <translation type="unfinished"></translation>
+        <translation>导入媒体</translation>
     </message>
     <message>
         <source>Could not open that file. This package cannot read files dropped from other apps — use Import to pick them instead.</source>
