@@ -1044,7 +1044,7 @@
     </message>
     <message>
         <source>Clip</source>
-        <translation>Clip</translation>
+        <translation>Extrait</translation>
     </message>
     <message>
         <source>Select multiple</source>
@@ -2409,7 +2409,7 @@
     </message>
     <message>
         <source>Clip</source>
-        <translation>Clip</translation>
+        <translation>Extrait</translation>
     </message>
     <message>
         <source>Getting noise removal ready…</source>
@@ -9456,7 +9456,7 @@
     </message>
     <message>
         <source>Clip</source>
-        <translation>Clip</translation>
+        <translation>Extrait</translation>
     </message>
     <message numerus="yes">
         <source>Pasting from “%1” onto %n selected clip(s):</source>
@@ -10404,7 +10404,7 @@ En cas de saccades à la lecture, essayez un autre mode.</translation>
     </message>
     <message>
         <source>Clip</source>
-        <translation>Clip</translation>
+        <translation>Extrait</translation>
     </message>
     <message>
         <source>Cannot open file: %1</source>
@@ -14442,7 +14442,7 @@ En cas de saccades à la lecture, essayez un autre mode.</translation>
     </message>
     <message>
         <source>Clip</source>
-        <translation>Clip</translation>
+        <translation>Extrait</translation>
     </message>
     <message numerus="yes">
         <source>+%n more</source>
