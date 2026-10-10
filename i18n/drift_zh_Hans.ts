@@ -2592,10 +2592,7 @@
     </message>
     <message numerus="yes">
         <source>%n media items and referenced clips removed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation>已移除 %n 个媒体项及其引用的片段</translation>
     </message>
     <message>
         <source>Media and referenced clip removed</source>
