@@ -2964,27 +2964,27 @@
     </message>
     <message>
         <source>Adjustment detached</source>
-        <translation type="unfinished"></translation>
+        <translation>已分离调整</translation>
     </message>
     <message>
         <source>Unlink adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>取消关联调整</translation>
     </message>
     <message>
         <source>Adjustment unlinked</source>
-        <translation type="unfinished"></translation>
+        <translation>已取消关联调整</translation>
     </message>
     <message>
         <source>Link adjustment to clip</source>
-        <translation type="unfinished"></translation>
+        <translation>将调整关联到片段</translation>
     </message>
     <message>
         <source>Adjustment linked</source>
-        <translation type="unfinished"></translation>
+        <translation>已关联调整</translation>
     </message>
     <message>
         <source>Install the emoji sticker pack to add emoji</source>
-        <translation type="unfinished"></translation>
+        <translation>安装表情贴纸包以添加表情</translation>
     </message>
     <message>
         <source>Frame rate</source>
@@ -2992,99 +2992,99 @@
     </message>
     <message>
         <source>Project setup</source>
-        <translation type="unfinished"></translation>
+        <translation>项目设置</translation>
     </message>
     <message>
         <source>Project setup updated</source>
-        <translation type="unfinished"></translation>
+        <translation>项目设置已更新</translation>
     </message>
     <message>
         <source>Crop canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>裁剪画布</translation>
     </message>
     <message>
         <source>Video size cropped to %1×%2</source>
-        <translation type="unfinished"></translation>
+        <translation>视频尺寸已裁剪为 %1×%2</translation>
     </message>
     <message>
         <source>Change background</source>
-        <translation type="unfinished"></translation>
+        <translation>更改背景</translation>
     </message>
     <message>
         <source>Background updated</source>
-        <translation type="unfinished"></translation>
+        <translation>背景已更新</translation>
     </message>
     <message>
         <source>Edit clip</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑片段</translation>
     </message>
     <message>
         <source>Turn on Auto keyframes to move this</source>
-        <translation type="unfinished"></translation>
+        <translation>启用自动关键帧后才能移动此项</translation>
     </message>
     <message>
         <source>Move clip</source>
-        <translation type="unfinished"></translation>
+        <translation>移动片段</translation>
     </message>
     <message>
         <source>Turn on Auto keyframes to resize this</source>
-        <translation type="unfinished"></translation>
+        <translation>启用自动关键帧后才能调整大小</translation>
     </message>
     <message>
         <source>Resize clip</source>
-        <translation type="unfinished"></translation>
+        <translation>调整片段大小</translation>
     </message>
     <message>
         <source>Turn on Auto keyframes to change this</source>
-        <translation type="unfinished"></translation>
+        <translation>启用自动关键帧后才能更改此项</translation>
     </message>
     <message>
         <source>Transform clip</source>
-        <translation type="unfinished"></translation>
+        <translation>变换片段</translation>
     </message>
     <message>
         <source>Turn on Auto keyframes to rotate this</source>
-        <translation type="unfinished"></translation>
+        <translation>启用自动关键帧后才能旋转此项</translation>
     </message>
     <message>
         <source>Rotate clip</source>
-        <translation type="unfinished"></translation>
+        <translation>旋转片段</translation>
     </message>
     <message>
         <source>Turn on Auto keyframes to edit this</source>
-        <translation type="unfinished"></translation>
+        <translation>启用自动关键帧后才能编辑此项</translation>
     </message>
     <message>
         <source>Edit keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑关键帧</translation>
     </message>
     <message>
         <source>Edit effect</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑效果</translation>
     </message>
     <message>
         <source>Speed changed</source>
-        <translation type="unfinished"></translation>
+        <translation>速度已更改</translation>
     </message>
     <message>
         <source>Adjust fade</source>
-        <translation type="unfinished"></translation>
+        <translation>调整淡入淡出</translation>
     </message>
     <message>
         <source>Mask changed</source>
-        <translation type="unfinished"></translation>
+        <translation>蒙版已更改</translation>
     </message>
     <message>
         <source>Start updated</source>
-        <translation type="unfinished"></translation>
+        <translation>起始位置已更新</translation>
     </message>
     <message>
         <source>Duration updated</source>
-        <translation type="unfinished"></translation>
+        <translation>时长已更新</translation>
     </message>
     <message>
         <source>Text updated</source>
-        <translation type="unfinished"></translation>
+        <translation>文本已更新</translation>
     </message>
     <message>
         <source>Rename clip</source>
@@ -3092,87 +3092,87 @@
     </message>
     <message>
         <source>Clip renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>片段已重命名</translation>
     </message>
     <message>
         <source>Edit text</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑文本</translation>
     </message>
     <message>
         <source>Subtitles updated</source>
-        <translation type="unfinished"></translation>
+        <translation>字幕已更新</translation>
     </message>
     <message>
         <source>Adjust subtitle timing</source>
-        <translation type="unfinished"></translation>
+        <translation>调整字幕时间</translation>
     </message>
     <message>
         <source>Subtitle cue updated</source>
-        <translation type="unfinished"></translation>
+        <translation>字幕条目已更新</translation>
     </message>
     <message>
         <source>Edit text style</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑文本样式</translation>
     </message>
     <message>
         <source>Text style updated</source>
-        <translation type="unfinished"></translation>
+        <translation>文本样式已更新</translation>
     </message>
     <message>
         <source>Apply text preset</source>
-        <translation type="unfinished"></translation>
+        <translation>应用文本预设</translation>
     </message>
     <message>
         <source>Text preset applied</source>
-        <translation type="unfinished"></translation>
+        <translation>已应用文本预设</translation>
     </message>
     <message>
         <source>Could not save the text style</source>
-        <translation type="unfinished"></translation>
+        <translation>无法保存文本样式</translation>
     </message>
     <message>
         <source>Save text style</source>
-        <translation type="unfinished"></translation>
+        <translation>保存文本样式</translation>
     </message>
     <message>
         <source>Text style saved</source>
-        <translation type="unfinished"></translation>
+        <translation>文本样式已保存</translation>
     </message>
     <message>
         <source>Could not rename the text style</source>
-        <translation type="unfinished"></translation>
+        <translation>无法重命名文本样式</translation>
     </message>
     <message>
         <source>Text style renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>文本样式已重命名</translation>
     </message>
     <message>
         <source>Could not delete the text style</source>
-        <translation type="unfinished"></translation>
+        <translation>无法删除文本样式</translation>
     </message>
     <message>
         <source>Text style deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>文本样式已删除</translation>
     </message>
     <message>
         <source>Could not export the text style</source>
-        <translation type="unfinished"></translation>
+        <translation>无法导出文本样式</translation>
     </message>
     <message>
         <source>Text style exported</source>
-        <translation type="unfinished"></translation>
+        <translation>文本样式已导出</translation>
     </message>
     <message>
         <source>Could not import the text style</source>
-        <translation type="unfinished"></translation>
+        <translation>无法导入文本样式</translation>
     </message>
     <message>
         <source>Text style imported</source>
-        <translation type="unfinished"></translation>
+        <translation>文本样式已导入</translation>
     </message>
     <message>
         <source>Resize text</source>
-        <translation type="unfinished"></translation>
+        <translation>调整文本大小</translation>
     </message>
     <message>
         <source>Blend mode changed</source>
@@ -8337,7 +8337,7 @@
     <name>MaskOverlay</name>
     <message>
         <source>Mask changed</source>
-        <translation type="unfinished"></translation>
+        <translation>蒙版已更改</translation>
     </message>
     <message>
         <source>Drag a mask from the Masks tab onto a clip to edit it here</source>
@@ -11907,7 +11907,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Speed changed</source>
-        <translation type="unfinished"></translation>
+        <translation>速度已更改</translation>
     </message>
     <message>
         <source>Custom speed</source>
@@ -12695,7 +12695,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Save text style</source>
-        <translation type="unfinished"></translation>
+        <translation>保存文本样式</translation>
     </message>
     <message>
         <source>My style %1</source>
@@ -13502,7 +13502,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Adjust fade</source>
-        <translation type="unfinished"></translation>
+        <translation>调整淡入淡出</translation>
     </message>
     <message>
         <source>Fade in %1s</source>
