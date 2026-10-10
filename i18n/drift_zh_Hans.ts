@@ -5824,15 +5824,15 @@
     <name>DriftAssetDetail</name>
     <message>
         <source>Loops seamlessly</source>
-        <translation type="unfinished"></translation>
+        <translation>无缝循环</translation>
     </message>
     <message>
         <source>Plays in, then holds</source>
-        <translation type="unfinished"></translation>
+        <translation>播放入场动画后停留</translation>
     </message>
     <message>
         <source>Plays in, holds, plays out</source>
-        <translation type="unfinished"></translation>
+        <translation>播放入场动画、停留，然后播放退场动画</translation>
     </message>
     <message>
         <source>Back</source>
@@ -5844,7 +5844,7 @@
     </message>
     <message>
         <source>Colours</source>
-        <translation type="unfinished"></translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -5856,15 +5856,15 @@
     </message>
     <message>
         <source>room for your text</source>
-        <translation type="unfinished"></translation>
+        <translation>留出文字空间</translation>
     </message>
     <message>
         <source>3D model, loops every %1 s</source>
-        <translation type="unfinished"></translation>
+        <translation>3D 模型，每 %1 秒循环一次</translation>
     </message>
     <message>
         <source>Tracks a face in the clip it is applied to</source>
-        <translation type="unfinished"></translation>
+        <translation>跟踪应用此效果的片段中的人脸</translation>
     </message>
     <message>
         <source>Licence &lt;a href=&quot;%1&quot;&gt;CC BY-NC-SA 4.0&lt;/a&gt;</source>
@@ -5872,7 +5872,7 @@
     </message>
     <message>
         <source>Licence %1</source>
-        <translation type="unfinished"></translation>
+        <translation>许可协议 %1</translation>
     </message>
     <message>
         <source>Apply to selected clip</source>
@@ -5880,23 +5880,23 @@
     </message>
     <message>
         <source>Add at playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>在播放头位置添加</translation>
     </message>
     <message>
         <source>Select a clip with a face on the timeline first</source>
-        <translation type="unfinished"></translation>
+        <translation>请先选择时间轴上包含人脸的片段</translation>
     </message>
     <message>
         <source>Add to Face props</source>
-        <translation type="unfinished"></translation>
+        <translation>添加到人脸道具</translation>
     </message>
     <message>
         <source>Add to media bin</source>
-        <translation type="unfinished"></translation>
+        <translation>添加到媒体箱</translation>
     </message>
     <message>
         <source>Select a clip with a face on the timeline to apply this prop.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择时间轴上包含人脸的片段以应用此道具。</translation>
     </message>
     <message>
         <source>Choose colour</source>
@@ -5907,35 +5907,35 @@
     <name>DriftAssetStore</name>
     <message>
         <source>The marketplace is not available in this build.</source>
-        <translation type="unfinished"></translation>
+        <translation>此版本未提供素材市场。</translation>
     </message>
     <message>
         <source>Could not load Drift Assets. Check your connection and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法加载 Drift Assets。请检查网络连接后重试。</translation>
     </message>
     <message>
         <source>That asset could not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法安装该素材。</translation>
     </message>
     <message>
         <source>Could not write to the app data folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法写入应用数据文件夹。</translation>
     </message>
     <message>
         <source>Could not download that asset. Check your connection and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法下载该素材。请检查网络连接后重试。</translation>
     </message>
     <message>
         <source>That download was damaged. Try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>下载文件已损坏，请重试。</translation>
     </message>
     <message>
         <source>Could not add that face prop.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法添加该人脸道具。</translation>
     </message>
     <message>
         <source>Could not add that asset to the media bin.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法将该素材添加到媒体箱。</translation>
     </message>
 </context>
 <context>
@@ -5950,19 +5950,19 @@
     </message>
     <message>
         <source>Added to Face props</source>
-        <translation type="unfinished"></translation>
+        <translation>已添加到人脸道具</translation>
     </message>
     <message>
         <source>Select a video or image clip to apply a face prop</source>
-        <translation type="unfinished"></translation>
+        <translation>选择视频或图像片段以应用人脸道具</translation>
     </message>
     <message>
         <source>Added to the media bin</source>
-        <translation type="unfinished"></translation>
+        <translation>已添加到媒体箱</translation>
     </message>
     <message>
         <source>Couldn’t load Drift Assets</source>
-        <translation type="unfinished"></translation>
+        <translation>无法加载 Drift Assets</translation>
     </message>
     <message>
         <source>Try again</source>
@@ -5970,31 +5970,31 @@
     </message>
     <message>
         <source>No assets here yet</source>
-        <translation type="unfinished"></translation>
+        <translation>这里还没有素材</translation>
     </message>
     <message>
         <source>Drift Assets are still being published. Check back soon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift Assets 仍在陆续发布，请稍后再来查看。</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>刷新</translation>
     </message>
     <message>
         <source>See all</source>
-        <translation type="unfinished"></translation>
+        <translation>查看全部</translation>
     </message>
     <message>
         <source>All assets</source>
-        <translation type="unfinished"></translation>
+        <translation>所有素材</translation>
     </message>
     <message>
         <source>No Drift Assets match “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有与“%1”匹配的 Drift Assets。</translation>
     </message>
     <message>
         <source>Search %1 for “%2”</source>
-        <translation type="unfinished"></translation>
+        <translation>在 %1 中搜索“%2”</translation>
     </message>
 </context>
 <context>
@@ -6009,15 +6009,15 @@
     </message>
     <message>
         <source>Save Project JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>保存项目 JSON</translation>
     </message>
     <message>
         <source>JSON document (*.json)</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON 文档（*.json）</translation>
     </message>
     <message>
         <source>Open Project JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>打开项目 JSON</translation>
     </message>
     <message>
         <source>All Files (*)</source>
@@ -6041,19 +6041,19 @@
     </message>
     <message>
         <source>All changes saved</source>
-        <translation type="unfinished"></translation>
+        <translation>所有更改均已保存</translation>
     </message>
     <message>
         <source>Unsaved changes</source>
-        <translation type="unfinished"></translation>
+        <translation>有未保存的更改</translation>
     </message>
     <message>
         <source>Projects — click to switch or start new</source>
-        <translation type="unfinished"></translation>
+        <translation>项目 — 点击以切换或新建</translation>
     </message>
     <message>
         <source>Unsaved changes — click to switch or start new</source>
-        <translation type="unfinished"></translation>
+        <translation>有未保存的更改 — 点击以切换或新建</translation>
     </message>
     <message>
         <source>Save</source>
@@ -6061,7 +6061,7 @@
     </message>
     <message>
         <source>Save project (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>保存项目（%1）</translation>
     </message>
     <message>
         <source>Save project</source>
@@ -6084,7 +6084,7 @@
     </message>
     <message>
         <source>Video size and layout</source>
-        <translation type="unfinished"></translation>
+        <translation>视频尺寸与布局</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -6092,7 +6092,7 @@
     </message>
     <message>
         <source>Workspace, theme, language and more</source>
-        <translation type="unfinished"></translation>
+        <translation>工作区、主题、语言等</translation>
     </message>
     <message>
         <source>Light</source>
@@ -6100,11 +6100,11 @@
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>深色</translation>
     </message>
     <message>
         <source>Language…</source>
-        <translation type="unfinished"></translation>
+        <translation>语言…</translation>
     </message>
     <message>
         <source>Debug info…</source>
@@ -10456,11 +10456,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>All changes saved</source>
-        <translation type="unfinished"></translation>
+        <translation>所有更改均已保存</translation>
     </message>
     <message>
         <source>Unsaved changes</source>
-        <translation type="unfinished"></translation>
+        <translation>有未保存的更改</translation>
     </message>
     <message>
         <source>Previous projects</source>
@@ -14614,7 +14614,7 @@ If playback stutters, try another.</source>
     <name>UnsavedChangesDialog</name>
     <message>
         <source>Unsaved changes</source>
-        <translation type="unfinished"></translation>
+        <translation>有未保存的更改</translation>
     </message>
     <message>
         <source>“%1” has unsaved changes. Save before continuing?</source>
