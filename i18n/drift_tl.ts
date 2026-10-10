@@ -14160,23 +14160,23 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Show track</source>
-        <translation type="unfinished"></translation>
+        <translation>Ipakita ang track</translation>
     </message>
     <message>
         <source>Hide track</source>
-        <translation type="unfinished"></translation>
+        <translation>Itago ang track</translation>
     </message>
     <message>
         <source>Taller row</source>
-        <translation type="unfinished"></translation>
+        <translation>Mas mataas na row</translation>
     </message>
     <message>
         <source>Shorter row</source>
-        <translation type="unfinished"></translation>
+        <translation>Mas mababang row</translation>
     </message>
     <message>
         <source>Rename track</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang pangalan ng track</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -14184,11 +14184,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Track name</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangalan ng track</translation>
     </message>
     <message>
         <source>Clips show: %1 (click to change)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ipinapakita ng mga clip: %1 (i-click upang baguhin)</translation>
     </message>
     <message>
         <source>Rename…</source>
@@ -14239,7 +14239,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Also moved by %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Inililipat din ng %1</translation>
     </message>
     <message>
         <source>Select</source>
@@ -14247,7 +14247,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Move to a time, set a value, then click the diamond to add a keyframe. With Auto keyframes on, dragging a slider or the preview also creates them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumipat sa orasที่ต้องการ ตั้งค่า แล้วคลิกสัญลักษณ์เพชรเพื่อเพิ่ม keyframe. Kapag naka-on ang Auto keyframes, gagawa rin ng keyframe ang pag-drag sa slider o preview.</translation>
     </message>
     <message>
         <source>Auto keyframes</source>
@@ -14255,11 +14255,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Position (px)</source>
-        <translation type="unfinished"></translation>
+        <translation>Posisyon (px)</translation>
     </message>
     <message>
         <source>Offset (px)</source>
-        <translation type="unfinished"></translation>
+        <translation>Offset (px)</translation>
     </message>
     <message>
         <source>Measured inside %1&apos;s frame</source>
@@ -14267,7 +14267,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Size (px)</source>
-        <translation type="unfinished"></translation>
+        <translation>Laki (px)</translation>
     </message>
     <message>
         <source>Scale</source>
@@ -14275,11 +14275,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Edit width and height separately</source>
-        <translation type="unfinished"></translation>
+        <translation>I-edit nang hiwalay ang lapad at taas</translation>
     </message>
     <message>
         <source>Scale width and height together</source>
-        <translation type="unfinished"></translation>
+        <translation>I-scale nang magkasama ang lapad at taas</translation>
     </message>
     <message>
         <source>Scale clip</source>
@@ -14291,15 +14291,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Rotate 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>I-rotate nang 90°</translation>
     </message>
     <message>
         <source>Tilt the whole group as one flat card</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikiling ang buong grupo na parang isang flat card</translation>
     </message>
     <message>
         <source>Tilt the clip and push it in depth, with 3D grips on the preview. Turning it off flattens the clip again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikiling ang clip at itulak sa lalim gamit ang 3D grip sa preview. Kapag pinatay, babalik sa patag ang clip.</translation>
     </message>
     <message>
         <source>Move</source>
@@ -14307,7 +14307,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Arrows on the preview move the clip along each axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Inililipat ng mga arrow sa preview ang clip sa bawat axis</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -14315,11 +14315,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Rings on the preview turn the clip about each axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniikot ng mga ring sa preview ang clip sa bawat axis</translation>
     </message>
     <message>
         <source>Handles on the preview stretch the clip along its own edges</source>
-        <translation type="unfinished"></translation>
+        <translation>Ini-stretch ng mga handle sa preview ang clip ayon sa mga gilid nito</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
@@ -14327,15 +14327,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Global</source>
-        <translation type="unfinished"></translation>
+        <translation>Global</translation>
     </message>
     <message>
         <source>Gizmo follows the camera: X across, Y down, Z toward you</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinusundan ng gizmo ang camera: X pahalang, Y pababa, Z papunta sa iyo</translation>
     </message>
     <message>
         <source>Local</source>
-        <translation type="unfinished"></translation>
+        <translation>Local</translation>
     </message>
     <message>
         <source>Gizmo follows the clip&apos;s own edges and face, however it is turned</source>
@@ -14343,15 +14343,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Flip</source>
-        <translation type="unfinished"></translation>
+        <translation>I-flip</translation>
     </message>
     <message>
         <source>Flip H</source>
-        <translation type="unfinished"></translation>
+        <translation>I-flip nang pahalang</translation>
     </message>
     <message>
         <source>Flip V</source>
-        <translation type="unfinished"></translation>
+        <translation>I-flip nang patayo</translation>
     </message>
     <message>
         <source>Reset position &amp; size</source>
@@ -14359,11 +14359,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Reset position</source>
-        <translation type="unfinished"></translation>
+        <translation>I-reset ang posisyon</translation>
     </message>
     <message>
         <source>Fix orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayusin ang oryentasyon</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -14371,7 +14371,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>3D layer</source>
-        <translation type="unfinished"></translation>
+        <translation>3D layer</translation>
     </message>
     <message>
         <source>Corrects the source&apos;s own rotation losslessly — unlike Angle above, this changes decoding, not just the on-screen box.</source>
@@ -14422,7 +14422,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Moves, scales, turns and fades every track under it as one. Each clip keeps its own transform inside the group.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sabay-sabay na inililipat, sini-scale, iniikot, at fina-fade ang lahat ng track sa ilalim nito. Pinananatili ng bawat clip ang sarili nitong transform sa grupo.</translation>
     </message>
     <message>
         <source>Covers</source>
@@ -14430,15 +14430,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Nothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala</translation>
     </message>
     <message>
         <source>At the playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>Sa playhead</translation>
     </message>
     <message>
         <source>No covered clip plays here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang natatakpang clip na magpe-play dito.</translation>
     </message>
     <message>
         <source>Clip</source>
@@ -14471,7 +14471,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Select the transform layer moving this clip (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Piliin ang transform layer na gumagalaw sa clip na ito (%1)</translation>
     </message>
 </context>
 <context>
@@ -14485,7 +14485,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Transform layer span end</source>
-        <translation type="unfinished"></translation>
+        <translation>Dulo ng saklaw ng transform layer</translation>
     </message>
     <message numerus="yes">
         <source>Covers %n track(s)</source>
@@ -14526,15 +14526,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>TransitionInspector</name>
     <message>
         <source>Select where two clips overlap (shown in purple), or drag a clip so it overlaps the next one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Piliin kung saan nagsasapawan ang dalawang clip (kulay lila), o i-drag ang clip upang sumapaw sa kasunod.</translation>
     </message>
     <message>
         <source>Transitions work between two clips on a video, shape, or text track.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumagana ang transition sa pagitan ng dalawang clip sa video, shape, o text track.</translation>
     </message>
     <message>
         <source>No transition after this clip. Add one at the cut to the next clip.</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang transition pagkatapos ng clip na ito. Magdagdag sa cut papunta sa kasunod na clip.</translation>
     </message>
     <message>
         <source>Add crossfade (0.5 s)</source>
