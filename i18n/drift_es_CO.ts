@@ -5864,7 +5864,7 @@
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished">Estilo</translation>
+        <translation>Estilo</translation>
     </message>
     <message>
         <source>Colours</source>
@@ -8013,11 +8013,11 @@
     </message>
     <message>
         <source>Paste Attributes…</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar atributos…</translation>
     </message>
     <message>
         <source>Preferences…</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferencias…</translation>
     </message>
     <message>
         <source>&amp;Playback</source>
@@ -8025,39 +8025,39 @@
     </message>
     <message>
         <source>Play / Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducir / Pausar</translation>
     </message>
     <message>
         <source>Step Back One Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Retroceder un fotograma</translation>
     </message>
     <message>
         <source>Step Forward One Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanzar un fotograma</translation>
     </message>
     <message>
         <source>Previous Cut Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto de corte anterior</translation>
     </message>
     <message>
         <source>Next Cut Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto de corte siguiente</translation>
     </message>
     <message>
         <source>Go to Start of Timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir al inicio de la línea de tiempo</translation>
     </message>
     <message>
         <source>Toggle Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar o desactivar marcador</translation>
     </message>
     <message>
         <source>Next Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcador siguiente</translation>
     </message>
     <message>
         <source>Previous Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcador anterior</translation>
     </message>
     <message>
         <source>&amp;View</source>
@@ -8073,11 +8073,11 @@
     </message>
     <message>
         <source>Toggle Fullscreen Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar vista previa a pantalla completa</translation>
     </message>
     <message>
         <source>Toggle Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar/ocultar guías</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -8085,15 +8085,15 @@
     </message>
     <message>
         <source>Landscape Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacio de trabajo horizontal</translation>
     </message>
     <message>
         <source>Portrait Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacio de trabajo vertical</translation>
     </message>
     <message>
         <source>Auto Workspace (Follow Canvas)</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacio automático (según el lienzo)</translation>
     </message>
     <message>
         <source>Downloads</source>
@@ -8109,7 +8109,7 @@
     </message>
     <message>
         <source>Keyboard Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Atajos de teclado</translation>
     </message>
     <message>
         <source>Extras…</source>
@@ -8117,11 +8117,11 @@
     </message>
     <message>
         <source>Check for Updates…</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar actualizaciones…</translation>
     </message>
     <message>
         <source>Debug Info…</source>
-        <translation type="unfinished"></translation>
+        <translation>Información de depuración…</translation>
     </message>
     <message>
         <source>Still opening a project — try again in a moment.</source>
@@ -8661,7 +8661,7 @@
     </message>
     <message>
         <source>Trim, crop and upscale…</source>
-        <translation type="unfinished"></translation>
+        <translation>Recortar y ampliar…</translation>
     </message>
     <message>
         <source>Replace media…</source>
@@ -8906,7 +8906,7 @@
     </message>
     <message>
         <source>Upscale this video?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Mejorar la resolución de este video?</translation>
     </message>
     <message>
         <source>%1p</source>
@@ -8914,7 +8914,7 @@
     </message>
     <message>
         <source>Length %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Duración %1</translation>
     </message>
     <message>
         <source>This video is under 700 pixels on its shorter side. Upscaling it with an AI model can make it look sharper.</source>
@@ -10667,19 +10667,19 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message>
         <source>Anime and drawings</source>
-        <translation type="unfinished"></translation>
+        <translation>Anime y dibujos</translation>
     </message>
     <message>
         <source>Live action</source>
-        <translation type="unfinished"></translation>
+        <translation>Acción real</translation>
     </message>
     <message>
         <source>3D animation and games</source>
-        <translation type="unfinished"></translation>
+        <translation>Animación 3D y videojuegos</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>General</translation>
     </message>
     <message>
         <source>Choose an upscaler</source>
@@ -10723,7 +10723,7 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message>
         <source>No upscaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin ampliar la resolución</translation>
     </message>
     <message>
         <source>Keep the original size.</source>
@@ -13487,7 +13487,7 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     </message>
     <message>
         <source>Enhance video…</source>
-        <translation type="unfinished"></translation>
+        <translation>Mejorar video…</translation>
     </message>
     <message>
         <source>Unlink</source>
@@ -14741,19 +14741,19 @@ Si la reproducción se corta, prueba con otra opción.</translation>
     <name>UpscaleModelCard</name>
     <message>
         <source>Anime and drawings</source>
-        <translation type="unfinished"></translation>
+        <translation>Anime y dibujos</translation>
     </message>
     <message>
         <source>Live action</source>
-        <translation type="unfinished"></translation>
+        <translation>Acción real</translation>
     </message>
     <message>
         <source>3D animation and games</source>
-        <translation type="unfinished"></translation>
+        <translation>Animación 3D y videojuegos</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>General</translation>
     </message>
     <message>
         <source>Before</source>
