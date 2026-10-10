@@ -13694,19 +13694,19 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือก</translation>
     </message>
     <message>
         <source>Cut mode</source>
-        <translation type="unfinished"></translation>
+        <translation>โหมดตัด</translation>
     </message>
     <message>
         <source>Cut mode — click a clip to split it</source>
-        <translation type="unfinished"></translation>
+        <translation>โหมดตัด — คลิกคลิปเพื่อแยก</translation>
     </message>
     <message>
         <source>Show audio on separate track</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงเสียงบนแทร็กแยก</translation>
     </message>
     <message>
         <source>Trim start</source>
@@ -13714,7 +13714,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Trim start — click a clip to drop everything left of the cut</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัดช่วงต้น — คลิกคลิปเพื่อลบทุกอย่างทางซ้ายของจุดตัด</translation>
     </message>
     <message>
         <source>Trim end</source>
@@ -13722,7 +13722,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Trim end — click a clip to drop everything right of the cut</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัดช่วงท้าย — คลิกคลิปเพื่อลบทุกอย่างทางขวาของจุดตัด</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -13734,7 +13734,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Delete clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบคลิป</translation>
     </message>
     <message>
         <source>Copy selection</source>
@@ -13746,7 +13746,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Duplicate clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำสำเนาคลิป</translation>
     </message>
     <message>
         <source>Add/remove bookmark at current time</source>
@@ -13778,7 +13778,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Main</source>
-        <translation type="unfinished"></translation>
+        <translation>หลัก</translation>
     </message>
     <message>
         <source>Composite</source>
@@ -13786,23 +13786,23 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Switch between the main timeline and composite clips</source>
-        <translation type="unfinished"></translation>
+        <translation>สลับระหว่างไทม์ไลน์หลักกับคลิปรวม</translation>
     </message>
     <message>
         <source>No composite clips yet</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่มีคลิปรวม</translation>
     </message>
     <message>
         <source>Toggle audio mixer strip</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิด/ปิดแถบมิกเซอร์เสียง</translation>
     </message>
     <message>
         <source>Timeline overview — a minimap of the whole project; click or drag it to jump the view</source>
-        <translation type="unfinished"></translation>
+        <translation>ภาพรวมไทม์ไลน์ — แผนที่ย่อของทั้งโปรเจกต์ คลิกหรือลากเพื่อเลื่อนมุมมอง</translation>
     </message>
     <message>
         <source>Unlink video and audio</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการเชื่อมวิดีโอกับเสียง</translation>
     </message>
     <message>
         <source>Merge adjacent clips</source>
@@ -13814,7 +13814,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>More edit actions</source>
-        <translation type="unfinished"></translation>
+        <translation>การแก้ไขเพิ่มเติม</translation>
     </message>
     <message>
         <source>Add adjustment layer</source>
@@ -13822,11 +13822,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Customize toolbar…</source>
-        <translation type="unfinished"></translation>
+        <translation>ปรับแต่งแถบเครื่องมือ…</translation>
     </message>
     <message>
         <source>Toggle snapping</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิด/ปิดการดูดติดตำแหน่ง</translation>
     </message>
     <message>
         <source>Close gaps when trimming</source>
@@ -13842,15 +13842,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Timeline zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>ซูมไทม์ไลน์</translation>
     </message>
     <message>
         <source>Zoom %1×</source>
-        <translation type="unfinished"></translation>
+        <translation>ซูม %1×</translation>
     </message>
     <message>
         <source>Zoom level — click to reset to 1×. Ctrl+wheel over the timeline also zooms.</source>
-        <translation type="unfinished"></translation>
+        <translation>ระดับการซูม — คลิกเพื่อรีเซ็ตเป็น 1× กด Ctrl แล้วหมุนล้อเมาส์บนไทม์ไลน์เพื่อซูมได้เช่นกัน</translation>
     </message>
     <message>
         <source>Zoom in</source>
@@ -13858,14 +13858,14 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Fit timeline in view</source>
-        <translation type="unfinished"></translation>
+        <translation>ปรับไทม์ไลน์ให้พอดีกับมุมมอง</translation>
     </message>
 </context>
 <context>
     <name>TimelineToolbarCustomizeDialog</name>
     <message>
         <source>Customize timeline toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>ปรับแต่งแถบเครื่องมือไทม์ไลน์</translation>
     </message>
     <message>
         <source>Save</source>
@@ -13873,11 +13873,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Drag items to reorder them. Items above the divider are toolbar buttons; the rest are in the More menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากรายการเพื่อจัดลำดับใหม่ รายการเหนือเส้นแบ่งเป็นปุ่มแถบเครื่องมือ ส่วนที่เหลืออยู่ในเมนูเพิ่มเติม</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มตัวคั่น</translation>
     </message>
     <message>
         <source>Reset to defaults</source>
@@ -13885,23 +13885,23 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>More menu</source>
-        <translation type="unfinished"></translation>
+        <translation>เมนูเพิ่มเติม</translation>
     </message>
     <message>
         <source>— Separator —</source>
-        <translation type="unfinished"></translation>
+        <translation>— ตัวคั่น —</translation>
     </message>
     <message>
         <source>Move up</source>
-        <translation type="unfinished"></translation>
+        <translation>เลื่อนขึ้น</translation>
     </message>
     <message>
         <source>Move down</source>
-        <translation type="unfinished"></translation>
+        <translation>เลื่อนลง</translation>
     </message>
     <message>
         <source>Remove separator</source>
-        <translation type="unfinished"></translation>
+        <translation>นำตัวคั่นออก</translation>
     </message>
 </context>
 <context>
@@ -13912,7 +13912,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>มาสก์</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -13935,18 +13935,18 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     <name>ToastHost</name>
     <message>
         <source>%1  (×%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (×%2)</translation>
     </message>
     <message>
         <source>Dismiss</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิด</translation>
     </message>
 </context>
 <context>
     <name>TrackHeaderColumn</name>
     <message>
         <source>Delete this track?</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบแทร็กนี้หรือไม่</translation>
     </message>
     <message>
         <source>Delete track</source>
@@ -13961,15 +13961,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>This removes the empty track. You can undo afterwards.</source>
-        <translation type="unfinished"></translation>
+        <translation>การดำเนินการนี้จะลบแทร็กว่าง คุณสามารถเลิกทำภายหลังได้</translation>
     </message>
     <message>
         <source>Waveform</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปคลื่น</translation>
     </message>
     <message>
         <source>Video + waveform</source>
-        <translation type="unfinished"></translation>
+        <translation>วิดีโอ + รูปคลื่น</translation>
     </message>
     <message>
         <source>TF</source>
@@ -14025,35 +14025,35 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Everything below</source>
-        <translation type="unfinished"></translation>
+        <translation>ทั้งหมดด้านล่าง</translation>
     </message>
     <message>
         <source>%1 only</source>
-        <translation type="unfinished"></translation>
+        <translation>เฉพาะ %1</translation>
     </message>
     <message>
         <source>%1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ถึง %2</translation>
     </message>
     <message>
         <source>Stop recording</source>
-        <translation type="unfinished"></translation>
+        <translation>หยุดบันทึก</translation>
     </message>
     <message>
         <source>Record voiceover</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกเสียงบรรยาย</translation>
     </message>
     <message>
         <source>Record voiceover (mic)</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกเสียงบรรยาย (ไมโครโฟน)</translation>
     </message>
     <message>
         <source>Turn transform on</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดการแปลง</translation>
     </message>
     <message>
         <source>Turn transform off</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดการแปลง</translation>
     </message>
     <message>
         <source>Covers…</source>
@@ -14065,27 +14065,27 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Add transform layer above</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มเลเยอร์แปลงด้านบน</translation>
     </message>
     <message>
         <source>Track height</source>
-        <translation type="unfinished"></translation>
+        <translation>ความสูงของแทร็ก</translation>
     </message>
     <message>
         <source>Short</source>
-        <translation type="unfinished"></translation>
+        <translation>เตี้ย</translation>
     </message>
     <message>
         <source>Tall</source>
-        <translation type="unfinished"></translation>
+        <translation>สูง</translation>
     </message>
     <message>
         <source>Taller</source>
-        <translation type="unfinished"></translation>
+        <translation>สูงขึ้น</translation>
     </message>
     <message>
         <source>Scroll over the header to fine-tune</source>
-        <translation type="unfinished"></translation>
+        <translation>เลื่อนเมาส์บนส่วนหัวเพื่อปรับอย่างละเอียด</translation>
     </message>
     <message>
         <source>Covers</source>
@@ -14097,31 +14097,31 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Drag the header to reorder this track</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากส่วนหัวเพื่อจัดลำดับแทร็กนี้ใหม่</translation>
     </message>
     <message>
         <source>Paused — click to finish recording</source>
-        <translation type="unfinished"></translation>
+        <translation>หยุดชั่วคราว — คลิกเพื่อสิ้นสุดการบันทึก</translation>
     </message>
     <message>
         <source>Recording — click to finish recording</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังบันทึก — คลิกเพื่อสิ้นสุดการบันทึก</translation>
     </message>
     <message>
         <source>Unmute track</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดเสียงแทร็ก</translation>
     </message>
     <message>
         <source>Mute track</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดเสียงแทร็ก</translation>
     </message>
     <message>
         <source>Show one combined waveform</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงรูปคลื่นรวม</translation>
     </message>
     <message>
         <source>Show each channel separately (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงแต่ละช่องแยกกัน (%1)</translation>
     </message>
     <message>
         <source>Show track</source>
@@ -14208,7 +14208,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือก</translation>
     </message>
     <message>
         <source>Move to a time, set a value, then click the diamond to add a keyframe. With Auto keyframes on, dragging a slider or the preview also creates them.</source>
@@ -14375,15 +14375,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Everything below</source>
-        <translation type="unfinished"></translation>
+        <translation>ทั้งหมดด้านล่าง</translation>
     </message>
     <message>
         <source>%1 only</source>
-        <translation type="unfinished"></translation>
+        <translation>เฉพาะ %1</translation>
     </message>
     <message>
         <source>%1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ถึง %2</translation>
     </message>
     <message>
         <source>Moves, scales, turns and fades every track under it as one. Each clip keeps its own transform inside the group.</source>
