@@ -5864,7 +5864,7 @@
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished">විලාසය</translation>
+        <translation>විලාසය</translation>
     </message>
     <message>
         <source>Colours</source>
@@ -8013,11 +8013,11 @@
     </message>
     <message>
         <source>Paste Attributes…</source>
-        <translation type="unfinished"></translation>
+        <translation>ගුණාංග අලවන්න…</translation>
     </message>
     <message>
         <source>Preferences…</source>
-        <translation type="unfinished"></translation>
+        <translation>මනාප…</translation>
     </message>
     <message>
         <source>&amp;Playback</source>
@@ -8025,39 +8025,39 @@
     </message>
     <message>
         <source>Play / Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>වාදනය / විරාමය</translation>
     </message>
     <message>
         <source>Step Back One Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>එක් රාමුවක් පසුපසට</translation>
     </message>
     <message>
         <source>Step Forward One Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>එක් රාමුවක් ඉදිරියට</translation>
     </message>
     <message>
         <source>Previous Cut Point</source>
-        <translation type="unfinished"></translation>
+        <translation>පෙර කැපුම් ස්ථානය</translation>
     </message>
     <message>
         <source>Next Cut Point</source>
-        <translation type="unfinished"></translation>
+        <translation>ඊළඟ කැපුම් ස්ථානය</translation>
     </message>
     <message>
         <source>Go to Start of Timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>කාලරේඛාවේ ආරම්භයට යන්න</translation>
     </message>
     <message>
         <source>Toggle Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>පිටු සලකුණ සක්‍රිය/අක්‍රිය කරන්න</translation>
     </message>
     <message>
         <source>Next Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>ඊළඟ පිටු සලකුණ</translation>
     </message>
     <message>
         <source>Previous Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>පෙර පිටු සලකුණ</translation>
     </message>
     <message>
         <source>&amp;View</source>
@@ -8073,11 +8073,11 @@
     </message>
     <message>
         <source>Toggle Fullscreen Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>පූර්ණ තිර පෙරදසුන මාරු කරන්න</translation>
     </message>
     <message>
         <source>Toggle Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>මාර්ගෝපදේශ පෙන්වන්න/සඟවන්න</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -8085,15 +8085,15 @@
     </message>
     <message>
         <source>Landscape Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>තිරස් වැඩ ඉඩ</translation>
     </message>
     <message>
         <source>Portrait Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>සිරස් වැඩ ඉඩ</translation>
     </message>
     <message>
         <source>Auto Workspace (Follow Canvas)</source>
-        <translation type="unfinished"></translation>
+        <translation>ස්වයංක්‍රීය වැඩ ඉඩ (කැන්වසය අනුව)</translation>
     </message>
     <message>
         <source>Downloads</source>
@@ -8109,7 +8109,7 @@
     </message>
     <message>
         <source>Keyboard Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>යතුරුපුවරු කෙටිමං</translation>
     </message>
     <message>
         <source>Extras…</source>
@@ -8117,11 +8117,11 @@
     </message>
     <message>
         <source>Check for Updates…</source>
-        <translation type="unfinished"></translation>
+        <translation>යාවත්කාලීන පරීක්ෂා කරන්න…</translation>
     </message>
     <message>
         <source>Debug Info…</source>
-        <translation type="unfinished"></translation>
+        <translation>දෝෂහරණ තොරතුරු…</translation>
     </message>
     <message>
         <source>Still opening a project — try again in a moment.</source>
@@ -8661,7 +8661,7 @@
     </message>
     <message>
         <source>Trim, crop and upscale…</source>
-        <translation type="unfinished"></translation>
+        <translation>කප්පාදු කරන්න, රාමුව සකස් කර විභේදනය වැඩි කරන්න…</translation>
     </message>
     <message>
         <source>Replace media…</source>
@@ -8906,7 +8906,7 @@
     </message>
     <message>
         <source>Upscale this video?</source>
-        <translation type="unfinished"></translation>
+        <translation>මෙම වීඩියෝවේ විභේදනය වැඩි කරන්නද?</translation>
     </message>
     <message>
         <source>%1p</source>
@@ -8914,7 +8914,7 @@
     </message>
     <message>
         <source>Length %1</source>
-        <translation type="unfinished"></translation>
+        <translation>දිග %1</translation>
     </message>
     <message>
         <source>This video is under 700 pixels on its shorter side. Upscaling it with an AI model can make it look sharper.</source>
@@ -10667,19 +10667,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Anime and drawings</source>
-        <translation type="unfinished"></translation>
+        <translation>ඇනිමේ සහ චිත්‍ර</translation>
     </message>
     <message>
         <source>Live action</source>
-        <translation type="unfinished"></translation>
+        <translation>සජීවී රූගත කිරීම්</translation>
     </message>
     <message>
         <source>3D animation and games</source>
-        <translation type="unfinished"></translation>
+        <translation>ත්‍රිමාණ සජීවිකරණ සහ ක්‍රීඩා</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">සාමාන්‍ය</translation>
+        <translation>සාමාන්‍ය</translation>
     </message>
     <message>
         <source>Choose an upscaler</source>
@@ -10723,7 +10723,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>No upscaling</source>
-        <translation type="unfinished"></translation>
+        <translation>විභේදනය වැඩි නොකරන්න</translation>
     </message>
     <message>
         <source>Keep the original size.</source>
@@ -13487,7 +13487,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Enhance video…</source>
-        <translation type="unfinished"></translation>
+        <translation>වීඩියෝ වැඩිදියුණු කරන්න…</translation>
     </message>
     <message>
         <source>Unlink</source>
@@ -14741,19 +14741,19 @@ If playback stutters, try another.</source>
     <name>UpscaleModelCard</name>
     <message>
         <source>Anime and drawings</source>
-        <translation type="unfinished"></translation>
+        <translation>ඇනිමේ සහ චිත්‍ර</translation>
     </message>
     <message>
         <source>Live action</source>
-        <translation type="unfinished"></translation>
+        <translation>සජීවී රූගත කිරීම්</translation>
     </message>
     <message>
         <source>3D animation and games</source>
-        <translation type="unfinished"></translation>
+        <translation>ත්‍රිමාණ සජීවිකරණ සහ ක්‍රීඩා</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">සාමාන්‍ය</translation>
+        <translation>සාමාන්‍ය</translation>
     </message>
     <message>
         <source>Before</source>
