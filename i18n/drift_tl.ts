@@ -1767,11 +1767,11 @@
     </message>
     <message>
         <source>PAUSED </source>
-        <translation type="unfinished"></translation>
+        <translation>NA-PAUSE</translation>
     </message>
     <message>
         <source>REC </source>
-        <translation type="unfinished"></translation>
+        <translation>REC</translation>
     </message>
     <message>
         <source>Close gap</source>
@@ -2897,7 +2897,7 @@
     </message>
     <message>
         <source> (denoised)</source>
-        <translation type="unfinished"></translation>
+        <translation>(na-denoise)</translation>
     </message>
     <message>
         <source>Remove noise</source>
@@ -2909,15 +2909,15 @@
     </message>
     <message>
         <source>This project uses &quot;%1&quot;, which isn’t installed — it won’t show. Open Extras to install it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ginagamit ng project na ito ang “%1” na hindi pa naka-install kaya hindi ito lalabas. Buksan ang Extras para i-install ito.</translation>
     </message>
     <message>
         <source>This project uses %1 effects or transitions that aren’t installed (%2%3) — they won’t show. Open Extras to install them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumagamit ang project na ito ng %1 effect o transition na hindi naka-install (%2%3), kaya hindi lalabas ang mga ito. Buksan ang Extras para i-install.</translation>
     </message>
     <message>
         <source>, …</source>
-        <translation type="unfinished"></translation>
+        <translation>, …</translation>
     </message>
     <message>
         <source>Shape added</source>
@@ -3513,7 +3513,7 @@
     </message>
     <message>
         <source>%1 (trimmed)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (na-trim)</translation>
     </message>
     <message>
         <source>Rendering…</source>
@@ -3565,15 +3565,15 @@
     </message>
     <message>
         <source>This clip is already being enhanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinapahusay na ang clip na ito</translation>
     </message>
     <message>
         <source>%1 (enhanced %2x)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (pinahusay nang %2x)</translation>
     </message>
     <message>
         <source>%1 (enhanced)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (pinahusay)</translation>
     </message>
     <message>
         <source>Enhance Video</source>
@@ -3589,11 +3589,11 @@
     </message>
     <message>
         <source>This build of Drift has no video stabilization support</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang suporta sa video stabilization ang build na ito ng Drift</translation>
     </message>
     <message>
         <source>Stabilization rendering failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabigo ang pag-render ng stabilization.</translation>
     </message>
     <message>
         <source>Stabilization rendering failed: %1</source>
@@ -13630,11 +13630,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>PAUSED </source>
-        <translation type="unfinished"></translation>
+        <translation>NA-PAUSE</translation>
     </message>
     <message>
         <source>REC </source>
-        <translation type="unfinished"></translation>
+        <translation>REC</translation>
     </message>
     <message>
         <source>Rename bookmark</source>
@@ -15032,11 +15032,11 @@ If playback stutters, try another.</source>
     <name>VoiceoverControlBar</name>
     <message>
         <source>PAUSED</source>
-        <translation type="unfinished"></translation>
+        <translation>NA-PAUSE</translation>
     </message>
     <message>
         <source>REC</source>
-        <translation type="unfinished"></translation>
+        <translation>REC</translation>
     </message>
     <message>
         <source>Default Mic</source>
