@@ -7520,23 +7520,23 @@
     </message>
     <message>
         <source>Guide colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Kulay ng guide</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacity</translation>
     </message>
     <message>
         <source>Show guides</source>
-        <translation type="unfinished"></translation>
+        <translation>Ipakita ang mga guide</translation>
     </message>
     <message>
         <source>Guide sets</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga guide set</translation>
     </message>
     <message>
         <source>Show this set</source>
-        <translation type="unfinished"></translation>
+        <translation>Ipakita ang set na ito</translation>
     </message>
     <message>
         <source>Built-in</source>
@@ -7544,31 +7544,31 @@
     </message>
     <message>
         <source>From project</source>
-        <translation type="unfinished"></translation>
+        <translation>Mula sa proyekto</translation>
     </message>
     <message>
         <source>New guide set</source>
-        <translation type="unfinished"></translation>
+        <translation>Bagong guide set</translation>
     </message>
     <message>
         <source>Duplicate set</source>
-        <translation type="unfinished"></translation>
+        <translation>I-duplicate ang set</translation>
     </message>
     <message>
         <source>Save to my guide sets</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save sa mga guide set ko</translation>
     </message>
     <message>
         <source>Delete set</source>
-        <translation type="unfinished"></translation>
+        <translation>Burahin ang set</translation>
     </message>
     <message>
         <source>Set name</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangalan ng set</translation>
     </message>
     <message>
         <source>Edit on preview</source>
-        <translation type="unfinished"></translation>
+        <translation>I-edit sa preview</translation>
     </message>
     <message>
         <source>Built-in sets can&apos;t be changed. Duplicate one to make an editable copy.</source>
@@ -7576,15 +7576,15 @@
     </message>
     <message>
         <source>This set came with the project. Save it to your guide sets to edit it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasama sa proyekto ang set na ito. I-save ito sa guide set mo para ma-edit.</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Patayo</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Pahalang</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -7592,25 +7592,25 @@
     </message>
     <message>
         <source>Add a guide</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng guide</translation>
     </message>
 </context>
 <context>
     <name>JobRegistry</name>
     <message>
         <source>Queued</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-queue</translation>
     </message>
 </context>
 <context>
     <name>KeyframeGraph</name>
     <message>
         <source>X position</source>
-        <translation type="unfinished"></translation>
+        <translation>Posisyon ng X</translation>
     </message>
     <message>
         <source>Y position</source>
-        <translation type="unfinished"></translation>
+        <translation>Posisyon ng Y</translation>
     </message>
     <message>
         <source>Width</source>
@@ -7626,11 +7626,11 @@
     </message>
     <message>
         <source>Tilt X</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilt X</translation>
     </message>
     <message>
         <source>Tilt Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilt Y</translation>
     </message>
     <message>
         <source>Depth</source>
@@ -7638,11 +7638,11 @@
     </message>
     <message>
         <source>Perspective</source>
-        <translation type="unfinished"></translation>
+        <translation>Perspective</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacity</translation>
     </message>
     <message>
         <source>Volume</source>
@@ -7650,19 +7650,19 @@
     </message>
     <message>
         <source>Mask X</source>
-        <translation type="unfinished"></translation>
+        <translation>Mask X</translation>
     </message>
     <message>
         <source>Mask Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Mask Y</translation>
     </message>
     <message>
         <source>Mask width</source>
-        <translation type="unfinished"></translation>
+        <translation>Lapad ng mask</translation>
     </message>
     <message>
         <source>Mask height</source>
-        <translation type="unfinished"></translation>
+        <translation>Taas ng mask</translation>
     </message>
     <message>
         <source>Mask rotation</source>
@@ -9766,7 +9766,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Guide sets</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga guide set</translation>
     </message>
     <message>
         <source>Keep mask handles on the preview while another clip is selected</source>
@@ -11006,7 +11006,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Show guides</source>
-        <translation type="unfinished"></translation>
+        <translation>Ipakita ang mga guide</translation>
     </message>
     <message>
         <source>Show alignment guides over the preview</source>
@@ -11441,7 +11441,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacity</translation>
     </message>
     <message>
         <source>Blend</source>
@@ -13217,7 +13217,7 @@ If playback stutters, try another.</source>
     <name>TextStyle</name>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacity</translation>
     </message>
     <message>
         <source>Offset X</source>
@@ -14191,7 +14191,7 @@ If playback stutters, try another.</source>
     <name>TransformInspector</name>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacity</translation>
     </message>
     <message>
         <source>Width</source>
@@ -14207,11 +14207,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Tilt X</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilt X</translation>
     </message>
     <message>
         <source>Tilt Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilt Y</translation>
     </message>
     <message>
         <source>Depth</source>
@@ -14219,7 +14219,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Perspective</source>
-        <translation type="unfinished"></translation>
+        <translation>Perspective</translation>
     </message>
     <message>
         <source>Video only</source>
@@ -14912,7 +14912,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacity</translation>
     </message>
     <message>
         <source>Visible</source>
@@ -14967,7 +14967,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacity</translation>
     </message>
     <message>
         <source>Visible</source>
