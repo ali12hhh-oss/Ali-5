@@ -8199,7 +8199,7 @@
     </message>
     <message>
         <source>Could not import that file.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法导入该文件。</translation>
     </message>
     <message>
         <source>In the media bin</source>
@@ -8207,82 +8207,82 @@
     </message>
     <message>
         <source>Marketplace account connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>已连接素材市场账户。</translation>
     </message>
     <message>
         <source>Daily limit reached for this source. Try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>已达到此来源的每日限制，请稍后重试。</translation>
     </message>
     <message>
         <source>This item needs a connected account.</source>
-        <translation type="unfinished"></translation>
+        <translation>此项目需要先连接账户。</translation>
     </message>
     <message>
         <source>Not enough coins.</source>
-        <translation type="unfinished"></translation>
+        <translation>金币不足。</translation>
     </message>
     <message>
         <source>This source is temporarily unavailable.</source>
-        <translation type="unfinished"></translation>
+        <translation>此来源暂时不可用。</translation>
     </message>
     <message>
         <source>That item is no longer available.</source>
-        <translation type="unfinished"></translation>
+        <translation>该项目已不再提供。</translation>
     </message>
     <message>
         <source>Could not reach the marketplace.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法连接素材市场。</translation>
     </message>
     <message>
         <source>Could not prepare that file.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法准备该文件。</translation>
     </message>
     <message>
         <source>Could not complete that request.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法完成该请求。</translation>
     </message>
     <message>
         <source>The marketplace took too long to answer. Try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>素材市场响应超时，请重试。</translation>
     </message>
     <message>
         <source>Couldn’t reach the marketplace. Check your connection and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法连接素材市场。请检查网络连接后重试。</translation>
     </message>
 </context>
 <context>
     <name>MarketConsentPanel</name>
     <message>
         <source>The marketplace is experimental</source>
-        <translation type="unfinished"></translation>
+        <translation>素材市场仍处于试验阶段</translation>
     </message>
     <message>
         <source>This feature is still being built and can change or stop working at any time. Before you use it, please read what it can and cannot do.</source>
-        <translation type="unfinished"></translation>
+        <translation>此功能仍在开发中，随时可能发生变化或停止工作。使用前，请阅读其功能与限制说明。</translation>
     </message>
     <message>
         <source>You get a limited number of downloads per day. The limit is small, may change without notice, and once it is used up you have to wait.</source>
-        <translation type="unfinished"></translation>
+        <translation>每天可下载的次数有限。额度较少且可能随时调整，达到上限后需要等待。</translation>
     </message>
     <message>
         <source>We cannot guarantee that any source stays available. Sources can be removed, rate-limited or broken by the sites they pull from, at any time and without warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>我们无法保证任何来源会一直可用。相关网站可能随时移除来源、限制访问频率或导致其失效，且不会提前通知。</translation>
     </message>
     <message>
         <source>We cannot guarantee that a download will succeed, finish, or give you the quality you picked. Some items will simply fail.</source>
-        <translation type="unfinished"></translation>
+        <translation>我们无法保证下载一定成功、完成，或达到你选择的质量。有些项目可能无法下载。</translation>
     </message>
     <message>
         <source>Everything here comes from third parties. Drift does not host, own or vet it — you are responsible for making sure you have the right to use whatever you download.</source>
-        <translation type="unfinished"></translation>
+        <translation>此处所有内容均来自第三方。Drift 不托管、不拥有也不审核这些内容；你有责任确认自己有权使用下载的任何内容。</translation>
     </message>
     <message>
         <source>I understand</source>
-        <translation type="unfinished"></translation>
+        <translation>我明白</translation>
     </message>
     <message>
         <source>Continue to the marketplace</source>
-        <translation type="unfinished"></translation>
+        <translation>继续前往素材市场</translation>
     </message>
 </context>
 <context>
@@ -8300,31 +8300,31 @@
     <name>MarketTab</name>
     <message>
         <source>Stock</source>
-        <translation type="unfinished"></translation>
+        <translation>素材库</translation>
     </message>
     <message>
         <source>Marketplace unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>素材市场不可用</translation>
     </message>
     <message>
         <source>This build does not include the marketplace.</source>
-        <translation type="unfinished"></translation>
+        <translation>此版本不包含素材市场。</translation>
     </message>
     <message>
         <source>Search assets</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索素材</translation>
     </message>
     <message>
         <source>Search, or paste a link</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索或粘贴链接</translation>
     </message>
     <message>
         <source>Assets</source>
-        <translation type="unfinished"></translation>
+        <translation>素材</translation>
     </message>
     <message>
         <source>Stock footage</source>
-        <translation type="unfinished"></translation>
+        <translation>库存视频素材</translation>
     </message>
     <message>
         <source>Loading sources…</source>
@@ -8332,7 +8332,7 @@
     </message>
     <message>
         <source>Couldn’t reach the marketplace</source>
-        <translation type="unfinished"></translation>
+        <translation>无法连接素材市场</translation>
     </message>
     <message>
         <source>Try again</source>
@@ -8351,11 +8351,11 @@
     </message>
     <message>
         <source>Drag a mask from the Masks tab onto a clip to edit it here</source>
-        <translation type="unfinished"></translation>
+        <translation>从“蒙版”选项卡拖动蒙版到片段上，即可在此编辑。</translation>
     </message>
     <message>
         <source>Select a clip at the playhead to edit its masks</source>
-        <translation type="unfinished"></translation>
+        <translation>选择播放头位置的片段以编辑其蒙版</translation>
     </message>
 </context>
 <context>
@@ -8394,7 +8394,7 @@
     </message>
     <message>
         <source>Combine</source>
-        <translation type="unfinished"></translation>
+        <translation>合并</translation>
     </message>
     <message>
         <source>Add</source>
@@ -8402,27 +8402,27 @@
     </message>
     <message>
         <source>Subtract</source>
-        <translation type="unfinished"></translation>
+        <translation>相减</translation>
     </message>
     <message>
         <source>Intersect</source>
-        <translation type="unfinished"></translation>
+        <translation>相交</translation>
     </message>
     <message>
         <source>Remove cutout layer</source>
-        <translation type="unfinished"></translation>
+        <translation>移除抠像图层</translation>
     </message>
     <message>
         <source>Remove mask</source>
-        <translation type="unfinished"></translation>
+        <translation>移除蒙版</translation>
     </message>
     <message>
         <source>Center X</source>
-        <translation type="unfinished"></translation>
+        <translation>中心 X</translation>
     </message>
     <message>
         <source>Center Y</source>
-        <translation type="unfinished"></translation>
+        <translation>中心 Y</translation>
     </message>
     <message>
         <source>Width</source>
@@ -8438,42 +8438,42 @@
     </message>
     <message>
         <source>Feather</source>
-        <translation type="unfinished"></translation>
+        <translation>羽化</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"></translation>
+        <translation>反相</translation>
     </message>
 </context>
 <context>
     <name>MasksTab</name>
     <message>
         <source>Click to apply to the selection, or drag onto a clip</source>
-        <translation type="unfinished"></translation>
+        <translation>点击以应用到所选内容，或拖到片段上</translation>
     </message>
     <message>
         <source>Select a clip, or drag a mask onto one</source>
-        <translation type="unfinished"></translation>
+        <translation>选择一个片段，或将蒙版拖到片段上</translation>
     </message>
     <message>
         <source>Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>主体</translation>
     </message>
     <message>
         <source>Cut out subject…</source>
-        <translation type="unfinished"></translation>
+        <translation>抠出主体…</translation>
     </message>
     <message>
         <source>Trace the subject and pin the result as a mask layer</source>
-        <translation type="unfinished"></translation>
+        <translation>描摹主体，并将结果固定为蒙版图层</translation>
     </message>
     <message>
         <source>Select a video clip first</source>
-        <translation type="unfinished"></translation>
+        <translation>请先选择视频片段</translation>
     </message>
     <message>
         <source>Download people cutout (about 20 MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>下载人物抠像组件（约 20 MB）</translation>
     </message>
     <message>
         <source>Install AI engine first</source>
@@ -8481,50 +8481,50 @@
     </message>
     <message>
         <source>Add click-to-pick cutout (about 190 MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>下载点击选取抠像组件（约 190 MB）</translation>
     </message>
     <message>
         <source>Image or video as mask…</source>
-        <translation type="unfinished"></translation>
+        <translation>将图像或视频用作蒙版…</translation>
     </message>
     <message>
         <source>Use a file&apos;s own pixels as the coverage map</source>
-        <translation type="unfinished"></translation>
+        <translation>使用文件自身的像素作为覆盖蒙版</translation>
     </message>
     <message>
         <source>Choose a mask image or video</source>
-        <translation type="unfinished"></translation>
+        <translation>选择蒙版图像或视频</translation>
     </message>
     <message>
         <source>Media files (*.png *.jpg *.jpeg *.webp *.heic *.heif *.avif *.tif *.tiff *.bmp *.gif *.mp4 *.mov *.mkv *.webm)</source>
-        <translation type="unfinished"></translation>
+        <translation>媒体文件（*.png *.jpg *.jpeg *.webp *.heic *.heif *.avif *.tif *.tiff *.bmp *.gif *.mp4 *.mov *.mkv *.webm）</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>所有文件（*）</translation>
     </message>
     <message>
         <source>%1 — click to apply, or drag onto a clip</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 — 点击应用，或拖到片段上</translation>
     </message>
     <message>
         <source>%1 — drag onto a clip</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 — 拖到片段上</translation>
     </message>
     <message>
         <source>Select a clip first, or drag the mask onto one</source>
-        <translation type="unfinished"></translation>
+        <translation>请先选择一个片段，或将蒙版拖到片段上</translation>
     </message>
 </context>
 <context>
     <name>MediaAssetsTab</name>
     <message>
         <source>No media yet</source>
-        <translation type="unfinished"></translation>
+        <translation>尚无媒体</translation>
     </message>
     <message>
         <source>Import files or drop them here, then drag them onto the timeline. Right-click a clip to preview and trim it first.</source>
-        <translation type="unfinished"></translation>
+        <translation>导入文件或拖放到此处，然后将其拖到时间轴。右键单击片段可先预览和裁剪。</translation>
     </message>
     <message>
         <source>Import media</source>
@@ -8532,11 +8532,11 @@
     </message>
     <message>
         <source>Import folder</source>
-        <translation type="unfinished"></translation>
+        <translation>导入文件夹</translation>
     </message>
     <message>
         <source>Supported formats</source>
-        <translation type="unfinished"></translation>
+        <translation>支持的格式</translation>
     </message>
     <message>
         <source>Video</source>
@@ -8548,7 +8548,7 @@
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished"></translation>
+        <translation>图像</translation>
     </message>
     <message>
         <source>Vector</source>
@@ -10788,7 +10788,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Select a video clip first</source>
-        <translation type="unfinished"></translation>
+        <translation>请先选择视频片段</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -12335,7 +12335,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>所有文件（*）</translation>
     </message>
     <message>
         <source>Export</source>
@@ -12461,7 +12461,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>所有文件（*）</translation>
     </message>
     <message>
         <source>Add auto caption</source>
