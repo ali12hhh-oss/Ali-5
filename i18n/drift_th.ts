@@ -11669,19 +11669,19 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Speech bubble</source>
-        <translation type="unfinished"></translation>
+        <translation>กรอบคำพูด</translation>
     </message>
     <message>
         <source>Rounded bubble</source>
-        <translation type="unfinished"></translation>
+        <translation>กรอบคำพูดมุมมน</translation>
     </message>
     <message>
         <source>Thought bubble</source>
-        <translation type="unfinished"></translation>
+        <translation>กรอบความคิด</translation>
     </message>
     <message>
         <source>Callout</source>
-        <translation type="unfinished"></translation>
+        <translation>กรอบคำอธิบาย</translation>
     </message>
     <message>
         <source>Star</source>
@@ -11689,15 +11689,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Burst</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปแฉก</translation>
     </message>
     <message>
         <source>Lightning bolt</source>
-        <translation type="unfinished"></translation>
+        <translation>สายฟ้า</translation>
     </message>
     <message>
         <source>Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>เมฆ</translation>
     </message>
     <message>
         <source>Heart</source>
@@ -11705,11 +11705,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Cross</source>
-        <translation type="unfinished"></translation>
+        <translation>กากบาท</translation>
     </message>
     <message>
         <source>Banner</source>
-        <translation type="unfinished"></translation>
+        <translation>แบนเนอร์</translation>
     </message>
     <message>
         <source>Basic</source>
@@ -11717,15 +11717,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>ลูกศร</translation>
     </message>
     <message>
         <source>Bubbles</source>
-        <translation type="unfinished"></translation>
+        <translation>กรอบคำพูด</translation>
     </message>
     <message>
         <source>Fun</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปทรงสนุก ๆ</translation>
     </message>
     <message>
         <source>Corner radius</source>
@@ -11760,15 +11760,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     <name>ShapesTab</name>
     <message>
         <source>Search shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหารูปร่าง</translation>
     </message>
     <message>
         <source>No shapes match “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พบรูปร่างที่ตรงกับ “%1”</translation>
     </message>
     <message>
         <source>No favorites yet. Star shapes to save them here.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่มีรายการโปรด แตะดาวบนรูปร่างเพื่อบันทึกไว้ที่นี่</translation>
     </message>
     <message>
         <source>Nothing in this category.</source>
@@ -11776,68 +11776,68 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>%1 — click to add, or drag to the timeline or preview</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 — แตะเพื่อเพิ่ม หรือลากไปยังไทม์ไลน์หรือหน้าต่างแสดงตัวอย่าง</translation>
     </message>
 </context>
 <context>
     <name>ShortcutCaptureField</name>
     <message>
         <source>Shortcut for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ปุ่มลัดสำหรับ %1</translation>
     </message>
     <message>
         <source>Not set</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่ได้ตั้งค่า</translation>
     </message>
     <message>
         <source>Press keys…</source>
-        <translation type="unfinished"></translation>
+        <translation>กดปุ่ม…</translation>
     </message>
     <message>
         <source>Click to set</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิกเพื่อตั้งค่า</translation>
     </message>
     <message>
         <source>“%1” is already used by %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1” ถูกใช้โดย %2 แล้ว</translation>
     </message>
 </context>
 <context>
     <name>ShortcutsTab</name>
     <message>
         <source>Search shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหาปุ่มลัด</translation>
     </message>
     <message>
         <source>Click a shortcut, then press the keys. Esc cancels, Backspace clears.</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิกปุ่มลัดแล้วกดปุ่มที่ต้องการ กด Esc เพื่อยกเลิก หรือ Backspace เพื่อล้าง</translation>
     </message>
     <message>
         <source>No shortcuts available</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีปุ่มลัดที่ใช้ได้</translation>
     </message>
     <message>
         <source>No shortcuts match “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีปุ่มลัดที่ตรงกับ “%1”</translation>
     </message>
     <message>
         <source>Try a different name or key.</source>
-        <translation type="unfinished"></translation>
+        <translation>ลองใช้ชื่อหรือปุ่มอื่น</translation>
     </message>
     <message>
         <source>Reset to defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>รีเซ็ตเป็นค่าเริ่มต้น</translation>
     </message>
     <message>
         <source>Shortcuts reset to defaults.</source>
-        <translation type="unfinished"></translation>
+        <translation>รีเซ็ตปุ่มลัดเป็นค่าเริ่มต้นแล้ว</translation>
     </message>
 </context>
 <context>
     <name>SpeedCurveWindow</name>
     <message>
         <source>Custom speed</source>
-        <translation type="unfinished"></translation>
+        <translation>ความเร็วกำหนดเอง</translation>
     </message>
     <message>
         <source>Audio only</source>
@@ -11865,11 +11865,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Add point</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มจุด</translation>
     </message>
     <message>
         <source>Sharp</source>
-        <translation type="unfinished"></translation>
+        <translation>คม</translation>
     </message>
     <message>
         <source>Smooth</source>
@@ -11877,7 +11877,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Delete point</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบจุด</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -11885,7 +11885,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Applied as a copy on a new track — the original clip is left alone.</source>
-        <translation type="unfinished"></translation>
+        <translation>นำไปใช้เป็นสำเนาบนแทร็กใหม่ โดยไม่เปลี่ยนคลิปต้นฉบับ</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -11904,7 +11904,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Speed applies to video, audio and composite clips.</source>
-        <translation type="unfinished"></translation>
+        <translation>การตั้งค่าความเร็วมีผลกับคลิปวิดีโอ เสียง และคลิปรวม</translation>
     </message>
     <message>
         <source>Playback speed</source>
@@ -11912,11 +11912,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Custom speed…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำหนดความเร็วเอง…</translation>
     </message>
     <message>
         <source>Custom speed active — remove</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดใช้ความเร็วกำหนดเองแล้ว — นำออก</translation>
     </message>
     <message>
         <source>Speed</source>
@@ -11928,7 +11928,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Custom speed</source>
-        <translation type="unfinished"></translation>
+        <translation>ความเร็วกำหนดเอง</translation>
     </message>
     <message>
         <source> (reversed)</source>
@@ -11940,38 +11940,38 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Not rendered — playback may stutter</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่ได้เรนเดอร์ — การเล่นอาจกระตุก</translation>
     </message>
     <message>
         <source>Render</source>
-        <translation type="unfinished"></translation>
+        <translation>เรนเดอร์</translation>
     </message>
 </context>
 <context>
     <name>SrtIO</name>
     <message>
         <source>Missing output</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีไฟล์เอาต์พุต</translation>
     </message>
     <message>
         <source>Subtitle file is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์คำบรรยายว่างเปล่า</translation>
     </message>
     <message>
         <source>Invalid subtitle timing line</source>
-        <translation type="unfinished"></translation>
+        <translation>บรรทัดเวลาในคำบรรยายไม่ถูกต้อง</translation>
     </message>
     <message>
         <source>Invalid subtitle timestamp</source>
-        <translation type="unfinished"></translation>
+        <translation>การประทับเวลาในคำบรรยายไม่ถูกต้อง</translation>
     </message>
     <message>
         <source>No subtitle cues found</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พบรายการคำบรรยาย</translation>
     </message>
     <message>
         <source>Could not open subtitle file</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดไฟล์คำบรรยายไม่สำเร็จ</translation>
     </message>
     <message>
         <source>Could not write subtitle file</source>
@@ -11982,31 +11982,31 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     <name>StabilizeInspector</name>
     <message>
         <source>Bake a new video</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างไฟล์วิดีโอใหม่</translation>
     </message>
     <message>
         <source>Animate with keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำแอนิเมชันด้วยคีย์เฟรม</translation>
     </message>
     <message>
         <source>Update stabilization</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตการกันสั่น</translation>
     </message>
     <message>
         <source>Re-apply keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้คีย์เฟรมอีกครั้ง</translation>
     </message>
     <message>
         <source>Stabilize with keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>กันสั่นด้วยคีย์เฟรม</translation>
     </message>
     <message>
         <source>Re-stabilize video</source>
-        <translation type="unfinished"></translation>
+        <translation>กันสั่นวิดีโออีกครั้ง</translation>
     </message>
     <message>
         <source>Stabilize video</source>
-        <translation type="unfinished"></translation>
+        <translation>กันสั่นวิดีโอ</translation>
     </message>
     <message>
         <source>Smooths camera shake by writing position keyframes. Linear pans stay as two keys far apart; only direction changes get extra keys. Changing smoothness or tripod does not update the preview until you apply.</source>
@@ -12018,15 +12018,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>โหมด</translation>
     </message>
     <message>
         <source>Bake a new file, or animate the clip with sparse transform keys</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างไฟล์ใหม่ หรือทำแอนิเมชันคลิปด้วยคีย์การแปลงที่เว้นระยะ</translation>
     </message>
     <message>
         <source>Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>ความนุ่มนวล</translation>
     </message>
     <message>
         <source>How many frames the smoother looks ahead and behind. Higher values hide more shake but crop the picture more.</source>
@@ -12034,7 +12034,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Tripod mode</source>
-        <translation type="unfinished"></translation>
+        <translation>โหมดขาตั้งกล้อง</translation>
     </message>
     <message>
         <source>Locks the framing as if the camera were on a tripod. Crops more aggressively than smoothing alone.</source>
@@ -12054,7 +12054,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Stabilizing…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังกันสั่น…</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -12087,11 +12087,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Open Project…</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดโปรเจกต์…</translation>
     </message>
     <message>
         <source>Recent Projects</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรเจกต์ล่าสุด</translation>
     </message>
     <message>
         <source>Nothing here yet — projects you save will show up in this list.</source>
@@ -12102,15 +12102,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     <name>StickersTab</name>
     <message>
         <source>Search stickers</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหาสติกเกอร์</translation>
     </message>
     <message>
         <source>No sticker packs installed</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่ได้ติดตั้งแพ็กสติกเกอร์</translation>
     </message>
     <message>
         <source>Install the emoji pack to add stickers.</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้งแพ็กอีโมจิเพื่อเพิ่มสติกเกอร์</translation>
     </message>
     <message>
         <source>Get extras</source>
@@ -12118,11 +12118,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>No stickers match “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีสติกเกอร์ที่ตรงกับ “%1”</translation>
     </message>
     <message>
         <source>No favorites yet</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่มีรายการโปรด</translation>
     </message>
     <message>
         <source>Nothing in this category</source>
@@ -12134,22 +12134,22 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Star stickers to save them here.</source>
-        <translation type="unfinished"></translation>
+        <translation>แตะดาวบนสติกเกอร์เพื่อบันทึกไว้ที่นี่</translation>
     </message>
     <message>
         <source>Pick another category.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกหมวดหมู่อื่น</translation>
     </message>
     <message>
         <source>%1 — click to add, or drag to the timeline or preview</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 — แตะเพื่อเพิ่ม หรือลากไปยังไทม์ไลน์หรือหน้าต่างแสดงตัวอย่าง</translation>
     </message>
 </context>
 <context>
     <name>StockBrowser</name>
     <message>
         <source>Save downloads to</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกไฟล์ดาวน์โหลดไปที่</translation>
     </message>
     <message>
         <source>All</source>
@@ -12157,7 +12157,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>%1 (%2 left)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (เหลือ %2)</translation>
     </message>
     <message numerus="yes">
         <source>Filters — %n applied</source>
@@ -12172,23 +12172,23 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Get from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>รับจาก %1</translation>
     </message>
     <message>
         <source>Get from this link</source>
-        <translation type="unfinished"></translation>
+        <translation>รับจากลิงก์นี้</translation>
     </message>
     <message>
         <source>Looking up that link…</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังตรวจสอบลิงก์…</translation>
     </message>
     <message>
         <source>Couldn’t open that link</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดลิงก์นั้นไม่สำเร็จ</translation>
     </message>
     <message>
         <source>Search failed</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหาไม่สำเร็จ</translation>
     </message>
     <message>
         <source>Try again</source>
@@ -12196,27 +12196,27 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>No results for “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีผลลัพธ์สำหรับ “%1”</translation>
     </message>
     <message>
         <source>Search this source</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหาในแหล่งนี้</translation>
     </message>
     <message>
         <source>Paste a link</source>
-        <translation type="unfinished"></translation>
+        <translation>วางลิงก์</translation>
     </message>
     <message>
         <source>Try different words, another source, or clear a filter.</source>
-        <translation type="unfinished"></translation>
+        <translation>ลองใช้คำอื่น เปลี่ยนแหล่งค้นหา หรือล้างตัวกรอง</translation>
     </message>
     <message>
         <source>Type above and press Enter.</source>
-        <translation type="unfinished"></translation>
+        <translation>พิมพ์ด้านบนแล้วกด Enter</translation>
     </message>
     <message>
         <source>Paste a page link above and press Enter.</source>
-        <translation type="unfinished"></translation>
+        <translation>วางลิงก์หน้าเว็บด้านบนแล้วกด Enter</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -12224,18 +12224,18 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Play preview</source>
-        <translation type="unfinished"></translation>
+        <translation>เล่นตัวอย่าง</translation>
     </message>
 </context>
 <context>
     <name>StockItemDetail</name>
     <message>
         <source>Back to results</source>
-        <translation type="unfinished"></translation>
+        <translation>กลับไปยังผลลัพธ์</translation>
     </message>
     <message>
         <source>By %1</source>
-        <translation type="unfinished"></translation>
+        <translation>โดย %1</translation>
     </message>
     <message numerus="yes">
         <source>%n coin(s)</source>
@@ -12249,7 +12249,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Download again</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลดอีกครั้ง</translation>
     </message>
     <message>
         <source>Download</source>
@@ -13881,7 +13881,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Reset to defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>รีเซ็ตเป็นค่าเริ่มต้น</translation>
     </message>
     <message>
         <source>More menu</source>
@@ -14595,7 +14595,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>No favorites yet</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่มีรายการโปรด</translation>
     </message>
     <message>
         <source>Nothing in this category</source>
@@ -14611,7 +14611,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
     </message>
     <message>
         <source>Pick another category.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกหมวดหมู่อื่น</translation>
     </message>
     <message>
         <source>%1 — drag onto an overlap between two clips</source>
