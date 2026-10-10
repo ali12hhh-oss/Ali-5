@@ -4266,39 +4266,39 @@
     </message>
     <message>
         <source>Failed to open DaVinci Resolve project / timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开 DaVinci Resolve 项目/时间线</translation>
     </message>
     <message>
         <source>DaVinci Resolve project imported: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>已导入 DaVinci Resolve 项目：%1</translation>
     </message>
     <message>
         <source>Failed to open Edit Decision List (.edl)</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开剪辑决策列表（.edl）</translation>
     </message>
     <message>
         <source>EDL imported: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>已导入 EDL：%1</translation>
     </message>
     <message>
         <source>Failed to open OpenTimelineIO (.otio) sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开 OpenTimelineIO（.otio）序列</translation>
     </message>
     <message>
         <source>OpenTimelineIO imported: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>已导入 OpenTimelineIO：%1</translation>
     </message>
     <message>
         <source>That folder isn’t valid</source>
-        <translation type="unfinished"></translation>
+        <translation>该文件夹无效</translation>
     </message>
     <message>
         <source>All media is already in that folder</source>
-        <translation type="unfinished"></translation>
+        <translation>所有媒体都已在该文件夹中</translation>
     </message>
     <message>
         <source>Collect media</source>
-        <translation type="unfinished"></translation>
+        <translation>收集媒体</translation>
     </message>
     <message numerus="yes">
         <source>Media collected, but %n original(s) couldn’t be deleted</source>
@@ -4308,87 +4308,87 @@
     </message>
     <message>
         <source>Media moved and relinked</source>
-        <translation type="unfinished"></translation>
+        <translation>媒体已移动并重新链接</translation>
     </message>
     <message>
         <source>Media copied and relinked</source>
-        <translation type="unfinished"></translation>
+        <translation>媒体已复制并重新链接</translation>
     </message>
     <message>
         <source>Exporting…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在导出…</translation>
     </message>
     <message>
         <source>Opening your video…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在打开视频…</translation>
     </message>
     <message>
         <source>Nothing on this device can play that file</source>
-        <translation type="unfinished"></translation>
+        <translation>此设备上没有可播放该文件的应用</translation>
     </message>
     <message>
         <source>Getting your video ready to share…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在准备分享视频…</translation>
     </message>
     <message>
         <source>Nothing on this device can share that file</source>
-        <translation type="unfinished"></translation>
+        <translation>此设备上没有可用于分享该文件的应用</translation>
     </message>
     <message>
         <source>Remove silence</source>
-        <translation type="unfinished"></translation>
+        <translation>移除静音片段</translation>
     </message>
     <message>
         <source>Add layer</source>
-        <translation type="unfinished"></translation>
+        <translation>添加图层</translation>
     </message>
     <message>
         <source>Remove layer</source>
-        <translation type="unfinished"></translation>
+        <translation>移除图层</translation>
     </message>
     <message>
         <source>Duplicate layer</source>
-        <translation type="unfinished"></translation>
+        <translation>复制图层</translation>
     </message>
     <message>
         <source>Reorder layers</source>
-        <translation type="unfinished"></translation>
+        <translation>调整图层顺序</translation>
     </message>
     <message>
         <source>Edit layer</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑图层</translation>
     </message>
     <message>
         <source>Layer added</source>
-        <translation type="unfinished"></translation>
+        <translation>已添加图层</translation>
     </message>
     <message>
         <source>Layer removed</source>
-        <translation type="unfinished"></translation>
+        <translation>已移除图层</translation>
     </message>
     <message>
         <source>Layer duplicated</source>
-        <translation type="unfinished"></translation>
+        <translation>已复制图层</translation>
     </message>
     <message>
         <source>Layer moved</source>
-        <translation type="unfinished"></translation>
+        <translation>已移动图层</translation>
     </message>
     <message>
         <source>Edit text animation</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑文本动画</translation>
     </message>
     <message>
         <source>Text animation updated</source>
-        <translation type="unfinished"></translation>
+        <translation>文本动画已更新</translation>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>基本</translation>
     </message>
     <message>
         <source>By character</source>
-        <translation type="unfinished"></translation>
+        <translation>按字符</translation>
     </message>
     <message>
         <source>By word</source>
@@ -11400,11 +11400,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Duplicate layer</source>
-        <translation type="unfinished"></translation>
+        <translation>复制图层</translation>
     </message>
     <message>
         <source>Remove layer</source>
-        <translation type="unfinished"></translation>
+        <translation>移除图层</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -11531,7 +11531,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Add layer</source>
-        <translation type="unfinished"></translation>
+        <translation>添加图层</translation>
     </message>
     <message>
         <source>Add a fill, stroke, shadow, glow or extrude layer</source>
@@ -11706,7 +11706,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>基本</translation>
     </message>
     <message>
         <source>Arrows</source>
@@ -12825,7 +12825,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Add layer</source>
-        <translation type="unfinished"></translation>
+        <translation>添加图层</translation>
     </message>
     <message>
         <source>Add a fill, stroke, shadow, glow or extrude layer</source>
@@ -13125,7 +13125,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Edit text animation</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑文本动画</translation>
     </message>
     <message>
         <source>By</source>
@@ -14453,7 +14453,7 @@ If playback stutters, try another.</source>
     <name>TransitionCatalog</name>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>基本</translation>
     </message>
     <message>
         <source>Grid &amp; Geometric</source>
