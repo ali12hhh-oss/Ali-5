@@ -10618,11 +10618,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source> — larger than 4K, which is slow to edit and export</source>
-        <translation type="unfinished"></translation>
+        <translation>— 高于 4K，编辑和导出速度会很慢</translation>
     </message>
     <message>
         <source>Up to about %1 on this computer&apos;s CPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>在此电脑的 CPU 上，最多约为 %1。</translation>
     </message>
     <message>
         <source>Up to about %1 on a typical laptop CPU. Preview a frame for an estimate for this computer.</source>
@@ -10658,7 +10658,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Speeds are per frame of this clip. Custom models are experimental and may not work. Drop an ONNX export (fp32 or fp16, RGB, 1x/2x/4x) into the folder; put the scale in the file name, e.g. &quot;2x_Name.onnx&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>速度按此片段的每帧计算。自定义模型仍处于实验阶段，可能无法运行。将 ONNX 导出文件（fp32 或 fp16、RGB、1x/2x/4x）放入文件夹，并在文件名中注明倍率，例如 "2x_Name.onnx"。</translation>
     </message>
     <message>
         <source>Refresh model list</source>
@@ -10950,7 +10950,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Cut out &amp; apply effect</source>
-        <translation type="unfinished"></translation>
+        <translation>抠像并应用效果</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -11076,7 +11076,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Choose which graphics card Drift runs on in Windows Settings, under Display &gt; Graphics. Takes effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>在 Windows 设置的“显示 &gt; 图形”中选择 Drift 使用的显卡。重启后生效。</translation>
     </message>
     <message>
         <source>Open graphics settings</source>
@@ -11212,7 +11212,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Keys are stored unencrypted in Drift&apos;s settings. ELEVENLABS_API_KEY and FISH_API_KEY in the environment take precedence. Use is billed to your own account.</source>
-        <translation type="unfinished"></translation>
+        <translation>密钥以未加密形式存储在 Drift 设置中。环境变量 ELEVENLABS_API_KEY 和 FISH_API_KEY 优先使用。产生的费用由你的账户承担。</translation>
     </message>
     <message>
         <source>Transcription (Scribe), voiceover, sound effects</source>
@@ -11853,7 +11853,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>s / </source>
-        <translation type="unfinished"></translation>
+        <translation>วินาที /</translation>
     </message>
     <message>
         <source>s</source>
@@ -11861,7 +11861,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>s → </source>
-        <translation type="unfinished"></translation>
+        <translation>วินาที →</translation>
     </message>
     <message>
         <source>Add point</source>
@@ -11932,7 +11932,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source> (reversed)</source>
-        <translation type="unfinished"></translation>
+        <translation>（已反转）</translation>
     </message>
     <message>
         <source>Reverse</source>
@@ -12363,7 +12363,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Offset the exported captions by this clip&apos;s start so they match the exported video</source>
-        <translation type="unfinished"></translation>
+        <translation>根据此片段的起始时间偏移导出的字幕，使其与导出的视频同步</translation>
     </message>
     <message>
         <source>(empty)</source>
@@ -12489,7 +12489,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Create captions from the selected clips&apos; speech — several clips become one caption clip</source>
-        <translation type="unfinished"></translation>
+        <translation>根据所选片段中的语音生成字幕——多个片段将合并为一个字幕片段</translation>
     </message>
     <message>
         <source>Select a video or audio clip first</source>
@@ -12637,7 +12637,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Choose the gradient&apos;s first colour</source>
-        <translation type="unfinished"></translation>
+        <translation>选择渐变的第一种颜色</translation>
     </message>
     <message>
         <source>Edits the first gradient stop</source>
@@ -12649,7 +12649,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Aa</source>
-        <translation type="unfinished"></translation>
+        <translation>Aa</translation>
     </message>
     <message>
         <source>None</source>
@@ -12981,7 +12981,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Save this text&apos;s style as a reusable preset</source>
-        <translation type="unfinished"></translation>
+        <translation>将此文本样式保存为可重复使用的预设</translation>
     </message>
     <message>
         <source>Effect</source>
@@ -13148,7 +13148,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Aa</source>
-        <translation type="unfinished"></translation>
+        <translation>Aa</translation>
     </message>
     <message>
         <source>Text effect</source>
@@ -13774,7 +13774,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Add transform layer — moves the selected clips&apos; tracks as one</source>
-        <translation type="unfinished"></translation>
+        <translation>添加变换图层 — 将所选片段的轨道作为整体移动</translation>
     </message>
     <message>
         <source>Main</source>
@@ -13973,31 +13973,31 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>TF</source>
-        <translation type="unfinished"></translation>
+        <translation>TF</translation>
     </message>
     <message>
         <source>FX</source>
-        <translation type="unfinished"></translation>
+        <translation>FX</translation>
     </message>
     <message>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
     <message>
         <source>T</source>
-        <translation type="unfinished"></translation>
+        <translation>T</translation>
     </message>
     <message>
         <source>S</source>
-        <translation type="unfinished"></translation>
+        <translation>S</translation>
     </message>
     <message>
         <source>G</source>
-        <translation type="unfinished"></translation>
+        <translation>G</translation>
     </message>
     <message>
         <source>V</source>
-        <translation type="unfinished"></translation>
+        <translation>V</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -14228,7 +14228,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Measured inside %1&apos;s frame</source>
-        <translation type="unfinished"></translation>
+        <translation>在 %1 的画面内测量</translation>
     </message>
     <message>
         <source>Size (px)</source>
@@ -14252,7 +14252,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Opacity &amp; rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>不透明度与旋转</translation>
     </message>
     <message>
         <source>Rotate 90°</source>
@@ -14304,7 +14304,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Gizmo follows the clip&apos;s own edges and face, however it is turned</source>
-        <translation type="unfinished"></translation>
+        <translation>控制器跟随片段自身的边缘和表面，无论片段如何旋转</translation>
     </message>
     <message>
         <source>Flip</source>
@@ -14320,7 +14320,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Reset position &amp; size</source>
-        <translation type="unfinished"></translation>
+        <translation>重置位置和尺寸</translation>
     </message>
     <message>
         <source>Reset position</source>
@@ -14340,7 +14340,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Corrects the source&apos;s own rotation losslessly — unlike Angle above, this changes decoding, not just the on-screen box.</source>
-        <translation type="unfinished"></translation>
+        <translation>无损修正源媒体自身的旋转。与上方的“角度”不同，此操作会改变解码方向，而不仅仅是屏幕上的边框。</translation>
     </message>
 </context>
 <context>
@@ -14465,19 +14465,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Grid &amp; Geometric</source>
-        <translation type="unfinished"></translation>
+        <translation>网格与几何</translation>
     </message>
     <message>
         <source>Particle &amp; Liquid</source>
-        <translation type="unfinished"></translation>
+        <translation>粒子与液体</translation>
     </message>
     <message>
         <source>Glitch &amp; Digital</source>
-        <translation type="unfinished"></translation>
+        <translation>故障与数字风格</translation>
     </message>
     <message>
         <source>Stylized &amp; Cinematic</source>
-        <translation type="unfinished"></translation>
+        <translation>风格化与电影感</translation>
     </message>
     <message>
         <source>Other</source>
@@ -14634,7 +14634,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Don&apos;t Save</source>
-        <translation type="unfinished"></translation>
+        <translation>不保存</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -14684,7 +14684,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Don&apos;t mention %1 again. Later releases are still announced.</source>
-        <translation type="unfinished"></translation>
+        <translation>不再提醒 %1。之后的版本仍会通知。</translation>
     </message>
     <message>
         <source>Later</source>
@@ -14734,7 +14734,7 @@ If playback stutters, try another.</source>
     <name>VectorInspector</name>
     <message>
         <source>Toggle %1&apos;s keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>切换 %1 的关键帧</translation>
     </message>
     <message>
         <source>Key %1 at the playhead</source>
@@ -14746,7 +14746,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Back to the drawing&apos;s own %1</source>
-        <translation type="unfinished"></translation>
+        <translation>恢复绘图自身的 %1 设置</translation>
     </message>
     <message>
         <source>Replace Animation</source>
@@ -14862,7 +14862,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source> (defs)</source>
-        <translation type="unfinished"></translation>
+        <translation>（定义）</translation>
     </message>
     <message>
         <source>Which part of the drawing the rows below restyle</source>
@@ -15173,7 +15173,9 @@ The video preview cannot render, and Drift may not start at all. Update your gra
         <source>Drift has been running for %1 seconds but its window has not drawn anything yet.
 
 If the window is blank or black, your graphics driver is most likely outdated or faulty. Update it from your GPU vendor&apos;s website (AMD, NVIDIA or Intel) and start Drift again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift 已运行 %1 秒，但窗口仍未显示任何内容。
+
+如果窗口为空白或全黑，显卡驱动很可能已过时或存在故障。请从显卡厂商（AMD、NVIDIA 或 Intel）的网站更新驱动，然后重新启动 Drift。</translation>
     </message>
 </context>
 </TS>
