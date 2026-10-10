@@ -8910,7 +8910,7 @@
     </message>
     <message>
         <source>Save writes a new file over this item in the bin.</source>
-        <translation type="unfinished"></translation>
+        <translation>การบันทึกจะสร้างไฟล์ใหม่ทับรายการนี้ในคลังสื่อ</translation>
     </message>
     <message>
         <source>Save keeps the original video and stores this framing.</source>
@@ -8918,11 +8918,11 @@
     </message>
     <message>
         <source>Nothing to save — drag this item onto the timeline when you are ready.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีอะไรให้บันทึก — เมื่อต้องการแล้วให้ลากรายการนี้ไปยังไทม์ไลน์</translation>
     </message>
     <message>
         <source>Adjust the frame or Reset to restore the full image.</source>
-        <translation type="unfinished"></translation>
+        <translation>ปรับกรอบภาพหรือกดรีเซ็ตเพื่อคืนภาพเต็ม</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -8938,7 +8938,7 @@
     </message>
     <message>
         <source>Upscale…</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มความละเอียด…</translation>
     </message>
     <message>
         <source>Save</source>
@@ -8961,7 +8961,7 @@
     <name>MissingAddonsDialog</name>
     <message>
         <source>Extra packs needed</source>
-        <translation type="unfinished"></translation>
+        <translation>ต้องใช้แพ็กเสริม</translation>
     </message>
     <message>
         <source>Install all</source>
@@ -8969,11 +8969,11 @@
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้าม</translation>
     </message>
     <message>
         <source>This project was saved with extra packs you don&apos;t have. It has opened, but anything they provide will not show until they are installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรเจกต์นี้บันทึกไว้โดยใช้แพ็กเสริมที่คุณยังไม่มี เปิดโปรเจกต์ได้แล้ว แต่เนื้อหาจากแพ็กจะไม่แสดงจนกว่าจะติดตั้ง</translation>
     </message>
     <message>
         <source>%1… %2%</source>
@@ -8981,7 +8981,7 @@
     </message>
     <message>
         <source>used version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้เวอร์ชัน %1</translation>
     </message>
     <message>
         <source>Install</source>
@@ -8989,26 +8989,26 @@
     </message>
     <message>
         <source>Reopen the project once they finish installing.</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดโปรเจกต์อีกครั้งเมื่อติดตั้งเสร็จแล้ว</translation>
     </message>
 </context>
 <context>
     <name>Model3DInspector</name>
     <message>
         <source>Replace 3D Model</source>
-        <translation type="unfinished"></translation>
+        <translation>แทนที่โมเดล 3 มิติ</translation>
     </message>
     <message>
         <source>glTF binary (*.glb)</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์ไบนารี glTF (*.glb)</translation>
     </message>
     <message>
         <source>Could not load the model</source>
-        <translation type="unfinished"></translation>
+        <translation>โหลดโมเดลไม่ได้</translation>
     </message>
     <message>
         <source>3D model</source>
-        <translation type="unfinished"></translation>
+        <translation>โมเดล 3 มิติ</translation>
     </message>
     <message numerus="yes">
         <source>%n animation(s)</source>
@@ -9018,15 +9018,15 @@
     </message>
     <message>
         <source>static</source>
-        <translation type="unfinished"></translation>
+        <translation>คงที่</translation>
     </message>
     <message>
         <source>Replace model…</source>
-        <translation type="unfinished"></translation>
+        <translation>แทนที่โมเดล…</translation>
     </message>
     <message>
         <source>Load another .glb; position, length, pose and lighting stay</source>
-        <translation type="unfinished"></translation>
+        <translation>โหลดไฟล์ .glb อื่น โดยคงตำแหน่ง ขนาด ท่าทาง และแสงไว้</translation>
     </message>
     <message>
         <source>Playback</source>
@@ -9038,27 +9038,27 @@
     </message>
     <message>
         <source>Animation %1</source>
-        <translation type="unfinished"></translation>
+        <translation>แอนิเมชัน %1</translation>
     </message>
     <message>
         <source>Which of the file&apos;s animations plays</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกว่าจะเล่นแอนิเมชันใดในไฟล์</translation>
     </message>
     <message>
         <source>After the end</source>
-        <translation type="unfinished"></translation>
+        <translation>หลังจบ</translation>
     </message>
     <message>
         <source>Hold last frame</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้างที่เฟรมสุดท้าย</translation>
     </message>
     <message>
         <source>Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>วนซ้ำ</translation>
     </message>
     <message>
         <source>Ping-pong</source>
-        <translation type="unfinished"></translation>
+        <translation>วนกลับไปกลับมา</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -9066,23 +9066,23 @@
     </message>
     <message>
         <source>What plays once the animation has run its length</source>
-        <translation type="unfinished"></translation>
+        <translation>สิ่งที่จะเกิดขึ้นเมื่อเล่นแอนิเมชันจบ</translation>
     </message>
     <message>
         <source>Start offset</source>
-        <translation type="unfinished"></translation>
+        <translation>ออฟเซ็ตเริ่มต้น</translation>
     </message>
     <message>
         <source>Pose</source>
-        <translation type="unfinished"></translation>
+        <translation>ท่าทาง</translation>
     </message>
     <message>
         <source>Rotations follow the model&apos;s own axes: X tilts, Y then spins about the tilted up axis, Z rolls after both.</source>
-        <translation type="unfinished"></translation>
+        <translation>การหมุนใช้แกนของโมเดลเอง: แกน X เอียง จากนั้นแกน Y หมุนรอบแกนตั้งที่เอียงแล้ว และแกน Z หมุนกลิ้งตามหลังทั้งสองแกน</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>ขนาด</translation>
     </message>
     <message>
         <source>Depth</source>
@@ -9090,19 +9090,19 @@
     </message>
     <message>
         <source>Rotation X</source>
-        <translation type="unfinished"></translation>
+        <translation>การหมุน X</translation>
     </message>
     <message>
         <source>Rotation Y</source>
-        <translation type="unfinished"></translation>
+        <translation>การหมุน Y</translation>
     </message>
     <message>
         <source>Rotation Z</source>
-        <translation type="unfinished"></translation>
+        <translation>การหมุน Z</translation>
     </message>
     <message>
         <source>Lighting</source>
-        <translation type="unfinished"></translation>
+        <translation>แสง</translation>
     </message>
     <message>
         <source>Move light</source>
@@ -9110,38 +9110,38 @@
     </message>
     <message>
         <source>Drag the light around the sphere. The light stays fixed to the camera, not the model.</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากแสงไปรอบ ๆ ทรงกลม แสงจะยึดกับกล้อง ไม่ใช่ตัวโมเดล</translation>
     </message>
     <message>
         <source>Behind</source>
-        <translation type="unfinished"></translation>
+        <translation>ด้านหลัง</translation>
     </message>
     <message>
         <source>Put the light on the far side of the model for a rim light</source>
-        <translation type="unfinished"></translation>
+        <translation>วางแสงไว้ด้านไกลของโมเดลเพื่อสร้างแสงขอบ</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>ทิศทาง</translation>
     </message>
     <message>
         <source>Elevation</source>
-        <translation type="unfinished"></translation>
+        <translation>มุมเงย</translation>
     </message>
     <message>
         <source>Intensity</source>
-        <translation type="unfinished"></translation>
+        <translation>ความเข้ม</translation>
     </message>
     <message>
         <source>Ambient</source>
-        <translation type="unfinished"></translation>
+        <translation>แสงแวดล้อม</translation>
     </message>
 </context>
 <context>
     <name>Model3dSource</name>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>ขนาด</translation>
     </message>
     <message>
         <source>Depth</source>
@@ -9149,31 +9149,31 @@
     </message>
     <message>
         <source>Rotation X</source>
-        <translation type="unfinished"></translation>
+        <translation>การหมุน X</translation>
     </message>
     <message>
         <source>Rotation Y</source>
-        <translation type="unfinished"></translation>
+        <translation>การหมุน Y</translation>
     </message>
     <message>
         <source>Rotation Z</source>
-        <translation type="unfinished"></translation>
+        <translation>การหมุน Z</translation>
     </message>
     <message>
         <source>Light direction</source>
-        <translation type="unfinished"></translation>
+        <translation>ทิศทางแสง</translation>
     </message>
     <message>
         <source>Light elevation</source>
-        <translation type="unfinished"></translation>
+        <translation>มุมเงยของแสง</translation>
     </message>
     <message>
         <source>Light intensity</source>
-        <translation type="unfinished"></translation>
+        <translation>ความเข้มของแสง</translation>
     </message>
     <message>
         <source>Ambient light</source>
-        <translation type="unfinished"></translation>
+        <translation>แสงแวดล้อม</translation>
     </message>
 </context>
 <context>
@@ -9184,39 +9184,39 @@
     </message>
     <message>
         <source>Pick the camera. Cuts stay staged until you save.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกกล้อง การตัดจะยังเป็นฉบับร่างจนกว่าจะบันทึก</translation>
     </message>
     <message>
         <source>Ready to set up</source>
-        <translation type="unfinished"></translation>
+        <translation>พร้อมตั้งค่า</translation>
     </message>
     <message>
         <source>No angles to switch between</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีมุมกล้องให้สลับ</translation>
     </message>
     <message>
         <source>Your imported videos will go on a track each, stacked so the top camera is the program.</source>
-        <translation type="unfinished"></translation>
+        <translation>วิดีโอที่นำเข้าจะอยู่คนละแทร็กและเรียงซ้อนกัน โดยกล้องแทร็กบนสุดเป็นภาพหลัก</translation>
     </message>
     <message>
         <source>Select at least two video clips on different tracks, then open Multicam again.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกคลิปวิดีโออย่างน้อยสองคลิปจากคนละแทร็ก แล้วเปิด Multicam อีกครั้ง</translation>
     </message>
     <message>
         <source>Set up from my media</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าจากสื่อของฉัน</translation>
     </message>
     <message>
         <source>Nothing here</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีรายการที่นี่</translation>
     </message>
     <message>
         <source>Switch the program to %1 (key %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>สลับภาพหลักเป็น %1 (ปุ่ม %2)</translation>
     </message>
     <message>
         <source>No clip at the current time</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีคลิป ณ เวลาปัจจุบัน</translation>
     </message>
     <message>
         <source>GPU preview unavailable — see Help → Debug info</source>
@@ -9640,7 +9640,7 @@
     </message>
     <message>
         <source>No clip at the current time</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีคลิป ณ เวลาปัจจุบัน</translation>
     </message>
     <message>
         <source>Seek</source>
@@ -11101,7 +11101,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>ขนาด</translation>
     </message>
     <message>
         <source>100% (system)</source>
@@ -12737,7 +12737,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>ขนาด</translation>
     </message>
     <message>
         <source>Stroke</source>
@@ -13101,7 +13101,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>วนซ้ำ</translation>
     </message>
     <message>
         <source>Plays for every caption</source>
@@ -14672,7 +14672,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้าม</translation>
     </message>
     <message>
         <source>Don&apos;t mention %1 again. Later releases are still announced.</source>
@@ -14810,19 +14810,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>After the end</source>
-        <translation type="unfinished"></translation>
+        <translation>หลังจบ</translation>
     </message>
     <message>
         <source>Hold last frame</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้างที่เฟรมสุดท้าย</translation>
     </message>
     <message>
         <source>Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>วนซ้ำ</translation>
     </message>
     <message>
         <source>Ping-pong</source>
-        <translation type="unfinished"></translation>
+        <translation>วนกลับไปกลับมา</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -14830,11 +14830,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>What plays once the animation has run its length</source>
-        <translation type="unfinished"></translation>
+        <translation>สิ่งที่จะเกิดขึ้นเมื่อเล่นแอนิเมชันจบ</translation>
     </message>
     <message>
         <source>Start offset</source>
-        <translation type="unfinished"></translation>
+        <translation>ออฟเซ็ตเริ่มต้น</translation>
     </message>
     <message>
         <source>Appearance</source>
