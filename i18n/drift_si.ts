@@ -8962,7 +8962,7 @@
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished">ආපසු</translation>
+        <translation>ආපසු</translation>
     </message>
     <message>
         <source>Upscale…</source>
@@ -8974,11 +8974,11 @@
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>ඊළඟ</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>අවසන්</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -9812,7 +9812,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Open graphics settings</source>
-        <translation type="unfinished"></translation>
+        <translation>චිත්‍රක සැකසීම් විවෘත කරන්න</translation>
     </message>
 </context>
 <context>
@@ -10372,7 +10372,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Loading the models…</source>
-        <translation type="unfinished"></translation>
+        <translation>ආකෘති පූරණය වෙමින්…</translation>
     </message>
     <message>
         <source>%1 s</source>
@@ -10583,11 +10583,11 @@ If playback stutters, try another.</source>
     <name>RestoreWindow</name>
     <message>
         <source>Enhance video</source>
-        <translation type="unfinished"></translation>
+        <translation>වීඩියෝ වැඩිදියුණු කරන්න</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">කිසිවක් නැත</translation>
+        <translation>කිසිවක් නැත</translation>
     </message>
     <message>
         <source>%1 (custom, experimental)</source>
@@ -10595,7 +10595,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Original</source>
-        <translation type="unfinished">මුල් පිටපත</translation>
+        <translation>මුල්</translation>
     </message>
     <message>
         <source>Enhanced — out of date, preview again</source>
@@ -10619,7 +10619,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Frame</source>
-        <translation type="unfinished">රාමුව</translation>
+        <translation>රාමුව</translation>
     </message>
     <message>
         <source>s</source>
@@ -10627,7 +10627,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Fit</source>
-        <translation type="unfinished">සරිලන (Fit)</translation>
+        <translation>ගැළපෙන ලෙස</translation>
     </message>
     <message>
         <source>Preview one frame, then enhance the whole video. The result is added to the media bin. Enhancing is slow — minutes per second of video without a GPU.</source>
@@ -10639,7 +10639,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Remove compression</source>
-        <translation type="unfinished"></translation>
+        <translation>සම්පීඩන දෝෂ ඉවත් කරන්න</translation>
     </message>
     <message>
         <source>Upscale</source>
@@ -10663,7 +10663,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Preview this frame</source>
-        <translation type="unfinished"></translation>
+        <translation>මෙම රාමුව පෙරදසුන් කරන්න</translation>
     </message>
     <message>
         <source>Anime and drawings</source>
@@ -10683,11 +10683,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Choose an upscaler</source>
-        <translation type="unfinished"></translation>
+        <translation>විභේදනය ඉහළ නැංවීමේ මෙවලම තෝරන්න</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished">සියල්ල</translation>
+        <translation>සියල්ල</translation>
     </message>
     <message>
         <source>Speeds are per frame of this clip. Custom models are experimental and may not work. Drop an ONNX export (fp32 or fp16, RGB, 1x/2x/4x) into the folder; put the scale in the file name, e.g. &quot;2x_Name.onnx&quot;.</source>
@@ -10695,11 +10695,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Refresh model list</source>
-        <translation type="unfinished"></translation>
+        <translation>ආකෘති ලැයිස්තුව යාවත්කාලීන කරන්න</translation>
     </message>
     <message>
         <source>Enhance clip</source>
-        <translation type="unfinished"></translation>
+        <translation>ක්ලිප් එක වැඩිදියුණු කරන්න</translation>
     </message>
     <message>
         <source>under a second</source>
@@ -10727,27 +10727,27 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Keep the original size.</source>
-        <translation type="unfinished"></translation>
+        <translation>මුල් ප්‍රමාණයම තබා ගන්න.</translation>
     </message>
     <message>
         <source>Install AI engine first</source>
-        <translation type="unfinished">පළමුව AI එන්ජිම ස්ථාපනය කරන්න</translation>
+        <translation>පළමුව AI එන්ජිම ස්ථාපනය කරන්න</translation>
     </message>
     <message>
         <source>Get models (openmodeldb.info)</source>
-        <translation type="unfinished"></translation>
+        <translation>ආකෘති ලබාගන්න (openmodeldb.info)</translation>
     </message>
     <message>
         <source>Open custom models folder</source>
-        <translation type="unfinished"></translation>
+        <translation>අභිරුචි ආකෘති ෆෝල්ඩරය විවෘත කරන්න</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished">නවත්වන්න</translation>
+        <translation>නවත්වන්න</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">වසන්න</translation>
+        <translation>වසන්න</translation>
     </message>
 </context>
 <context>
@@ -11113,7 +11113,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Open graphics settings</source>
-        <translation type="unfinished"></translation>
+        <translation>චිත්‍රක සැකසීම් විවෘත කරන්න</translation>
     </message>
     <message>
         <source>Playback</source>
@@ -14757,15 +14757,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Before</source>
-        <translation type="unfinished"></translation>
+        <translation>පෙර</translation>
     </message>
     <message>
         <source>After</source>
-        <translation type="unfinished"></translation>
+        <translation>පසු</translation>
     </message>
     <message>
         <source>Custom model</source>
-        <translation type="unfinished"></translation>
+        <translation>අභිරුචි ආකෘතිය</translation>
     </message>
 </context>
 <context>
