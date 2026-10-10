@@ -10598,11 +10598,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Preview one frame, then enhance the whole video. The result is added to the media bin. Enhancing is slow — minutes per second of video without a GPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>先预览一帧，再增强整个视频。处理结果会添加到媒体库。增强速度较慢；没有 GPU 时，每秒视频可能需要数分钟。</translation>
     </message>
     <message>
         <source>Preview one frame, then enhance the part of the clip used on the timeline. The result is added to the media bin. Enhancing is slow — minutes per second of video without a GPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>先预览一帧，再增强时间轴中使用的片段部分。处理结果会添加到媒体库。增强速度较慢；没有 GPU 时，每秒视频可能需要数分钟。</translation>
     </message>
     <message>
         <source>Remove compression</source>
@@ -10626,7 +10626,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Up to about %1 on a typical laptop CPU. Preview a frame for an estimate for this computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>在普通笔记本电脑的 CPU 上，最多约为 %1。预览一帧可估算此电脑的速度。</translation>
     </message>
     <message>
         <source>Preview this frame</source>
@@ -10733,15 +10733,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Drift will render a reversed copy of this clip so it plays back smoothly. You can keep editing while it runs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Drift 将渲染此片段的反向副本，以确保播放流畅。处理期间仍可继续编辑。</translation>
     </message>
     <message>
         <source>This can take a few minutes on longer clips.</source>
-        <translation type="unfinished"></translation>
+        <translation>较长的片段可能需要几分钟。</translation>
     </message>
     <message>
         <source>About %1 of video to render.</source>
-        <translation type="unfinished"></translation>
+        <translation>约有 %1 的视频需要渲染。</translation>
     </message>
     <message>
         <source>%1 min</source>
@@ -10783,7 +10783,7 @@ If playback stutters, try another.</source>
     <name>ScenesTab</name>
     <message>
         <source>Finds where the picture cuts in the selected video clip, and ranks each shot by movement and loudness. Click a shot to jump to it.</source>
-        <translation type="unfinished"></translation>
+        <translation>查找所选视频片段中的镜头切换点，并按运动程度和响度为镜头排序。点击镜头即可跳转到该位置。</translation>
     </message>
     <message>
         <source>Find scenes</source>
@@ -10807,11 +10807,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Also label each shot with what is in it. Slower.</source>
-        <translation type="unfinished"></translation>
+        <translation>同时标注每个镜头中的内容，但处理速度会更慢。</translation>
     </message>
     <message>
         <source>Needs the Scene Labels add-on — install it from Extras</source>
-        <translation type="unfinished"></translation>
+        <translation>需要 Scene Labels 附加组件，请从“扩展功能”中安装</translation>
     </message>
     <message>
         <source>Sensitivity</source>
@@ -10835,7 +10835,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Switch between timeline order and activity ranking</source>
-        <translation type="unfinished"></translation>
+        <translation>在时间轴顺序和活动程度排序之间切换</translation>
     </message>
     <message>
         <source>%1 scenes</source>
@@ -10843,7 +10843,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>These scenes are from another clip. Select it again, or run Find scenes on the current one.</source>
-        <translation type="unfinished"></translation>
+        <translation>这些场景来自另一个片段。请重新选择该片段，或对当前片段运行“查找场景”。</translation>
     </message>
     <message>
         <source>No scenes yet</source>
@@ -10855,19 +10855,19 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Run Find scenes to split this clip into its shots.</source>
-        <translation type="unfinished"></translation>
+        <translation>运行“查找场景”以将此片段拆分为各个镜头。</translation>
     </message>
     <message>
         <source>Select a video clip on the timeline to scan it.</source>
-        <translation type="unfinished"></translation>
+        <translation>请在时间轴上选择一个视频片段进行扫描。</translation>
     </message>
     <message>
         <source>Scene %1</source>
-        <translation type="unfinished"></translation>
+        <translation>场景 %1</translation>
     </message>
     <message>
         <source>%1 – %2  ·  %3s</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 – %2  ·  %3 秒</translation>
     </message>
 </context>
 <context>
@@ -10878,23 +10878,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Anything (click to pick)</source>
-        <translation type="unfinished"></translation>
+        <translation>任意对象（点击选择）</translation>
     </message>
     <message>
         <source>People (automatic)</source>
-        <translation type="unfinished"></translation>
+        <translation>人物（自动）</translation>
     </message>
     <message>
         <source>Best quality (slower)</source>
-        <translation type="unfinished"></translation>
+        <translation>最佳画质（较慢）</translation>
     </message>
     <message>
         <source>Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>快速</translation>
     </message>
     <message>
         <source>Looking at this moment…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在分析此时刻…</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -10906,15 +10906,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Left-click marks the subject, right-click marks what to exclude. Click a marker to remove it.</source>
-        <translation type="unfinished"></translation>
+        <translation>左键标记主体，右键标记要排除的区域。点击标记可将其删除。</translation>
     </message>
     <message>
         <source>Everyone in the shot is cut out automatically — there is nothing to click.</source>
-        <translation type="unfinished"></translation>
+        <translation>镜头中的所有人物都会自动抠出，无需点击。</translation>
     </message>
     <message>
         <source>Cut out</source>
-        <translation type="unfinished"></translation>
+        <translation>抠像</translation>
     </message>
     <message>
         <source>Quality</source>
@@ -10922,31 +10922,31 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>AI: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>AI：%1</translation>
     </message>
     <message>
         <source>not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>未安装</translation>
     </message>
     <message>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>结果</translation>
     </message>
     <message>
         <source>Adds a mask layer under the clip. The clip itself is left alone — flip it to the background, or remove it, from the Masks tab.</source>
-        <translation type="unfinished"></translation>
+        <translation>在片段下方添加蒙版图层，不会修改片段本身。可在“蒙版”选项卡中将其切换为背景或移除。</translation>
     </message>
     <message>
         <source>The cutout is only for this effect — no extra tracks are added.</source>
-        <translation type="unfinished"></translation>
+        <translation>抠像仅用于此效果，不会添加额外轨道。</translation>
     </message>
     <message>
         <source>Clear points</source>
-        <translation type="unfinished"></translation>
+        <translation>清除标记点</translation>
     </message>
     <message>
         <source>Cutting out… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>正在抠像… %1%</translation>
     </message>
     <message>
         <source>Cut out &amp; apply effect</source>
@@ -10958,7 +10958,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Each moment is processed, so longer clips take longer.</source>
-        <translation type="unfinished"></translation>
+        <translation>系统会逐帧处理，因此片段越长，所需时间越久。</translation>
     </message>
 </context>
 <context>
@@ -10984,7 +10984,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Show alignment guides over the preview</source>
-        <translation type="unfinished"></translation>
+        <translation>在预览画面上显示对齐辅助线</translation>
     </message>
     <message>
         <source>Background</source>
@@ -10992,47 +10992,47 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Solid color</source>
-        <translation type="unfinished"></translation>
+        <translation>纯色</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>模糊</translation>
     </message>
     <message>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>透明</translation>
     </message>
     <message>
         <source>Fill behind clips that don’t cover the whole screen</source>
-        <translation type="unfinished"></translation>
+        <translation>为未覆盖整个屏幕的片段填充背景</translation>
     </message>
     <message>
         <source>Choose background colour</source>
-        <translation type="unfinished"></translation>
+        <translation>选择背景颜色</translation>
     </message>
     <message>
         <source>Blur strength</source>
-        <translation type="unfinished"></translation>
+        <translation>模糊强度</translation>
     </message>
     <message>
         <source>Use proxies for preview</source>
-        <translation type="unfinished"></translation>
+        <translation>使用代理文件进行预览</translation>
     </message>
     <message>
         <source>Play clips from their low-resolution proxies where one exists. Export always uses the original media.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果存在低分辨率代理文件，则使用代理文件播放片段。导出始终使用原始媒体。</translation>
     </message>
     <message>
         <source>Proxy resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>代理分辨率</translation>
     </message>
     <message>
         <source>360p</source>
-        <translation type="unfinished"></translation>
+        <translation>360p</translation>
     </message>
     <message>
         <source>540p</source>
-        <translation type="unfinished"></translation>
+        <translation>540p</translation>
     </message>
     <message>
         <source>720p</source>
@@ -11044,31 +11044,31 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Size of new proxies. Proxies made at another size are not used until you create them again.</source>
-        <translation type="unfinished"></translation>
+        <translation>新代理文件的尺寸。若代理文件尺寸不同，必须重新创建后才能使用。</translation>
     </message>
     <message>
         <source>Faster preview (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>更快的预览（实验性）</translation>
     </message>
     <message>
         <source>Can make playback smoother by keeping video on the graphics card. Turn it off if the picture looks wrong. Takes effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>将视频保留在显卡中可使播放更流畅。如果画面异常，请关闭此选项。重启后生效。</translation>
     </message>
     <message>
         <source>Graphics card</source>
-        <translation type="unfinished"></translation>
+        <translation>显卡</translation>
     </message>
     <message>
         <source>Windows default</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 默认</translation>
     </message>
     <message>
         <source>Power saving (integrated GPU)</source>
-        <translation type="unfinished"></translation>
+        <translation>省电（集成显卡）</translation>
     </message>
     <message>
         <source>High performance (discrete GPU)</source>
-        <translation type="unfinished"></translation>
+        <translation>高性能（独立显卡）</translation>
     </message>
     <message>
         <source>Which graphics card Drift runs on. High performance keeps video decoded on an NVIDIA card on that card; power saving uses less battery. Takes effect after restart.</source>
@@ -11088,23 +11088,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Audio output</source>
-        <translation type="unfinished"></translation>
+        <translation>音频输出</translation>
     </message>
     <message>
         <source>Where playback is heard. “System default” follows whatever your computer is set to, including when that changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择播放声音的输出设备。“系统默认”会跟随电脑的当前设置，包括设置变更。</translation>
     </message>
     <message>
         <source>Microphone input</source>
-        <translation type="unfinished"></translation>
+        <translation>麦克风输入</translation>
     </message>
     <message>
         <source>Audio device used for recording voiceovers onto audio tracks.</source>
-        <translation type="unfinished"></translation>
+        <translation>用于将旁白录制到音轨的音频设备。</translation>
     </message>
     <message>
         <source>Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>界面</translation>
     </message>
     <message>
         <source>Size</source>
@@ -11112,31 +11112,31 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>100% (system)</source>
-        <translation type="unfinished"></translation>
+        <translation>100%（系统）</translation>
     </message>
     <message>
         <source>Makes buttons, text, and icons larger. This is extra scale on top of the size already set in your display settings. Takes effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>放大按钮、文字和图标。此缩放会叠加在显示设置中已有的缩放比例上，重启后生效。</translation>
     </message>
     <message>
         <source>Restart Drift to apply this size.</source>
-        <translation type="unfinished"></translation>
+        <translation>重新启动 Drift 以应用此尺寸。</translation>
     </message>
     <message>
         <source>Horizontal mouse-wheel pan</source>
-        <translation type="unfinished"></translation>
+        <translation>鼠标滚轮水平平移</translation>
     </message>
     <message>
         <source>Scroll pans left and right along the timeline. Shift+scroll moves between tracks. Middle-click drag also pans.</source>
-        <translation type="unfinished"></translation>
+        <translation>滚动可在时间轴上左右平移。按住 Shift 滚动可在轨道间移动。按下鼠标中键并拖动也可平移。</translation>
     </message>
     <message>
         <source>Haptic feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>触觉反馈</translation>
     </message>
     <message>
         <source>Vibrate on taps, snaps, and edits. Uses this device’s own haptic effects when it has them.</source>
-        <translation type="unfinished"></translation>
+        <translation>在点击、吸附和编辑时振动。如果设备支持，将使用设备自带的触觉效果。</translation>
     </message>
     <message>
         <source>Language</source>
@@ -11148,11 +11148,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>App</source>
-        <translation type="unfinished"></translation>
+        <translation>应用</translation>
     </message>
     <message>
         <source>Reopen last project on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>启动时重新打开上次的项目</translation>
     </message>
     <message>
         <source>Automatically restore the last open project on startup. Closing still asks you to save; a crash snapshot never overwrites your save file.</source>
@@ -11487,7 +11487,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>模糊</translation>
     </message>
     <message>
         <source>Spread</source>
@@ -12438,7 +12438,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>This can take a few minutes on longer clips.</source>
-        <translation type="unfinished"></translation>
+        <translation>较长的片段可能需要几分钟。</translation>
     </message>
 </context>
 <context>
@@ -12909,7 +12909,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Choose background colour</source>
-        <translation type="unfinished"></translation>
+        <translation>选择背景颜色</translation>
     </message>
     <message>
         <source>Padding</source>
@@ -13202,7 +13202,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>模糊</translation>
     </message>
     <message>
         <source>Width</source>
