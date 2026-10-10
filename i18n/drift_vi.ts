@@ -2480,9 +2480,8 @@
     </message>
     <message numerus="yes">
         <source>Multicam ready: %n camera(s) lined up at the start. Drag a clip to adjust its sync, then pick a shot.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Đa camera đã sẵn sàng: %n camera được căn chỉnh ở đầu. Kéo đoạn clip để chỉnh đồng bộ rồi chọn cảnh.</numerusform>
         </translation>
     </message>
     <message>
@@ -3727,9 +3726,8 @@
     </message>
     <message numerus="yes">
         <source>Transform layer now covers %n track(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Lớp biến đổi hiện bao phủ %n đường</numerusform>
         </translation>
     </message>
     <message>
@@ -3913,9 +3911,8 @@
     </message>
     <message numerus="yes">
         <source>Imported %n face prop(s); %1 skipped: %2</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Đã nhập %n phụ kiện khuôn mặt; bỏ qua %1: %2</numerusform>
         </translation>
     </message>
     <message>
@@ -4306,9 +4303,8 @@
     </message>
     <message numerus="yes">
         <source>Media collected, but %n original(s) couldn’t be deleted</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Đã thu thập tệp phương tiện nhưng không thể xóa %n bản gốc</numerusform>
         </translation>
     </message>
     <message>
@@ -4441,9 +4437,8 @@
     </message>
     <message numerus="yes">
         <source>Applied to %n caption clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Đã áp dụng cho %n đoạn phụ đề</numerusform>
         </translation>
     </message>
     <message>
@@ -4672,9 +4667,8 @@
     </message>
     <message numerus="yes">
         <source>Replaced with “%1”. %n clips were shortened to fit the new file.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Đã thay bằng “%1”. Rút ngắn %n đoạn clip để vừa với tệp mới.</numerusform>
         </translation>
     </message>
     <message>
@@ -4711,23 +4705,20 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders — as many as one folder import takes. Import the remaining subfolders separately.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Đã nhập %n tệp vào %1 thư mục — đây là giới hạn cho một lần nhập thư mục. Hãy nhập riêng các thư mục con còn lại.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Đã nhập %n tệp vào %1 thư mục. Bỏ qua %2 tệp vì Drift không nhận dạng định dạng. Kéo chúng vào khay phương tiện để thử nhập anyway.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Imported %n files into %1 folders.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Đã nhập %n tệp vào %1 thư mục.</numerusform>
         </translation>
     </message>
     <message>
@@ -8788,9 +8779,8 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) may play back slowly. A proxy makes previewing smoother; export still uses the original.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n đoạn clip có thể phát chậm. Proxy giúp xem trước mượt hơn; khi xuất vẫn dùng bản gốc.</numerusform>
         </translation>
     </message>
     <message>
@@ -8799,9 +8789,8 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s) have a variable frame rate, which can drift out of sync with audio. Convert them to an edit-friendly format to fix it.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n đoạn clip có tốc độ khung hình thay đổi, có thể lệch đồng bộ âm thanh. Hãy chuyển sang định dạng thuận tiện cho chỉnh sửa.</numerusform>
         </translation>
     </message>
     <message>
@@ -9024,9 +9013,8 @@
     </message>
     <message numerus="yes">
         <source>%n animation(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n hoạt ảnh</numerusform>
         </translation>
     </message>
     <message>
@@ -9444,9 +9432,8 @@
     </message>
     <message numerus="yes">
         <source>Pasting from “%1” onto %n selected clip(s):</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Đang dán từ “%1” vào %n đoạn clip đã chọn:</numerusform>
         </translation>
     </message>
     <message>
@@ -9475,9 +9462,8 @@
     </message>
     <message numerus="yes">
         <source>Video Effects (%n effect(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Hiệu ứng video (%n)</numerusform>
         </translation>
     </message>
     <message>
@@ -9494,9 +9480,8 @@
     </message>
     <message numerus="yes">
         <source>Audio Effects (%n effect(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Hiệu ứng âm thanh (%n)</numerusform>
         </translation>
     </message>
     <message>
@@ -9509,9 +9494,8 @@
     </message>
     <message numerus="yes">
         <source>Transitions (%n transition(s))</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Chuyển cảnh (%n)</numerusform>
         </translation>
     </message>
     <message>
