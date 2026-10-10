@@ -9220,15 +9220,15 @@
     </message>
     <message>
         <source>GPU preview unavailable — see Help → Debug info</source>
-        <translation type="unfinished"></translation>
+        <translation>พรีวิว GPU ใช้งานไม่ได้ — ดูที่ Help → Debug info</translation>
     </message>
     <message>
         <source>Program</source>
-        <translation type="unfinished"></translation>
+        <translation>ภาพหลัก</translation>
     </message>
     <message>
         <source>Previous frame</source>
-        <translation type="unfinished"></translation>
+        <translation>เฟรมก่อนหน้า</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -9240,11 +9240,11 @@
     </message>
     <message>
         <source>Next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>เฟรมถัดไป</translation>
     </message>
     <message>
         <source>Seek</source>
-        <translation type="unfinished"></translation>
+        <translation>เลื่อนตำแหน่ง</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9252,11 +9252,11 @@
     </message>
     <message>
         <source>Save as separate tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกเป็นแทร็กแยก</translation>
     </message>
     <message>
         <source>Save combined</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกแบบรวม</translation>
     </message>
 </context>
 <context>
@@ -9271,7 +9271,7 @@
     </message>
     <message>
         <source>My style</source>
-        <translation type="unfinished"></translation>
+        <translation>สไตล์ของฉัน</translation>
     </message>
 </context>
 <context>
@@ -9294,7 +9294,7 @@
     </message>
     <message>
         <source>Graphic</source>
-        <translation type="unfinished"></translation>
+        <translation>กราฟิก</translation>
     </message>
     <message>
         <source>Adjustment</source>
@@ -9317,7 +9317,7 @@
     <name>PackageProgressDialog</name>
     <message>
         <source>Preparing shareable copy</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังเตรียมสำเนาสำหรับแชร์</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9325,30 +9325,30 @@
     </message>
     <message>
         <source>Copying your media into one file so it opens on any computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังรวมสื่อไว้ในไฟล์เดียวเพื่อให้เปิดได้บนคอมพิวเตอร์ทุกเครื่อง</translation>
     </message>
 </context>
 <context>
     <name>PaintEditor</name>
     <message>
         <source>Texture Image</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปภาพพื้นผิว</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.webp)</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปภาพ (*.png *.jpg *.jpeg *.webp)</translation>
     </message>
     <message>
         <source>Paint</source>
-        <translation type="unfinished"></translation>
+        <translation>ระบายสี</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation>สีทึบ</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>ไล่สี</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -9364,19 +9364,19 @@
     </message>
     <message>
         <source>Choose the paint colour</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกสีสำหรับระบาย</translation>
     </message>
     <message>
         <source>Change image…</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนรูปภาพ…</translation>
     </message>
     <message>
         <source>Choose image…</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกรูปภาพ…</translation>
     </message>
     <message>
         <source>No image</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีรูปภาพ</translation>
     </message>
     <message>
         <source>Fit</source>
@@ -9384,19 +9384,19 @@
     </message>
     <message>
         <source>Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>เรียงซ้ำ</translation>
     </message>
     <message>
         <source>Repeat the image across the layer</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำซ้ำรูปภาพให้เต็มเลเยอร์</translation>
     </message>
     <message>
         <source>Cover</source>
-        <translation type="unfinished"></translation>
+        <translation>ครอบคลุม</translation>
     </message>
     <message>
         <source>Stretch one copy of the image over the layer</source>
-        <translation type="unfinished"></translation>
+        <translation>ยืดรูปภาพหนึ่งชุดให้เต็มเลเยอร์</translation>
     </message>
     <message>
         <source>Scale</source>
@@ -9408,14 +9408,14 @@
     </message>
     <message>
         <source>Adjust paint effect</source>
-        <translation type="unfinished"></translation>
+        <translation>ปรับเอฟเฟกต์การระบาย</translation>
     </message>
 </context>
 <context>
     <name>PasteAttributesDialog</name>
     <message>
         <source>Paste Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>วางแอตทริบิวต์</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -9437,27 +9437,27 @@
     </message>
     <message>
         <source>Video Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>แอตทริบิวต์วิดีโอ</translation>
     </message>
     <message>
         <source>Transform (motion, position, scale, opacity)</source>
-        <translation type="unfinished"></translation>
+        <translation>แปลง (การเคลื่อนไหว ตำแหน่ง ขนาด ความทึบ)</translation>
     </message>
     <message>
         <source>, reverse</source>
-        <translation type="unfinished"></translation>
+        <translation>, ย้อนกลับ</translation>
     </message>
     <message>
         <source>, speed curve</source>
-        <translation type="unfinished"></translation>
+        <translation>, เส้นโค้งความเร็ว</translation>
     </message>
     <message>
         <source>Speed / Retime (%1x%2%3)</source>
-        <translation type="unfinished"></translation>
+        <translation>ความเร็ว / ปรับเวลา (%1x%2%3)</translation>
     </message>
     <message>
         <source>Speed / Retime</source>
-        <translation type="unfinished"></translation>
+        <translation>ความเร็ว / ปรับเวลา</translation>
     </message>
     <message numerus="yes">
         <source>Video Effects (%n effect(s))</source>
@@ -9467,15 +9467,15 @@
     </message>
     <message>
         <source>Video Effects (none)</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์วิดีโอ (ไม่มี)</translation>
     </message>
     <message>
         <source>Audio Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>แอตทริบิวต์เสียง</translation>
     </message>
     <message>
         <source>Volume &amp; Fades (volume keyframes, in/out ramps)</source>
-        <translation type="unfinished"></translation>
+        <translation>ระดับเสียงและการเฟด (คีย์เฟรมเสียง ช่วงเฟดเข้า/ออก)</translation>
     </message>
     <message numerus="yes">
         <source>Audio Effects (%n effect(s))</source>
@@ -9485,7 +9485,7 @@
     </message>
     <message>
         <source>Audio Effects (none)</source>
-        <translation type="unfinished"></translation>
+        <translation>เอฟเฟกต์เสียง (ไม่มี)</translation>
     </message>
     <message>
         <source>Transitions</source>
@@ -9499,26 +9499,26 @@
     </message>
     <message>
         <source>Replace existing effects (instead of appending)</source>
-        <translation type="unfinished"></translation>
+        <translation>แทนที่เอฟเฟกต์เดิม (แทนการเพิ่มต่อท้าย)</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกทั้งหมด</translation>
     </message>
     <message>
         <source>Select None</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่เลือกอะไรเลย</translation>
     </message>
 </context>
 <context>
     <name>PlaybackEngine</name>
     <message>
         <source>%1 decodes on %2, but Drift draws on %3. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ถอดรหัสบน %2 แต่ Drift วาดภาพบน %3 ทุกเฟรมต้องคัดลอกผ่านหน่วยความจำระบบ ซึ่งช้ากว่าการถอดรหัสบนการ์ดจอที่ใช้วาดภาพ</translation>
     </message>
     <message>
         <source>%1 decodes on a different graphics card than the one Drift draws on. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ถอดรหัสด้วยการ์ดจอคนละตัวกับที่ Drift ใช้วาดภาพ ทุกเฟรมต้องคัดลอกผ่านหน่วยความจำระบบ จึงช้ากว่าการถอดรหัสบนการ์ดจอที่ใช้วาดภาพ</translation>
     </message>
     <message>
         <source>Auto</source>
@@ -9526,58 +9526,58 @@
     </message>
     <message>
         <source>Software</source>
-        <translation type="unfinished"></translation>
+        <translation>ซอฟต์แวร์</translation>
     </message>
     <message>
         <source>Hardware (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>ฮาร์ดแวร์ (%1)</translation>
     </message>
 </context>
 <context>
     <name>PlaybackStats</name>
     <message>
         <source>Delivered frames</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเฟรมที่ส่งออก</translation>
     </message>
     <message>
         <source>Displayed frames</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเฟรมที่แสดง</translation>
     </message>
     <message>
         <source>Display refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>อัตรารีเฟรชหน้าจอ</translation>
     </message>
     <message>
         <source>Delivery jitter</source>
-        <translation type="unfinished"></translation>
+        <translation>ความผันผวนของการส่งเฟรม</translation>
     </message>
     <message>
         <source>Composite (median)</source>
-        <translation type="unfinished"></translation>
+        <translation>เวลาคอมโพสิต (ค่ามัธยฐาน)</translation>
     </message>
     <message>
         <source>Composite (p95)</source>
-        <translation type="unfinished"></translation>
+        <translation>เวลาคอมโพสิต (เปอร์เซ็นไทล์ 95)</translation>
     </message>
     <message>
         <source>Decode wait (median)</source>
-        <translation type="unfinished"></translation>
+        <translation>เวลารอถอดรหัส (ค่ามัธยฐาน)</translation>
     </message>
     <message>
         <source>Preview scale</source>
-        <translation type="unfinished"></translation>
+        <translation>สเกลพรีวิว</translation>
     </message>
     <message>
         <source>Frames dropped</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเฟรมที่ตกหล่น</translation>
     </message>
     <message>
         <source>Requests coalesced</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนคำขอที่รวมกัน</translation>
     </message>
     <message>
         <source>Composites in flight (peak)</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนงานคอมโพสิตที่กำลังทำงานสูงสุด</translation>
     </message>
     <message>
         <source>Preview upload</source>
@@ -9585,7 +9585,7 @@
     </message>
     <message>
         <source>Playhead update (median)</source>
-        <translation type="unfinished"></translation>
+        <translation>เวลาอัปเดตหัวอ่าน (ค่ามัธยฐาน)</translation>
     </message>
     <message>
         <source>Playhead update (p95)</source>
@@ -9644,7 +9644,7 @@
     </message>
     <message>
         <source>Seek</source>
-        <translation type="unfinished"></translation>
+        <translation>เลื่อนตำแหน่ง</translation>
     </message>
 </context>
 <context>
@@ -9663,7 +9663,7 @@
     </message>
     <message>
         <source>Previous frame</source>
-        <translation type="unfinished"></translation>
+        <translation>เฟรมก่อนหน้า</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -9675,7 +9675,7 @@
     </message>
     <message>
         <source>Next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>เฟรมถัดไป</translation>
     </message>
     <message>
         <source>Loop work area on — click to turn off</source>
@@ -11308,11 +11308,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation>สีทึบ</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>ไล่สี</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -13163,11 +13163,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Change image…</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนรูปภาพ…</translation>
     </message>
     <message>
         <source>Choose image…</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกรูปภาพ…</translation>
     </message>
     <message>
         <source>Slot Image</source>
@@ -13175,7 +13175,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.webp)</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปภาพ (*.png *.jpg *.jpeg *.webp)</translation>
     </message>
 </context>
 <context>
@@ -14013,7 +14013,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Graphic</source>
-        <translation type="unfinished"></translation>
+        <translation>กราฟิก</translation>
     </message>
     <message>
         <source>Everything below</source>
@@ -14355,7 +14355,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Graphic</source>
-        <translation type="unfinished"></translation>
+        <translation>กราฟิก</translation>
     </message>
     <message>
         <source>Adjustment</source>
@@ -14798,7 +14798,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Cover</source>
-        <translation type="unfinished"></translation>
+        <translation>ครอบคลุม</translation>
     </message>
     <message>
         <source>Stretch</source>
@@ -15100,7 +15100,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>ไล่สี</translation>
     </message>
     <message>
         <source>Shine</source>
