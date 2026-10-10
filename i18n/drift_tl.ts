@@ -5674,7 +5674,7 @@
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>s</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5685,46 +5685,46 @@
     <name>DepthEffectOverlay</name>
     <message>
         <source>Aim light</source>
-        <translation type="unfinished"></translation>
+        <translation>Itutok ang ilaw</translation>
     </message>
     <message>
         <source>Move light</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilipat ang ilaw</translation>
     </message>
     <message>
         <source>Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Focus</translation>
     </message>
     <message>
         <source>Pick focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng focus</translation>
     </message>
     <message>
         <source>Move focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilipat ang focus</translation>
     </message>
 </context>
 <context>
     <name>DownloadFormat</name>
     <message>
         <source>%1 B</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 B</translation>
     </message>
     <message>
         <source>%1 KB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 KB</translation>
     </message>
     <message>
         <source>%1 MB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 MB</translation>
     </message>
     <message>
         <source>%1 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 GB</translation>
     </message>
     <message>
         <source>%1/s</source>
-        <translation type="unfinished"></translation>
+        <translation>%1/s</translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) left</source>
@@ -5742,23 +5742,23 @@
     </message>
     <message>
         <source>Cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinansela</translation>
     </message>
     <message>
         <source>Waiting for a free slot</source>
-        <translation type="unfinished"></translation>
+        <translation>Naghihintay ng bakanteng slot</translation>
     </message>
     <message>
         <source>%1 · in the media bin</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 · nasa media bin</translation>
     </message>
     <message>
         <source>In the media bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Nasa media bin</translation>
     </message>
     <message>
         <source>%1 of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 sa %2</translation>
     </message>
 </context>
 <context>
@@ -5776,11 +5776,11 @@
     </message>
     <message>
         <source>No downloads running</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang tumatakbong download</translation>
     </message>
     <message>
         <source>%1 at a time</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 sa bawat pagkakataon</translation>
     </message>
     <message>
         <source>Clear finished</source>
@@ -5788,11 +5788,11 @@
     </message>
     <message>
         <source>Nothing downloaded yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala pang na-download</translation>
     </message>
     <message>
         <source>Downloads from the Market tab show up here while they run.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lalabas dito habang tumatakbo ang mga download mula sa tab na Market.</translation>
     </message>
     <message>
         <source>Try again</source>
@@ -5829,34 +5829,34 @@
     </message>
     <message>
         <source>Loops, %1 s</source>
-        <translation type="unfinished"></translation>
+        <translation>Umuulit, %1 s</translation>
     </message>
     <message>
         <source>Added</source>
-        <translation type="unfinished"></translation>
+        <translation>Naidagdag</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished">Subukan muli</translation>
+        <translation>Subukan muli</translation>
     </message>
     <message>
         <source>Downloaded, works offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-download na, gumagana offline</translation>
     </message>
 </context>
 <context>
     <name>DriftAssetDetail</name>
     <message>
         <source>Loops seamlessly</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang putol ang loop</translation>
     </message>
     <message>
         <source>Plays in, then holds</source>
-        <translation type="unfinished"></translation>
+        <translation>Magpe-play papasok, pagkatapos ay mananatili</translation>
     </message>
     <message>
         <source>Plays in, holds, plays out</source>
-        <translation type="unfinished"></translation>
+        <translation>Magpe-play papasok, mananatili, at magpe-play palabas</translation>
     </message>
     <message>
         <source>Back</source>
@@ -5868,7 +5868,7 @@
     </message>
     <message>
         <source>Colours</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga kulay</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -5880,15 +5880,15 @@
     </message>
     <message>
         <source>room for your text</source>
-        <translation type="unfinished"></translation>
+        <translation>espasyo para sa text mo</translation>
     </message>
     <message>
         <source>3D model, loops every %1 s</source>
-        <translation type="unfinished"></translation>
+        <translation>3D model, umiikot bawat %1 s</translation>
     </message>
     <message>
         <source>Tracks a face in the clip it is applied to</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinusubaybayan ang mukha sa clip na pinaglagyan nito</translation>
     </message>
     <message>
         <source>Licence &lt;a href=&quot;%1&quot;&gt;CC BY-NC-SA 4.0&lt;/a&gt;</source>
@@ -5896,7 +5896,7 @@
     </message>
     <message>
         <source>Licence %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisensya %1</translation>
     </message>
     <message>
         <source>Apply to selected clip</source>
@@ -5904,23 +5904,23 @@
     </message>
     <message>
         <source>Add at playhead</source>
-        <translation type="unfinished"></translation>
+        <translation>Idagdag sa playhead</translation>
     </message>
     <message>
         <source>Select a clip with a face on the timeline first</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili muna ng clip na may mukha sa timeline</translation>
     </message>
     <message>
         <source>Add to Face props</source>
-        <translation type="unfinished"></translation>
+        <translation>Idagdag sa Face props</translation>
     </message>
     <message>
         <source>Add to media bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Idagdag sa media bin</translation>
     </message>
     <message>
         <source>Select a clip with a face on the timeline to apply this prop.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng clip na may mukha sa timeline para ilapat ang prop na ito.</translation>
     </message>
     <message>
         <source>Choose colour</source>
@@ -5931,35 +5931,35 @@
     <name>DriftAssetStore</name>
     <message>
         <source>The marketplace is not available in this build.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi available ang marketplace sa build na ito.</translation>
     </message>
     <message>
         <source>Could not load Drift Assets. Check your connection and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-load ang Drift Assets. Suriin ang koneksyon at subukan muli.</translation>
     </message>
     <message>
         <source>That asset could not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-install ang asset na iyon.</translation>
     </message>
     <message>
         <source>Could not write to the app data folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi makasulat sa folder ng app data.</translation>
     </message>
     <message>
         <source>Could not download that asset. Check your connection and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-download ang asset. Suriin ang koneksyon at subukan muli.</translation>
     </message>
     <message>
         <source>That download was damaged. Try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nasira ang na-download na file. Subukan muli.</translation>
     </message>
     <message>
         <source>Could not add that face prop.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi maidagdag ang face prop na iyon.</translation>
     </message>
     <message>
         <source>Could not add that asset to the media bin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi maidagdag ang asset sa media bin.</translation>
     </message>
 </context>
 <context>
@@ -5974,19 +5974,19 @@
     </message>
     <message>
         <source>Added to Face props</source>
-        <translation type="unfinished"></translation>
+        <translation>Naidagdag sa Face props</translation>
     </message>
     <message>
         <source>Select a video or image clip to apply a face prop</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng video o image clip para ilapat ang face prop</translation>
     </message>
     <message>
         <source>Added to the media bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Naidagdag sa media bin</translation>
     </message>
     <message>
         <source>Couldn’t load Drift Assets</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-load ang Drift Assets</translation>
     </message>
     <message>
         <source>Try again</source>
@@ -5994,31 +5994,31 @@
     </message>
     <message>
         <source>No assets here yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala pang asset dito</translation>
     </message>
     <message>
         <source>Drift Assets are still being published. Check back soon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Patuloy pang inilalabas ang Drift Assets. Bumalik muli sa ibang pagkakataon.</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>I-refresh</translation>
     </message>
     <message>
         <source>See all</source>
-        <translation type="unfinished"></translation>
+        <translation>Tingnan lahat</translation>
     </message>
     <message>
         <source>All assets</source>
-        <translation type="unfinished"></translation>
+        <translation>Lahat ng asset</translation>
     </message>
     <message>
         <source>No Drift Assets match “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang Drift Assets na tumutugma sa “%1”.</translation>
     </message>
     <message>
         <source>Search %1 for “%2”</source>
-        <translation type="unfinished"></translation>
+        <translation>Hanapin ang “%2” sa %1</translation>
     </message>
 </context>
 <context>
@@ -6033,15 +6033,15 @@
     </message>
     <message>
         <source>Save Project JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save ang Project JSON</translation>
     </message>
     <message>
         <source>JSON document (*.json)</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON document (*.json)</translation>
     </message>
     <message>
         <source>Open Project JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan ang Project JSON</translation>
     </message>
     <message>
         <source>All Files (*)</source>
@@ -6065,19 +6065,19 @@
     </message>
     <message>
         <source>All changes saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-save ang lahat ng pagbabago</translation>
     </message>
     <message>
         <source>Unsaved changes</source>
-        <translation type="unfinished"></translation>
+        <translation>May mga hindi pa nai-save na pagbabago</translation>
     </message>
     <message>
         <source>Projects — click to switch or start new</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga project — i-click para lumipat o magsimula ng bago</translation>
     </message>
     <message>
         <source>Unsaved changes — click to switch or start new</source>
-        <translation type="unfinished"></translation>
+        <translation>May hindi pa nai-save na pagbabago — i-click para lumipat o magsimula ng bago</translation>
     </message>
     <message>
         <source>Save</source>
@@ -6085,7 +6085,7 @@
     </message>
     <message>
         <source>Save project (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>I-save ang project (%1)</translation>
     </message>
     <message>
         <source>Save project</source>
@@ -6108,7 +6108,7 @@
     </message>
     <message>
         <source>Video size and layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Laki at layout ng video</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -6116,7 +6116,7 @@
     </message>
     <message>
         <source>Workspace, theme, language and more</source>
-        <translation type="unfinished"></translation>
+        <translation>Workspace, theme, wika, at iba ๆ</translation>
     </message>
     <message>
         <source>Light</source>
@@ -6124,11 +6124,11 @@
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Madilim</translation>
     </message>
     <message>
         <source>Language…</source>
-        <translation type="unfinished"></translation>
+        <translation>Wika…</translation>
     </message>
     <message>
         <source>Debug info…</source>
@@ -8196,7 +8196,7 @@
     </message>
     <message>
         <source>Cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinansela</translation>
     </message>
     <message>
         <source>Could not connect the marketplace account.</source>
@@ -8228,7 +8228,7 @@
     </message>
     <message>
         <source>In the media bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Nasa media bin</translation>
     </message>
     <message>
         <source>Marketplace account connected.</source>
@@ -9135,7 +9135,7 @@
     </message>
     <message>
         <source>Move light</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilipat ang ilaw</translation>
     </message>
     <message>
         <source>Drag the light around the sphere. The light stays fixed to the camera, not the model.</source>
@@ -9916,7 +9916,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinansela</translation>
     </message>
     <message>
         <source>cannot read %1</source>
@@ -10489,11 +10489,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>All changes saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Na-save ang lahat ng pagbabago</translation>
     </message>
     <message>
         <source>Unsaved changes</source>
-        <translation type="unfinished"></translation>
+        <translation>May mga hindi pa nai-save na pagbabago</translation>
     </message>
     <message>
         <source>Previous projects</source>
@@ -10616,7 +10616,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>s</translation>
     </message>
     <message>
         <source>Fit</source>
@@ -10928,7 +10928,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>s</translation>
     </message>
     <message>
         <source>Left-click marks the subject, right-click marks what to exclude. Click a marker to remove it.</source>
@@ -11883,7 +11883,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>s</translation>
     </message>
     <message>
         <source>s → </source>
@@ -12306,7 +12306,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished">Subukan muli</translation>
+        <translation>Subukan muli</translation>
     </message>
 </context>
 <context>
@@ -14652,7 +14652,7 @@ If playback stutters, try another.</source>
     <name>UnsavedChangesDialog</name>
     <message>
         <source>Unsaved changes</source>
-        <translation type="unfinished"></translation>
+        <translation>May mga hindi pa nai-save na pagbabago</translation>
     </message>
     <message>
         <source>“%1” has unsaved changes. Save before continuing?</source>
