@@ -7948,15 +7948,15 @@
     </message>
     <message>
         <source>&amp;Save Project</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Сохранить проект</translation>
     </message>
     <message>
         <source>Save Project &amp;As…</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить проект &amp;как…</translation>
     </message>
     <message>
         <source>Save Project &amp;JSON…</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить проект в &amp;JSON…</translation>
     </message>
     <message>
         <source>Open Project JSON…</source>
@@ -7964,47 +7964,47 @@
     </message>
     <message>
         <source>&amp;Export Video…</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Экспортировать видео…</translation>
     </message>
     <message>
         <source>&amp;Package Project…</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Упаковать проект…</translation>
     </message>
     <message>
         <source>&amp;Close Project</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Закрыть проект</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Правка</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Отменить</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Повторить</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>Выре&amp;зать</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Копировать</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Вставить</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Удалить</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделить &amp;всё</translation>
     </message>
     <message>
         <source>Clear Selection</source>
@@ -8036,7 +8036,7 @@
     </message>
     <message>
         <source>&amp;Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Воспроизведение</translation>
     </message>
     <message>
         <source>Play / Pause</source>
@@ -8076,15 +8076,15 @@
     </message>
     <message>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Вид</translation>
     </message>
     <message>
         <source>Zoom &amp;In</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличить &amp;масштаб</translation>
     </message>
     <message>
         <source>Zoom &amp;Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшить &amp;масштаб</translation>
     </message>
     <message>
         <source>Toggle Fullscreen Preview</source>
@@ -8096,7 +8096,7 @@
     </message>
     <message>
         <source>&amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Окно</translation>
     </message>
     <message>
         <source>Landscape Workspace</source>
@@ -8116,11 +8116,11 @@
     </message>
     <message>
         <source>Multicam</source>
-        <translation type="unfinished">Мультикам</translation>
+        <translation>Мультикамерный режим</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Справка</translation>
     </message>
     <message>
         <source>Keyboard Shortcuts</source>
@@ -8128,7 +8128,7 @@
     </message>
     <message>
         <source>Extras…</source>
-        <translation type="unfinished"></translation>
+        <translation>Дополнения…</translation>
     </message>
     <message>
         <source>Check for Updates…</source>
@@ -8926,7 +8926,7 @@
     </message>
     <message>
         <source>%1p</source>
-        <translation type="unfinished"></translation>
+        <translation>%1p</translation>
     </message>
     <message>
         <source>Length %1</source>
@@ -9824,7 +9824,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Set Drift to High performance in Windows Settings &gt; Display &gt; Graphics, then restart Drift.</source>
-        <translation type="unfinished"></translation>
+        <translation>Установите для Drift режим «Высокая производительность» в Параметры Windows &gt; Дисплей &gt; Графика, затем перезапустите Drift.</translation>
     </message>
     <message>
         <source>Open graphics settings</source>
@@ -10392,15 +10392,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished">%1 с</translation>
+        <translation>%1 с</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished">%1 мин</translation>
+        <translation>%1 мин</translation>
     </message>
     <message>
         <source>%1 h %2 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ч %2 мин</translation>
     </message>
     <message>
         <source>Enhancing… %1% — about %2 left</source>
@@ -10607,7 +10607,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>%1 (custom, experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (пользовательская, экспериментальная)</translation>
     </message>
     <message>
         <source>Original</source>
@@ -10639,7 +10639,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished">с</translation>
+        <translation>с</translation>
     </message>
     <message>
         <source>Fit</source>
@@ -10659,11 +10659,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Upscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличить разрешение</translation>
     </message>
     <message>
         <source>Output: %1 × %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Выход: %1 × %2</translation>
     </message>
     <message>
         <source> — larger than 4K, which is slow to edit and export</source>
@@ -10719,23 +10719,23 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>under a second</source>
-        <translation type="unfinished"></translation>
+        <translation>меньше секунды</translation>
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished">%1 с</translation>
+        <translation>%1 с</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished">%1 мин</translation>
+        <translation>%1 мин</translation>
     </message>
     <message>
         <source>%1 h %2 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ч %2 мин</translation>
     </message>
     <message>
         <source>%1 s per frame</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 с на кадр</translation>
     </message>
     <message>
         <source>No upscaling</source>
@@ -11125,7 +11125,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Choose which graphics card Drift runs on in Windows Settings, under Display &gt; Graphics. Takes effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите видеокарту для Drift в Параметры Windows &gt; Дисплей &gt; Графика. Изменение вступит в силу после перезапуска.</translation>
     </message>
     <message>
         <source>Open graphics settings</source>
@@ -11953,7 +11953,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Speed applies to video, audio and composite clips.</source>
-        <translation type="unfinished"></translation>
+        <translation>Скорость применяется к видео-, аудио- и составным клипам.</translation>
     </message>
     <message>
         <source>Playback speed</source>
