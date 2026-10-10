@@ -4967,15 +4967,15 @@
     </message>
     <message>
         <source>%1 (not installed)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (ยังไม่ได้ติดตั้ง)</translation>
     </message>
     <message>
         <source>Move audio effect up</source>
-        <translation type="unfinished"></translation>
+        <translation>เลื่อนเอฟเฟกต์เสียงขึ้น</translation>
     </message>
     <message>
         <source>Move audio effect down</source>
-        <translation type="unfinished"></translation>
+        <translation>เลื่อนเอฟเฟกต์เสียงลง</translation>
     </message>
     <message>
         <source>Disable audio effect</source>
@@ -4987,7 +4987,7 @@
     </message>
     <message>
         <source>Copy this audio effect</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกเอฟเฟกต์เสียงนี้</translation>
     </message>
     <message>
         <source>Remove audio effect</source>
@@ -4995,11 +4995,11 @@
     </message>
     <message>
         <source>On</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิด</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิด</translation>
     </message>
     <message>
         <source>Edit audio effect</source>
@@ -5014,15 +5014,15 @@
     </message>
     <message>
         <source>Recommended caption length</source>
-        <translation type="unfinished"></translation>
+        <translation>ความยาวคำบรรยายที่แนะนำ</translation>
     </message>
     <message>
         <source>1 word per caption</source>
-        <translation type="unfinished"></translation>
+        <translation>1 คำต่อคำบรรยาย</translation>
     </message>
     <message>
         <source>%1 words per caption</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 คำต่อคำบรรยาย</translation>
     </message>
     <message>
         <source>No audio</source>
@@ -5030,23 +5030,23 @@
     </message>
     <message>
         <source>This clip has no audio track.</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิปนี้ไม่มีแทร็กเสียง</translation>
     </message>
     <message>
         <source>Pan</source>
-        <translation type="unfinished"></translation>
+        <translation>แพนเสียง</translation>
     </message>
     <message>
         <source>C</source>
-        <translation type="unfinished"></translation>
+        <translation>C</translation>
     </message>
     <message>
         <source>L %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ซ้าย %1</translation>
     </message>
     <message>
         <source>R %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ขวา %1</translation>
     </message>
     <message>
         <source>Pan changed</source>
@@ -5054,27 +5054,27 @@
     </message>
     <message>
         <source>Centre</source>
-        <translation type="unfinished"></translation>
+        <translation>กึ่งกลาง</translation>
     </message>
     <message>
         <source>Audio track</source>
-        <translation type="unfinished"></translation>
+        <translation>แทร็กเสียง</translation>
     </message>
     <message>
         <source>Extract all audio tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>แยกแทร็กเสียงทั้งหมด</translation>
     </message>
     <message>
         <source>Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>เสียงรบกวน</translation>
     </message>
     <message>
         <source>Remove noise…</source>
-        <translation type="unfinished"></translation>
+        <translation>ลดเสียงรบกวน…</translation>
     </message>
     <message>
         <source>Download noise removal (about 9 MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลดเครื่องมือลดเสียงรบกวน (ประมาณ 9 MB)</translation>
     </message>
     <message>
         <source>Install AI engine first</source>
@@ -5082,70 +5082,70 @@
     </message>
     <message>
         <source>Auto subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>คำบรรยายอัตโนมัติ</translation>
     </message>
     <message>
         <source>Shorter captions are timed by splitting each phrase evenly, so they can drift slightly out of sync with the speech.</source>
-        <translation type="unfinished"></translation>
+        <translation>คำบรรยายที่สั้นลงจะถูกแบ่งเวลาโดยกระจายแต่ละวลีเท่า ๆ กัน จึงอาจคลาดจากเสียงพูดเล็กน้อย</translation>
     </message>
     <message>
         <source>Creating captions… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังสร้างคำบรรยาย… %1%</translation>
     </message>
     <message>
         <source>Create captions from speech</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างคำบรรยายจากเสียงพูด</translation>
     </message>
     <message>
         <source>Several selected clips become one caption clip</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิปที่เลือกหลายรายการจะรวมเป็นคลิปคำบรรยายเดียว</translation>
     </message>
     <message>
         <source>Download speech recognition (about 670 MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลดระบบรู้จำเสียงพูด (ประมาณ 670 MB)</translation>
     </message>
 </context>
 <context>
     <name>AudioMixerStrip</name>
     <message>
         <source>Audio Mixer</source>
-        <translation type="unfinished"></translation>
+        <translation>มิกเซอร์เสียง</translation>
     </message>
     <message>
         <source>Paused</source>
-        <translation type="unfinished"></translation>
+        <translation>หยุดชั่วคราว</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังบันทึก</translation>
     </message>
     <message>
         <source>Microphone: %1 (click to switch)</source>
-        <translation type="unfinished"></translation>
+        <translation>ไมโครโฟน: %1 (คลิกเพื่อสลับ)</translation>
     </message>
     <message>
         <source>Close audio mixer</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดมิกเซอร์เสียง</translation>
     </message>
     <message>
         <source>Resume recording</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกต่อ</translation>
     </message>
     <message>
         <source>Pause recording</source>
-        <translation type="unfinished"></translation>
+        <translation>หยุดบันทึกชั่วคราว</translation>
     </message>
     <message>
         <source>Done — save recording to track</source>
-        <translation type="unfinished"></translation>
+        <translation>เสร็จสิ้น — บันทึกเสียงลงแทร็ก</translation>
     </message>
     <message>
         <source>Discard — cancel recording</source>
-        <translation type="unfinished"></translation>
+        <translation>ละทิ้ง — ยกเลิกการบันทึก</translation>
     </message>
     <message>
         <source>Default Mic</source>
-        <translation type="unfinished"></translation>
+        <translation>ไมโครโฟนเริ่มต้น</translation>
     </message>
     <message>
         <source>Unmute</source>
@@ -5157,114 +5157,114 @@
     </message>
     <message>
         <source>Unsolo</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกโซโล</translation>
     </message>
     <message>
         <source>Solo</source>
-        <translation type="unfinished"></translation>
+        <translation>โซโล</translation>
     </message>
     <message>
         <source>Recording paused — click to finish</source>
-        <translation type="unfinished"></translation>
+        <translation>หยุดบันทึกชั่วคราว — คลิกเพื่อเสร็จสิ้น</translation>
     </message>
     <message>
         <source>Recording — click to finish</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังบันทึก — คลิกเพื่อเสร็จสิ้น</translation>
     </message>
     <message>
         <source>Record voiceover on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกเสียงบรรยายบน %1</translation>
     </message>
     <message>
         <source>Pan %1 — drag to adjust, double-click to center</source>
-        <translation type="unfinished"></translation>
+        <translation>แพน %1 — ลากเพื่อปรับ ดับเบิลคลิกเพื่อจัดกึ่งกลาง</translation>
     </message>
     <message>
         <source>Mic gain %1 dB (%2%) — scroll to adjust, double-click for 0 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>เกนไมค์ %1 dB (%2%) — เลื่อนเพื่อปรับ ดับเบิลคลิกเพื่อกลับเป็น 0 dB</translation>
     </message>
     <message>
         <source>%1 dB — scroll to adjust, double-click for 0 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 dB — เลื่อนเพื่อปรับ ดับเบิลคลิกเพื่อกลับเป็น 0 dB</translation>
     </message>
     <message>
         <source>Master volume</source>
-        <translation type="unfinished"></translation>
+        <translation>ระดับเสียงหลัก</translation>
     </message>
     <message>
         <source>%1 volume</source>
-        <translation type="unfinished"></translation>
+        <translation>ระดับเสียง %1</translation>
     </message>
     <message>
         <source>Mic gain %1 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>เกนไมค์ %1 dB</translation>
     </message>
     <message>
         <source>Volume %1 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>ระดับเสียง %1 dB</translation>
     </message>
     <message>
         <source> — Shift-drag for fine, double-click for 0 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>— กด Shift แล้วลากเพื่อปรับละเอียด ดับเบิลคลิกเพื่อกลับเป็น 0 dB</translation>
     </message>
     <message>
         <source>Add audio track</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มแทร็กเสียง</translation>
     </message>
     <message>
         <source>Drag to resize — double-click to fit</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากเพื่อปรับขนาด — ดับเบิลคลิกเพื่อปรับให้พอดี</translation>
     </message>
     <message>
         <source>Master</source>
-        <translation type="unfinished"></translation>
+        <translation>มาสเตอร์</translation>
     </message>
     <message>
         <source>Unmute master</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดเสียงมาสเตอร์</translation>
     </message>
     <message>
         <source>C</source>
-        <translation type="unfinished"></translation>
+        <translation>C</translation>
     </message>
     <message>
         <source>L%1</source>
-        <translation type="unfinished"></translation>
+        <translation>ซ้าย %1</translation>
     </message>
     <message>
         <source>R%1</source>
-        <translation type="unfinished"></translation>
+        <translation>ขวา %1</translation>
     </message>
     <message>
         <source> (recording)</source>
-        <translation type="unfinished"></translation>
+        <translation>(กำลังบันทึก)</translation>
     </message>
     <message>
         <source>Mute master</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดเสียงมาสเตอร์</translation>
     </message>
 </context>
 <context>
     <name>AudioOutputChannel</name>
     <message>
         <source>The audio device could not be opened. Another program may be using it exclusively.</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดอุปกรณ์เสียงไม่ได้ อาจมีโปรแกรมอื่นกำลังใช้งานแบบเฉพาะอยู่</translation>
     </message>
     <message>
         <source>The audio device stopped responding.</source>
-        <translation type="unfinished"></translation>
+        <translation>อุปกรณ์เสียงหยุดตอบสนอง</translation>
     </message>
     <message>
         <source>The audio device was disconnected.</source>
-        <translation type="unfinished"></translation>
+        <translation>อุปกรณ์เสียงถูกตัดการเชื่อมต่อ</translation>
     </message>
     <message>
         <source>No audio output device is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีอุปกรณ์เอาต์พุตเสียง</translation>
     </message>
     <message>
         <source>The audio device does not support playback of this project.</source>
-        <translation type="unfinished"></translation>
+        <translation>อุปกรณ์เสียงไม่รองรับการเล่นโปรเจกต์นี้</translation>
     </message>
 </context>
 <context>
@@ -5278,31 +5278,31 @@
     <name>BlendingInspector</name>
     <message>
         <source>Video only</source>
-        <translation type="unfinished"></translation>
+        <translation>วิดีโอเท่านั้น</translation>
     </message>
     <message>
         <source>This tab does not apply to audio clips.</source>
-        <translation type="unfinished"></translation>
+        <translation>แท็บนี้ใช้กับคลิปเสียงไม่ได้</translation>
     </message>
     <message>
         <source>Blend mode</source>
-        <translation type="unfinished"></translation>
+        <translation>โหมดผสม</translation>
     </message>
     <message>
         <source>How this clip&apos;s colours combine with the tracks beneath it.</source>
-        <translation type="unfinished"></translation>
+        <translation>วิธีผสมสีของคลิปนี้กับแทร็กที่อยู่ด้านล่าง</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>ปกติ</translation>
     </message>
     <message>
         <source>Multiply</source>
-        <translation type="unfinished"></translation>
+        <translation>คูณ</translation>
     </message>
     <message>
         <source>Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>สกรีน</translation>
     </message>
     <message>
         <source>Overlay</source>
@@ -6554,7 +6554,7 @@
     </message>
     <message>
         <source>%1 (not installed)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (ยังไม่ได้ติดตั้ง)</translation>
     </message>
     <message>
         <source>Move effect up</source>
@@ -6578,11 +6578,11 @@
     </message>
     <message>
         <source>On</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิด</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิด</translation>
     </message>
     <message>
         <source>Choose %1</source>
@@ -11324,15 +11324,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>ปกติ</translation>
     </message>
     <message>
         <source>Multiply</source>
-        <translation type="unfinished"></translation>
+        <translation>คูณ</translation>
     </message>
     <message>
         <source>Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>สกรีน</translation>
     </message>
     <message>
         <source>Overlay</source>
@@ -11352,7 +11352,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Centre</source>
-        <translation type="unfinished"></translation>
+        <translation>กึ่งกลาง</translation>
     </message>
     <message>
         <source>Outside</source>
@@ -12477,7 +12477,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Shorter captions are timed by splitting each phrase evenly, so they can drift slightly out of sync with the speech.</source>
-        <translation type="unfinished"></translation>
+        <translation>คำบรรยายที่สั้นลงจะถูกแบ่งเวลาโดยกระจายแต่ละวลีเท่า ๆ กัน จึงอาจคลาดจากเสียงพูดเล็กน้อย</translation>
     </message>
     <message>
         <source>Create captions from the selected clips&apos; speech — several clips become one caption clip</source>
@@ -12489,7 +12489,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Creating captions… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังสร้างคำบรรยาย… %1%</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -12501,7 +12501,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Download speech recognition (about 670 MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลดระบบรู้จำเสียงพูด (ประมาณ 670 MB)</translation>
     </message>
     <message>
         <source>Install AI engine first</source>
@@ -12513,15 +12513,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Recommended caption length</source>
-        <translation type="unfinished"></translation>
+        <translation>ความยาวคำบรรยายที่แนะนำ</translation>
     </message>
     <message>
         <source>1 word per caption</source>
-        <translation type="unfinished"></translation>
+        <translation>1 คำต่อคำบรรยาย</translation>
     </message>
     <message>
         <source>%1 words per caption</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 คำต่อคำบรรยาย</translation>
     </message>
 </context>
 <context>
@@ -14188,11 +14188,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Video only</source>
-        <translation type="unfinished"></translation>
+        <translation>วิดีโอเท่านั้น</translation>
     </message>
     <message>
         <source>This tab does not apply to audio clips.</source>
-        <translation type="unfinished"></translation>
+        <translation>แท็บนี้ใช้กับคลิปเสียงไม่ได้</translation>
     </message>
     <message>
         <source>Also moved by %1</source>
@@ -14540,11 +14540,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>On</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิด</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิด</translation>
     </message>
     <message>
         <source>Edit transition</source>
@@ -15017,7 +15017,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Default Mic</source>
-        <translation type="unfinished"></translation>
+        <translation>ไมโครโฟนเริ่มต้น</translation>
     </message>
     <message>
         <source>Input microphone: %1 (click to switch)</source>
@@ -15037,11 +15037,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Resume recording</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกต่อ</translation>
     </message>
     <message>
         <source>Pause recording</source>
-        <translation type="unfinished"></translation>
+        <translation>หยุดบันทึกชั่วคราว</translation>
     </message>
     <message>
         <source>Done — finish recording and save to track</source>
