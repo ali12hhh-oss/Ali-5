@@ -927,9 +927,9 @@
     </message>
     <message numerus="yes">
         <source>%n coin(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>කාසි %n</numerusform>
+            <numerusform>කාසි %n</numerusform>
         </translation>
     </message>
     <message>
@@ -1731,9 +1731,9 @@
     </message>
     <message numerus="yes">
         <source>%n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ක්ලිප් %n</numerusform>
+            <numerusform>ක්ලිප් %n</numerusform>
         </translation>
     </message>
     <message>
@@ -1820,9 +1820,9 @@
     <name>AndroidTransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 · ක්ලිප් %n</numerusform>
+            <numerusform>%1 · ක්ලිප් %n</numerusform>
         </translation>
     </message>
     <message>
@@ -2457,9 +2457,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n subtitles</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>උපසිරැසි %nක් ආනයනය කළා</numerusform>
+            <numerusform>උපසිරැසි %nක් ආනයනය කළා</numerusform>
         </translation>
     </message>
     <message>
@@ -2579,9 +2579,9 @@
     </message>
     <message numerus="yes">
         <source>Found %n scene(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>දර්ශන %nක් හමු විය</numerusform>
+            <numerusform>දර්ශන %nක් හමු විය</numerusform>
         </translation>
     </message>
     <message>
@@ -4561,16 +4561,16 @@
     </message>
     <message numerus="yes">
         <source>%n items removed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>අයිතම %nක් ඉවත් කළා</numerusform>
+            <numerusform>අයිතම %nක් ඉවත් කළා</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n items moved</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>අයිතම %nක් ගෙන ගියා</numerusform>
+            <numerusform>අයිතම %nක් ගෙන ගියා</numerusform>
         </translation>
     </message>
     <message>
@@ -4871,9 +4871,9 @@
     </message>
     <message numerus="yes">
         <source>%n items</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>අයිතම %nක්</numerusform>
+            <numerusform>අයිතම %nක්</numerusform>
         </translation>
     </message>
     <message>
@@ -4882,9 +4882,9 @@
     </message>
     <message numerus="yes">
         <source>Removed %n items.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>අයිතම %nක් ඉවත් කළා.</numerusform>
+            <numerusform>අයිතම %nක් ඉවත් කළා.</numerusform>
         </translation>
     </message>
 </context>
@@ -5728,16 +5728,16 @@
     </message>
     <message numerus="yes">
         <source>%n second(s) left</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>තත්පර %nක් ඉතිරියි</numerusform>
+            <numerusform>තත්පර %nක් ඉතිරියි</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) left</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>මිනිත්තු %nක් ඉතිරියි</numerusform>
+            <numerusform>මිනිත්තු %nක් ඉතිරියි</numerusform>
         </translation>
     </message>
     <message>
@@ -5769,9 +5769,9 @@
     </message>
     <message numerus="yes">
         <source>%n active</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>සක්‍රිය %n</numerusform>
+            <numerusform>සක්‍රිය %n</numerusform>
         </translation>
     </message>
     <message>
@@ -5811,9 +5811,9 @@
     </message>
     <message numerus="yes">
         <source>%n style(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>විලාස %nක්</numerusform>
+            <numerusform>විලාස %nක්</numerusform>
         </translation>
     </message>
     <message>
@@ -5822,9 +5822,9 @@
     </message>
     <message numerus="yes">
         <source>%n colour(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>වර්ණ %nක්</numerusform>
+            <numerusform>වර්ණ %nක්</numerusform>
         </translation>
     </message>
     <message>
@@ -7714,9 +7714,9 @@
     </message>
     <message numerus="yes">
         <source>%n keyframes</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>යතුරු රාමු %nක්</numerusform>
+            <numerusform>යතුරු රාමු %nක්</numerusform>
         </translation>
     </message>
     <message>
@@ -8833,9 +8833,9 @@
     </message>
     <message numerus="yes">
         <source>Imported %n files.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ගොනු %nක් ආනයනය කළා.</numerusform>
+            <numerusform>ගොනු %nක් ආනයනය කළා.</numerusform>
         </translation>
     </message>
     <message>
@@ -12272,9 +12272,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>%n coin(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>කාසි %n</numerusform>
+            <numerusform>කාසි %n</numerusform>
         </translation>
     </message>
     <message>
@@ -12336,9 +12336,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>%n captions</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>සිරස්තල %nක්</numerusform>
+            <numerusform>සිරස්තල %nක්</numerusform>
         </translation>
     </message>
     <message>
@@ -14456,9 +14456,9 @@ If playback stutters, try another.</source>
     <name>TransformOverlay</name>
     <message numerus="yes">
         <source>%1 · %n clip(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 · ක්ලිප් %n</numerusform>
+            <numerusform>%1 · ක්ලිප් %n</numerusform>
         </translation>
     </message>
     <message>
@@ -14478,9 +14478,9 @@ If playback stutters, try another.</source>
     <name>TransformSpanBracket</name>
     <message numerus="yes">
         <source>%n track(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ධාවන පථ %nක්</numerusform>
+            <numerusform>ධාවන පථ %nක්</numerusform>
         </translation>
     </message>
     <message>
@@ -14489,9 +14489,9 @@ If playback stutters, try another.</source>
     </message>
     <message numerus="yes">
         <source>Covers %n track(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ධාවන පථ %nක් ආවරණය කරයි</numerusform>
+            <numerusform>ධාවන පථ %nක් ආවරණය කරයි</numerusform>
         </translation>
     </message>
 </context>
