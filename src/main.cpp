@@ -499,7 +499,7 @@ int main(int argc, char *argv[])
         if (qstrcmp(argv[i], "--mcp-stdio") == 0) {
             QCoreApplication app(argc, argv);
             QCoreApplication::setApplicationName("V Cleb");
-            QCoreApplication::setOrganizationName("CutWire Drift");
+            QCoreApplication::setOrganizationName("V Cleb");
             return drift::mcp::runStdioAttach();
         }
     }
@@ -552,7 +552,7 @@ int main(int argc, char *argv[])
     // Names must be set before reading QSettings for ui/scale, and QT_SCALE_FACTOR
     // must be in the environment before QApplication is constructed.
     QCoreApplication::setApplicationName("V Cleb");
-    QCoreApplication::setOrganizationName("CutWire Drift");
+    QCoreApplication::setOrganizationName("V Cleb");
     AppController::applyStoredUiScale();
     // Qt's xcb plugin defaults to GLX, so eglGetCurrentDisplay() is null and
     // zero-copy sticky-disables. Only force EGL when the user opted in — default
