@@ -67,8 +67,8 @@ Name: "{autodesktop}\{#MyAppName}"; Filename: "{app}\{#MyAppExeName}"; Tasks: de
 ; delete the association out from under the stable install (uninsdeletekey), and two channels
 ; fighting over which opens a .drift file helps nobody.
 [Registry]
-Root: HKCR; Subkey: ".drift"; ValueType: string; ValueName: ""; ValueData: "CutWire.Drift.Project"; Flags: uninsdeletevalue
-Root: HKCR; Subkey: "CutWire.Drift.Project"; ValueType: string; ValueName: ""; ValueData: "Drift Project"; Flags: uninsdeletekey
+Root: HKCR; Subkey: ".drift"; ValueType: string; ValueName: ""; ValueData: "VCleb.Project"; Flags: uninsdeletevalue
+Root: HKCR; Subkey: "VCleb.Project"; ValueType: string; ValueName: ""; ValueData: "V Cleb Project"; Flags: uninsdeletekey
 Root: HKCR; Subkey: "CutWire.Drift.Project\DefaultIcon"; ValueType: string; ValueName: ""; ValueData: "{app}\{#MyAppExeName},0"
 Root: HKCR; Subkey: "CutWire.Drift.Project\shell\open\command"; ValueType: string; ValueName: ""; ValueData: """{app}\{#MyAppExeName}"" ""%1"""
 #endif
