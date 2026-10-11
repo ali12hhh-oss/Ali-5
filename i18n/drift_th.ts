@@ -28,7 +28,7 @@
         <translation>ไม่สามารถอ่านไฟล์นั้นได้</translation>
     </message>
     <message>
-        <source>This is not a V Cleb effect file (%1).</source>
+        <source>This is not a Drift effect file (%1).</source>
         <translation>ไฟล์นี้ไม่ใช่ไฟล์เอฟเฟกต์ของ V Cleb (%1)</translation>
     </message>
 </context>
@@ -59,7 +59,7 @@
         <translation>นำเข้าเอฟเฟกต์</translation>
     </message>
     <message>
-        <source>V Cleb effect (*.driftfx)</source>
+        <source>Drift effect (*.driftfx)</source>
         <translation>เอฟเฟกต์ V Cleb (*.driftfx)</translation>
     </message>
     <message>
@@ -79,7 +79,7 @@
         <translation>“%1”</translation>
     </message>
     <message>
-        <source>%1 was made by a user, not the V Cleb team, and nothing has checked it. Only install files you trust.</source>
+        <source>%1 was made by a user, not the Drift team, and nothing has checked it. Only install files you trust.</source>
         <translation>%1 สร้างโดยผู้ใช้ ไม่ใช่ทีม V Cleb และยังไม่มีการตรวจสอบ โปรดติดตั้งเฉพาะไฟล์ที่คุณเชื่อถือเท่านั้น</translation>
     </message>
     <message>
@@ -143,7 +143,7 @@
         <translation>ติดตั้ง AI Engine ด้านล่างเพื่อใช้งานคำบรรยายอัตโนมัติ การแยกวัตถุ เอฟเฟกต์ใบหน้าตลก และการลดเสียงรบกวน</translation>
     </message>
     <message>
-        <source>Restart V Cleb for this to take effect.</source>
+        <source>Restart Drift for this to take effect.</source>
         <translation>รีสตาร์ต V Cleb เพื่อให้การเปลี่ยนแปลงมีผล</translation>
     </message>
     <message>
@@ -179,7 +179,7 @@
         <translation>%1… %2%</translation>
     </message>
     <message>
-        <source>Requires V Cleb %1 or newer</source>
+        <source>Requires Drift %1 or newer</source>
         <translation>ต้องใช้ V Cleb %1 หรือเวอร์ชันใหม่กว่า</translation>
     </message>
     <message>
@@ -222,7 +222,7 @@
         <translation>แพ็กที่แนะนำ</translation>
     </message>
     <message>
-        <source>Install the essential packs for effects, transitions, and audio. You can keep using V Cleb without them — installing unlocks updates when they improve.</source>
+        <source>Install the essential packs for effects, transitions, and audio. You can keep using Drift without them — installing unlocks updates when they improve.</source>
         <translation>ติดตั้งแพ็กที่จำเป็นสำหรับเอฟเฟกต์ ทรานซิชัน และเสียง คุณยังใช้ V Cleb ได้โดยไม่ต้องติดตั้ง แต่การติดตั้งจะช่วยให้รับการอัปเดตเมื่อมีการปรับปรุง</translation>
     </message>
     <message>
@@ -381,11 +381,11 @@
         <translation>เริ่มเอเจนต์เมื่อเปิดแอป</translation>
     </message>
     <message>
-        <source>Skip the manual toggle next time you open V Cleb. Turning access off resets this.</source>
+        <source>Skip the manual toggle next time you open Drift. Turning access off resets this.</source>
         <translation>ไม่ต้องเปิดสวิตช์ด้วยตนเองเมื่อเปิด V Cleb ครั้งถัดไป การปิดสิทธิ์เข้าถึงจะรีเซ็ตตัวเลือกนี้</translation>
     </message>
     <message>
-        <source>Let Cursor or Claude edit this project for you — add clips, change the timeline, and check how it looks. Only programs on this device. Off by default each time you open V Cleb, unless you turn on “Start agent on startup” below; turn it off here when you finish. The key stays the same between sessions, so a setup you pasted once keeps working.</source>
+        <source>Let Cursor or Claude edit this project for you — add clips, change the timeline, and check how it looks. Only programs on this device. Off by default each time you open Drift, unless you turn on “Start agent on startup” below; turn it off here when you finish. The key stays the same between sessions, so a setup you pasted once keeps working.</source>
         <translation>ให้ Cursor หรือ Claude ช่วยแก้ไขโปรเจกต์นี้ได้ ทั้งเพิ่มคลิป ปรับไทม์ไลน์ และตรวจดูผลลัพธ์ อนุญาตเฉพาะโปรแกรมในอุปกรณ์นี้ โดยปิดไว้เป็นค่าเริ่มต้นทุกครั้งที่เปิด V Cleb เว้นแต่คุณจะเปิด “เริ่มเอเจนต์เมื่อเปิดแอป” ด้านล่าง เมื่อเสร็จแล้วให้ปิดที่นี่ คีย์จะคงเดิมระหว่างเซสชัน จึงใช้การตั้งค่าที่วางไว้ครั้งเดียวต่อไปได้</translation>
     </message>
 </context>
@@ -629,7 +629,7 @@
 <context>
     <name>AndroidEditor</name>
     <message>
-        <source>V Cleb project (*.drift)</source>
+        <source>Drift project (*.drift)</source>
         <translation>โปรเจกต์ V Cleb (*.drift)</translation>
     </message>
     <message>
@@ -832,7 +832,7 @@
 <context>
     <name>AndroidMain</name>
     <message>
-        <source>V Cleb project (*.drift)</source>
+        <source>Drift project (*.drift)</source>
         <translation>โปรเจกต์ V Cleb (*.drift)</translation>
     </message>
     <message>
@@ -2105,7 +2105,7 @@
         <translation>เครื่องมือตัด</translation>
     </message>
     <message>
-        <source>Faster preview takes effect after you restart V Cleb.</source>
+        <source>Faster preview takes effect after you restart Drift.</source>
         <translation>การแสดงตัวอย่างที่เร็วขึ้นจะมีผลหลังจากเริ่ม V Cleb ใหม่</translation>
     </message>
     <message>
@@ -2741,7 +2741,7 @@
         <translation>ซูมออก</translation>
     </message>
     <message>
-        <source>The graphics card choice takes effect after you restart V Cleb.</source>
+        <source>The graphics card choice takes effect after you restart Drift.</source>
         <translation>การเลือกการ์ดกราฟิกจะมีผลหลังจากเริ่ม V Cleb ใหม่</translation>
     </message>
     <message>
@@ -3593,7 +3593,7 @@
         <translation>กำลังปรับปรุงวิดีโอ…</translation>
     </message>
     <message>
-        <source>This build of V Cleb has no video stabilization support</source>
+        <source>This build of Drift has no video stabilization support</source>
         <translation>V Cleb เวอร์ชันนี้ไม่รองรับการปรับเสถียรวิดีโอ</translation>
     </message>
     <message>
@@ -4709,7 +4709,7 @@
         </translation>
     </message>
     <message numerus="yes">
-        <source>Imported %n files into %1 folders. %2 files were skipped — V Cleb does not recognize their format. Drag them onto the bin to try anyway.</source>
+        <source>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</source>
         <translation>
             <numerusform>นำเข้าไฟล์ %n ไฟล์ไปยังโฟลเดอร์ %1 โฟลเดอร์แล้ว ข้ามไฟล์ %2 ไฟล์เนื่องจาก V Cleb ไม่รู้จักรูปแบบ ลากไฟล์เหล่านั้นไปยังถาดสื่อเพื่อลองอีกครั้ง</numerusform>
         </translation>
@@ -5910,7 +5910,7 @@
         <translation>ตลาดไม่พร้อมใช้งานในบิลด์นี้</translation>
     </message>
     <message>
-        <source>Could not load V Cleb Assets. Check your connection and try again.</source>
+        <source>Could not load Drift Assets. Check your connection and try again.</source>
         <translation>โหลด V Cleb Assets ไม่ได้ โปรดตรวจสอบการเชื่อมต่อแล้วลองอีกครั้ง</translation>
     </message>
     <message>
@@ -5961,7 +5961,7 @@
         <translation>เพิ่มลงในคลังสื่อแล้ว</translation>
     </message>
     <message>
-        <source>Couldn’t load V Cleb Assets</source>
+        <source>Couldn’t load Drift Assets</source>
         <translation>โหลด V Cleb Assets ไม่ได้</translation>
     </message>
     <message>
@@ -5973,7 +5973,7 @@
         <translation>ยังไม่มีแอสเซ็ตที่นี่</translation>
     </message>
     <message>
-        <source>V Cleb Assets are still being published. Check back soon.</source>
+        <source>Drift Assets are still being published. Check back soon.</source>
         <translation>V Cleb Assets กำลังทยอยเผยแพร่ โปรดกลับมาตรวจสอบอีกครั้ง</translation>
     </message>
     <message>
@@ -5989,7 +5989,7 @@
         <translation>แอสเซ็ตทั้งหมด</translation>
     </message>
     <message>
-        <source>No V Cleb Assets match “%1”.</source>
+        <source>No Drift Assets match “%1”.</source>
         <translation>ไม่มี V Cleb Assets ที่ตรงกับ “%1”</translation>
     </message>
     <message>
@@ -6000,7 +6000,7 @@
 <context>
     <name>EditorHeader</name>
     <message>
-        <source>V Cleb project (*.drift)</source>
+        <source>Drift project (*.drift)</source>
         <translation>โปรเจกต์ V Cleb (*.drift)</translation>
     </message>
     <message>
@@ -6135,7 +6135,7 @@
         <translation>อัปเดต</translation>
     </message>
     <message>
-        <source>V Cleb %1 is available</source>
+        <source>Drift %1 is available</source>
         <translation>V Cleb %1 พร้อมใช้งานแล้ว</translation>
     </message>
     <message>
@@ -6296,7 +6296,7 @@
 <context>
     <name>EffectStacksSection</name>
     <message>
-        <source>V Cleb effect stack (*.drifteffects)</source>
+        <source>Drift effect stack (*.drifteffects)</source>
         <translation>สแตกเอฟเฟกต์ V Cleb (*.drifteffects)</translation>
     </message>
     <message>
@@ -6905,7 +6905,7 @@
         <translation>prop.json ไม่ใช่อุปกรณ์ตกแต่งใบหน้า</translation>
     </message>
     <message>
-        <source>prop.json needs a newer version of V Cleb</source>
+        <source>prop.json needs a newer version of Drift</source>
         <translation>prop.json ต้องใช้ V Cleb เวอร์ชันใหม่กว่า</translation>
     </message>
     <message>
@@ -7028,7 +7028,7 @@
         <translation>นำเข้าโฟลเดอร์…</translation>
     </message>
     <message>
-        <source>No face props installed. Import a .zip from V Cleb-Assets, or any folder of props that carry a prop.json.</source>
+        <source>No face props installed. Import a .zip from Drift-Assets, or any folder of props that carry a prop.json.</source>
         <translation>ยังไม่ได้ติดตั้ง face prop ให้นำเข้าไฟล์ .zip จาก V Cleb-Assets หรือโฟลเดอร์ prop ที่มี prop.json</translation>
     </message>
     <message>
@@ -8273,7 +8273,7 @@
         <translation>เราไม่สามารถรับประกันว่าการดาวน์โหลดจะสำเร็จ เสร็จสมบูรณ์ หรือได้คุณภาพตามที่เลือก บางรายการอาจดาวน์โหลดไม่สำเร็จ</translation>
     </message>
     <message>
-        <source>Everything here comes from third parties. V Cleb does not host, own or vet it — you are responsible for making sure you have the right to use whatever you download.</source>
+        <source>Everything here comes from third parties. Drift does not host, own or vet it — you are responsible for making sure you have the right to use whatever you download.</source>
         <translation>เนื้อหาทั้งหมดมาจากบุคคลที่สาม V Cleb ไม่ได้โฮสต์ เป็นเจ้าของ หรือตรวจสอบเนื้อหา คุณต้องรับผิดชอบในการตรวจสอบว่ามีสิทธิ์ใช้สิ่งที่ดาวน์โหลด</translation>
     </message>
     <message>
@@ -9513,11 +9513,11 @@
 <context>
     <name>PlaybackEngine</name>
     <message>
-        <source>%1 decodes on %2, but V Cleb draws on %3. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
+        <source>%1 decodes on %2, but Drift draws on %3. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
         <translation>%1 ถอดรหัสบน %2 แต่ V Cleb วาดภาพบน %3 ทุกเฟรมต้องคัดลอกผ่านหน่วยความจำระบบ ซึ่งช้ากว่าการถอดรหัสบนการ์ดจอที่ใช้วาดภาพ</translation>
     </message>
     <message>
-        <source>%1 decodes on a different graphics card than the one V Cleb draws on. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
+        <source>%1 decodes on a different graphics card than the one Drift draws on. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
         <translation>%1 ถอดรหัสด้วยการ์ดจอคนละตัวกับที่ V Cleb ใช้วาดภาพ ทุกเฟรมต้องคัดลอกผ่านหน่วยความจำระบบ จึงช้ากว่าการถอดรหัสบนการ์ดจอที่ใช้วาดภาพ</translation>
     </message>
     <message>
@@ -9623,11 +9623,11 @@
         <translation>พรีวิว GPU ใช้งานไม่ได้</translation>
     </message>
     <message>
-        <source>Your graphics driver only provides %1. V Cleb&apos;s preview needs OpenGL 3.3.</source>
+        <source>Your graphics driver only provides %1. Drift&apos;s preview needs OpenGL 3.3.</source>
         <translation>ไดรเวอร์กราฟิกของคุณรองรับเพียง %1 แต่พรีวิวของ V Cleb ต้องใช้ OpenGL 3.3</translation>
     </message>
     <message>
-        <source>V Cleb could not start its GPU renderer, so the preview cannot draw.</source>
+        <source>Drift could not start its GPU renderer, so the preview cannot draw.</source>
         <translation>V Cleb เริ่มตัวเรนเดอร์ GPU ไม่ได้ จึงแสดงพรีวิวไม่ได้</translation>
     </message>
     <message>
@@ -9766,15 +9766,15 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
         <translation>ยกเลิก</translation>
     </message>
     <message>
-        <source>Launching V Cleb with prime-run (or DRI_PRIME=1) puts OpenGL on the same card as the decoder.</source>
+        <source>Launching Drift with prime-run (or DRI_PRIME=1) puts OpenGL on the same card as the decoder.</source>
         <translation>เปิด V Cleb ด้วย prime-run (หรือ DRI_PRIME=1) จะทำให้ OpenGL ใช้การ์ดจอเดียวกับตัวถอดรหัส</translation>
     </message>
     <message>
-        <source>Run V Cleb on the high-performance graphics card</source>
+        <source>Run Drift on the high-performance graphics card</source>
         <translation>เรียกใช้ V Cleb บนการ์ดจอประสิทธิภาพสูง</translation>
     </message>
     <message>
-        <source>Set V Cleb to High performance in Windows Settings &gt; Display &gt; Graphics, then restart V Cleb.</source>
+        <source>Set Drift to High performance in Windows Settings &gt; Display &gt; Graphics, then restart Drift.</source>
         <translation>ตั้งค่า V Cleb เป็น High performance ที่ Windows Settings &gt; Display &gt; Graphics แล้วรีสตาร์ต V Cleb</translation>
     </message>
     <message>
@@ -9785,11 +9785,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
 <context>
     <name>Project</name>
     <message>
-        <source>This project was saved by a newer version of V Cleb (project format %1; this build reads up to %2).</source>
+        <source>This project was saved by a newer version of Drift (project format %1; this build reads up to %2).</source>
         <translation>โปรเจกต์นี้บันทึกด้วย V Cleb เวอร์ชันใหม่กว่า (รูปแบบโปรเจกต์ %1; บิลด์นี้อ่านได้ถึง %2)</translation>
     </message>
     <message>
-        <source>This file isn’t a V Cleb project.</source>
+        <source>This file isn’t a Drift project.</source>
         <translation>ไฟล์นี้ไม่ใช่โปรเจกต์ V Cleb</translation>
     </message>
 </context>
@@ -9804,11 +9804,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
         <translation>เปิด %1 ไม่ได้</translation>
     </message>
     <message>
-        <source>file is too short to be a V Cleb project</source>
+        <source>file is too short to be a Drift project</source>
         <translation>ไฟล์สั้นเกินกว่าจะเป็นโปรเจกต์ V Cleb</translation>
     </message>
     <message>
-        <source>not a V Cleb project (bad magic)</source>
+        <source>not a Drift project (bad magic)</source>
         <translation>ไม่ใช่โปรเจกต์ V Cleb (รหัสระบุไฟล์ไม่ถูกต้อง)</translation>
     </message>
     <message>
@@ -9836,7 +9836,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
         <translation>manifest ของโปรเจกต์ไม่มีเวอร์ชันรูปแบบ</translation>
     </message>
     <message>
-        <source>this project was saved by a newer version of V Cleb (format %1) — update to open it</source>
+        <source>this project was saved by a newer version of Drift (format %1) — update to open it</source>
         <translation>โปรเจกต์นี้บันทึกด้วย V Cleb เวอร์ชันใหม่กว่า (รูปแบบ %1) — อัปเดตเพื่อเปิดโปรเจกต์</translation>
     </message>
     <message>
@@ -10732,7 +10732,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
         <translation>กำลังดำเนินการ…</translation>
     </message>
     <message>
-        <source>V Cleb will render a reversed copy of this clip so it plays back smoothly. You can keep editing while it runs.</source>
+        <source>Drift will render a reversed copy of this clip so it plays back smoothly. You can keep editing while it runs.</source>
         <translation>V Cleb จะเรนเดอร์สำเนาคลิปแบบย้อนกลับเพื่อให้เล่นได้อย่างราบรื่น ระหว่างนี้คุณยังแก้ไขต่อได้</translation>
     </message>
     <message>
@@ -11071,11 +11071,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
         <translation>ประสิทธิภาพสูง (GPU แยก)</translation>
     </message>
     <message>
-        <source>Which graphics card V Cleb runs on. High performance keeps video decoded on an NVIDIA card on that card; power saving uses less battery. Takes effect after restart.</source>
+        <source>Which graphics card Drift runs on. High performance keeps video decoded on an NVIDIA card on that card; power saving uses less battery. Takes effect after restart.</source>
         <translation>เลือกการ์ดกราฟิกที่ V Cleb ใช้ โหมดประสิทธิภาพสูงจะถอดรหัสวิดีโอบนการ์ด NVIDIA ส่วนนั้น ส่วนโหมดประหยัดพลังงานใช้แบตเตอรี่น้อยกว่า มีผลหลังรีสตาร์ต</translation>
     </message>
     <message>
-        <source>Choose which graphics card V Cleb runs on in Windows Settings, under Display &gt; Graphics. Takes effect after restart.</source>
+        <source>Choose which graphics card Drift runs on in Windows Settings, under Display &gt; Graphics. Takes effect after restart.</source>
         <translation>เลือกการ์ดกราฟิกที่ V Cleb ใช้ใน Windows Settings ภายใต้ Display &gt; Graphics มีผลหลังรีสตาร์ต</translation>
     </message>
     <message>
@@ -11119,7 +11119,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
         <translation>ทำให้ปุ่ม ข้อความ และไอคอนใหญ่ขึ้น เป็นการเพิ่มสเกลจากค่าที่ตั้งไว้ในหน้าจอ และมีผลหลังรีสตาร์ต</translation>
     </message>
     <message>
-        <source>Restart V Cleb to apply this size.</source>
+        <source>Restart Drift to apply this size.</source>
         <translation>รีสตาร์ต V Cleb เพื่อใช้ขนาดนี้</translation>
     </message>
     <message>
@@ -11167,7 +11167,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
         <translation>ตรวจสอบเมื่อเริ่มแอป</translation>
     </message>
     <message>
-        <source>Ask GitHub once a day whether a newer V Cleb has been released</source>
+        <source>Ask GitHub once a day whether a newer Drift has been released</source>
         <translation>ตรวจสอบกับ GitHub วันละครั้งว่ามี V Cleb เวอร์ชันใหม่หรือไม่</translation>
     </message>
     <message>
@@ -11179,7 +11179,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
         <translation>ตรวจสอบตอนนี้</translation>
     </message>
     <message>
-        <source>V Cleb %1</source>
+        <source>Drift %1</source>
         <translation>V Cleb %1</translation>
     </message>
     <message>
@@ -11211,7 +11211,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
         <translation>ผู้ให้บริการคลาวด์</translation>
     </message>
     <message>
-        <source>Keys are stored unencrypted in V Cleb&apos;s settings. ELEVENLABS_API_KEY and FISH_API_KEY in the environment take precedence. Use is billed to your own account.</source>
+        <source>Keys are stored unencrypted in Drift&apos;s settings. ELEVENLABS_API_KEY and FISH_API_KEY in the environment take precedence. Use is billed to your own account.</source>
         <translation>คีย์จะถูกเก็บโดยไม่เข้ารหัสในการตั้งค่าของ V Cleb ตัวแปรสภาพแวดล้อม ELEVENLABS_API_KEY และ FISH_API_KEY จะมีลำดับความสำคัญก่อน ค่าใช้บริการจะเรียกเก็บจากบัญชีของคุณ</translation>
     </message>
     <message>
@@ -11255,7 +11255,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
         <translation>อนุญาตให้ส่งเสียงและข้อความไปยัง %1</translation>
     </message>
     <message>
-        <source>Needed before V Cleb or a connected agent can transcribe or generate audio with this service</source>
+        <source>Needed before Drift or a connected agent can transcribe or generate audio with this service</source>
         <translation>ต้องเปิดใช้ก่อนที่ V Cleb หรือเอเจนต์ที่เชื่อมต่อจะถอดเสียงหรือสร้างเสียงด้วยบริการนี้ได้</translation>
     </message>
     <message>
@@ -12013,7 +12013,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
         <translation>ลดการสั่นของกล้องด้วยการสร้างคีย์เฟรมตำแหน่ง การแพนแบบเส้นตรงจะใช้คีย์สองจุดที่ห่างกัน และเพิ่มคีย์เฉพาะเมื่อทิศทางเปลี่ยน การเปลี่ยนความนุ่มนวลหรือโหมดขาตั้งกล้องจะไม่อัปเดตตัวอย่างจนกว่าจะกดใช้</translation>
     </message>
     <message>
-        <source>Smooths camera shake. V Cleb scans the clip once, then renders a new video. Changing smoothness or tripod does not update the preview until you apply.</source>
+        <source>Smooths camera shake. Drift scans the clip once, then renders a new video. Changing smoothness or tripod does not update the preview until you apply.</source>
         <translation>ลดการสั่นของกล้อง V Cleb จะสแกนคลิปหนึ่งครั้งแล้วเรนเดอร์วิดีโอใหม่ การเปลี่ยนความนุ่มนวลหรือโหมดขาตั้งกล้องจะไม่อัปเดตตัวอย่างจนกว่าจะกดใช้</translation>
     </message>
     <message>
@@ -12542,7 +12542,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
 <context>
     <name>TextAssetsTab</name>
     <message>
-        <source>V Cleb text style (*.drifttextstyle)</source>
+        <source>Drift text style (*.drifttextstyle)</source>
         <translation>สไตล์ข้อความ V Cleb (*.drifttextstyle)</translation>
     </message>
     <message>
@@ -14656,11 +14656,11 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
         <translation>ตรวจสอบการอัปเดตไม่สำเร็จ: ได้รับการตอบกลับที่ไม่คาดคิด</translation>
     </message>
     <message>
-        <source>V Cleb %1 is the latest version.</source>
+        <source>Drift %1 is the latest version.</source>
         <translation>V Cleb %1 เป็นเวอร์ชันล่าสุดแล้ว</translation>
     </message>
     <message>
-        <source>V Cleb %1 is available.</source>
+        <source>Drift %1 is available.</source>
         <translation>มี V Cleb %1 ให้ใช้งานแล้ว</translation>
     </message>
 </context>
@@ -14671,7 +14671,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
         <translation>มีอัปเดตพร้อมใช้งาน</translation>
     </message>
     <message>
-        <source>V Cleb %1 is available</source>
+        <source>Drift %1 is available</source>
         <translation>V Cleb %1 พร้อมใช้งานแล้ว</translation>
     </message>
     <message>
@@ -15134,7 +15134,7 @@ Auto จะเลือกแยกตามคลิป: ใช้ฮาร์�
         <translation>ไม่พบไดรเวอร์ OpenGL</translation>
     </message>
     <message>
-        <source>V Cleb could not create an OpenGL context, so it cannot draw its interface or render the preview.
+        <source>Drift could not create an OpenGL context, so it cannot draw its interface or render the preview.
 
 Install or update your graphics driver.</source>
         <translation>V Cleb ไม่สามารถสร้าง OpenGL context ได้ จึงไม่สามารถวาดอินเทอร์เฟซหรือเรนเดอร์ตัวอย่างได้
@@ -15146,7 +15146,7 @@ Install or update your graphics driver.</source>
         <translation>ไม่สามารถใช้ OpenGL context ได้</translation>
     </message>
     <message>
-        <source>V Cleb could not create an OpenGL 3.3 core profile context, though this driver reports OpenGL %1.%2 (%3).
+        <source>Drift could not create an OpenGL 3.3 core profile context, though this driver reports OpenGL %1.%2 (%3).
 
 The video preview cannot render. Updating your graphics driver may help.</source>
         <translation>V Cleb ไม่สามารถสร้าง OpenGL 3.3 core profile context ได้ แม้ไดรเวอร์จะแจ้งว่าใช้ OpenGL %1.%2 (%3)
@@ -15158,21 +15158,21 @@ The video preview cannot render. Updating your graphics driver may help.</source
         <translation>ไดรเวอร์กราฟิกเก่าเกินไป</translation>
     </message>
     <message>
-        <source>V Cleb needs OpenGL 3.3, but this graphics driver only provides OpenGL %1.%2 (%3).
+        <source>Drift needs OpenGL 3.3, but this graphics driver only provides OpenGL %1.%2 (%3).
 
-The video preview cannot render, and V Cleb may not start at all. Update your graphics driver, or run V Cleb on a machine with a newer GPU.</source>
+The video preview cannot render, and Drift may not start at all. Update your graphics driver, or run Drift on a machine with a newer GPU.</source>
         <translation>V Cleb ต้องใช้ OpenGL 3.3 แต่ไดรเวอร์กราฟิกนี้รองรับเพียง OpenGL %1.%2 (%3)
 
 ไม่สามารถเรนเดอร์ตัวอย่างวิดีโอได้ และ V Cleb อาจเริ่มทำงานไม่ได้เลย โปรดอัปเดตไดรเวอร์หรือใช้เครื่องที่มี GPU รุ่นใหม่กว่า</translation>
     </message>
     <message>
-        <source>V Cleb is not drawing its window</source>
+        <source>Drift is not drawing its window</source>
         <translation>V Cleb ไม่ได้วาดหน้าต่าง</translation>
     </message>
     <message>
-        <source>V Cleb has been running for %1 seconds but its window has not drawn anything yet.
+        <source>Drift has been running for %1 seconds but its window has not drawn anything yet.
 
-If the window is blank or black, your graphics driver is most likely outdated or faulty. Update it from your GPU vendor&apos;s website (AMD, NVIDIA or Intel) and start V Cleb again.</source>
+If the window is blank or black, your graphics driver is most likely outdated or faulty. Update it from your GPU vendor&apos;s website (AMD, NVIDIA or Intel) and start Drift again.</source>
         <translation>V Cleb ทำงานมาแล้ว %1 วินาที แต่หน้าต่างยังไม่แสดงอะไรเลย
 
 หากหน้าต่างว่างเปล่าหรือเป็นสีดำ ไดรเวอร์กราฟิกอาจเก่าหรือมีปัญหา โปรดอัปเดตจากเว็บไซต์ผู้ผลิต GPU (AMD, NVIDIA หรือ Intel) แล้วเปิด V Cleb อีกครั้ง</translation>
