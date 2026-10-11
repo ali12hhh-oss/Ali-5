@@ -481,7 +481,7 @@ ApplicationWindow {
         }
     }
 
-    // Warm start: a share that landed while Drift was already running.
+    // Warm start: a share that landed while V Cleb was already running.
     Connections {
         target: FileDialogs
         function onIncomingIntent(intent) {
