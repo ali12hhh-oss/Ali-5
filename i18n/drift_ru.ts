@@ -13633,7 +13633,7 @@ If playback stutters, try another.</source>
     <name>TimelinePanel</name>
     <message>
         <source>Proxy</source>
-        <translation>Прокси-файл</translation>
+        <translation>Прокси</translation>
     </message>
     <message>
         <source>Previewing from a low-resolution proxy. Export uses the original.</source>
