@@ -165,7 +165,7 @@ void UpdateChecker::check(bool manual)
     // GitHub's API rejects requests that send no User-Agent, and pins response shape to an API
     // version so a future default cannot change the fields parsed below.
     request.setHeader(QNetworkRequest::UserAgentHeader,
-                      QLatin1String("Drift/") + kCurrentVersion);
+                      QLatin1String("V Cleb/") + kCurrentVersion);
     request.setRawHeader("Accept", "application/vnd.github+json");
     request.setRawHeader("X-GitHub-Api-Version", "2022-11-28");
     request.setAttribute(QNetworkRequest::RedirectPolicyAttribute,
