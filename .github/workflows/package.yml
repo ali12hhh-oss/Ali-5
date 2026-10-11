@@ -328,7 +328,9 @@ jobs:
             echo "icon=${icon}" >> "$GITHUB_OUTPUT"
           else
             echo "desktop=flatpak/org.cutwire.Drift.desktop" >> "$GITHUB_OUTPUT"
-            echo "icon=flatpak/share/icons/hicolor/256x256/apps/org.cutwire.Drift.png" >> "$GITHUB_OUTPUT"
+            icon="${RUNNER_TEMP}/com.vcleb.editor.png"
+            cp flatpak/share/icons/hicolor/256x256/apps/org.cutwire.Drift.png "${icon}"
+            echo "icon=${icon}" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Build AppImage
