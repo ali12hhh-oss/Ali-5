@@ -38,8 +38,8 @@
   <provides>
     <mediatype>application/x-drift-project</mediatype>
   </provides>
-  <developer id="org.cutwire">
-    <name>CutWire Studios</name>
+  <developer id="com.vcleb.editor">
+    <name>V Cleb Project</name>
   </developer>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0-or-later</project_license>
