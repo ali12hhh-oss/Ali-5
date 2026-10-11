@@ -16,7 +16,7 @@ on:
         default: all
         type: string
       android_identity:
-        description: "release (org.cutwire.drift), ci (….ci) or nightly (….nightly) package id"
+        description: "release (com.vcleb.editor), ci (….ci) or nightly (….nightly) package id"
         required: false
         default: ci
         type: string
@@ -36,7 +36,7 @@ permissions:
 
 env:
   # Nightly artifacts are named for the channel rather than the version, so that
-  # …/releases/download/nightly/Drift-nightly-x86_64.AppImage is a permanent link and the single
+  # …/releases/download/nightly/V-Cleb-nightly-x86_64.AppImage is a permanent link and the single
   # rewritten pre-release has exactly one file per platform to clobber each night. The exact
   # version is in the release body and in the app's Settings pane.
   ASSET_LABEL: ${{ inputs.channel == 'nightly' && 'nightly' || inputs.version }}
@@ -48,7 +48,7 @@ env:
     -DDRIFT_BUILD_ID=${{ inputs.build_id }}
     ${{ inputs.channel == 'nightly' && '-DDRIFT_UPDATE_FEED_URL=' || '' }}
   QT_VERSION: "6.10.3"
-  # Drift needs Quick, QuickControls2, QuickEffects, Widgets, OpenGL, Network, Concurrent and Test
+  # V Cleb needs Quick, QuickControls2, QuickEffects, Widgets, OpenGL, Network, Concurrent and Test
   # (qtbase + qtdeclarative, both in the base install); qtmultimedia is the only extra it links.
   # qtimageformats is for the import side: without it webp/tiff stills cannot be added to a project.
   # LinguistTools (lupdate) ships in the default qttools archive — it is not an aqtinstall module.
@@ -344,7 +344,7 @@ jobs:
           # The .zsync points at the AppImage by basename, so LDAI_OUTPUT has to be the final
           # asset name rather than renaming afterwards.
           if [ "${{ inputs.channel }}" = "nightly" ]; then
-            export LDAI_UPDATE_INFORMATION="gh-releases-zsync|${GITHUB_REPOSITORY/\//|}|nightly|Drift-nightly-x86_64.AppImage.zsync"
+            export LDAI_UPDATE_INFORMATION="gh-releases-zsync|${GITHUB_REPOSITORY/\//|}|nightly|V-Cleb-nightly-x86_64.AppImage.zsync"
           else
             export LDAI_UPDATE_INFORMATION="gh-releases-zsync|${GITHUB_REPOSITORY/\//|}|latest|Drift-*-x86_64.AppImage.zsync"
           fi
@@ -1020,17 +1020,17 @@ jobs:
         run: |
           case "${{ inputs.android_identity }}" in
             release)
-              echo "package=org.cutwire.drift" >> "$GITHUB_OUTPUT"
+              echo "package=com.vcleb.editor" >> "$GITHUB_OUTPUT"
               echo "app_name=Drift" >> "$GITHUB_OUTPUT"
               echo "version_code=" >> "$GITHUB_OUTPUT"
               ;;
             nightly)
-              echo "package=org.cutwire.drift.nightly" >> "$GITHUB_OUTPUT"
+              echo "package=com.vcleb.editor.nightly" >> "$GITHUB_OUTPUT"
               echo "app_name=Drift Nightly" >> "$GITHUB_OUTPUT"
               echo "version_code=${{ github.run_number }}" >> "$GITHUB_OUTPUT"
               ;;
             *)
-              echo "package=org.cutwire.drift.ci" >> "$GITHUB_OUTPUT"
+              echo "package=com.vcleb.editor.ci" >> "$GITHUB_OUTPUT"
               echo "app_name=Drift CI" >> "$GITHUB_OUTPUT"
               echo "version_code=${{ github.run_number }}" >> "$GITHUB_OUTPUT"
               ;;
