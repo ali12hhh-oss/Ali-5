@@ -355,7 +355,7 @@ void warnIfNoOpenGl()
         title = QCoreApplication::translate("main", "No OpenGL driver");
         body = QCoreApplication::translate(
             "main",
-            "Drift could not create an OpenGL context, so it cannot draw its interface "
+            "V Cleb could not create an OpenGL context, so it cannot draw its interface "
             "or render the preview.\n\nInstall or update your graphics driver.");
     } else if (atLeast33(obtained)) {
         // New enough, so it is the 3.3 *core profile* that could not be had — a
@@ -364,7 +364,7 @@ void warnIfNoOpenGl()
         title = QCoreApplication::translate("main", "OpenGL context unavailable");
         body = QCoreApplication::translate(
                    "main",
-                   "Drift could not create an OpenGL 3.3 core profile context, though "
+                   "V Cleb could not create an OpenGL 3.3 core profile context, though "
                    "this driver reports OpenGL %1.%2 (%3).\n\nThe video preview cannot "
                    "render. Updating your graphics driver may help.")
                    .arg(obtained.majorVersion())
@@ -376,9 +376,9 @@ void warnIfNoOpenGl()
         // cannot render on any platform, and on some Drift cannot start at all.
         body = QCoreApplication::translate(
                    "main",
-                   "Drift needs OpenGL 3.3, but this graphics driver only provides "
-                   "OpenGL %1.%2 (%3).\n\nThe video preview cannot render, and Drift may "
-                   "not start at all. Update your graphics driver, or run Drift on a "
+                   "V Cleb needs OpenGL 3.3, but this graphics driver only provides "
+                   "OpenGL %1.%2 (%3).\n\nThe video preview cannot render, and V Cleb may "
+                   "not start at all. Update your graphics driver, or run V Cleb on a "
                    "machine with a newer GPU.")
                    .arg(obtained.majorVersion())
                    .arg(obtained.minorVersion())
@@ -402,13 +402,13 @@ public:
         , m_state(std::make_shared<State>())
     {
         // Translated here, on the GUI thread, not by the watchdog thread when it fires.
-        m_state->title = QCoreApplication::translate("main", "Drift is not drawing its window");
+        m_state->title = QCoreApplication::translate("main", "V Cleb is not drawing its window");
         m_state->body = QCoreApplication::translate(
                             "main",
-                            "Drift has been running for %1 seconds but its window has not drawn "
+                            "V Cleb has been running for %1 seconds but its window has not drawn "
                             "anything yet.\n\nIf the window is blank or black, your graphics "
                             "driver is most likely outdated or faulty. Update it from your GPU "
-                            "vendor's website (AMD, NVIDIA or Intel) and start Drift again.")
+                            "vendor's website (AMD, NVIDIA or Intel) and start V Cleb again.")
                             .arg(kTimeout.count());
 
         window->installEventFilter(this);
@@ -604,7 +604,7 @@ int main(int argc, char *argv[])
     }
     // Associates the window with the installed .desktop entry so shells (notably
     // Wayland) can find its icon and app metadata.
-    QGuiApplication::setDesktopFileName(QStringLiteral("org.cutwire.Drift"));
+    QGuiApplication::setDesktopFileName(QStringLiteral("com.vcleb.editor"));
     // Title bar / taskbar icon when no desktop entry is available (Windows, and
     // Linux runs from the build tree). The .exe still needs the Windows .rc icon
     // for Explorer and pinned-taskbar identity.
