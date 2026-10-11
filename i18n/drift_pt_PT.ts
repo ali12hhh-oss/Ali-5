@@ -408,7 +408,7 @@
     </message>
     <message>
         <source>Media</source>
-        <translation>Mídia</translation>
+        <translation>Multimédia</translation>
     </message>
     <message>
         <source>Video, photos and audio from this device</source>
@@ -4702,7 +4702,7 @@
     </message>
     <message>
         <source>Media</source>
-        <translation>Mídia</translation>
+        <translation>Multimédia</translation>
     </message>
     <message>
         <source>“%1” is used by 1 clip on the timeline. Removing this media will also remove that clip and any transitions connected to it. The file on disk is not deleted.</source>
@@ -5290,7 +5290,7 @@
     <name>BinBreadcrumb</name>
     <message>
         <source>Media</source>
-        <translation>Mídia</translation>
+        <translation>Multimédia</translation>
     </message>
 </context>
 <context>
