@@ -109,11 +109,11 @@ if(NOT DRIFT_CHANNEL STREQUAL "stable" AND NOT DRIFT_CHANNEL STREQUAL "nightly")
 endif()
 
 set(DRIFT_APP_ID "org.cutwire.Drift")
-set(DRIFT_APP_NAME "Drift")
+set(DRIFT_APP_NAME "V Cleb")
 set(DRIFT_VERSION_STRING "${PROJECT_VERSION}")
 if(DRIFT_CHANNEL STREQUAL "nightly")
     set(DRIFT_APP_ID "org.cutwire.Drift.Nightly")
-    set(DRIFT_APP_NAME "Drift Nightly")
+    set(DRIFT_APP_NAME "V Cleb Nightly")
     # A local nightly configure with no stamp is still legible rather than "0.7.0-nightly.".
     if(DRIFT_BUILD_ID STREQUAL "")
         set(DRIFT_BUILD_ID "dev")
