@@ -344,7 +344,7 @@ void AddonManager::refresh(bool force)
 
     setRefreshing(true);
     QNetworkRequest request{QUrl(kIndexUrl)};
-    request.setRawHeader("X-Drift-Client", kClientToken.toUtf8());
+    request.setRawHeader("X-V Cleb-Client", kClientToken.toUtf8());
     request.setAttribute(QNetworkRequest::RedirectPolicyAttribute,
                          QNetworkRequest::NoLessSafeRedirectPolicy);
 
@@ -707,7 +707,7 @@ QVariantMap AddonManager::inspectUserPackage(const QUrl &url)
     const auto info = readManifest(staged, &error, Container::User);
     if (!info) {
         QFile::remove(staged);
-        return {{QStringLiteral("error"), tr("This is not a Drift effect file (%1).").arg(error)}};
+        return {{QStringLiteral("error"), tr("This is not a V Cleb effect file (%1).").arg(error)}};
     }
     m_userPackagePath = staged;
     return {
