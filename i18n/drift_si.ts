@@ -28,7 +28,7 @@
         <translation>එම ගොනුව කියවිය නොහැක.</translation>
     </message>
     <message>
-        <source>This is not a Drift effect file (%1).</source>
+        <source>This is not a V Cleb effect file (%1).</source>
         <translation>මෙය V Cleb ප්‍රයෝග ගොනුවක් නොවේ (%1).</translation>
     </message>
 </context>
@@ -59,7 +59,7 @@
         <translation>ප්‍රයෝගය ආයාත කරන්න</translation>
     </message>
     <message>
-        <source>Drift effect (*.driftfx)</source>
+        <source>V Cleb effect (*.driftfx)</source>
         <translation>V Cleb ප්‍රයෝගය (*.driftfx)</translation>
     </message>
     <message>
@@ -79,7 +79,7 @@
         <translation>“%1”</translation>
     </message>
     <message>
-        <source>%1 was made by a user, not the Drift team, and nothing has checked it. Only install files you trust.</source>
+        <source>%1 was made by a user, not the V Cleb team, and nothing has checked it. Only install files you trust.</source>
         <translation>%1 නිර්මාණය කර ඇත්තේ V Cleb කණ්ඩායම නොව පරිශීලකයෙකු වන අතර එය පරීක්ෂා කර නැත. ඔබ විශ්වාස කරන ගොනු පමණක් ස්ථාපනය කරන්න.</translation>
     </message>
     <message>
@@ -143,7 +143,7 @@
         <translation>ස්වයංක්‍රීය උපසිරැසි, විෂය වෙන් කිරීම, විනෝදජනක මුහුණු ප්‍රයෝග සහ ඝෝෂා ඉවත් කිරීම ලබාගැනීමට පහතින් AI එන්ජිමක් ස්ථාපනය කරන්න.</translation>
     </message>
     <message>
-        <source>Restart Drift for this to take effect.</source>
+        <source>Restart V Cleb for this to take effect.</source>
         <translation>මෙය බලපැවැත්වීමට V Cleb නැවත අරඹන්න.</translation>
     </message>
     <message>
@@ -179,7 +179,7 @@
         <translation>%1… %2%</translation>
     </message>
     <message>
-        <source>Requires Drift %1 or newer</source>
+        <source>Requires V Cleb %1 or newer</source>
         <translation>V Cleb %1 හෝ නව අනුවාදයක් අවශ්‍යයි</translation>
     </message>
     <message>
@@ -222,7 +222,7 @@
         <translation>නිර්දේශිත පැකේජ</translation>
     </message>
     <message>
-        <source>Install the essential packs for effects, transitions, and audio. You can keep using Drift without them — installing unlocks updates when they improve.</source>
+        <source>Install the essential packs for effects, transitions, and audio. You can keep using V Cleb without them — installing unlocks updates when they improve.</source>
         <translation>ප්‍රයෝග, සංක්‍රාන්ති සහ ශ්‍රව්‍ය සඳහා අත්‍යවශ්‍ය පැකේජ ස්ථාපනය කරන්න. ඒවා නොමැතිව ද ඔබට V Cleb භාවිත කළ හැක — ස්ථාපනය කිරීමෙන් වැඩිදියුණු වන විට යාවත්කාලීන ලබාගත හැක.</translation>
     </message>
     <message>
@@ -381,11 +381,11 @@
         <translation>ආරම්භයේදීම නියෝජිතයා (agent) ආරම්භ කරන්න</translation>
     </message>
     <message>
-        <source>Skip the manual toggle next time you open Drift. Turning access off resets this.</source>
+        <source>Skip the manual toggle next time you open V Cleb. Turning access off resets this.</source>
         <translation>මීළඟ වතාවේ ඔබ V Cleb විවෘත කරන විට අතින් මාරු කිරීම මඟහරින්න. ප්‍රවේශය අක්‍රිය කිරීමෙන් මෙය යළි සැකසේ.</translation>
     </message>
     <message>
-        <source>Let Cursor or Claude edit this project for you — add clips, change the timeline, and check how it looks. Only programs on this device. Off by default each time you open Drift, unless you turn on “Start agent on startup” below; turn it off here when you finish. The key stays the same between sessions, so a setup you pasted once keeps working.</source>
+        <source>Let Cursor or Claude edit this project for you — add clips, change the timeline, and check how it looks. Only programs on this device. Off by default each time you open V Cleb, unless you turn on “Start agent on startup” below; turn it off here when you finish. The key stays the same between sessions, so a setup you pasted once keeps working.</source>
         <translation>Cursor හෝ Claude හට ඔබ වෙනුවෙන් මෙම ව්‍යාපෘතිය සංස්කරණය කිරීමට ඉඩ දෙන්න — ක්ලිප් එක් කිරීම, කාලරේඛාව වෙනස් කිරීම සහ එහි පෙනුම පරීක්ෂා කිරීම සිදු කළ හැක. මෙම උපාංගයේ ඇති වැඩසටහන් සඳහා පමණි. පහතින් “ආරම්භයේදීම නියෝජිතයා ආරම්භ කරන්න” ක්‍රියාත්මක කර නොමැති නම්, ඔබ V Cleb විවෘත කරන සෑම අවස්ථාවකදීම පෙරනිමියෙන් අක්‍රිය වේ; ඔබ අවසන් වූ පසු මෙතැනින් එය අක්‍රිය කරන්න. සැසි අතරතුර යතුර එලෙසම පවතින බැවින්, ඔබ එක් වරක් ඇලවූ සැකසුම දිගටම ක්‍රියාත්මක වේ.</translation>
     </message>
 </context>
@@ -629,7 +629,7 @@
 <context>
     <name>AndroidEditor</name>
     <message>
-        <source>Drift project (*.drift)</source>
+        <source>V Cleb project (*.drift)</source>
         <translation>V Cleb ව්‍යාපෘතිය (*.drift)</translation>
     </message>
     <message>
@@ -832,7 +832,7 @@
 <context>
     <name>AndroidMain</name>
     <message>
-        <source>Drift project (*.drift)</source>
+        <source>V Cleb project (*.drift)</source>
         <translation>V Cleb ව්‍යාපෘතිය (*.drift)</translation>
     </message>
     <message>
@@ -2108,7 +2108,7 @@
         <translation>කැපුම් මෙවලම</translation>
     </message>
     <message>
-        <source>Faster preview takes effect after you restart Drift.</source>
+        <source>Faster preview takes effect after you restart V Cleb.</source>
         <translation>වේගවත් පෙරදසුන V Cleb නැවත ආරම්භ කිරීමෙන් පසුව ක්‍රියාත්මක වේ.</translation>
     </message>
     <message>
@@ -2748,7 +2748,7 @@
         <translation>කුඩා කරන්න</translation>
     </message>
     <message>
-        <source>The graphics card choice takes effect after you restart Drift.</source>
+        <source>The graphics card choice takes effect after you restart V Cleb.</source>
         <translation>ග්‍රැෆික් කාඩ්පත් තේරීම V Cleb නැවත ආරම්භ කළ පසු ක්‍රියාත්මක වේ.</translation>
     </message>
     <message>
@@ -3600,7 +3600,7 @@
         <translation>වීඩියෝව වැඩිදියුණු කරමින්…</translation>
     </message>
     <message>
-        <source>This build of Drift has no video stabilization support</source>
+        <source>This build of V Cleb has no video stabilization support</source>
         <translation>V Cleb හි මෙම සංස්කරණයට වීඩියෝ ස්ථාවර කිරීමේ සහාය නොමැත</translation>
     </message>
     <message>
@@ -4724,7 +4724,7 @@
         </translation>
     </message>
     <message numerus="yes">
-        <source>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</source>
+        <source>Imported %n files into %1 folders. %2 files were skipped — V Cleb does not recognize their format. Drag them onto the bin to try anyway.</source>
         <translation>
             <numerusform>ෆෝල්ඩර %1කට ගොනු %nක් ආනයනය කළා. V Cleb ආකෘතිය හඳුනා නොගත් නිසා ගොනු %2ක් මඟ හැරුණා. උත්සාහ කිරීමට ඒවා මාධ්‍ය බඳුනට ඇද දමන්න.</numerusform>
             <numerusform>ෆෝල්ඩර %1කට ගොනු %nක් ආනයනය කළා. V Cleb ආකෘතිය හඳුනා නොගත් නිසා ගොනු %2ක් මඟ හැරුණා. උත්සාහ කිරීමට ඒවා මාධ්‍ය බඳුනට ඇද දමන්න.</numerusform>
@@ -5934,7 +5934,7 @@
         <translation>මෙම build එකෙහි Marketplace ලබාගත නොහැක.</translation>
     </message>
     <message>
-        <source>Could not load Drift Assets. Check your connection and try again.</source>
+        <source>Could not load V Cleb Assets. Check your connection and try again.</source>
         <translation>V Cleb Assets පූරණය කිරීමට නොහැකි විය. ඔබේ සම්බන්ධතාව පරීක්ෂා කර නැවත උත්සාහ කරන්න.</translation>
     </message>
     <message>
@@ -5985,7 +5985,7 @@
         <translation>Media bin වෙත එක් කරන ලදී</translation>
     </message>
     <message>
-        <source>Couldn’t load Drift Assets</source>
+        <source>Couldn’t load V Cleb Assets</source>
         <translation>V Cleb Assets පූරණය කිරීමට නොහැකි විය</translation>
     </message>
     <message>
@@ -5997,7 +5997,7 @@
         <translation>මෙහි තවමත් assets කිසිවක් නැත</translation>
     </message>
     <message>
-        <source>Drift Assets are still being published. Check back soon.</source>
+        <source>V Cleb Assets are still being published. Check back soon.</source>
         <translation>V Cleb Assets තවමත් ප්‍රකාශයට පත් කරමින් පවතී. ළඟදීම නැවත පරීක්ෂා කරන්න.</translation>
     </message>
     <message>
@@ -6013,7 +6013,7 @@
         <translation>සියලු වත්කම්</translation>
     </message>
     <message>
-        <source>No Drift Assets match “%1”.</source>
+        <source>No V Cleb Assets match “%1”.</source>
         <translation>“%1” සඳහා ගැළපෙන V Cleb Assets හමු නොවීය.</translation>
     </message>
     <message>
@@ -6024,7 +6024,7 @@
 <context>
     <name>EditorHeader</name>
     <message>
-        <source>Drift project (*.drift)</source>
+        <source>V Cleb project (*.drift)</source>
         <translation>V Cleb ව්‍යාපෘතිය (*.drift)</translation>
     </message>
     <message>
@@ -6159,7 +6159,7 @@
         <translation>යාවත්කාලීන කරන්න</translation>
     </message>
     <message>
-        <source>Drift %1 is available</source>
+        <source>V Cleb %1 is available</source>
         <translation>V Cleb %1 ලබාගත හැක</translation>
     </message>
     <message>
@@ -6320,7 +6320,7 @@
 <context>
     <name>EffectStacksSection</name>
     <message>
-        <source>Drift effect stack (*.drifteffects)</source>
+        <source>V Cleb effect stack (*.drifteffects)</source>
         <translation>V Cleb ප්‍රයෝග ස්ටැක් (*.drifteffects)</translation>
     </message>
     <message>
@@ -6929,7 +6929,7 @@
         <translation>prop.json මුහුණු ප්‍රොප් එකක් නොවේ</translation>
     </message>
     <message>
-        <source>prop.json needs a newer version of Drift</source>
+        <source>prop.json needs a newer version of V Cleb</source>
         <translation>prop.json සඳහා V Cleb හි නව අනුවාදයක් අවශ්‍ය වේ</translation>
     </message>
     <message>
@@ -7052,7 +7052,7 @@
         <translation>ෆෝල්ඩරය ආයාත කරන්න…</translation>
     </message>
     <message>
-        <source>No face props installed. Import a .zip from Drift-Assets, or any folder of props that carry a prop.json.</source>
+        <source>No face props installed. Import a .zip from V Cleb-Assets, or any folder of props that carry a prop.json.</source>
         <translation>කිසිදු මුහුණු ප්‍රොප් එකක් ස්ථාපනය කර නැත. V Cleb-Assets වෙතින් .zip එකක්, හෝ prop.json අඩංගු ඕනෑම ප්‍රොප් ෆෝල්ඩරයක් ආයාත කරන්න.</translation>
     </message>
     <message>
@@ -8298,7 +8298,7 @@
         <translation>බාගැනීමක් සාර්ථක වන බවට, අවසන් වන බවට හෝ ඔබ තෝරාගත් ගුණත්වය ලබාදෙන බවට අපට සහතික විය නොහැක. සමහර අයිතම හුදෙක්ම අසාර්ථක විය හැක.</translation>
     </message>
     <message>
-        <source>Everything here comes from third parties. Drift does not host, own or vet it — you are responsible for making sure you have the right to use whatever you download.</source>
+        <source>Everything here comes from third parties. V Cleb does not host, own or vet it — you are responsible for making sure you have the right to use whatever you download.</source>
         <translation>මෙහි ඇති සියල්ල තෙවන පාර්ශවයන්ගෙන් ලැබේ. V Cleb ඒවා සත්කාරකත්වය නොදරයි, හිමිකාරිත්වයක් නොදරයි හෝ තහවුරු නොකරයි — ඔබ බාගන්නා ඕනෑම දෙයක් භාවිත කිරීමට ඔබට අයිතියක් ඇති බව තහවුරු කරගැනීමට ඔබ වගකිව යුතුය.</translation>
     </message>
     <message>
@@ -9546,11 +9546,11 @@
 <context>
     <name>PlaybackEngine</name>
     <message>
-        <source>%1 decodes on %2, but Drift draws on %3. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
+        <source>%1 decodes on %2, but V Cleb draws on %3. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
         <translation>%1 විකේතනය වන්නේ %2 මතය, නමුත් V Cleb අඳින්නේ %3 මතය. සෑම රාමුවක්ම පද්ධති මතකය හරහා පිටපත් කෙරේ, එය අඳින ග්‍රැෆික් කාඩ්පත මතම විකේතනය කිරීමට වඩා මන්දගාමී වේ.</translation>
     </message>
     <message>
-        <source>%1 decodes on a different graphics card than the one Drift draws on. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
+        <source>%1 decodes on a different graphics card than the one V Cleb draws on. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
         <translation>V Cleb අඳින ග්‍රැෆික් කාඩ්පතට වඩා වෙනස් ග්‍රැෆික් කාඩ්පතක් මත %1 විකේතනය වේ. සෑම රාමුවක්ම පද්ධති මතකය හරහා පිටපත් කෙරේ, එය අඳින ග්‍රැෆික් කාඩ්පත මතම විකේතනය කිරීමට වඩා මන්දගාමී වේ.</translation>
     </message>
     <message>
@@ -9656,11 +9656,11 @@
         <translation>GPU පෙරදසුන ලබාගත නොහැක</translation>
     </message>
     <message>
-        <source>Your graphics driver only provides %1. Drift&apos;s preview needs OpenGL 3.3.</source>
+        <source>Your graphics driver only provides %1. V Cleb&apos;s preview needs OpenGL 3.3.</source>
         <translation>ඔබගේ ග්‍රැෆික් ධාවකය සපයන්නේ %1 පමණි. V Cleb හි පෙරදසුන සඳහා OpenGL 3.3 අවශ්‍ය වේ.</translation>
     </message>
     <message>
-        <source>Drift could not start its GPU renderer, so the preview cannot draw.</source>
+        <source>V Cleb could not start its GPU renderer, so the preview cannot draw.</source>
         <translation>V Cleb හට එහි GPU රෙන්ඩරකය ආරම්භ කිරීමට නොහැකි විය, එබැවින් පෙරදසුන ඇඳීමට නොහැක.</translation>
     </message>
     <message>
@@ -9799,15 +9799,15 @@ If playback stutters, try another.</source>
         <translation>අවලංගු කරන්න</translation>
     </message>
     <message>
-        <source>Launching Drift with prime-run (or DRI_PRIME=1) puts OpenGL on the same card as the decoder.</source>
+        <source>Launching V Cleb with prime-run (or DRI_PRIME=1) puts OpenGL on the same card as the decoder.</source>
         <translation>prime-run (හෝ DRI_PRIME=1) සමඟ V Cleb දියත් කිරීමෙන් OpenGL විකේතකය ඇති කාඩ්පත මතම තබයි.</translation>
     </message>
     <message>
-        <source>Run Drift on the high-performance graphics card</source>
+        <source>Run V Cleb on the high-performance graphics card</source>
         <translation>V Cleb ඉහළ කාර්යසාධනයක් සහිත ග්‍රැෆික් කාඩ්පත මත ධාවනය කරන්න</translation>
     </message>
     <message>
-        <source>Set Drift to High performance in Windows Settings &gt; Display &gt; Graphics, then restart Drift.</source>
+        <source>Set V Cleb to High performance in Windows Settings &gt; Display &gt; Graphics, then restart V Cleb.</source>
         <translation>Windows Settings &gt; Display &gt; Graphics හි V Cleb සඳහා ඉහළ කාර්යසාධනය තෝරා V Cleb නැවත අරඹන්න.</translation>
     </message>
     <message>
@@ -9818,11 +9818,11 @@ If playback stutters, try another.</source>
 <context>
     <name>Project</name>
     <message>
-        <source>This project was saved by a newer version of Drift (project format %1; this build reads up to %2).</source>
+        <source>This project was saved by a newer version of V Cleb (project format %1; this build reads up to %2).</source>
         <translation>මෙම ව්‍යාපෘතිය V Cleb හි නව අනුවාදයකින් සුරකින ලද්දකි (ව්‍යාපෘති ආකෘතිය %1; මෙම සංස්කරණය කියවන්නේ %2 දක්වා පමණි).</translation>
     </message>
     <message>
-        <source>This file isn’t a Drift project.</source>
+        <source>This file isn’t a V Cleb project.</source>
         <translation>මෙම ගොනුව V Cleb ව්‍යාපෘතියක් නොවේ.</translation>
     </message>
 </context>
@@ -9837,11 +9837,11 @@ If playback stutters, try another.</source>
         <translation>%1 විවෘත කළ නොහැක</translation>
     </message>
     <message>
-        <source>file is too short to be a Drift project</source>
+        <source>file is too short to be a V Cleb project</source>
         <translation>ගොනුව V Cleb ව්‍යාපෘතියක් වීමට තරම් කෙටි වැඩිය</translation>
     </message>
     <message>
-        <source>not a Drift project (bad magic)</source>
+        <source>not a V Cleb project (bad magic)</source>
         <translation>V Cleb ව්‍යාපෘතියක් නොවේ (bad magic)</translation>
     </message>
     <message>
@@ -9869,7 +9869,7 @@ If playback stutters, try another.</source>
         <translation>ව්‍යාපෘති manifest හි ආකෘති අනුවාදයක් නැත</translation>
     </message>
     <message>
-        <source>this project was saved by a newer version of Drift (format %1) — update to open it</source>
+        <source>this project was saved by a newer version of V Cleb (format %1) — update to open it</source>
         <translation>මෙම ව්‍යාපෘතිය V Cleb හි නව අනුවාදයකින් සුරකින ලද්දකි (ආකෘතිය %1) — එය විවෘත කිරීමට යාවත්කාලීන කරන්න</translation>
     </message>
     <message>
@@ -10765,7 +10765,7 @@ If playback stutters, try another.</source>
         <translation>ක්‍රියාත්මක වෙමින්…</translation>
     </message>
     <message>
-        <source>Drift will render a reversed copy of this clip so it plays back smoothly. You can keep editing while it runs.</source>
+        <source>V Cleb will render a reversed copy of this clip so it plays back smoothly. You can keep editing while it runs.</source>
         <translation>සුමටව ධාවනය වන පරිදි V Cleb විසින් මෙම ක්ලිපයේ ප්‍රතිලෝම පිටපතක් රෙන්ඩර් කරනු ඇත. එය ක්‍රියාත්මක වන අතරතුර ඔබට දිගටම සංස්කරණය කළ හැක.</translation>
     </message>
     <message>
@@ -11104,11 +11104,11 @@ If playback stutters, try another.</source>
         <translation>ඉහළ කාර්යසාධනය (විශේෂිත GPU)</translation>
     </message>
     <message>
-        <source>Which graphics card Drift runs on. High performance keeps video decoded on an NVIDIA card on that card; power saving uses less battery. Takes effect after restart.</source>
+        <source>Which graphics card V Cleb runs on. High performance keeps video decoded on an NVIDIA card on that card; power saving uses less battery. Takes effect after restart.</source>
         <translation>V Cleb ධාවනය වන ග්‍රැෆික් කාඩ්පත. ඉහළ කාර්යසාධනය මඟින් NVIDIA කාඩ්පතක් මත විකේතනය කළ වීඩියෝ එම කාඩ්පතේම තබා ගනී; බලශක්ති ඉතිරිකිරීම මඟින් බැටරි භාවිතය අඩු කරයි. නැවත ආරම්භ කිරීමෙන් පසු බලපැවැත්වේ.</translation>
     </message>
     <message>
-        <source>Choose which graphics card Drift runs on in Windows Settings, under Display &gt; Graphics. Takes effect after restart.</source>
+        <source>Choose which graphics card V Cleb runs on in Windows Settings, under Display &gt; Graphics. Takes effect after restart.</source>
         <translation>Windows Settings &gt; Display &gt; Graphics යටතේ V Cleb භාවිත කරන ග්‍රැෆික් කාඩ්පත තෝරන්න. නැවත අරඹන විට ක්‍රියාත්මක වේ.</translation>
     </message>
     <message>
@@ -11152,7 +11152,7 @@ If playback stutters, try another.</source>
         <translation>බොත්තම්, පෙළ සහ අයිකන විශාල කරයි. ඔබේ දර්ශන සැකසුම්වල දැනටමත් ඇති ප්‍රමාණයට අමතර පරිමාණයකි. නැවත ආරම්භයෙන් පසු බලපැවැත්වේ.</translation>
     </message>
     <message>
-        <source>Restart Drift to apply this size.</source>
+        <source>Restart V Cleb to apply this size.</source>
         <translation>මෙම ප්‍රමාණය යෙදීමට V Cleb නැවත ආරම්භ කරන්න.</translation>
     </message>
     <message>
@@ -11200,7 +11200,7 @@ If playback stutters, try another.</source>
         <translation>ආරම්භයේදී පරීක්ෂා කරන්න</translation>
     </message>
     <message>
-        <source>Ask GitHub once a day whether a newer Drift has been released</source>
+        <source>Ask GitHub once a day whether a newer V Cleb has been released</source>
         <translation>දිනකට වරක් GitHub වෙතින් නව V Cleb අනුවාදයක් නිකුත් කර ඇත්දැයි විමසන්න</translation>
     </message>
     <message>
@@ -11212,7 +11212,7 @@ If playback stutters, try another.</source>
         <translation>දැන් පරීක්ෂා කරන්න</translation>
     </message>
     <message>
-        <source>Drift %1</source>
+        <source>V Cleb %1</source>
         <translation>V Cleb %1</translation>
     </message>
     <message>
@@ -11244,7 +11244,7 @@ If playback stutters, try another.</source>
         <translation>Cloud සේවා සපයන්නන්</translation>
     </message>
     <message>
-        <source>Keys are stored unencrypted in Drift&apos;s settings. ELEVENLABS_API_KEY and FISH_API_KEY in the environment take precedence. Use is billed to your own account.</source>
+        <source>Keys are stored unencrypted in V Cleb&apos;s settings. ELEVENLABS_API_KEY and FISH_API_KEY in the environment take precedence. Use is billed to your own account.</source>
         <translation>යතුරු V Cleb හි සැකසීම් තුළ සංකේතනය නොකර ගබඩා කෙරේ. පද්ධති පරිසරයේ ඇති ELEVENLABS_API_KEY සහ FISH_API_KEY ප්‍රමුඛත්වය ගනී. භාවිතය ඔබගේම ගිණුමට අය කෙරේ.</translation>
     </message>
     <message>
@@ -11288,7 +11288,7 @@ If playback stutters, try another.</source>
         <translation>%1 වෙත ශ්‍රව්‍ය සහ පෙළ යැවීමට ඉඩ දෙන්න</translation>
     </message>
     <message>
-        <source>Needed before Drift or a connected agent can transcribe or generate audio with this service</source>
+        <source>Needed before V Cleb or a connected agent can transcribe or generate audio with this service</source>
         <translation>මෙම සේවාව සමඟ V Cleb හෝ සම්බන්ධිත agent හට පෙළපෙරළි කිරීමට හෝ ශ්‍රව්‍ය ජනනය කිරීමට පෙර අවශ්‍ය වේ</translation>
     </message>
     <message>
@@ -12046,7 +12046,7 @@ If playback stutters, try another.</source>
         <translation>පිහිටුම් කීෆ්‍රේම ලිවීමෙන් කැමරා සෙලවීම් සුමට කරයි. රේඛීය පෑන් (Linear pans) ඈතින් ඇති යතුරු දෙකක් ලෙස පවතී; දිශාව වෙනස් වන විට පමණක් අමතර යතුරු ලැබේ. සුමටතාව හෝ ට්‍රයිපොඩ් වෙනස් කිරීම ඔබ යොදන තෙක් පෙරදසුන යාවත්කාලීන නොකරයි.</translation>
     </message>
     <message>
-        <source>Smooths camera shake. Drift scans the clip once, then renders a new video. Changing smoothness or tripod does not update the preview until you apply.</source>
+        <source>Smooths camera shake. V Cleb scans the clip once, then renders a new video. Changing smoothness or tripod does not update the preview until you apply.</source>
         <translation>කැමරා සෙලවීම් සුමට කරයි. V Cleb ක්ලිප් එක එක් වරක් ස්කෑන් කර, නව වීඩියෝවක් රෙන්ඩර් කරයි. සුමටතාව හෝ ට්‍රයිපොඩ් වෙනස් කිරීම ඔබ යොදන තෙක් පෙරදසුන යාවත්කාලීන නොකරයි.</translation>
     </message>
     <message>
@@ -12577,7 +12577,7 @@ If playback stutters, try another.</source>
 <context>
     <name>TextAssetsTab</name>
     <message>
-        <source>Drift text style (*.drifttextstyle)</source>
+        <source>V Cleb text style (*.drifttextstyle)</source>
         <translation>V Cleb පෙළ විලාසය (*.drifttextstyle)</translation>
     </message>
     <message>
@@ -14694,11 +14694,11 @@ If playback stutters, try another.</source>
         <translation>යාවත්කාලීන පරීක්ෂා කිරීමට නොහැකි විය: බලාපොරොත්තු නොවූ ප්‍රතිචාරයකි.</translation>
     </message>
     <message>
-        <source>Drift %1 is the latest version.</source>
+        <source>V Cleb %1 is the latest version.</source>
         <translation>V Cleb %1 යනු නවතම අනුවාදයයි.</translation>
     </message>
     <message>
-        <source>Drift %1 is available.</source>
+        <source>V Cleb %1 is available.</source>
         <translation>V Cleb %1 ලබාගත හැක.</translation>
     </message>
 </context>
@@ -14709,7 +14709,7 @@ If playback stutters, try another.</source>
         <translation>යාවත්කාලීනයක් පවතී</translation>
     </message>
     <message>
-        <source>Drift %1 is available</source>
+        <source>V Cleb %1 is available</source>
         <translation>V Cleb %1 ලබාගත හැක</translation>
     </message>
     <message>
@@ -15172,7 +15172,7 @@ If playback stutters, try another.</source>
         <translation>OpenGL ධාවකයක් නොමැත</translation>
     </message>
     <message>
-        <source>Drift could not create an OpenGL context, so it cannot draw its interface or render the preview.
+        <source>V Cleb could not create an OpenGL context, so it cannot draw its interface or render the preview.
 
 Install or update your graphics driver.</source>
         <translation>V Cleb හට OpenGL සන්දර්භයක් සෑදීමට නොහැකි විය, එබැවින් එහි අතුරුමුහුණත ඇඳීමට හෝ පෙරදසුන රෙන්ඩර් කිරීමට නොහැක.
@@ -15184,7 +15184,7 @@ Install or update your graphics driver.</source>
         <translation>OpenGL සන්දර්භය ලබාගත නොහැක</translation>
     </message>
     <message>
-        <source>Drift could not create an OpenGL 3.3 core profile context, though this driver reports OpenGL %1.%2 (%3).
+        <source>V Cleb could not create an OpenGL 3.3 core profile context, though this driver reports OpenGL %1.%2 (%3).
 
 The video preview cannot render. Updating your graphics driver may help.</source>
         <translation>මෙම ධාවකය OpenGL %1.%2 (%3) වාර්තා කළද, V Cleb හට OpenGL 3.3 core profile සන්දර්භයක් සෑදීමට නොහැකි විය.
@@ -15196,21 +15196,21 @@ The video preview cannot render. Updating your graphics driver may help.</source
         <translation>ග්‍රැෆික් ධාවකය පැරණි වැඩිය</translation>
     </message>
     <message>
-        <source>Drift needs OpenGL 3.3, but this graphics driver only provides OpenGL %1.%2 (%3).
+        <source>V Cleb needs OpenGL 3.3, but this graphics driver only provides OpenGL %1.%2 (%3).
 
-The video preview cannot render, and Drift may not start at all. Update your graphics driver, or run Drift on a machine with a newer GPU.</source>
+The video preview cannot render, and V Cleb may not start at all. Update your graphics driver, or run V Cleb on a machine with a newer GPU.</source>
         <translation>V Cleb සඳහා OpenGL 3.3 අවශ්‍ය වේ, නමුත් මෙම ග්‍රැෆික් ධාවකය සපයන්නේ OpenGL %1.%2 (%3) පමණි.
 
 වීඩියෝ පෙරදසුන රෙන්ඩර් කළ නොහැකි අතර, V Cleb කිසිසේත්ම ආරම්භ නොවීමට ඉඩ ඇත. ඔබේ ග්‍රැෆික් ධාවකය යාවත්කාලීන කරන්න, නැතහොත් නව GPU එකක් සහිත පරිගණකයක V Cleb ධාවනය කරන්න.</translation>
     </message>
     <message>
-        <source>Drift is not drawing its window</source>
+        <source>V Cleb is not drawing its window</source>
         <translation>V Cleb එහි කවුළුව අඳින්නේ නැත</translation>
     </message>
     <message>
-        <source>Drift has been running for %1 seconds but its window has not drawn anything yet.
+        <source>V Cleb has been running for %1 seconds but its window has not drawn anything yet.
 
-If the window is blank or black, your graphics driver is most likely outdated or faulty. Update it from your GPU vendor&apos;s website (AMD, NVIDIA or Intel) and start Drift again.</source>
+If the window is blank or black, your graphics driver is most likely outdated or faulty. Update it from your GPU vendor&apos;s website (AMD, NVIDIA or Intel) and start V Cleb again.</source>
         <translation>V Cleb තත්පර %1ක් තිස්සේ ධාවනය වෙමින් පවතින නමුත් එහි කවුළුව තවමත් කිසිවක් ඇඳ නැත.
 
 කවුළුව හිස්ව හෝ කළු පැහැයෙන් දිස්වන්නේ නම්, බොහෝ දුරට ඔබේ ග්‍රැෆික් ධාවකය යල් පැන ගිය එකක් හෝ දෝෂ සහිත එකක් විය හැක. ඔබේ GPU නිෂ්පාදකයාගේ වෙබ් අඩවියෙන් (AMD, NVIDIA හෝ Intel) එය යාවත්කාලීන කර නැවත V Cleb ආරම්භ කරන්න.</translation>
