@@ -1021,17 +1021,17 @@ jobs:
           case "${{ inputs.android_identity }}" in
             release)
               echo "package=com.vcleb.editor" >> "$GITHUB_OUTPUT"
-              echo "app_name=Drift" >> "$GITHUB_OUTPUT"
+              echo "app_name=V Cleb" >> "$GITHUB_OUTPUT"
               echo "version_code=" >> "$GITHUB_OUTPUT"
               ;;
             nightly)
               echo "package=com.vcleb.editor.nightly" >> "$GITHUB_OUTPUT"
-              echo "app_name=Drift Nightly" >> "$GITHUB_OUTPUT"
+              echo "app_name=V Cleb Nightly" >> "$GITHUB_OUTPUT"
               echo "version_code=${{ github.run_number }}" >> "$GITHUB_OUTPUT"
               ;;
             *)
               echo "package=com.vcleb.editor.ci" >> "$GITHUB_OUTPUT"
-              echo "app_name=Drift CI" >> "$GITHUB_OUTPUT"
+              echo "app_name=V Cleb CI" >> "$GITHUB_OUTPUT"
               echo "version_code=${{ github.run_number }}" >> "$GITHUB_OUTPUT"
               ;;
           esac
@@ -1081,7 +1081,7 @@ jobs:
           [ -n "$APK" ] || { echo "no release APK under $BUILD/android-build" >&2; exit 1; }
 
           mkdir -p dist
-          OUT="dist/Drift-${VERSION}-${ABI}.apk"
+          OUT="dist/V-Cleb-${VERSION}-${ABI}.apk"
 
           BT="$(ls -d "$ANDROID_SDK_ROOT"/build-tools/* | sort -V | tail -1)"
           KS="$RUNNER_TEMP/release.jks"
@@ -1112,5 +1112,5 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: android-apk-${{ matrix.abi }}
-          path: dist/Drift-${{ env.ASSET_LABEL }}-${{ matrix.abi }}.apk
+          path: dist/V-Cleb-${{ env.ASSET_LABEL }}-${{ matrix.abi }}.apk
           if-no-files-found: error
