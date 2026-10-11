@@ -28,7 +28,7 @@
         <translation>そのファイルを読み取れませんでした。</translation>
     </message>
     <message>
-        <source>This is not a Drift effect file (%1).</source>
+        <source>This is not a V Cleb effect file (%1).</source>
         <translation>これは V Cleb エフェクトファイルではありません (%1)。</translation>
     </message>
 </context>
@@ -59,7 +59,7 @@
         <translation>エフェクトをインポート</translation>
     </message>
     <message>
-        <source>Drift effect (*.driftfx)</source>
+        <source>V Cleb effect (*.driftfx)</source>
         <translation>V Cleb エフェクト (*.driftfx)</translation>
     </message>
     <message>
@@ -79,7 +79,7 @@
         <translation>「%1」</translation>
     </message>
     <message>
-        <source>%1 was made by a user, not the Drift team, and nothing has checked it. Only install files you trust.</source>
+        <source>%1 was made by a user, not the V Cleb team, and nothing has checked it. Only install files you trust.</source>
         <translation>%1 は V Cleb チームではなく、ユーザーによって作成されたものです。内容は確認されていません。信頼できるファイルのみインストールしてください。</translation>
     </message>
     <message>
@@ -143,7 +143,7 @@
         <translation>以下の AI エンジンをインストールして、自動字幕、被写体切り抜き、おもしろ顔エフェクト、ノイズ除去を有効にしましょう。</translation>
     </message>
     <message>
-        <source>Restart Drift for this to take effect.</source>
+        <source>Restart V Cleb for this to take effect.</source>
         <translation>この変更を有効にするには、V Cleb を再起動してください。</translation>
     </message>
     <message>
@@ -179,7 +179,7 @@
         <translation>%1… %2%</translation>
     </message>
     <message>
-        <source>Requires Drift %1 or newer</source>
+        <source>Requires V Cleb %1 or newer</source>
         <translation>V Cleb %1 以降が必要です</translation>
     </message>
     <message>
@@ -222,7 +222,7 @@
         <translation>推奨パック</translation>
     </message>
     <message>
-        <source>Install the essential packs for effects, transitions, and audio. You can keep using Drift without them — installing unlocks updates when they improve.</source>
+        <source>Install the essential packs for effects, transitions, and audio. You can keep using V Cleb without them — installing unlocks updates when they improve.</source>
         <translation>エフェクト、トランジション、オーディオに必須のパックをインストールします。これらがなくても V Cleb は使用できますが、インストールすると改善時のアップデートが利用可能になります。</translation>
     </message>
     <message>
@@ -381,11 +381,11 @@
         <translation>起動時にエージェントを開始する</translation>
     </message>
     <message>
-        <source>Skip the manual toggle next time you open Drift. Turning access off resets this.</source>
+        <source>Skip the manual toggle next time you open V Cleb. Turning access off resets this.</source>
         <translation>次回 V Cleb を開くときは、手動切り替えをスキップします。アクセスをオフにすると、これがリセットされます。</translation>
     </message>
     <message>
-        <source>Let Cursor or Claude edit this project for you — add clips, change the timeline, and check how it looks. Only programs on this device. Off by default each time you open Drift, unless you turn on “Start agent on startup” below; turn it off here when you finish. The key stays the same between sessions, so a setup you pasted once keeps working.</source>
+        <source>Let Cursor or Claude edit this project for you — add clips, change the timeline, and check how it looks. Only programs on this device. Off by default each time you open V Cleb, unless you turn on “Start agent on startup” below; turn it off here when you finish. The key stays the same between sessions, so a setup you pasted once keeps working.</source>
         <translation>CursorやClaudeにこのプロジェクトの編集 (クリップの追加、タイムラインの変更、プレビュー確認など) を任せることができます。対象となるのは、このデバイス上のプログラムのみです。V Cleb を起動するたびにデフォルトでオフになりますが、以下の「起動時にエージェントを開始」を有効にしている場合は例外です。作業終了時には、ここでオフにしてください。キーはセッション間でも保持されるため、一度貼り付けた設定は引き続き機能します。</translation>
     </message>
 </context>
@@ -629,7 +629,7 @@
 <context>
     <name>AndroidEditor</name>
     <message>
-        <source>Drift project (*.drift)</source>
+        <source>V Cleb project (*.drift)</source>
         <translation>V Cleb プロジェクト (*.drift)</translation>
     </message>
     <message>
@@ -832,7 +832,7 @@
 <context>
     <name>AndroidMain</name>
     <message>
-        <source>Drift project (*.drift)</source>
+        <source>V Cleb project (*.drift)</source>
         <translation>V Cleb プロジェクト (*.drift)</translation>
     </message>
     <message>
@@ -2105,7 +2105,7 @@
         <translation>切り取りツール</translation>
     </message>
     <message>
-        <source>Faster preview takes effect after you restart Drift.</source>
+        <source>Faster preview takes effect after you restart V Cleb.</source>
         <translation>高速プレビューは V Cleb 再起動後に有効になります。</translation>
     </message>
     <message>
@@ -2741,7 +2741,7 @@
         <translation>ズームアウト</translation>
     </message>
     <message>
-        <source>The graphics card choice takes effect after you restart Drift.</source>
+        <source>The graphics card choice takes effect after you restart V Cleb.</source>
         <translation>グラフィックカードの選択は、V Clebを再起動した後に反映されます。</translation>
     </message>
     <message>
@@ -3593,7 +3593,7 @@
         <translation>ビデオを強化中…</translation>
     </message>
     <message>
-        <source>This build of Drift has no video stabilization support</source>
+        <source>This build of V Cleb has no video stabilization support</source>
         <translation>このビルドの V Cleb はビデオの手ぶれ補正に対応していません</translation>
     </message>
     <message>
@@ -4709,7 +4709,7 @@
         </translation>
     </message>
     <message numerus="yes">
-        <source>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</source>
+        <source>Imported %n files into %1 folders. %2 files were skipped — V Cleb does not recognize their format. Drag them onto the bin to try anyway.</source>
         <translation>
             <numerusform>%1個のフォルダーにファイル%n個を読み込みました。V Clebが形式を認識できないため、%2個のファイルをスキップしました。試すにはメディア一覧にドラッグしてください。</numerusform>
         </translation>
@@ -5910,7 +5910,7 @@
         <translation>このビルドではマーケットプレイスを利用できません。</translation>
     </message>
     <message>
-        <source>Could not load Drift Assets. Check your connection and try again.</source>
+        <source>Could not load V Cleb Assets. Check your connection and try again.</source>
         <translation>V Cleb Assets を読み込めませんでした。接続を確認して再試行してください。</translation>
     </message>
     <message>
@@ -5961,7 +5961,7 @@
         <translation>メディアビンに追加しました</translation>
     </message>
     <message>
-        <source>Couldn’t load Drift Assets</source>
+        <source>Couldn’t load V Cleb Assets</source>
         <translation>V Cleb Assets を読み込めませんでした</translation>
     </message>
     <message>
@@ -5973,7 +5973,7 @@
         <translation>ここにはまだアセットがありません</translation>
     </message>
     <message>
-        <source>Drift Assets are still being published. Check back soon.</source>
+        <source>V Cleb Assets are still being published. Check back soon.</source>
         <translation>V Cleb Assets は順次公開されています。しばらくしてからもう一度ご確認ください。</translation>
     </message>
     <message>
@@ -5989,7 +5989,7 @@
         <translation>すべてのアセット</translation>
     </message>
     <message>
-        <source>No Drift Assets match “%1”.</source>
+        <source>No V Cleb Assets match “%1”.</source>
         <translation>“%1” に一致する V Cleb Assets はありません。</translation>
     </message>
     <message>
@@ -6000,7 +6000,7 @@
 <context>
     <name>EditorHeader</name>
     <message>
-        <source>Drift project (*.drift)</source>
+        <source>V Cleb project (*.drift)</source>
         <translation>V Cleb プロジェクト (*.drift)</translation>
     </message>
     <message>
@@ -6134,7 +6134,7 @@
         <translation>アップデート</translation>
     </message>
     <message>
-        <source>Drift %1 is available</source>
+        <source>V Cleb %1 is available</source>
         <translation>V Cleb %1 が利用可能です</translation>
     </message>
     <message>
@@ -6295,7 +6295,7 @@
 <context>
     <name>EffectStacksSection</name>
     <message>
-        <source>Drift effect stack (*.drifteffects)</source>
+        <source>V Cleb effect stack (*.drifteffects)</source>
         <translation>V Cleb エフェクトスタック (*.drifteffects)</translation>
     </message>
     <message>
@@ -6904,7 +6904,7 @@
         <translation>prop.json はフェイスプロップではありません</translation>
     </message>
     <message>
-        <source>prop.json needs a newer version of Drift</source>
+        <source>prop.json needs a newer version of V Cleb</source>
         <translation>prop.json にはより新しいバージョンの V Cleb が必要です</translation>
     </message>
     <message>
@@ -7027,7 +7027,7 @@
         <translation>フォルダーをインポート…</translation>
     </message>
     <message>
-        <source>No face props installed. Import a .zip from Drift-Assets, or any folder of props that carry a prop.json.</source>
+        <source>No face props installed. Import a .zip from V Cleb-Assets, or any folder of props that carry a prop.json.</source>
         <translation>フェイスプロップがインストールされていません。V Cleb-Assets から .zip をインポートするか、prop.json を含むプロップのフォルダーをインポートしてください。</translation>
     </message>
     <message>
@@ -8272,7 +8272,7 @@
         <translation>ダウンロードの成功、完了、または指定した画質・音質での取得を保証するものではありません。一部のアイテムは正常に取得できない場合があります。</translation>
     </message>
     <message>
-        <source>Everything here comes from third parties. Drift does not host, own or vet it — you are responsible for making sure you have the right to use whatever you download.</source>
+        <source>Everything here comes from third parties. V Cleb does not host, own or vet it — you are responsible for making sure you have the right to use whatever you download.</source>
         <translation>提供されるコンテンツはすべてサードパーティによるものです。V Cleb がこれをホスト、所有、審査することはありません。ダウンロードした素材の使用権限の確認は利用者の責任で行ってください。</translation>
     </message>
     <message>
@@ -9507,11 +9507,11 @@
 <context>
     <name>PlaybackEngine</name>
     <message>
-        <source>%1 decodes on %2, but Drift draws on %3. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
+        <source>%1 decodes on %2, but V Cleb draws on %3. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
         <translation>%1 は %2 でデコードされますが、V Cleb は %3 で描画されます。すべてのフレームがシステムメモリを経由してコピーされるため、描画を行うグラフィックカード上でデコードするよりも処理速度が遅くなります。</translation>
     </message>
     <message>
-        <source>%1 decodes on a different graphics card than the one Drift draws on. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
+        <source>%1 decodes on a different graphics card than the one V Cleb draws on. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
         <translation>%1 は、V Cleb が描画を行うグラフィックカードとは別のグラフィックカード上でデコードを行います。各フレームはシステムメモリを経由してコピーされるため、描画を行うグラフィックカード上でデコードを行う場合よりも処理速度が遅くなります。</translation>
     </message>
     <message>
@@ -9617,11 +9617,11 @@
         <translation>GPUプレビューは利用できません</translation>
     </message>
     <message>
-        <source>Your graphics driver only provides %1. Drift&apos;s preview needs OpenGL 3.3.</source>
+        <source>Your graphics driver only provides %1. V Cleb&apos;s preview needs OpenGL 3.3.</source>
         <translation>お使いのグラフィックスドライバーは %1 にしか対応していません。プレビューには OpenGL 3.3 が必要です。</translation>
     </message>
     <message>
-        <source>Drift could not start its GPU renderer, so the preview cannot draw.</source>
+        <source>V Cleb could not start its GPU renderer, so the preview cannot draw.</source>
         <translation>V Cleb は GPU レンダラーを起動できなかったため、プレビューを描画できません。</translation>
     </message>
     <message>
@@ -9760,15 +9760,15 @@ If playback stutters, try another.</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <source>Launching Drift with prime-run (or DRI_PRIME=1) puts OpenGL on the same card as the decoder.</source>
+        <source>Launching V Cleb with prime-run (or DRI_PRIME=1) puts OpenGL on the same card as the decoder.</source>
         <translation>prime-run (または DRI_PRIME=1) を指定して V Cleb を起動すると、OpenGL がデコーダーと同じグラフィックカード上で動作するようになります。</translation>
     </message>
     <message>
-        <source>Run Drift on the high-performance graphics card</source>
+        <source>Run V Cleb on the high-performance graphics card</source>
         <translation>高性能グラフィックスカードで V Cleb を実行する</translation>
     </message>
     <message>
-        <source>Set Drift to High performance in Windows Settings &gt; Display &gt; Graphics, then restart Drift.</source>
+        <source>Set V Cleb to High performance in Windows Settings &gt; Display &gt; Graphics, then restart V Cleb.</source>
         <translation>Windows の設定 &gt; ディスプレイ &gt; グラフィックス で V Cleb を「ハイパフォーマンス」に設定し、V Cleb を再起動してください。</translation>
     </message>
     <message>
@@ -9779,11 +9779,11 @@ If playback stutters, try another.</source>
 <context>
     <name>Project</name>
     <message>
-        <source>This project was saved by a newer version of Drift (project format %1; this build reads up to %2).</source>
+        <source>This project was saved by a newer version of V Cleb (project format %1; this build reads up to %2).</source>
         <translation>このプロジェクトは新しいバージョンの V Cleb で保存されました (プロジェクトフォーマット %1；このビルドは %2 まで読み取れます)。</translation>
     </message>
     <message>
-        <source>This file isn’t a Drift project.</source>
+        <source>This file isn’t a V Cleb project.</source>
         <translation>このファイルは V Cleb プロジェクトではありません。</translation>
     </message>
 </context>
@@ -9798,11 +9798,11 @@ If playback stutters, try another.</source>
         <translation>%1 を開けません</translation>
     </message>
     <message>
-        <source>file is too short to be a Drift project</source>
+        <source>file is too short to be a V Cleb project</source>
         <translation>ファイルが短すぎて V Cleb プロジェクトではありません</translation>
     </message>
     <message>
-        <source>not a Drift project (bad magic)</source>
+        <source>not a V Cleb project (bad magic)</source>
         <translation>V Cleb プロジェクトではありません (不正なマジック)</translation>
     </message>
     <message>
@@ -9830,7 +9830,7 @@ If playback stutters, try another.</source>
         <translation>プロジェクトマニフェストにフォーマットバージョンがありません</translation>
     </message>
     <message>
-        <source>this project was saved by a newer version of Drift (format %1) — update to open it</source>
+        <source>this project was saved by a newer version of V Cleb (format %1) — update to open it</source>
         <translation>このプロジェクトは新しいバージョンの V Cleb で保存されました (フォーマット %1) — 開くにはアップデートしてください</translation>
     </message>
     <message>
@@ -10726,7 +10726,7 @@ If playback stutters, try another.</source>
         <translation>処理中…</translation>
     </message>
     <message>
-        <source>Drift will render a reversed copy of this clip so it plays back smoothly. You can keep editing while it runs.</source>
+        <source>V Cleb will render a reversed copy of this clip so it plays back smoothly. You can keep editing while it runs.</source>
         <translation>V Cleb はこのクリップのリバースコピーをレンダリングして、スムーズに再生できるようにします。処理中も編集を続けられます。</translation>
     </message>
     <message>
@@ -11065,11 +11065,11 @@ If playback stutters, try another.</source>
         <translation>ハイパフォーマンス (discrete GPU)</translation>
     </message>
     <message>
-        <source>Which graphics card Drift runs on. High performance keeps video decoded on an NVIDIA card on that card; power saving uses less battery. Takes effect after restart.</source>
+        <source>Which graphics card V Cleb runs on. High performance keeps video decoded on an NVIDIA card on that card; power saving uses less battery. Takes effect after restart.</source>
         <translation>V Clebがどのグラフィックスカードで動作するかを設定します。ハイパフォーマンスにすると、NVIDIA カード上での動画デコード処理がそのカード内で行われます。省電力にすると、バッテリー消費が抑えられます。設定は再起動後に反映されます。</translation>
     </message>
     <message>
-        <source>Choose which graphics card Drift runs on in Windows Settings, under Display &gt; Graphics. Takes effect after restart.</source>
+        <source>Choose which graphics card V Cleb runs on in Windows Settings, under Display &gt; Graphics. Takes effect after restart.</source>
         <translation>Windows の設定の ディスプレイ &gt; グラフィックス で、V Cleb がどのグラフィックスカードで動作するかを選択します。再起動後に有効になります。</translation>
     </message>
     <message>
@@ -11113,7 +11113,7 @@ If playback stutters, try another.</source>
         <translation>ボタン、テキスト、アイコンを大きくします。これはディスプレイ設定で既に設定されているサイズに加えての拡大です。再起動後に有効になります。</translation>
     </message>
     <message>
-        <source>Restart Drift to apply this size.</source>
+        <source>Restart V Cleb to apply this size.</source>
         <translation>このサイズを適用するには V Cleb を再起動してください。</translation>
     </message>
     <message>
@@ -11161,7 +11161,7 @@ If playback stutters, try another.</source>
         <translation>起動時に確認</translation>
     </message>
     <message>
-        <source>Ask GitHub once a day whether a newer Drift has been released</source>
+        <source>Ask GitHub once a day whether a newer V Cleb has been released</source>
         <translation>1日1回 GitHub に新しい V Cleb がリリースされていないか問い合わせる</translation>
     </message>
     <message>
@@ -11173,7 +11173,7 @@ If playback stutters, try another.</source>
         <translation>今すぐ確認</translation>
     </message>
     <message>
-        <source>Drift %1</source>
+        <source>V Cleb %1</source>
         <translation>V Cleb %1</translation>
     </message>
     <message>
@@ -11205,7 +11205,7 @@ If playback stutters, try another.</source>
         <translation>クラウドプロバイダー</translation>
     </message>
     <message>
-        <source>Keys are stored unencrypted in Drift&apos;s settings. ELEVENLABS_API_KEY and FISH_API_KEY in the environment take precedence. Use is billed to your own account.</source>
+        <source>Keys are stored unencrypted in V Cleb&apos;s settings. ELEVENLABS_API_KEY and FISH_API_KEY in the environment take precedence. Use is billed to your own account.</source>
         <translation>キーは暗号化されずに V Cleb の設定に保存されます。環境変数の ELEVENLABS_API_KEY および FISH_API_KEY が優先されます。利用料金はお客様のアカウントに請求されます。</translation>
     </message>
     <message>
@@ -11249,7 +11249,7 @@ If playback stutters, try another.</source>
         <translation>%1 への音声とテキストの送信を許可</translation>
     </message>
     <message>
-        <source>Needed before Drift or a connected agent can transcribe or generate audio with this service</source>
+        <source>Needed before V Cleb or a connected agent can transcribe or generate audio with this service</source>
         <translation>V Cleb や接続されたエージェントがこのサービスを使用して音声を文字起こしまたは生成できるようにするために必要です</translation>
     </message>
     <message>
@@ -12007,7 +12007,7 @@ If playback stutters, try another.</source>
         <translation>位置キーフレームを書き込んでカメラの揺れを滑らかにします。直線的なパンは離れた2つのキーとして保持され、方向の変更時にのみ追加のキーが生成されます。滑らかさや三脚モードを変更しても、適用するまでプレビューは更新されません。</translation>
     </message>
     <message>
-        <source>Smooths camera shake. Drift scans the clip once, then renders a new video. Changing smoothness or tripod does not update the preview until you apply.</source>
+        <source>Smooths camera shake. V Cleb scans the clip once, then renders a new video. Changing smoothness or tripod does not update the preview until you apply.</source>
         <translation>カメラの揺れを滑らかにします。V Cleb はクリップを一度スキャンし、新しいビデオをレンダリングします。滑らかさや三脚モードを変更しても、適用するまでプレビューは更新されません。</translation>
     </message>
     <message>
@@ -12535,7 +12535,7 @@ If playback stutters, try another.</source>
 <context>
     <name>TextAssetsTab</name>
     <message>
-        <source>Drift text style (*.drifttextstyle)</source>
+        <source>V Cleb text style (*.drifttextstyle)</source>
         <translation>V Cleb テキストスタイル (*.drifttextstyle)</translation>
     </message>
     <message>
@@ -14648,11 +14648,11 @@ If playback stutters, try another.</source>
         <translation>アップデートを確認できませんでした : 予期しない応答。</translation>
     </message>
     <message>
-        <source>Drift %1 is the latest version.</source>
+        <source>V Cleb %1 is the latest version.</source>
         <translation>V Cleb %1 は最新バージョンです。</translation>
     </message>
     <message>
-        <source>Drift %1 is available.</source>
+        <source>V Cleb %1 is available.</source>
         <translation>V Cleb %1 が利用可能です。</translation>
     </message>
 </context>
@@ -14663,7 +14663,7 @@ If playback stutters, try another.</source>
         <translation>アップデートが利用可能</translation>
     </message>
     <message>
-        <source>Drift %1 is available</source>
+        <source>V Cleb %1 is available</source>
         <translation>V Cleb %1 が利用可能です</translation>
     </message>
     <message>
@@ -15126,7 +15126,7 @@ If playback stutters, try another.</source>
         <translation>OpenGL ドライバーがありません</translation>
     </message>
     <message>
-        <source>Drift could not create an OpenGL context, so it cannot draw its interface or render the preview.
+        <source>V Cleb could not create an OpenGL context, so it cannot draw its interface or render the preview.
 
 Install or update your graphics driver.</source>
         <translation>V Cleb は OpenGL コンテキストを作成できなかったため、インターフェースの描画やプレビューのレンダリングを行うことができません。
@@ -15138,7 +15138,7 @@ Install or update your graphics driver.</source>
         <translation>OpenGL コンテキストが利用できません</translation>
     </message>
     <message>
-        <source>Drift could not create an OpenGL 3.3 core profile context, though this driver reports OpenGL %1.%2 (%3).
+        <source>V Cleb could not create an OpenGL 3.3 core profile context, though this driver reports OpenGL %1.%2 (%3).
 
 The video preview cannot render. Updating your graphics driver may help.</source>
         <translation>V Cleb は OpenGL 3.3 コアプロファイルコンテキストを作成できませんでした (ただし、このドライバーは OpenGL %1.%2 (%3) を報告しています)。
@@ -15150,21 +15150,21 @@ The video preview cannot render. Updating your graphics driver may help.</source
         <translation>グラフィックドライバーが古すぎます</translation>
     </message>
     <message>
-        <source>Drift needs OpenGL 3.3, but this graphics driver only provides OpenGL %1.%2 (%3).
+        <source>V Cleb needs OpenGL 3.3, but this graphics driver only provides OpenGL %1.%2 (%3).
 
-The video preview cannot render, and Drift may not start at all. Update your graphics driver, or run Drift on a machine with a newer GPU.</source>
+The video preview cannot render, and V Cleb may not start at all. Update your graphics driver, or run V Cleb on a machine with a newer GPU.</source>
         <translation>V Cleb には OpenGL 3.3 が必要ですが、現在のグラフィックスドライバーは OpenGL %1.%2 (%3)にしか対応していません。
 
 そのため、ビデオプレビューをレンダリングできず、V Cleb が起動しない可能性があります。グラフィックスドライバーを更新するか、より新しい GPU を搭載したマシンで V Cleb を実行してください。</translation>
     </message>
     <message>
-        <source>Drift is not drawing its window</source>
+        <source>V Cleb is not drawing its window</source>
         <translation>V Cleb がウィンドウを描画していません</translation>
     </message>
     <message>
-        <source>Drift has been running for %1 seconds but its window has not drawn anything yet.
+        <source>V Cleb has been running for %1 seconds but its window has not drawn anything yet.
 
-If the window is blank or black, your graphics driver is most likely outdated or faulty. Update it from your GPU vendor&apos;s website (AMD, NVIDIA or Intel) and start Drift again.</source>
+If the window is blank or black, your graphics driver is most likely outdated or faulty. Update it from your GPU vendor&apos;s website (AMD, NVIDIA or Intel) and start V Cleb again.</source>
         <translation>V Cleb は %1 秒間実行されていますが、ウィンドウにはまだ何も描画されていません。
 
 ウィンドウが空白または黒い場合、グラフィックスドライバーが古いか不具合がある可能性が高いです。GPU ベンダー (AMD、NVIDIA または Intel) の Web サイトからアップデートして、再度 V Cleb を起動してください。</translation>
