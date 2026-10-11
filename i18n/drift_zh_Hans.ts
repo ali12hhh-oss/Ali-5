@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>This is not a Drift effect file (%1).</source>
-        <translation>这不是 Drift 效果文件 (%1)。</translation>
+        <translation>这不是 V Cleb 效果文件 (%1)。</translation>
     </message>
 </context>
 <context>
@@ -60,7 +60,7 @@
     </message>
     <message>
         <source>Drift effect (*.driftfx)</source>
-        <translation>Drift 效果 (*.driftfx)</translation>
+        <translation>V Cleb 效果 (*.driftfx)</translation>
     </message>
     <message>
         <source>Install this transition?</source>
@@ -80,7 +80,7 @@
     </message>
     <message>
         <source>%1 was made by a user, not the Drift team, and nothing has checked it. Only install files you trust.</source>
-        <translation>%1 由用户创建，而非 Drift 团队创建，且未经任何检查。请只安装你信任的文件。</translation>
+        <translation>%1 由用户创建，而非 V Cleb 团队创建，且未经任何检查。请只安装你信任的文件。</translation>
     </message>
     <message>
         <source>Could not install “%1”: %2</source>
@@ -144,7 +144,7 @@
     </message>
     <message>
         <source>Restart Drift for this to take effect.</source>
-        <translation>重启 Drift 以生效。</translation>
+        <translation>重启 V Cleb 以生效。</translation>
     </message>
     <message>
         <source>Can&apos;t reach the download store</source>
@@ -180,7 +180,7 @@
     </message>
     <message>
         <source>Requires Drift %1 or newer</source>
-        <translation>需要 Drift %1 或更高版本</translation>
+        <translation>需要 V Cleb %1 或更高版本</translation>
     </message>
     <message>
         <source>%1 download</source>
@@ -223,7 +223,7 @@
     </message>
     <message>
         <source>Install the essential packs for effects, transitions, and audio. You can keep using Drift without them — installing unlocks updates when they improve.</source>
-        <translation>安装效果、过渡和音频的必备包。即使没有它们，你也可以继续使用 Drift —— 安装后可以在有改进时解锁更新。</translation>
+        <translation>安装效果、过渡和音频的必备包。即使没有它们，你也可以继续使用 V Cleb —— 安装后可以在有改进时解锁更新。</translation>
     </message>
     <message>
         <source>%1… %2%</source>
@@ -382,11 +382,11 @@
     </message>
     <message>
         <source>Skip the manual toggle next time you open Drift. Turning access off resets this.</source>
-        <translation>下次打开 Drift 时无需手动开启。关闭访问权限会重置此设置。</translation>
+        <translation>下次打开 V Cleb 时无需手动开启。关闭访问权限会重置此设置。</translation>
     </message>
     <message>
         <source>Let Cursor or Claude edit this project for you — add clips, change the timeline, and check how it looks. Only programs on this device. Off by default each time you open Drift, unless you turn on “Start agent on startup” below; turn it off here when you finish. The key stays the same between sessions, so a setup you pasted once keeps working.</source>
-        <translation>让 Cursor 或 Claude 帮你编辑此项目：添加片段、调整时间轴并查看效果。仅允许此设备上的程序访问。每次打开 Drift 时默认关闭，除非你在下方启用“启动时启动代理”；完成后请在此处关闭。密钥会在不同会话间保持不变，因此粘贴一次配置后即可持续使用。</translation>
+        <translation>让 Cursor 或 Claude 帮你编辑此项目：添加片段、调整时间轴并查看效果。仅允许此设备上的程序访问。每次打开 V Cleb 时默认关闭，除非你在下方启用“启动时启动代理”；完成后请在此处关闭。密钥会在不同会话间保持不变，因此粘贴一次配置后即可持续使用。</translation>
     </message>
 </context>
 <context>
@@ -630,7 +630,7 @@
     <name>AndroidEditor</name>
     <message>
         <source>Drift project (*.drift)</source>
-        <translation>Drift 项目 (*.drift)</translation>
+        <translation>V Cleb 项目 (*.drift)</translation>
     </message>
     <message>
         <source>Save Project</source>
@@ -833,7 +833,7 @@
     <name>AndroidMain</name>
     <message>
         <source>Drift project (*.drift)</source>
-        <translation>Drift 项目 (*.drift)</translation>
+        <translation>V Cleb 项目 (*.drift)</translation>
     </message>
     <message>
         <source>Save Project</source>
@@ -2106,7 +2106,7 @@
     </message>
     <message>
         <source>Faster preview takes effect after you restart Drift.</source>
-        <translation>重启 Drift 后，更快的预览设置才会生效。</translation>
+        <translation>重启 V Cleb 后，更快的预览设置才会生效。</translation>
     </message>
     <message>
         <source>System default</source>
@@ -2742,7 +2742,7 @@
     </message>
     <message>
         <source>The graphics card choice takes effect after you restart Drift.</source>
-        <translation>显卡选择将在重启 Drift 后生效。</translation>
+        <translation>显卡选择将在重启 V Cleb 后生效。</translation>
     </message>
     <message>
         <source>No audio track available for recording</source>
@@ -3594,7 +3594,7 @@
     </message>
     <message>
         <source>This build of Drift has no video stabilization support</source>
-        <translation>此版本的 Drift 不支持视频防抖</translation>
+        <translation>此版本的 V Cleb 不支持视频防抖</translation>
     </message>
     <message>
         <source>Stabilization rendering failed.</source>
@@ -4699,7 +4699,7 @@
     <message numerus="yes">
         <source>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</source>
         <translation>
-            <numerusform>已将 %n 个文件导入 %1 个文件夹。%2 个文件因格式不受 Drift 识别而被跳过。可将其拖入媒体箱再次尝试。</numerusform>
+            <numerusform>已将 %n 个文件导入 %1 个文件夹。%2 个文件因格式不受 V Cleb 识别而被跳过。可将其拖入媒体箱再次尝试。</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -5899,7 +5899,7 @@
     </message>
     <message>
         <source>Could not load Drift Assets. Check your connection and try again.</source>
-        <translation>无法加载 Drift Assets。请检查网络连接后重试。</translation>
+        <translation>无法加载 V Cleb Assets。请检查网络连接后重试。</translation>
     </message>
     <message>
         <source>That asset could not be installed.</source>
@@ -5950,7 +5950,7 @@
     </message>
     <message>
         <source>Couldn’t load Drift Assets</source>
-        <translation>无法加载 Drift Assets</translation>
+        <translation>无法加载 V Cleb Assets</translation>
     </message>
     <message>
         <source>Try again</source>
@@ -5962,7 +5962,7 @@
     </message>
     <message>
         <source>Drift Assets are still being published. Check back soon.</source>
-        <translation>Drift Assets 仍在陆续发布，请稍后再来查看。</translation>
+        <translation>V Cleb Assets 仍在陆续发布，请稍后再来查看。</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -5978,7 +5978,7 @@
     </message>
     <message>
         <source>No Drift Assets match “%1”.</source>
-        <translation>没有与“%1”匹配的 Drift Assets。</translation>
+        <translation>没有与“%1”匹配的 V Cleb Assets。</translation>
     </message>
     <message>
         <source>Search %1 for “%2”</source>
@@ -5989,7 +5989,7 @@
     <name>EditorHeader</name>
     <message>
         <source>Drift project (*.drift)</source>
-        <translation>Drift 项目 (*.drift)</translation>
+        <translation>V Cleb 项目 (*.drift)</translation>
     </message>
     <message>
         <source>Save Project</source>
@@ -6124,7 +6124,7 @@
     </message>
     <message>
         <source>Drift %1 is available</source>
-        <translation>Drift %1 已推出</translation>
+        <translation>V Cleb %1 已推出</translation>
     </message>
     <message>
         <source>Agent access</source>
@@ -6285,7 +6285,7 @@
     <name>EffectStacksSection</name>
     <message>
         <source>Drift effect stack (*.drifteffects)</source>
-        <translation>Drift 效果堆栈（*.drifteffects）</translation>
+        <translation>V Cleb 效果堆栈（*.drifteffects）</translation>
     </message>
     <message>
         <source>Import effect stack</source>
@@ -6894,7 +6894,7 @@
     </message>
     <message>
         <source>prop.json needs a newer version of Drift</source>
-        <translation>prop.json 需要更新版本的 Drift</translation>
+        <translation>prop.json 需要更新版本的 V Cleb</translation>
     </message>
     <message>
         <source>invalid prop id “%1”</source>
@@ -7017,7 +7017,7 @@
     </message>
     <message>
         <source>No face props installed. Import a .zip from Drift-Assets, or any folder of props that carry a prop.json.</source>
-        <translation>尚未安装面部道具。请导入 Drift-Assets 中的 .zip 文件，或包含 prop.json 的道具文件夹。</translation>
+        <translation>尚未安装面部道具。请导入 V Cleb-Assets 中的 .zip 文件，或包含 prop.json 的道具文件夹。</translation>
     </message>
     <message>
         <source>Custom model: %1 (missing)</source>
@@ -8262,7 +8262,7 @@
     </message>
     <message>
         <source>Everything here comes from third parties. Drift does not host, own or vet it — you are responsible for making sure you have the right to use whatever you download.</source>
-        <translation>此处所有内容均来自第三方。Drift 不托管、不拥有也不审核这些内容；你有责任确认自己有权使用下载的任何内容。</translation>
+        <translation>此处所有内容均来自第三方。V Cleb 不托管、不拥有也不审核这些内容；你有责任确认自己有权使用下载的任何内容。</translation>
     </message>
     <message>
         <source>I understand</source>
@@ -9499,11 +9499,11 @@
     <name>PlaybackEngine</name>
     <message>
         <source>%1 decodes on %2, but Drift draws on %3. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
-        <translation>%1 在 %2 上解码，但 Drift 在 %3 上绘制。每一帧都需要经过系统内存复制，比直接在负责绘制的显卡上解码更慢。</translation>
+        <translation>%1 在 %2 上解码，但 V Cleb 在 %3 上绘制。每一帧都需要经过系统内存复制，比直接在负责绘制的显卡上解码更慢。</translation>
     </message>
     <message>
         <source>%1 decodes on a different graphics card than the one Drift draws on. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
-        <translation>%1 使用的解码显卡与 Drift 的绘制显卡不同。每一帧都要经过系统内存复制，比在负责绘制的显卡上解码更慢。</translation>
+        <translation>%1 使用的解码显卡与 V Cleb 的绘制显卡不同。每一帧都要经过系统内存复制，比在负责绘制的显卡上解码更慢。</translation>
     </message>
     <message>
         <source>Auto</source>
@@ -9609,11 +9609,11 @@
     </message>
     <message>
         <source>Your graphics driver only provides %1. Drift&apos;s preview needs OpenGL 3.3.</source>
-        <translation>你的显卡驱动仅支持 %1。Drift 预览需要 OpenGL 3.3。</translation>
+        <translation>你的显卡驱动仅支持 %1。V Cleb 预览需要 OpenGL 3.3。</translation>
     </message>
     <message>
         <source>Drift could not start its GPU renderer, so the preview cannot draw.</source>
-        <translation>Drift 无法启动 GPU 渲染器，因此无法显示预览。</translation>
+        <translation>V Cleb 无法启动 GPU 渲染器，因此无法显示预览。</translation>
     </message>
     <message>
         <source>Debug info</source>
@@ -9752,15 +9752,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Launching Drift with prime-run (or DRI_PRIME=1) puts OpenGL on the same card as the decoder.</source>
-        <translation>使用 prime-run（或设置 DRI_PRIME=1）启动 Drift，可让 OpenGL 与解码器使用同一块显卡。</translation>
+        <translation>使用 prime-run（或设置 DRI_PRIME=1）启动 V Cleb，可让 OpenGL 与解码器使用同一块显卡。</translation>
     </message>
     <message>
         <source>Run Drift on the high-performance graphics card</source>
-        <translation>让 Drift 使用高性能显卡运行</translation>
+        <translation>让 V Cleb 使用高性能显卡运行</translation>
     </message>
     <message>
         <source>Set Drift to High performance in Windows Settings &gt; Display &gt; Graphics, then restart Drift.</source>
-        <translation>在 Windows“设置 &gt; 系统 &gt; 屏幕 &gt; 图形”中将 Drift 设为“高性能”，然后重新启动 Drift。</translation>
+        <translation>在 Windows“设置 &gt; 系统 &gt; 屏幕 &gt; 图形”中将 V Cleb 设为“高性能”，然后重新启动 V Cleb。</translation>
     </message>
     <message>
         <source>Open graphics settings</source>
@@ -9771,11 +9771,11 @@ If playback stutters, try another.</source>
     <name>Project</name>
     <message>
         <source>This project was saved by a newer version of Drift (project format %1; this build reads up to %2).</source>
-        <translation>此项目由较新版本的 Drift 保存（项目格式 %1；当前版本最多支持 %2）。</translation>
+        <translation>此项目由较新版本的 V Cleb 保存（项目格式 %1；当前版本最多支持 %2）。</translation>
     </message>
     <message>
         <source>This file isn’t a Drift project.</source>
-        <translation>此文件不是 Drift 项目。</translation>
+        <translation>此文件不是 V Cleb 项目。</translation>
     </message>
 </context>
 <context>
@@ -9790,11 +9790,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>file is too short to be a Drift project</source>
-        <translation>文件太短，不是有效的 Drift 项目</translation>
+        <translation>文件太短，不是有效的 V Cleb 项目</translation>
     </message>
     <message>
         <source>not a Drift project (bad magic)</source>
-        <translation>不是 Drift 项目（文件标识无效）</translation>
+        <translation>不是 V Cleb 项目（文件标识无效）</translation>
     </message>
     <message>
         <source>unsupported container revision</source>
@@ -9822,7 +9822,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>this project was saved by a newer version of Drift (format %1) — update to open it</source>
-        <translation>此项目由较新版本的 Drift 保存（格式 %1）— 请更新后再打开</translation>
+        <translation>此项目由较新版本的 V Cleb 保存（格式 %1）— 请更新后再打开</translation>
     </message>
     <message>
         <source>project blob table is not contiguous</source>
@@ -10718,7 +10718,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Drift will render a reversed copy of this clip so it plays back smoothly. You can keep editing while it runs.</source>
-        <translation>Drift 将渲染此片段的反向副本，以确保播放流畅。处理期间仍可继续编辑。</translation>
+        <translation>V Cleb 将渲染此片段的反向副本，以确保播放流畅。处理期间仍可继续编辑。</translation>
     </message>
     <message>
         <source>This can take a few minutes on longer clips.</source>
@@ -11057,11 +11057,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Which graphics card Drift runs on. High performance keeps video decoded on an NVIDIA card on that card; power saving uses less battery. Takes effect after restart.</source>
-        <translation>选择 Drift 使用的显卡。高性能模式会让视频在该显卡（如 NVIDIA 显卡）上解码；省电模式耗电更少。重启后生效。</translation>
+        <translation>选择 V Cleb 使用的显卡。高性能模式会让视频在该显卡（如 NVIDIA 显卡）上解码；省电模式耗电更少。重启后生效。</translation>
     </message>
     <message>
         <source>Choose which graphics card Drift runs on in Windows Settings, under Display &gt; Graphics. Takes effect after restart.</source>
-        <translation>在 Windows 设置的“显示 &gt; 图形”中选择 Drift 使用的显卡。重启后生效。</translation>
+        <translation>在 Windows 设置的“显示 &gt; 图形”中选择 V Cleb 使用的显卡。重启后生效。</translation>
     </message>
     <message>
         <source>Open graphics settings</source>
@@ -11105,7 +11105,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Restart Drift to apply this size.</source>
-        <translation>重新启动 Drift 以应用此尺寸。</translation>
+        <translation>重新启动 V Cleb 以应用此尺寸。</translation>
     </message>
     <message>
         <source>Horizontal mouse-wheel pan</source>
@@ -11153,7 +11153,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Ask GitHub once a day whether a newer Drift has been released</source>
-        <translation>每天向 GitHub 查询一次是否发布了更新版本的 Drift</translation>
+        <translation>每天向 GitHub 查询一次是否发布了更新版本的 V Cleb</translation>
     </message>
     <message>
         <source>Checking…</source>
@@ -11165,7 +11165,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Drift %1</source>
-        <translation>Drift %1</translation>
+        <translation>V Cleb %1</translation>
     </message>
     <message>
         <source>Extra packs</source>
@@ -11197,7 +11197,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Keys are stored unencrypted in Drift&apos;s settings. ELEVENLABS_API_KEY and FISH_API_KEY in the environment take precedence. Use is billed to your own account.</source>
-        <translation>密钥以未加密形式存储在 Drift 设置中。环境变量 ELEVENLABS_API_KEY 和 FISH_API_KEY 优先使用。产生的费用由你的账户承担。</translation>
+        <translation>密钥以未加密形式存储在 V Cleb 设置中。环境变量 ELEVENLABS_API_KEY 和 FISH_API_KEY 优先使用。产生的费用由你的账户承担。</translation>
     </message>
     <message>
         <source>Transcription (Scribe), voiceover, sound effects</source>
@@ -11241,7 +11241,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Needed before Drift or a connected agent can transcribe or generate audio with this service</source>
-        <translation>必须启用此项，Drift 或已连接的代理才能使用此服务进行转录或生成音频</translation>
+        <translation>必须启用此项，V Cleb 或已连接的代理才能使用此服务进行转录或生成音频</translation>
     </message>
     <message>
         <source>Default voice id</source>
@@ -11999,7 +11999,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Smooths camera shake. Drift scans the clip once, then renders a new video. Changing smoothness or tripod does not update the preview until you apply.</source>
-        <translation>平滑相机抖动。Drift 会扫描一次片段，然后渲染新视频。更改平滑度或三脚架模式后，需点击应用才会更新预览。</translation>
+        <translation>平滑相机抖动。V Cleb 会扫描一次片段，然后渲染新视频。更改平滑度或三脚架模式后，需点击应用才会更新预览。</translation>
     </message>
     <message>
         <source>Mode</source>
@@ -12528,7 +12528,7 @@ If playback stutters, try another.</source>
     <name>TextAssetsTab</name>
     <message>
         <source>Drift text style (*.drifttextstyle)</source>
-        <translation>Drift 文本样式（*.drifttextstyle）</translation>
+        <translation>V Cleb 文本样式（*.drifttextstyle）</translation>
     </message>
     <message>
         <source>Import text style</source>
@@ -14639,11 +14639,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Drift %1 is the latest version.</source>
-        <translation>Drift %1 已是最新版本。</translation>
+        <translation>V Cleb %1 已是最新版本。</translation>
     </message>
     <message>
         <source>Drift %1 is available.</source>
-        <translation>Drift %1 已发布。</translation>
+        <translation>V Cleb %1 已发布。</translation>
     </message>
 </context>
 <context>
@@ -14654,7 +14654,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Drift %1 is available</source>
-        <translation>Drift %1 已推出</translation>
+        <translation>V Cleb %1 已推出</translation>
     </message>
     <message>
         <source>You have %1.</source>
@@ -15119,7 +15119,7 @@ If playback stutters, try another.</source>
         <source>Drift could not create an OpenGL context, so it cannot draw its interface or render the preview.
 
 Install or update your graphics driver.</source>
-        <translation>Drift 无法创建 OpenGL 上下文，因此无法绘制界面或渲染预览。
+        <translation>V Cleb 无法创建 OpenGL 上下文，因此无法绘制界面或渲染预览。
 
 请安装或更新显卡驱动程序。</translation>
     </message>
@@ -15131,7 +15131,7 @@ Install or update your graphics driver.</source>
         <source>Drift could not create an OpenGL 3.3 core profile context, though this driver reports OpenGL %1.%2 (%3).
 
 The video preview cannot render. Updating your graphics driver may help.</source>
-        <translation>Drift 无法创建 OpenGL 3.3 核心配置上下文，尽管此驱动报告支持 OpenGL %1.%2（%3）。
+        <translation>V Cleb 无法创建 OpenGL 3.3 核心配置上下文，尽管此驱动报告支持 OpenGL %1.%2（%3）。
 
 无法渲染视频预览。更新显卡驱动可能会有所帮助。</translation>
     </message>
@@ -15143,21 +15143,21 @@ The video preview cannot render. Updating your graphics driver may help.</source
         <source>Drift needs OpenGL 3.3, but this graphics driver only provides OpenGL %1.%2 (%3).
 
 The video preview cannot render, and Drift may not start at all. Update your graphics driver, or run Drift on a machine with a newer GPU.</source>
-        <translation>Drift 需要 OpenGL 3.3，但此显卡驱动仅提供 OpenGL %1.%2（%3）。
+        <translation>V Cleb 需要 OpenGL 3.3，但此显卡驱动仅提供 OpenGL %1.%2（%3）。
 
-视频预览无法渲染，Drift 甚至可能无法启动。请更新显卡驱动，或在配备较新 GPU 的设备上运行 Drift。</translation>
+视频预览无法渲染，V Cleb 甚至可能无法启动。请更新显卡驱动，或在配备较新 GPU 的设备上运行 V Cleb。</translation>
     </message>
     <message>
         <source>Drift is not drawing its window</source>
-        <translation>Drift 无法绘制窗口</translation>
+        <translation>V Cleb 无法绘制窗口</translation>
     </message>
     <message>
         <source>Drift has been running for %1 seconds but its window has not drawn anything yet.
 
 If the window is blank or black, your graphics driver is most likely outdated or faulty. Update it from your GPU vendor&apos;s website (AMD, NVIDIA or Intel) and start Drift again.</source>
-        <translation>Drift 已运行 %1 秒，但窗口仍未显示任何内容。
+        <translation>V Cleb 已运行 %1 秒，但窗口仍未显示任何内容。
 
-如果窗口为空白或全黑，显卡驱动很可能已过时或存在故障。请从显卡厂商（AMD、NVIDIA 或 Intel）的网站更新驱动，然后重新启动 Drift。</translation>
+如果窗口为空白或全黑，显卡驱动很可能已过时或存在故障。请从显卡厂商（AMD、NVIDIA 或 Intel）的网站更新驱动，然后重新启动 V Cleb。</translation>
     </message>
 </context>
 </TS>
