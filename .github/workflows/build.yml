@@ -4,6 +4,9 @@ name: Build
 # pushing a tag — a tag is public the moment release.yml finishes, so a failure there is expensive.
 # Android dry runs use com.vcleb.editor.ci so the APK installs beside a release build.
 on:
+  # Rebuild the Android test APK after branding/source changes pushed to main.
+  push:
+    branches: [main]
   workflow_dispatch:
     inputs:
       platforms:
@@ -45,6 +48,6 @@ jobs:
     uses: ./.github/workflows/package.yml
     with:
       version: ${{ needs.meta.outputs.version }}
-      platforms: ${{ inputs.platforms }}
+      platforms: ${{ inputs.platforms || 'android' }}
       android_identity: ci
     secrets: inherit
