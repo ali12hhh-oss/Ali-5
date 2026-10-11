@@ -1498,7 +1498,7 @@
     </message>
     <message>
         <source>Export</source>
-        <translation>Mga mask</translation>
+        <translation>I-export</translation>
     </message>
     <message>
         <source>Render the finished video</source>
