@@ -52,7 +52,7 @@ ThemedDialog {
 
     function importUserPackage(url) {
         if (!url || String(url) === "")
-            url = FileDialogs.openFile(qsTr("Import Effect"), [qsTr("Drift effect (*.driftfx)")])
+            url = FileDialogs.openFile(qsTr("Import Effect"), [qsTr("V Cleb effect (*.driftfx)")])
         if (!url || String(url) === "")
             return
         const info = Addons.inspectUserPackage(url)
@@ -80,7 +80,7 @@ ThemedDialog {
             text: {
                 const p = root.pendingUserPackage
                 const by = p.author ? qsTr("“%1” by %2").arg(p.name).arg(p.author) : qsTr("“%1”").arg(p.name)
-                return qsTr("%1 was made by a user, not the Drift team, and nothing has checked it. Only install files you trust.").arg(by)
+                return qsTr("%1 was made by a user, not the V Cleb team, and nothing has checked it. Only install files you trust.").arg(by)
             }
         }
 
@@ -318,7 +318,7 @@ ThemedDialog {
                 visible: accelerationPanel.restartRequired
                 color: Theme.destructive
                 tone: "default"
-                text: qsTr("Restart Drift for this to take effect.")
+                text: qsTr("Restart V Cleb for this to take effect.")
             }
         }
 
@@ -486,7 +486,7 @@ ThemedDialog {
                             if (row.modelData.state === "failed")
                                 return row.modelData.error
                             if (row.modelData.state === "needs-newer-app")
-                                return qsTr("Requires Drift %1 or newer").arg(row.modelData.minAppVersion)
+                                return qsTr("Requires V Cleb %1 or newer").arg(row.modelData.minAppVersion)
                             var parts = [qsTr("%1 download").arg(root.formatSize(row.modelData.downloadSize))]
                             if (row.modelData.items > 0)
                                 parts.push(qsTr("%1 items").arg(row.modelData.items))
