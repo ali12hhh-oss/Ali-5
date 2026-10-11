@@ -182,7 +182,7 @@
              encode dies with the activity anyway: a service outliving the task would leave a
              progress notification for a render that no longer exists. -->
         <service
-            android:name="org.cutwire.drift.ExportService"
+            android:name="com.vcleb.editor.ExportService"
             android:exported="false"
             android:stopWithTask="true"
             android:foregroundServiceType="mediaProcessing" />
