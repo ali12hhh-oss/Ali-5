@@ -36,19 +36,19 @@
     <key>NSSupportsAutomaticGraphicsSwitching</key>
     <true/>
     <key>NSHumanReadableCopyright</key>
-    <string>Copyright © CutWire Studios. GPL-3.0-or-later.</string>
+    <string>V Cleb video editor. GPL-3.0-or-later.</string>
     <key>CFBundleDocumentTypes</key>
     <array>
         <dict>
             <key>CFBundleTypeName</key>
-            <string>Drift Project</string>
+            <string>V Cleb Project</string>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>LSHandlerRank</key>
             <string>Owner</string>
             <key>LSItemContentTypes</key>
             <array>
-                <string>org.cutwire.drift.project</string>
+                <string>com.vcleb.editor.project</string>
             </array>
         </dict>
     </array>
@@ -56,9 +56,9 @@
     <array>
         <dict>
             <key>UTTypeIdentifier</key>
-            <string>org.cutwire.drift.project</string>
+            <string>com.vcleb.editor.project</string>
             <key>UTTypeDescription</key>
-            <string>Drift Project</string>
+            <string>V Cleb Project</string>
             <key>UTTypeConformsTo</key>
             <array>
                 <string>public.data</string>
