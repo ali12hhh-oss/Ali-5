@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>This is not a Drift effect file (%1).</source>
-        <translation>Đây không phải là tệp hiệu ứng Drift (%1).</translation>
+        <translation>Đây không phải là tệp hiệu ứng V Cleb (%1).</translation>
     </message>
 </context>
 <context>
@@ -60,7 +60,7 @@
     </message>
     <message>
         <source>Drift effect (*.driftfx)</source>
-        <translation>Hiệu ứng Drift (*.driftfx)</translation>
+        <translation>Hiệu ứng V Cleb (*.driftfx)</translation>
     </message>
     <message>
         <source>Install this transition?</source>
@@ -80,7 +80,7 @@
     </message>
     <message>
         <source>%1 was made by a user, not the Drift team, and nothing has checked it. Only install files you trust.</source>
-        <translation>%1 được tạo bởi người dùng chứ không phải nhóm Drift và chưa có gì kiểm tra nó. Chỉ cài đặt các tệp mà bạn tin tưởng.</translation>
+        <translation>%1 được tạo bởi người dùng chứ không phải nhóm V Cleb và chưa có gì kiểm tra nó. Chỉ cài đặt các tệp mà bạn tin tưởng.</translation>
     </message>
     <message>
         <source>Could not install “%1”: %2</source>
@@ -144,7 +144,7 @@
     </message>
     <message>
         <source>Restart Drift for this to take effect.</source>
-        <translation>Khởi động lại Drift để điều này có hiệu lực.</translation>
+        <translation>Khởi động lại V Cleb để điều này có hiệu lực.</translation>
     </message>
     <message>
         <source>Can&apos;t reach the download store</source>
@@ -180,7 +180,7 @@
     </message>
     <message>
         <source>Requires Drift %1 or newer</source>
-        <translation>Yêu cầu Drift %1 hoặc mới hơn</translation>
+        <translation>Yêu cầu V Cleb %1 hoặc mới hơn</translation>
     </message>
     <message>
         <source>%1 download</source>
@@ -223,7 +223,7 @@
     </message>
     <message>
         <source>Install the essential packs for effects, transitions, and audio. You can keep using Drift without them — installing unlocks updates when they improve.</source>
-        <translation>Cài đặt các gói cần thiết cho hiệu ứng, hiệu ứng chuyển cảnh và âm thanh. Bạn có thể tiếp tục sử dụng Drift mà không cần đến chúng — việc cài đặt sẽ mở khóa các bản cập nhật khi chúng được cải thiện.</translation>
+        <translation>Cài đặt các gói cần thiết cho hiệu ứng, hiệu ứng chuyển cảnh và âm thanh. Bạn có thể tiếp tục sử dụng V Cleb mà không cần đến chúng — việc cài đặt sẽ mở khóa các bản cập nhật khi chúng được cải thiện.</translation>
     </message>
     <message>
         <source>%1… %2%</source>
@@ -382,11 +382,11 @@
     </message>
     <message>
         <source>Skip the manual toggle next time you open Drift. Turning access off resets this.</source>
-        <translation>Bỏ qua chuyển đổi thủ công vào lần tiếp theo bạn mở Drift. Tắt quyền truy cập sẽ đặt lại điều này.</translation>
+        <translation>Bỏ qua chuyển đổi thủ công vào lần tiếp theo bạn mở V Cleb. Tắt quyền truy cập sẽ đặt lại điều này.</translation>
     </message>
     <message>
         <source>Let Cursor or Claude edit this project for you — add clips, change the timeline, and check how it looks. Only programs on this device. Off by default each time you open Drift, unless you turn on “Start agent on startup” below; turn it off here when you finish. The key stays the same between sessions, so a setup you pasted once keeps working.</source>
-        <translation>Hãy để Cursor hoặc Claude chỉnh sửa dự án này cho bạn — thêm clip, thay đổi dòng thời gian và kiểm tra xem nó trông như thế nào. Chỉ các chương trình trên thiết bị này. Tắt theo mặc định mỗi khi bạn mở Drift, trừ khi bạn bật “Khởi chạy trợ lý khi khởi động” bên dưới; tắt nó ở đây khi bạn hoàn thành. Khóa vẫn giữ nguyên giữa các phiên, do đó, thiết lập bạn đã dán một lần vẫn tiếp tục hoạt động.</translation>
+        <translation>Hãy để Cursor hoặc Claude chỉnh sửa dự án này cho bạn — thêm clip, thay đổi dòng thời gian và kiểm tra xem nó trông như thế nào. Chỉ các chương trình trên thiết bị này. Tắt theo mặc định mỗi khi bạn mở V Cleb, trừ khi bạn bật “Khởi chạy trợ lý khi khởi động” bên dưới; tắt nó ở đây khi bạn hoàn thành. Khóa vẫn giữ nguyên giữa các phiên, do đó, thiết lập bạn đã dán một lần vẫn tiếp tục hoạt động.</translation>
     </message>
 </context>
 <context>
@@ -630,7 +630,7 @@
     <name>AndroidEditor</name>
     <message>
         <source>Drift project (*.drift)</source>
-        <translation>Dự án Drift (*.drift)</translation>
+        <translation>Dự án V Cleb (*.drift)</translation>
     </message>
     <message>
         <source>Save Project</source>
@@ -833,7 +833,7 @@
     <name>AndroidMain</name>
     <message>
         <source>Drift project (*.drift)</source>
-        <translation>Dự án Drift (*.drift)</translation>
+        <translation>Dự án V Cleb (*.drift)</translation>
     </message>
     <message>
         <source>Save Project</source>
@@ -2106,7 +2106,7 @@
     </message>
     <message>
         <source>Faster preview takes effect after you restart Drift.</source>
-        <translation>Bản xem trước nhanh hơn sẽ có hiệu lực sau khi bạn khởi động lại Drift.</translation>
+        <translation>Bản xem trước nhanh hơn sẽ có hiệu lực sau khi bạn khởi động lại V Cleb.</translation>
     </message>
     <message>
         <source>System default</source>
@@ -2743,7 +2743,7 @@
     </message>
     <message>
         <source>The graphics card choice takes effect after you restart Drift.</source>
-        <translation>Lựa chọn card đồ họa có hiệu lực sau khi bạn khởi động lại Drift.</translation>
+        <translation>Lựa chọn card đồ họa có hiệu lực sau khi bạn khởi động lại V Cleb.</translation>
     </message>
     <message>
         <source>No audio track available for recording</source>
@@ -3595,7 +3595,7 @@
     </message>
     <message>
         <source>This build of Drift has no video stabilization support</source>
-        <translation>Bản dựng Drift này không hỗ trợ ổn định video</translation>
+        <translation>Bản dựng V Cleb này không hỗ trợ ổn định video</translation>
     </message>
     <message>
         <source>Stabilization rendering failed.</source>
@@ -4712,7 +4712,7 @@
     <message numerus="yes">
         <source>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</source>
         <translation>
-            <numerusform>Đã nhập %n tệp vào %1 thư mục. Bỏ qua %2 tệp vì Drift không nhận dạng định dạng. Kéo chúng vào khay phương tiện để thử nhập anyway.</numerusform>
+            <numerusform>Đã nhập %n tệp vào %1 thư mục. Bỏ qua %2 tệp vì V Cleb không nhận dạng định dạng. Kéo chúng vào khay phương tiện để thử nhập anyway.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -5912,7 +5912,7 @@
     </message>
     <message>
         <source>Could not load Drift Assets. Check your connection and try again.</source>
-        <translation>Không thể tải Tài nguyên Drift. Kiểm tra kết nối và thử lại.</translation>
+        <translation>Không thể tải Tài nguyên V Cleb. Kiểm tra kết nối và thử lại.</translation>
     </message>
     <message>
         <source>That asset could not be installed.</source>
@@ -5963,7 +5963,7 @@
     </message>
     <message>
         <source>Couldn’t load Drift Assets</source>
-        <translation>Không thể tải Tài nguyên Drift</translation>
+        <translation>Không thể tải Tài nguyên V Cleb</translation>
     </message>
     <message>
         <source>Try again</source>
@@ -5975,7 +5975,7 @@
     </message>
     <message>
         <source>Drift Assets are still being published. Check back soon.</source>
-        <translation>Tài nguyên Drift vẫn đang được xuất bản. Hãy kiểm tra lại sớm.</translation>
+        <translation>Tài nguyên V Cleb vẫn đang được xuất bản. Hãy kiểm tra lại sớm.</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -5991,7 +5991,7 @@
     </message>
     <message>
         <source>No Drift Assets match “%1”.</source>
-        <translation>Không có tài nguyên Drift nào khớp với “%1”.</translation>
+        <translation>Không có tài nguyên V Cleb nào khớp với “%1”.</translation>
     </message>
     <message>
         <source>Search %1 for “%2”</source>
@@ -6002,7 +6002,7 @@
     <name>EditorHeader</name>
     <message>
         <source>Drift project (*.drift)</source>
-        <translation>Dự án Drift (*.drift)</translation>
+        <translation>Dự án V Cleb (*.drift)</translation>
     </message>
     <message>
         <source>Save Project</source>
@@ -6137,7 +6137,7 @@
     </message>
     <message>
         <source>Drift %1 is available</source>
-        <translation>Drift %1 đang có sẵn</translation>
+        <translation>V Cleb %1 đang có sẵn</translation>
     </message>
     <message>
         <source>Agent access</source>
@@ -6298,7 +6298,7 @@
     <name>EffectStacksSection</name>
     <message>
         <source>Drift effect stack (*.drifteffects)</source>
-        <translation>Ngăn xếp hiệu ứng Drift (*.drifteffects)</translation>
+        <translation>Ngăn xếp hiệu ứng V Cleb (*.drifteffects)</translation>
     </message>
     <message>
         <source>Import effect stack</source>
@@ -6907,7 +6907,7 @@
     </message>
     <message>
         <source>prop.json needs a newer version of Drift</source>
-        <translation>prop.json cần phiên bản Drift mới hơn</translation>
+        <translation>prop.json cần phiên bản V Cleb mới hơn</translation>
     </message>
     <message>
         <source>invalid prop id “%1”</source>
@@ -7030,7 +7030,7 @@
     </message>
     <message>
         <source>No face props installed. Import a .zip from Drift-Assets, or any folder of props that carry a prop.json.</source>
-        <translation>Không có đạo cụ khuôn mặt được cài đặt. Nhập .zip từ Drift-Assets hoặc bất kỳ thư mục đạo cụ nào chứa prop.json.</translation>
+        <translation>Không có đạo cụ khuôn mặt được cài đặt. Nhập .zip từ V Cleb-Assets hoặc bất kỳ thư mục đạo cụ nào chứa prop.json.</translation>
     </message>
     <message>
         <source>Custom model: %1 (missing)</source>
@@ -8275,7 +8275,7 @@
     </message>
     <message>
         <source>Everything here comes from third parties. Drift does not host, own or vet it — you are responsible for making sure you have the right to use whatever you download.</source>
-        <translation>Mọi thứ ở đây đều đến từ bên thứ ba. Drift không lưu trữ, sở hữu hoặc kiểm tra nó - bạn có trách nhiệm đảm bảo rằng bạn có quyền sử dụng bất cứ thứ gì bạn tải xuống.</translation>
+        <translation>Mọi thứ ở đây đều đến từ bên thứ ba. V Cleb không lưu trữ, sở hữu hoặc kiểm tra nó - bạn có trách nhiệm đảm bảo rằng bạn có quyền sử dụng bất cứ thứ gì bạn tải xuống.</translation>
     </message>
     <message>
         <source>I understand</source>
@@ -9515,11 +9515,11 @@
     <name>PlaybackEngine</name>
     <message>
         <source>%1 decodes on %2, but Drift draws on %3. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
-        <translation>%1 giải mã trên %2, nhưng Drift vẽ trên %3. Mọi khung hình đều được sao chép qua bộ nhớ hệ thống, chậm hơn so với giải mã trên card đồ họa đảm nhận việc vẽ.</translation>
+        <translation>%1 giải mã trên %2, nhưng V Cleb vẽ trên %3. Mọi khung hình đều được sao chép qua bộ nhớ hệ thống, chậm hơn so với giải mã trên card đồ họa đảm nhận việc vẽ.</translation>
     </message>
     <message>
         <source>%1 decodes on a different graphics card than the one Drift draws on. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
-        <translation>%1 giải mã trên card đồ họa khác với card đồ họa mà Drift sử dụng. Mọi khung hình đều được sao chép qua bộ nhớ hệ thống, tốc độ này chậm hơn so với việc giải mã trên card đồ họa vẽ.</translation>
+        <translation>%1 giải mã trên card đồ họa khác với card đồ họa mà V Cleb sử dụng. Mọi khung hình đều được sao chép qua bộ nhớ hệ thống, tốc độ này chậm hơn so với việc giải mã trên card đồ họa vẽ.</translation>
     </message>
     <message>
         <source>Auto</source>
@@ -9625,11 +9625,11 @@
     </message>
     <message>
         <source>Your graphics driver only provides %1. Drift&apos;s preview needs OpenGL 3.3.</source>
-        <translation>Driver đồ họa của bạn chỉ cung cấp %1. Bản xem trước của Drift cần OpenGL 3.3.</translation>
+        <translation>Driver đồ họa của bạn chỉ cung cấp %1. Bản xem trước của V Cleb cần OpenGL 3.3.</translation>
     </message>
     <message>
         <source>Drift could not start its GPU renderer, so the preview cannot draw.</source>
-        <translation>Drift không thể khởi động trình kết xuất GPU của nó nên bản xem trước không thể vẽ.</translation>
+        <translation>V Cleb không thể khởi động trình kết xuất GPU của nó nên bản xem trước không thể vẽ.</translation>
     </message>
     <message>
         <source>Debug info</source>
@@ -9768,15 +9768,15 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     </message>
     <message>
         <source>Launching Drift with prime-run (or DRI_PRIME=1) puts OpenGL on the same card as the decoder.</source>
-        <translation>Việc khởi chạy Drift với chế độ chạy chính (hoặc DRI_PRIME=1) sẽ đặt OpenGL trên cùng một card với bộ giải mã.</translation>
+        <translation>Việc khởi chạy V Cleb với chế độ chạy chính (hoặc DRI_PRIME=1) sẽ đặt OpenGL trên cùng một card với bộ giải mã.</translation>
     </message>
     <message>
         <source>Run Drift on the high-performance graphics card</source>
-        <translation>Chạy Drift trên card đồ họa hiệu năng cao</translation>
+        <translation>Chạy V Cleb trên card đồ họa hiệu năng cao</translation>
     </message>
     <message>
         <source>Set Drift to High performance in Windows Settings &gt; Display &gt; Graphics, then restart Drift.</source>
-        <translation>Đặt Drift ở chế độ Hiệu năng cao trong Cài đặt Windows &gt; Hiển thị &gt; Đồ họa, sau đó khởi động lại Drift.</translation>
+        <translation>Đặt V Cleb ở chế độ Hiệu năng cao trong Cài đặt Windows &gt; Hiển thị &gt; Đồ họa, sau đó khởi động lại V Cleb.</translation>
     </message>
     <message>
         <source>Open graphics settings</source>
@@ -9787,11 +9787,11 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     <name>Project</name>
     <message>
         <source>This project was saved by a newer version of Drift (project format %1; this build reads up to %2).</source>
-        <translation>Dự án này đã được lưu bằng phiên bản mới hơn của Drift (định dạng dự án %1; bản dựng này đọc tối đa %2).</translation>
+        <translation>Dự án này đã được lưu bằng phiên bản mới hơn của V Cleb (định dạng dự án %1; bản dựng này đọc tối đa %2).</translation>
     </message>
     <message>
         <source>This file isn’t a Drift project.</source>
-        <translation>Tệp này không phải là một dự án Drift.</translation>
+        <translation>Tệp này không phải là một dự án V Cleb.</translation>
     </message>
 </context>
 <context>
@@ -9806,11 +9806,11 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     </message>
     <message>
         <source>file is too short to be a Drift project</source>
-        <translation>tệp quá ngắn để trở thành một dự án Drift</translation>
+        <translation>tệp quá ngắn để trở thành một dự án V Cleb</translation>
     </message>
     <message>
         <source>not a Drift project (bad magic)</source>
-        <translation>không phải là một dự án Drift (ma thuật tồi tệ)</translation>
+        <translation>không phải là một dự án V Cleb (ma thuật tồi tệ)</translation>
     </message>
     <message>
         <source>unsupported container revision</source>
@@ -9838,7 +9838,7 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     </message>
     <message>
         <source>this project was saved by a newer version of Drift (format %1) — update to open it</source>
-        <translation>dự án này đã được lưu bằng phiên bản mới hơn của Drift (định dạng %1) — cập nhật để mở nó</translation>
+        <translation>dự án này đã được lưu bằng phiên bản mới hơn của V Cleb (định dạng %1) — cập nhật để mở nó</translation>
     </message>
     <message>
         <source>project blob table is not contiguous</source>
@@ -10734,7 +10734,7 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     </message>
     <message>
         <source>Drift will render a reversed copy of this clip so it plays back smoothly. You can keep editing while it runs.</source>
-        <translation>Drift sẽ hiển thị một bản sao đảo ngược của clip này để nó phát lại một cách mượt mà. Bạn có thể tiếp tục chỉnh sửa trong khi nó chạy.</translation>
+        <translation>V Cleb sẽ hiển thị một bản sao đảo ngược của clip này để nó phát lại một cách mượt mà. Bạn có thể tiếp tục chỉnh sửa trong khi nó chạy.</translation>
     </message>
     <message>
         <source>This can take a few minutes on longer clips.</source>
@@ -11073,11 +11073,11 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     </message>
     <message>
         <source>Which graphics card Drift runs on. High performance keeps video decoded on an NVIDIA card on that card; power saving uses less battery. Takes effect after restart.</source>
-        <translation>Drift chạy trên card đồ họa nào? Hiệu suất cao giúp giải mã video trên thẻ NVIDIA trên thẻ đó; tiết kiệm năng lượng sử dụng ít pin hơn. Có hiệu lực sau khi khởi động lại.</translation>
+        <translation>V Cleb chạy trên card đồ họa nào? Hiệu suất cao giúp giải mã video trên thẻ NVIDIA trên thẻ đó; tiết kiệm năng lượng sử dụng ít pin hơn. Có hiệu lực sau khi khởi động lại.</translation>
     </message>
     <message>
         <source>Choose which graphics card Drift runs on in Windows Settings, under Display &gt; Graphics. Takes effect after restart.</source>
-        <translation>Chọn card đồ họa mà Drift sử dụng trong Cài đặt Windows, trong mục Hiển thị &gt; Đồ họa. Thay đổi sẽ có hiệu lực sau khi khởi động lại.</translation>
+        <translation>Chọn card đồ họa mà V Cleb sử dụng trong Cài đặt Windows, trong mục Hiển thị &gt; Đồ họa. Thay đổi sẽ có hiệu lực sau khi khởi động lại.</translation>
     </message>
     <message>
         <source>Open graphics settings</source>
@@ -11121,7 +11121,7 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     </message>
     <message>
         <source>Restart Drift to apply this size.</source>
-        <translation>Khởi động lại Drift để áp dụng kích thước này.</translation>
+        <translation>Khởi động lại V Cleb để áp dụng kích thước này.</translation>
     </message>
     <message>
         <source>Horizontal mouse-wheel pan</source>
@@ -11169,7 +11169,7 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     </message>
     <message>
         <source>Ask GitHub once a day whether a newer Drift has been released</source>
-        <translation>Hỏi GitHub mỗi ngày một lần xem Drift mới hơn đã được phát hành chưa</translation>
+        <translation>Hỏi GitHub mỗi ngày một lần xem V Cleb mới hơn đã được phát hành chưa</translation>
     </message>
     <message>
         <source>Checking…</source>
@@ -11181,7 +11181,7 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     </message>
     <message>
         <source>Drift %1</source>
-        <translation>Drift %1</translation>
+        <translation>V Cleb %1</translation>
     </message>
     <message>
         <source>Extra packs</source>
@@ -11213,7 +11213,7 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     </message>
     <message>
         <source>Keys are stored unencrypted in Drift&apos;s settings. ELEVENLABS_API_KEY and FISH_API_KEY in the environment take precedence. Use is billed to your own account.</source>
-        <translation>Khóa được lưu trữ không được mã hóa trong cài đặt của Drift. ELEVENLABS_API_KEY và FISH_API_KEY trong môi trường được ưu tiên. Việc sử dụng được tính phí vào tài khoản của riêng bạn.</translation>
+        <translation>Khóa được lưu trữ không được mã hóa trong cài đặt của V Cleb. ELEVENLABS_API_KEY và FISH_API_KEY trong môi trường được ưu tiên. Việc sử dụng được tính phí vào tài khoản của riêng bạn.</translation>
     </message>
     <message>
         <source>Transcription (Scribe), voiceover, sound effects</source>
@@ -11257,7 +11257,7 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     </message>
     <message>
         <source>Needed before Drift or a connected agent can transcribe or generate audio with this service</source>
-        <translation>Cần thiết trước khi Drift hoặc tác nhân được kết nối có thể phiên âm hoặc tạo âm thanh bằng dịch vụ này</translation>
+        <translation>Cần thiết trước khi V Cleb hoặc tác nhân được kết nối có thể phiên âm hoặc tạo âm thanh bằng dịch vụ này</translation>
     </message>
     <message>
         <source>Default voice id</source>
@@ -12015,7 +12015,7 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     </message>
     <message>
         <source>Smooths camera shake. Drift scans the clip once, then renders a new video. Changing smoothness or tripod does not update the preview until you apply.</source>
-        <translation>Làm mượt hiện tượng rung lắc máy quay. Drift quét đoạn phim một lần, sau đó tạo video mới. Việc thay đổi độ mượt hoặc chân máy sẽ không cập nhật bản xem trước cho đến khi bạn áp dụng.</translation>
+        <translation>Làm mượt hiện tượng rung lắc máy quay. V Cleb quét đoạn phim một lần, sau đó tạo video mới. Việc thay đổi độ mượt hoặc chân máy sẽ không cập nhật bản xem trước cho đến khi bạn áp dụng.</translation>
     </message>
     <message>
         <source>Mode</source>
@@ -12544,7 +12544,7 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     <name>TextAssetsTab</name>
     <message>
         <source>Drift text style (*.drifttextstyle)</source>
-        <translation>Kiểu văn bản Drift (*.drifttextstyle)</translation>
+        <translation>Kiểu văn bản V Cleb (*.drifttextstyle)</translation>
     </message>
     <message>
         <source>Import text style</source>
@@ -14658,11 +14658,11 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     </message>
     <message>
         <source>Drift %1 is the latest version.</source>
-        <translation>Drift %1 là phiên bản mới nhất.</translation>
+        <translation>V Cleb %1 là phiên bản mới nhất.</translation>
     </message>
     <message>
         <source>Drift %1 is available.</source>
-        <translation>Drift %1 đang sẵn có.</translation>
+        <translation>V Cleb %1 đang sẵn có.</translation>
     </message>
 </context>
 <context>
@@ -14673,7 +14673,7 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
     </message>
     <message>
         <source>Drift %1 is available</source>
-        <translation>Drift %1 đang có sẵn</translation>
+        <translation>V Cleb %1 đang có sẵn</translation>
     </message>
     <message>
         <source>You have %1.</source>
@@ -15138,7 +15138,7 @@ Nếu phát lại bị giật, hãy thử cái khác.</translation>
         <source>Drift could not create an OpenGL context, so it cannot draw its interface or render the preview.
 
 Install or update your graphics driver.</source>
-        <translation>Drift không thể tạo ngữ cảnh OpenGL, nên không thể vẽ giao diện hoặc kết xuất bản xem trước.
+        <translation>V Cleb không thể tạo ngữ cảnh OpenGL, nên không thể vẽ giao diện hoặc kết xuất bản xem trước.
 
 Hãy cài đặt hoặc cập nhật driver đồ họa của bạn.</translation>
     </message>
@@ -15150,7 +15150,7 @@ Hãy cài đặt hoặc cập nhật driver đồ họa của bạn.</translatio
         <source>Drift could not create an OpenGL 3.3 core profile context, though this driver reports OpenGL %1.%2 (%3).
 
 The video preview cannot render. Updating your graphics driver may help.</source>
-        <translation>Drift không thể tạo ngữ cảnh hồ sơ nhân OpenGL 3.3, dù driver này báo cáo OpenGL %1.%2 (%3).
+        <translation>V Cleb không thể tạo ngữ cảnh hồ sơ nhân OpenGL 3.3, dù driver này báo cáo OpenGL %1.%2 (%3).
 
 Bản xem trước video không thể kết xuất. Cập nhật driver đồ họa của bạn có thể giúp ích.</translation>
     </message>
@@ -15162,21 +15162,21 @@ Bản xem trước video không thể kết xuất. Cập nhật driver đồ h�
         <source>Drift needs OpenGL 3.3, but this graphics driver only provides OpenGL %1.%2 (%3).
 
 The video preview cannot render, and Drift may not start at all. Update your graphics driver, or run Drift on a machine with a newer GPU.</source>
-        <translation>Drift cần OpenGL 3.3, nhưng driver đồ họa này chỉ cung cấp OpenGL %1.%2 (%3).
+        <translation>V Cleb cần OpenGL 3.3, nhưng driver đồ họa này chỉ cung cấp OpenGL %1.%2 (%3).
 
-Bản xem trước video không thể kết xuất, và Drift có thể không khởi động được. Cập nhật driver đồ họa của bạn, hoặc chạy Drift trên máy có GPU mới hơn.</translation>
+Bản xem trước video không thể kết xuất, và V Cleb có thể không khởi động được. Cập nhật driver đồ họa của bạn, hoặc chạy V Cleb trên máy có GPU mới hơn.</translation>
     </message>
     <message>
         <source>Drift is not drawing its window</source>
-        <translation>Drift không vẽ được cửa sổ của mình</translation>
+        <translation>V Cleb không vẽ được cửa sổ của mình</translation>
     </message>
     <message>
         <source>Drift has been running for %1 seconds but its window has not drawn anything yet.
 
 If the window is blank or black, your graphics driver is most likely outdated or faulty. Update it from your GPU vendor&apos;s website (AMD, NVIDIA or Intel) and start Drift again.</source>
-        <translation>Drift đã chạy được %1 giây nhưng cửa sổ của nó vẫn chưa vẽ gì cả.
+        <translation>V Cleb đã chạy được %1 giây nhưng cửa sổ của nó vẫn chưa vẽ gì cả.
 
-Nếu cửa sổ trống hoặc đen, driver đồ họa của bạn rất có thể đã lỗi thời hoặc bị lỗi. Hãy cập nhật driver từ trang web của nhà sản xuất GPU (AMD, NVIDIA hoặc Intel) rồi khởi động lại Drift.</translation>
+Nếu cửa sổ trống hoặc đen, driver đồ họa của bạn rất có thể đã lỗi thời hoặc bị lỗi. Hãy cập nhật driver từ trang web của nhà sản xuất GPU (AMD, NVIDIA hoặc Intel) rồi khởi động lại V Cleb.</translation>
     </message>
 </context>
 </TS>
