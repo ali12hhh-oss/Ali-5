@@ -18,9 +18,9 @@
 #   DRIFT_BUILD_ID              nightly build stamp, YYYYMMDD.<short sha>
 #   DRIFT_DISTRIBUTION          package type reported to the marketplace: android-github,
 #                               android-play, or source (default, local builds)
-#   DRIFT_ANDROID_PACKAGE_NAME  application id (default org.cutwire.drift.debug for a local
-#                               non-Release build, org.cutwire.drift for Release; CI uses .ci)
-#   DRIFT_ANDROID_APP_NAME      launcher label (default "Drift Debug" / "Drift", same rule)
+#   DRIFT_ANDROID_PACKAGE_NAME  application id (default com.vcleb.editor.debug for a local
+#                               non-Release build, com.vcleb.editor for Release; CI uses .ci)
+#   DRIFT_ANDROID_APP_NAME      launcher label (default "V Cleb Debug" / "V Cleb", same rule)
 #   DRIFT_ANDROID_VERSION_CODE  optional Play-Store integer; unset → CMake derives from
 #                               PROJECT_VERSION (same semver as desktop)
 #   QT_ANDROID_ABIS             semicolon-separated ABI list packaged into the APK/AAB.
@@ -67,11 +67,11 @@ esac
 # Both CI workflows set these explicitly, and a local `build.sh <abi> Release` still builds the
 # release identity.
 if [ "$BUILD_TYPE" = "Release" ]; then
-    : "${DRIFT_ANDROID_PACKAGE_NAME:=org.cutwire.drift}"
-    : "${DRIFT_ANDROID_APP_NAME:=Drift}"
+    : "${DRIFT_ANDROID_PACKAGE_NAME:=com.vcleb.editor}"
+    : "${DRIFT_ANDROID_APP_NAME:=V Cleb}"
 else
-    : "${DRIFT_ANDROID_PACKAGE_NAME:=org.cutwire.drift.debug}"
-    : "${DRIFT_ANDROID_APP_NAME:=Drift Debug}"
+    : "${DRIFT_ANDROID_PACKAGE_NAME:=com.vcleb.editor.debug}"
+    : "${DRIFT_ANDROID_APP_NAME:=V Cleb Debug}"
 fi
 # The package id and launcher label are set independently above, so the channel here only
 # decides the version string the app reports (0.7.0-nightly.<stamp>).
