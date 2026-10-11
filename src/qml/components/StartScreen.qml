@@ -162,12 +162,44 @@ Rectangle {
                 width: parent.width
                 spacing: Theme.spacingXs
 
-                Text {
-                    text: "Drift"
-                    color: Theme.foreground
-                    font.family: Theme.fontFamily
-                    font.pixelSize: 26
-                    font.weight: Font.Bold
+                Row {
+                    spacing: 6
+                    height: 32
+
+                    Text {
+                        text: "V"
+                        color: Theme.foreground
+                        font.family: Theme.fontFamily
+                        font.pixelSize: 26
+                        font.weight: Font.Bold
+                    }
+
+                    Rectangle {
+                        width: 24
+                        height: 24
+                        radius: 7
+                        anchors.verticalCenter: parent.verticalCenter
+                        gradient: Gradient {
+                            GradientStop { position: 0.0; color: "#8B5CF6" }
+                            GradientStop { position: 1.0; color: "#2563EB" }
+                        }
+
+                        Text {
+                            anchors.centerIn: parent
+                            text: "▶"
+                            color: "#FFFFFF"
+                            font.pixelSize: 11
+                            font.weight: Font.Bold
+                        }
+                    }
+
+                    Text {
+                        text: "Cleb"
+                        color: Theme.foreground
+                        font.family: Theme.fontFamily
+                        font.pixelSize: 26
+                        font.weight: Font.Bold
+                    }
                 }
 
                 Text {
