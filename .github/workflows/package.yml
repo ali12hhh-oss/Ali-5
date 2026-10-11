@@ -148,11 +148,11 @@ jobs:
 
       - name: Export bundle
         env:
-          APP_ID: ${{ inputs.channel == 'nightly' && 'org.cutwire.Drift.Nightly' || 'org.cutwire.Drift' }}
+          APP_ID: ${{ inputs.channel == 'nightly' && 'com.vcleb.editor.nightly' || 'com.vcleb.editor' }}
         run: |
           mkdir -p dist
           flatpak build-bundle "${{ runner.temp }}/flatpak-repo" \
-            "dist/Drift-${{ env.ASSET_LABEL }}.flatpak" \
+            "dist/V-Cleb-${{ env.ASSET_LABEL }}.flatpak" \
             "${APP_ID}"
 
       - name: Upload flatpak bundle
@@ -346,9 +346,9 @@ jobs:
           if [ "${{ inputs.channel }}" = "nightly" ]; then
             export LDAI_UPDATE_INFORMATION="gh-releases-zsync|${GITHUB_REPOSITORY/\//|}|nightly|V-Cleb-nightly-x86_64.AppImage.zsync"
           else
-            export LDAI_UPDATE_INFORMATION="gh-releases-zsync|${GITHUB_REPOSITORY/\//|}|latest|Drift-*-x86_64.AppImage.zsync"
+            export LDAI_UPDATE_INFORMATION="gh-releases-zsync|${GITHUB_REPOSITORY/\//|}|latest|V-Cleb-*-x86_64.AppImage.zsync"
           fi
-          export LDAI_OUTPUT="Drift-${{ env.ASSET_LABEL }}-x86_64.AppImage"
+          export LDAI_OUTPUT="V-Cleb-${{ env.ASSET_LABEL }}-x86_64.AppImage"
           # Drift's own QML is compiled into the binary, but the Qt Quick modules it imports are
           # not: without QML_SOURCES_PATHS the qt plugin has nothing to scan and ships an AppImage
           # whose every import fails at startup.
@@ -637,7 +637,7 @@ jobs:
         run: |
           New-Item -ItemType Directory -Force -Path dist | Out-Null
           $built = Get-ChildItem installer\windows\output\*.exe
-          Copy-Item $built.FullName "dist\Drift-Setup-${{ env.ASSET_LABEL }}-x64.exe" -Force
+          Copy-Item $built.FullName "dist\V-Cleb-Setup-${{ env.ASSET_LABEL }}-x64.exe" -Force
 
       - name: Upload installer artifact
         uses: actions/upload-artifact@v4
@@ -657,12 +657,12 @@ jobs:
       - name: Build portable zip
         shell: pwsh
         env:
-          FOLDER: ${{ inputs.channel == 'nightly' && 'Drift Nightly' || 'Drift' }}
+          FOLDER: ${{ inputs.channel == 'nightly' && 'V Cleb Nightly' || 'V Cleb' }}
         run: |
           New-Item -ItemType Directory -Force -Path "portable\$env:FOLDER", dist\portable | Out-Null
           Copy-Item dist\bin\* "portable\$env:FOLDER" -Recurse -Force
           & "$env:ProgramFiles\7-Zip\7z.exe" a -tzip -mx=9 `
-            "dist\portable\Drift-Portable-${{ env.ASSET_LABEL }}-x64.zip" ".\portable\$env:FOLDER"
+            "dist\portable\V-Cleb-Portable-${{ env.ASSET_LABEL }}-x64.zip" ".\portable\$env:FOLDER"
 
       - name: Upload portable artifact
         uses: actions/upload-artifact@v4
@@ -815,8 +815,8 @@ jobs:
       # nightly is renamed to the channel-constant asset name here.
       - name: Name the artifact for this release
         run: |
-          want="dist/Drift-${{ env.ASSET_LABEL }}-arm64.dmg"
-          for f in dist/Drift-*.dmg; do
+          want="dist/V-Cleb-${{ env.ASSET_LABEL }}-arm64.dmg"
+          for f in dist/V-Cleb-*.dmg; do
             [ "$f" = "$want" ] || mv "$f" "$want"
           done
 
