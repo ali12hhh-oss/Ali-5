@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>This is not a Drift effect file (%1).</source>
-        <translation>これは Drift エフェクトファイルではありません (%1)。</translation>
+        <translation>これは V Cleb エフェクトファイルではありません (%1)。</translation>
     </message>
 </context>
 <context>
@@ -60,7 +60,7 @@
     </message>
     <message>
         <source>Drift effect (*.driftfx)</source>
-        <translation>Drift エフェクト (*.driftfx)</translation>
+        <translation>V Cleb エフェクト (*.driftfx)</translation>
     </message>
     <message>
         <source>Install this transition?</source>
@@ -80,7 +80,7 @@
     </message>
     <message>
         <source>%1 was made by a user, not the Drift team, and nothing has checked it. Only install files you trust.</source>
-        <translation>%1 は Drift チームではなく、ユーザーによって作成されたものです。内容は確認されていません。信頼できるファイルのみインストールしてください。</translation>
+        <translation>%1 は V Cleb チームではなく、ユーザーによって作成されたものです。内容は確認されていません。信頼できるファイルのみインストールしてください。</translation>
     </message>
     <message>
         <source>Could not install “%1”: %2</source>
@@ -144,7 +144,7 @@
     </message>
     <message>
         <source>Restart Drift for this to take effect.</source>
-        <translation>この変更を有効にするには、Drift を再起動してください。</translation>
+        <translation>この変更を有効にするには、V Cleb を再起動してください。</translation>
     </message>
     <message>
         <source>Can&apos;t reach the download store</source>
@@ -180,7 +180,7 @@
     </message>
     <message>
         <source>Requires Drift %1 or newer</source>
-        <translation>Drift %1 以降が必要です</translation>
+        <translation>V Cleb %1 以降が必要です</translation>
     </message>
     <message>
         <source>%1 download</source>
@@ -223,7 +223,7 @@
     </message>
     <message>
         <source>Install the essential packs for effects, transitions, and audio. You can keep using Drift without them — installing unlocks updates when they improve.</source>
-        <translation>エフェクト、トランジション、オーディオに必須のパックをインストールします。これらがなくても Drift は使用できますが、インストールすると改善時のアップデートが利用可能になります。</translation>
+        <translation>エフェクト、トランジション、オーディオに必須のパックをインストールします。これらがなくても V Cleb は使用できますが、インストールすると改善時のアップデートが利用可能になります。</translation>
     </message>
     <message>
         <source>%1… %2%</source>
@@ -382,11 +382,11 @@
     </message>
     <message>
         <source>Skip the manual toggle next time you open Drift. Turning access off resets this.</source>
-        <translation>次回 Drift を開くときは、手動切り替えをスキップします。アクセスをオフにすると、これがリセットされます。</translation>
+        <translation>次回 V Cleb を開くときは、手動切り替えをスキップします。アクセスをオフにすると、これがリセットされます。</translation>
     </message>
     <message>
         <source>Let Cursor or Claude edit this project for you — add clips, change the timeline, and check how it looks. Only programs on this device. Off by default each time you open Drift, unless you turn on “Start agent on startup” below; turn it off here when you finish. The key stays the same between sessions, so a setup you pasted once keeps working.</source>
-        <translation>CursorやClaudeにこのプロジェクトの編集 (クリップの追加、タイムラインの変更、プレビュー確認など) を任せることができます。対象となるのは、このデバイス上のプログラムのみです。Drift を起動するたびにデフォルトでオフになりますが、以下の「起動時にエージェントを開始」を有効にしている場合は例外です。作業終了時には、ここでオフにしてください。キーはセッション間でも保持されるため、一度貼り付けた設定は引き続き機能します。</translation>
+        <translation>CursorやClaudeにこのプロジェクトの編集 (クリップの追加、タイムラインの変更、プレビュー確認など) を任せることができます。対象となるのは、このデバイス上のプログラムのみです。V Cleb を起動するたびにデフォルトでオフになりますが、以下の「起動時にエージェントを開始」を有効にしている場合は例外です。作業終了時には、ここでオフにしてください。キーはセッション間でも保持されるため、一度貼り付けた設定は引き続き機能します。</translation>
     </message>
 </context>
 <context>
@@ -630,7 +630,7 @@
     <name>AndroidEditor</name>
     <message>
         <source>Drift project (*.drift)</source>
-        <translation>Drift プロジェクト (*.drift)</translation>
+        <translation>V Cleb プロジェクト (*.drift)</translation>
     </message>
     <message>
         <source>Save Project</source>
@@ -833,7 +833,7 @@
     <name>AndroidMain</name>
     <message>
         <source>Drift project (*.drift)</source>
-        <translation>Drift プロジェクト (*.drift)</translation>
+        <translation>V Cleb プロジェクト (*.drift)</translation>
     </message>
     <message>
         <source>Save Project</source>
@@ -2106,7 +2106,7 @@
     </message>
     <message>
         <source>Faster preview takes effect after you restart Drift.</source>
-        <translation>高速プレビューは Drift 再起動後に有効になります。</translation>
+        <translation>高速プレビューは V Cleb 再起動後に有効になります。</translation>
     </message>
     <message>
         <source>System default</source>
@@ -2742,7 +2742,7 @@
     </message>
     <message>
         <source>The graphics card choice takes effect after you restart Drift.</source>
-        <translation>グラフィックカードの選択は、Driftを再起動した後に反映されます。</translation>
+        <translation>グラフィックカードの選択は、V Clebを再起動した後に反映されます。</translation>
     </message>
     <message>
         <source>No audio track available for recording</source>
@@ -3594,7 +3594,7 @@
     </message>
     <message>
         <source>This build of Drift has no video stabilization support</source>
-        <translation>このビルドの Drift はビデオの手ぶれ補正に対応していません</translation>
+        <translation>このビルドの V Cleb はビデオの手ぶれ補正に対応していません</translation>
     </message>
     <message>
         <source>Stabilization rendering failed.</source>
@@ -4711,7 +4711,7 @@
     <message numerus="yes">
         <source>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</source>
         <translation>
-            <numerusform>%1個のフォルダーにファイル%n個を読み込みました。Driftが形式を認識できないため、%2個のファイルをスキップしました。試すにはメディア一覧にドラッグしてください。</numerusform>
+            <numerusform>%1個のフォルダーにファイル%n個を読み込みました。V Clebが形式を認識できないため、%2個のファイルをスキップしました。試すにはメディア一覧にドラッグしてください。</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -5911,7 +5911,7 @@
     </message>
     <message>
         <source>Could not load Drift Assets. Check your connection and try again.</source>
-        <translation>Drift Assets を読み込めませんでした。接続を確認して再試行してください。</translation>
+        <translation>V Cleb Assets を読み込めませんでした。接続を確認して再試行してください。</translation>
     </message>
     <message>
         <source>That asset could not be installed.</source>
@@ -5962,7 +5962,7 @@
     </message>
     <message>
         <source>Couldn’t load Drift Assets</source>
-        <translation>Drift Assets を読み込めませんでした</translation>
+        <translation>V Cleb Assets を読み込めませんでした</translation>
     </message>
     <message>
         <source>Try again</source>
@@ -5974,7 +5974,7 @@
     </message>
     <message>
         <source>Drift Assets are still being published. Check back soon.</source>
-        <translation>Drift Assets は順次公開されています。しばらくしてからもう一度ご確認ください。</translation>
+        <translation>V Cleb Assets は順次公開されています。しばらくしてからもう一度ご確認ください。</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -5990,7 +5990,7 @@
     </message>
     <message>
         <source>No Drift Assets match “%1”.</source>
-        <translation>“%1” に一致する Drift Assets はありません。</translation>
+        <translation>“%1” に一致する V Cleb Assets はありません。</translation>
     </message>
     <message>
         <source>Search %1 for “%2”</source>
@@ -6001,7 +6001,7 @@
     <name>EditorHeader</name>
     <message>
         <source>Drift project (*.drift)</source>
-        <translation>Drift プロジェクト (*.drift)</translation>
+        <translation>V Cleb プロジェクト (*.drift)</translation>
     </message>
     <message>
         <source>Save Project</source>
@@ -6135,7 +6135,7 @@
     </message>
     <message>
         <source>Drift %1 is available</source>
-        <translation>Drift %1 が利用可能です</translation>
+        <translation>V Cleb %1 が利用可能です</translation>
     </message>
     <message>
         <source>Agent access</source>
@@ -6296,7 +6296,7 @@
     <name>EffectStacksSection</name>
     <message>
         <source>Drift effect stack (*.drifteffects)</source>
-        <translation>Drift エフェクトスタック (*.drifteffects)</translation>
+        <translation>V Cleb エフェクトスタック (*.drifteffects)</translation>
     </message>
     <message>
         <source>Import effect stack</source>
@@ -6905,7 +6905,7 @@
     </message>
     <message>
         <source>prop.json needs a newer version of Drift</source>
-        <translation>prop.json にはより新しいバージョンの Drift が必要です</translation>
+        <translation>prop.json にはより新しいバージョンの V Cleb が必要です</translation>
     </message>
     <message>
         <source>invalid prop id “%1”</source>
@@ -7028,7 +7028,7 @@
     </message>
     <message>
         <source>No face props installed. Import a .zip from Drift-Assets, or any folder of props that carry a prop.json.</source>
-        <translation>フェイスプロップがインストールされていません。Drift-Assets から .zip をインポートするか、prop.json を含むプロップのフォルダーをインポートしてください。</translation>
+        <translation>フェイスプロップがインストールされていません。V Cleb-Assets から .zip をインポートするか、prop.json を含むプロップのフォルダーをインポートしてください。</translation>
     </message>
     <message>
         <source>Custom model: %1 (missing)</source>
@@ -8273,7 +8273,7 @@
     </message>
     <message>
         <source>Everything here comes from third parties. Drift does not host, own or vet it — you are responsible for making sure you have the right to use whatever you download.</source>
-        <translation>提供されるコンテンツはすべてサードパーティによるものです。Drift がこれをホスト、所有、審査することはありません。ダウンロードした素材の使用権限の確認は利用者の責任で行ってください。</translation>
+        <translation>提供されるコンテンツはすべてサードパーティによるものです。V Cleb がこれをホスト、所有、審査することはありません。ダウンロードした素材の使用権限の確認は利用者の責任で行ってください。</translation>
     </message>
     <message>
         <source>I understand</source>
@@ -9508,11 +9508,11 @@
     <name>PlaybackEngine</name>
     <message>
         <source>%1 decodes on %2, but Drift draws on %3. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
-        <translation>%1 は %2 でデコードされますが、Drift は %3 で描画されます。すべてのフレームがシステムメモリを経由してコピーされるため、描画を行うグラフィックカード上でデコードするよりも処理速度が遅くなります。</translation>
+        <translation>%1 は %2 でデコードされますが、V Cleb は %3 で描画されます。すべてのフレームがシステムメモリを経由してコピーされるため、描画を行うグラフィックカード上でデコードするよりも処理速度が遅くなります。</translation>
     </message>
     <message>
         <source>%1 decodes on a different graphics card than the one Drift draws on. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
-        <translation>%1 は、Drift が描画を行うグラフィックカードとは別のグラフィックカード上でデコードを行います。各フレームはシステムメモリを経由してコピーされるため、描画を行うグラフィックカード上でデコードを行う場合よりも処理速度が遅くなります。</translation>
+        <translation>%1 は、V Cleb が描画を行うグラフィックカードとは別のグラフィックカード上でデコードを行います。各フレームはシステムメモリを経由してコピーされるため、描画を行うグラフィックカード上でデコードを行う場合よりも処理速度が遅くなります。</translation>
     </message>
     <message>
         <source>Auto</source>
@@ -9622,7 +9622,7 @@
     </message>
     <message>
         <source>Drift could not start its GPU renderer, so the preview cannot draw.</source>
-        <translation>Drift は GPU レンダラーを起動できなかったため、プレビューを描画できません。</translation>
+        <translation>V Cleb は GPU レンダラーを起動できなかったため、プレビューを描画できません。</translation>
     </message>
     <message>
         <source>Debug info</source>
@@ -9761,15 +9761,15 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Launching Drift with prime-run (or DRI_PRIME=1) puts OpenGL on the same card as the decoder.</source>
-        <translation>prime-run (または DRI_PRIME=1) を指定して Drift を起動すると、OpenGL がデコーダーと同じグラフィックカード上で動作するようになります。</translation>
+        <translation>prime-run (または DRI_PRIME=1) を指定して V Cleb を起動すると、OpenGL がデコーダーと同じグラフィックカード上で動作するようになります。</translation>
     </message>
     <message>
         <source>Run Drift on the high-performance graphics card</source>
-        <translation>高性能グラフィックスカードで Drift を実行する</translation>
+        <translation>高性能グラフィックスカードで V Cleb を実行する</translation>
     </message>
     <message>
         <source>Set Drift to High performance in Windows Settings &gt; Display &gt; Graphics, then restart Drift.</source>
-        <translation>Windows の設定 &gt; ディスプレイ &gt; グラフィックス で Drift を「ハイパフォーマンス」に設定し、Drift を再起動してください。</translation>
+        <translation>Windows の設定 &gt; ディスプレイ &gt; グラフィックス で V Cleb を「ハイパフォーマンス」に設定し、V Cleb を再起動してください。</translation>
     </message>
     <message>
         <source>Open graphics settings</source>
@@ -9780,11 +9780,11 @@ If playback stutters, try another.</source>
     <name>Project</name>
     <message>
         <source>This project was saved by a newer version of Drift (project format %1; this build reads up to %2).</source>
-        <translation>このプロジェクトは新しいバージョンの Drift で保存されました (プロジェクトフォーマット %1；このビルドは %2 まで読み取れます)。</translation>
+        <translation>このプロジェクトは新しいバージョンの V Cleb で保存されました (プロジェクトフォーマット %1；このビルドは %2 まで読み取れます)。</translation>
     </message>
     <message>
         <source>This file isn’t a Drift project.</source>
-        <translation>このファイルは Drift プロジェクトではありません。</translation>
+        <translation>このファイルは V Cleb プロジェクトではありません。</translation>
     </message>
 </context>
 <context>
@@ -9799,11 +9799,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>file is too short to be a Drift project</source>
-        <translation>ファイルが短すぎて Drift プロジェクトではありません</translation>
+        <translation>ファイルが短すぎて V Cleb プロジェクトではありません</translation>
     </message>
     <message>
         <source>not a Drift project (bad magic)</source>
-        <translation>Drift プロジェクトではありません (不正なマジック)</translation>
+        <translation>V Cleb プロジェクトではありません (不正なマジック)</translation>
     </message>
     <message>
         <source>unsupported container revision</source>
@@ -9831,7 +9831,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>this project was saved by a newer version of Drift (format %1) — update to open it</source>
-        <translation>このプロジェクトは新しいバージョンの Drift で保存されました (フォーマット %1) — 開くにはアップデートしてください</translation>
+        <translation>このプロジェクトは新しいバージョンの V Cleb で保存されました (フォーマット %1) — 開くにはアップデートしてください</translation>
     </message>
     <message>
         <source>project blob table is not contiguous</source>
@@ -10727,7 +10727,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Drift will render a reversed copy of this clip so it plays back smoothly. You can keep editing while it runs.</source>
-        <translation>Drift はこのクリップのリバースコピーをレンダリングして、スムーズに再生できるようにします。処理中も編集を続けられます。</translation>
+        <translation>V Cleb はこのクリップのリバースコピーをレンダリングして、スムーズに再生できるようにします。処理中も編集を続けられます。</translation>
     </message>
     <message>
         <source>This can take a few minutes on longer clips.</source>
@@ -11066,11 +11066,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Which graphics card Drift runs on. High performance keeps video decoded on an NVIDIA card on that card; power saving uses less battery. Takes effect after restart.</source>
-        <translation>Driftがどのグラフィックスカードで動作するかを設定します。ハイパフォーマンスにすると、NVIDIA カード上での動画デコード処理がそのカード内で行われます。省電力にすると、バッテリー消費が抑えられます。設定は再起動後に反映されます。</translation>
+        <translation>V Clebがどのグラフィックスカードで動作するかを設定します。ハイパフォーマンスにすると、NVIDIA カード上での動画デコード処理がそのカード内で行われます。省電力にすると、バッテリー消費が抑えられます。設定は再起動後に反映されます。</translation>
     </message>
     <message>
         <source>Choose which graphics card Drift runs on in Windows Settings, under Display &gt; Graphics. Takes effect after restart.</source>
-        <translation>Windows の設定の ディスプレイ &gt; グラフィックス で、Drift がどのグラフィックスカードで動作するかを選択します。再起動後に有効になります。</translation>
+        <translation>Windows の設定の ディスプレイ &gt; グラフィックス で、V Cleb がどのグラフィックスカードで動作するかを選択します。再起動後に有効になります。</translation>
     </message>
     <message>
         <source>Open graphics settings</source>
@@ -11114,7 +11114,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Restart Drift to apply this size.</source>
-        <translation>このサイズを適用するには Drift を再起動してください。</translation>
+        <translation>このサイズを適用するには V Cleb を再起動してください。</translation>
     </message>
     <message>
         <source>Horizontal mouse-wheel pan</source>
@@ -11162,7 +11162,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Ask GitHub once a day whether a newer Drift has been released</source>
-        <translation>1日1回 GitHub に新しい Drift がリリースされていないか問い合わせる</translation>
+        <translation>1日1回 GitHub に新しい V Cleb がリリースされていないか問い合わせる</translation>
     </message>
     <message>
         <source>Checking…</source>
@@ -11174,7 +11174,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Drift %1</source>
-        <translation>Drift %1</translation>
+        <translation>V Cleb %1</translation>
     </message>
     <message>
         <source>Extra packs</source>
@@ -11206,7 +11206,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Keys are stored unencrypted in Drift&apos;s settings. ELEVENLABS_API_KEY and FISH_API_KEY in the environment take precedence. Use is billed to your own account.</source>
-        <translation>キーは暗号化されずに Drift の設定に保存されます。環境変数の ELEVENLABS_API_KEY および FISH_API_KEY が優先されます。利用料金はお客様のアカウントに請求されます。</translation>
+        <translation>キーは暗号化されずに V Cleb の設定に保存されます。環境変数の ELEVENLABS_API_KEY および FISH_API_KEY が優先されます。利用料金はお客様のアカウントに請求されます。</translation>
     </message>
     <message>
         <source>Transcription (Scribe), voiceover, sound effects</source>
@@ -11250,7 +11250,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Needed before Drift or a connected agent can transcribe or generate audio with this service</source>
-        <translation>Drift や接続されたエージェントがこのサービスを使用して音声を文字起こしまたは生成できるようにするために必要です</translation>
+        <translation>V Cleb や接続されたエージェントがこのサービスを使用して音声を文字起こしまたは生成できるようにするために必要です</translation>
     </message>
     <message>
         <source>Default voice id</source>
@@ -12008,7 +12008,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Smooths camera shake. Drift scans the clip once, then renders a new video. Changing smoothness or tripod does not update the preview until you apply.</source>
-        <translation>カメラの揺れを滑らかにします。Drift はクリップを一度スキャンし、新しいビデオをレンダリングします。滑らかさや三脚モードを変更しても、適用するまでプレビューは更新されません。</translation>
+        <translation>カメラの揺れを滑らかにします。V Cleb はクリップを一度スキャンし、新しいビデオをレンダリングします。滑らかさや三脚モードを変更しても、適用するまでプレビューは更新されません。</translation>
     </message>
     <message>
         <source>Mode</source>
@@ -12536,7 +12536,7 @@ If playback stutters, try another.</source>
     <name>TextAssetsTab</name>
     <message>
         <source>Drift text style (*.drifttextstyle)</source>
-        <translation>Drift テキストスタイル (*.drifttextstyle)</translation>
+        <translation>V Cleb テキストスタイル (*.drifttextstyle)</translation>
     </message>
     <message>
         <source>Import text style</source>
@@ -14649,11 +14649,11 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Drift %1 is the latest version.</source>
-        <translation>Drift %1 は最新バージョンです。</translation>
+        <translation>V Cleb %1 は最新バージョンです。</translation>
     </message>
     <message>
         <source>Drift %1 is available.</source>
-        <translation>Drift %1 が利用可能です。</translation>
+        <translation>V Cleb %1 が利用可能です。</translation>
     </message>
 </context>
 <context>
@@ -14664,7 +14664,7 @@ If playback stutters, try another.</source>
     </message>
     <message>
         <source>Drift %1 is available</source>
-        <translation>Drift %1 が利用可能です</translation>
+        <translation>V Cleb %1 が利用可能です</translation>
     </message>
     <message>
         <source>You have %1.</source>
@@ -15129,7 +15129,7 @@ If playback stutters, try another.</source>
         <source>Drift could not create an OpenGL context, so it cannot draw its interface or render the preview.
 
 Install or update your graphics driver.</source>
-        <translation>Drift は OpenGL コンテキストを作成できなかったため、インターフェースの描画やプレビューのレンダリングを行うことができません。
+        <translation>V Cleb は OpenGL コンテキストを作成できなかったため、インターフェースの描画やプレビューのレンダリングを行うことができません。
 
 グラフィックスドライバーをインストールまたは更新してください。</translation>
     </message>
@@ -15141,7 +15141,7 @@ Install or update your graphics driver.</source>
         <source>Drift could not create an OpenGL 3.3 core profile context, though this driver reports OpenGL %1.%2 (%3).
 
 The video preview cannot render. Updating your graphics driver may help.</source>
-        <translation>Drift は OpenGL 3.3 コアプロファイルコンテキストを作成できませんでした (ただし、このドライバーは OpenGL %1.%2 (%3) を報告しています)。
+        <translation>V Cleb は OpenGL 3.3 コアプロファイルコンテキストを作成できませんでした (ただし、このドライバーは OpenGL %1.%2 (%3) を報告しています)。
 
 ビデオプレビューをレンダリングできません。グラフィックスドライバーを更新すると解決する可能性があります。</translation>
     </message>
@@ -15153,21 +15153,21 @@ The video preview cannot render. Updating your graphics driver may help.</source
         <source>Drift needs OpenGL 3.3, but this graphics driver only provides OpenGL %1.%2 (%3).
 
 The video preview cannot render, and Drift may not start at all. Update your graphics driver, or run Drift on a machine with a newer GPU.</source>
-        <translation>Drift には OpenGL 3.3 が必要ですが、現在のグラフィックスドライバーは OpenGL %1.%2 (%3)にしか対応していません。
+        <translation>V Cleb には OpenGL 3.3 が必要ですが、現在のグラフィックスドライバーは OpenGL %1.%2 (%3)にしか対応していません。
 
-そのため、ビデオプレビューをレンダリングできず、Drift が起動しない可能性があります。グラフィックスドライバーを更新するか、より新しい GPU を搭載したマシンで Drift を実行してください。</translation>
+そのため、ビデオプレビューをレンダリングできず、V Cleb が起動しない可能性があります。グラフィックスドライバーを更新するか、より新しい GPU を搭載したマシンで V Cleb を実行してください。</translation>
     </message>
     <message>
         <source>Drift is not drawing its window</source>
-        <translation>Drift がウィンドウを描画していません</translation>
+        <translation>V Cleb がウィンドウを描画していません</translation>
     </message>
     <message>
         <source>Drift has been running for %1 seconds but its window has not drawn anything yet.
 
 If the window is blank or black, your graphics driver is most likely outdated or faulty. Update it from your GPU vendor&apos;s website (AMD, NVIDIA or Intel) and start Drift again.</source>
-        <translation>Drift は %1 秒間実行されていますが、ウィンドウにはまだ何も描画されていません。
+        <translation>V Cleb は %1 秒間実行されていますが、ウィンドウにはまだ何も描画されていません。
 
-ウィンドウが空白または黒い場合、グラフィックスドライバーが古いか不具合がある可能性が高いです。GPU ベンダー (AMD、NVIDIA または Intel) の Web サイトからアップデートして、再度 Drift を起動してください。</translation>
+ウィンドウが空白または黒い場合、グラフィックスドライバーが古いか不具合がある可能性が高いです。GPU ベンダー (AMD、NVIDIA または Intel) の Web サイトからアップデートして、再度 V Cleb を起動してください。</translation>
     </message>
 </context>
 </TS>
