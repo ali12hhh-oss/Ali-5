@@ -89,7 +89,7 @@ set(DRIFT_MARKET_CLIENT_KEY "5409a0bebab4446f88e51d06024a5cf9a694ee141a6a1c6be7a
 # Set it to an empty string for builds a package manager owns — the Flatpak manifests and the Arch
 # PKGBUILD all do. There, pacman or flatpak fetches the update on its own schedule and an in-app
 # nag is noise the user cannot act on (Flathub's quality guidelines say as much).
-set(DRIFT_UPDATE_FEED_URL "https://api.github.com/repos/CutWire-Studios/Drift/releases/latest"
+set(DRIFT_UPDATE_FEED_URL ""
     CACHE STRING "Release feed polled for updates; empty disables the update check")
 
 # --- Release channel --------------------------------------------------------
@@ -108,11 +108,11 @@ if(NOT DRIFT_CHANNEL STREQUAL "stable" AND NOT DRIFT_CHANNEL STREQUAL "nightly")
     message(FATAL_ERROR "DRIFT_CHANNEL must be 'stable' or 'nightly', not '${DRIFT_CHANNEL}'")
 endif()
 
-set(DRIFT_APP_ID "org.cutwire.Drift")
+set(DRIFT_APP_ID "com.vcleb.editor")
 set(DRIFT_APP_NAME "V Cleb")
 set(DRIFT_VERSION_STRING "${PROJECT_VERSION}")
 if(DRIFT_CHANNEL STREQUAL "nightly")
-    set(DRIFT_APP_ID "org.cutwire.Drift.Nightly")
+    set(DRIFT_APP_ID "com.vcleb.editor.nightly")
     set(DRIFT_APP_NAME "V Cleb Nightly")
     # A local nightly configure with no stamp is still legible rather than "0.7.0-nightly.".
     if(DRIFT_BUILD_ID STREQUAL "")
@@ -120,7 +120,7 @@ if(DRIFT_CHANNEL STREQUAL "nightly")
     endif()
     set(DRIFT_VERSION_STRING "${PROJECT_VERSION}-nightly.${DRIFT_BUILD_ID}")
 endif()
-message(STATUS "Drift channel: ${DRIFT_CHANNEL} (${DRIFT_VERSION_STRING}, ${DRIFT_APP_ID})")
+message(STATUS "V Cleb channel: ${DRIFT_CHANNEL} (${DRIFT_VERSION_STRING}, ${DRIFT_APP_ID})")
 
 # Which package this build ships as. Sent to the marketplace so it can hide sources per store
 # (e.g. Play Store moderation) without a separate client build. Every packaging path sets it.
@@ -1282,7 +1282,7 @@ if(ANDROID)
         list(APPEND _drift_android_extra_libs "${_crypto}" "${_ssl}")
     endforeach()
 
-    set(DRIFT_ANDROID_PACKAGE_NAME "org.cutwire.drift" CACHE STRING
+    set(DRIFT_ANDROID_PACKAGE_NAME "com.vcleb.editor" CACHE STRING
         "Android application id (use org.cutwire.drift.ci for side-by-side test builds)")
     set(DRIFT_ANDROID_APP_NAME "V Cleb" CACHE STRING
         "Launcher label")
