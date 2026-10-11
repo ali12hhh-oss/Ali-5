@@ -1320,7 +1320,7 @@
     </message>
     <message>
         <source>Timeline</source>
-        <translation>المخطط الزمني</translation>
+        <translation>الخط الزمني</translation>
     </message>
     <message>
         <source>Snapping</source>
