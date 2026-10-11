@@ -28,7 +28,7 @@
         <translation>No se pudo leer ese archivo.</translation>
     </message>
     <message>
-        <source>This is not a V Cleb effect file (%1).</source>
+        <source>This is not a Drift effect file (%1).</source>
         <translation>Este no es un archivo de efectos de V Cleb (%1).</translation>
     </message>
 </context>
@@ -59,7 +59,7 @@
         <translation>Importar efecto</translation>
     </message>
     <message>
-        <source>V Cleb effect (*.driftfx)</source>
+        <source>Drift effect (*.driftfx)</source>
         <translation>Efecto de V Cleb (*.driftfx)</translation>
     </message>
     <message>
@@ -79,7 +79,7 @@
         <translation>«%1»</translation>
     </message>
     <message>
-        <source>%1 was made by a user, not the V Cleb team, and nothing has checked it. Only install files you trust.</source>
+        <source>%1 was made by a user, not the Drift team, and nothing has checked it. Only install files you trust.</source>
         <translation>%1 fue creado por un usuario, no por el equipo de V Cleb, y nadie lo ha verificado. Instala solo archivos de confianza.</translation>
     </message>
     <message>
@@ -143,7 +143,7 @@
         <translation>Instala un motor de IA a continuación para desbloquear subtítulos automáticos, recorte de sujetos, efectos faciales divertidos y eliminación de ruido.</translation>
     </message>
     <message>
-        <source>Restart V Cleb for this to take effect.</source>
+        <source>Restart Drift for this to take effect.</source>
         <translation>Reinicia V Cleb para que esto surta efecto.</translation>
     </message>
     <message>
@@ -179,7 +179,7 @@
         <translation>%1… %2%</translation>
     </message>
     <message>
-        <source>Requires V Cleb %1 or newer</source>
+        <source>Requires Drift %1 or newer</source>
         <translation>Requiere V Cleb %1 o posterior</translation>
     </message>
     <message>
@@ -222,7 +222,7 @@
         <translation>Paquetes recomendados</translation>
     </message>
     <message>
-        <source>Install the essential packs for effects, transitions, and audio. You can keep using V Cleb without them — installing unlocks updates when they improve.</source>
+        <source>Install the essential packs for effects, transitions, and audio. You can keep using Drift without them — installing unlocks updates when they improve.</source>
         <translation>Instala los paquetes esenciales para efectos, transiciones y audio. Puedes seguir usando V Cleb sin ellos; instalarlos desbloquea actualizaciones cuando mejoren.</translation>
     </message>
     <message>
@@ -381,11 +381,11 @@
         <translation>Iniciar agente al inicio</translation>
     </message>
     <message>
-        <source>Skip the manual toggle next time you open V Cleb. Turning access off resets this.</source>
+        <source>Skip the manual toggle next time you open Drift. Turning access off resets this.</source>
         <translation>Omite la activación manual la próxima vez que abras V Cleb. Desactivar el acceso restablece esto.</translation>
     </message>
     <message>
-        <source>Let Cursor or Claude edit this project for you — add clips, change the timeline, and check how it looks. Only programs on this device. Off by default each time you open V Cleb, unless you turn on “Start agent on startup” below; turn it off here when you finish. The key stays the same between sessions, so a setup you pasted once keeps working.</source>
+        <source>Let Cursor or Claude edit this project for you — add clips, change the timeline, and check how it looks. Only programs on this device. Off by default each time you open Drift, unless you turn on “Start agent on startup” below; turn it off here when you finish. The key stays the same between sessions, so a setup you pasted once keeps working.</source>
         <translation>Deja que Cursor o Claude editen este proyecto por ti — añade clips, cambia la línea de tiempo y comprueba cómo queda. Solo programas en este dispositivo. Desactivado por defecto cada vez que abres V Cleb, a menos que actives “Iniciar agente al inicio” más abajo; desactívalo aquí cuando termines. La clave se mantiene entre sesiones, por lo que una configuración que hayas pegado una vez seguirá funcionando.</translation>
     </message>
 </context>
@@ -629,7 +629,7 @@
 <context>
     <name>AndroidEditor</name>
     <message>
-        <source>V Cleb project (*.drift)</source>
+        <source>Drift project (*.drift)</source>
         <translation>Proyecto V Cleb (*.drift)</translation>
     </message>
     <message>
@@ -832,7 +832,7 @@
 <context>
     <name>AndroidMain</name>
     <message>
-        <source>V Cleb project (*.drift)</source>
+        <source>Drift project (*.drift)</source>
         <translation>Proyecto V Cleb (*.drift)</translation>
     </message>
     <message>
@@ -2108,7 +2108,7 @@
         <translation>Herramienta de corte</translation>
     </message>
     <message>
-        <source>Faster preview takes effect after you restart V Cleb.</source>
+        <source>Faster preview takes effect after you restart Drift.</source>
         <translation>La vista previa más rápida surtirá efecto después de reiniciar V Cleb.</translation>
     </message>
     <message>
@@ -2748,7 +2748,7 @@
         <translation>Alejar zoom</translation>
     </message>
     <message>
-        <source>The graphics card choice takes effect after you restart V Cleb.</source>
+        <source>The graphics card choice takes effect after you restart Drift.</source>
         <translation>La elección de la tarjeta gráfica surtirá efecto después de reiniciar V Cleb.</translation>
     </message>
     <message>
@@ -3600,7 +3600,7 @@
         <translation>Mejorando vídeo…</translation>
     </message>
     <message>
-        <source>This build of V Cleb has no video stabilization support</source>
+        <source>This build of Drift has no video stabilization support</source>
         <translation>Esta versión de V Cleb no admite la estabilización de vídeo</translation>
     </message>
     <message>
@@ -4724,7 +4724,7 @@
         </translation>
     </message>
     <message numerus="yes">
-        <source>Imported %n files into %1 folders. %2 files were skipped — V Cleb does not recognize their format. Drag them onto the bin to try anyway.</source>
+        <source>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</source>
         <translation>
             <numerusform>Se importaron %n archivos en %1 carpetas. Se omitieron %2 archivos porque V Cleb no reconoce su formato. Arrástralos al panel para intentarlo de todos modos.</numerusform>
             <numerusform>Se importaron %n archivos en %1 carpetas. Se omitieron %2 archivos porque V Cleb no reconoce su formato. Arrástralos al panel para intentarlo de todos modos.</numerusform>
@@ -5934,7 +5934,7 @@
         <translation>El mercado no está disponible en esta versión.</translation>
     </message>
     <message>
-        <source>Could not load V Cleb Assets. Check your connection and try again.</source>
+        <source>Could not load Drift Assets. Check your connection and try again.</source>
         <translation>No se pudo cargar V Cleb Assets. Comprueba tu conexión e inténtalo de nuevo.</translation>
     </message>
     <message>
@@ -5985,7 +5985,7 @@
         <translation>Añadido a la papelera de medios</translation>
     </message>
     <message>
-        <source>Couldn’t load V Cleb Assets</source>
+        <source>Couldn’t load Drift Assets</source>
         <translation>No se pudo cargar V Cleb Assets</translation>
     </message>
     <message>
@@ -5997,7 +5997,7 @@
         <translation>Aún no hay recursos aquí</translation>
     </message>
     <message>
-        <source>V Cleb Assets are still being published. Check back soon.</source>
+        <source>Drift Assets are still being published. Check back soon.</source>
         <translation>V Cleb Assets aún se está publicando. Vuelve pronto.</translation>
     </message>
     <message>
@@ -6013,7 +6013,7 @@
         <translation>Todos los recursos</translation>
     </message>
     <message>
-        <source>No V Cleb Assets match “%1”.</source>
+        <source>No Drift Assets match “%1”.</source>
         <translation>Ningún recurso de V Cleb coincide con “%1”.</translation>
     </message>
     <message>
@@ -6024,7 +6024,7 @@
 <context>
     <name>EditorHeader</name>
     <message>
-        <source>V Cleb project (*.drift)</source>
+        <source>Drift project (*.drift)</source>
         <translation>Proyecto V Cleb (*.drift)</translation>
     </message>
     <message>
@@ -6159,7 +6159,7 @@
         <translation>Actualizar</translation>
     </message>
     <message>
-        <source>V Cleb %1 is available</source>
+        <source>Drift %1 is available</source>
         <translation>V Cleb %1 está disponible</translation>
     </message>
     <message>
@@ -6320,7 +6320,7 @@
 <context>
     <name>EffectStacksSection</name>
     <message>
-        <source>V Cleb effect stack (*.drifteffects)</source>
+        <source>Drift effect stack (*.drifteffects)</source>
         <translation>Pila de efectos V Cleb (*.drifteffects)</translation>
     </message>
     <message>
@@ -6929,7 +6929,7 @@
         <translation>prop.json no es un accesorio facial</translation>
     </message>
     <message>
-        <source>prop.json needs a newer version of V Cleb</source>
+        <source>prop.json needs a newer version of Drift</source>
         <translation>prop.json necesita una versión más reciente de V Cleb</translation>
     </message>
     <message>
@@ -7052,7 +7052,7 @@
         <translation>Importar carpeta…</translation>
     </message>
     <message>
-        <source>No face props installed. Import a .zip from V Cleb-Assets, or any folder of props that carry a prop.json.</source>
+        <source>No face props installed. Import a .zip from Drift-Assets, or any folder of props that carry a prop.json.</source>
         <translation>No hay accesorios faciales instalados. Importa un .zip desde V Cleb-Assets o cualquier carpeta de accesorios que contenga un archivo prop.json.</translation>
     </message>
     <message>
@@ -8298,7 +8298,7 @@
         <translation>No podemos garantizar que una descarga tenga éxito, finalice o te ofrezca la calidad que elegiste. Algunos elementos simplemente fallarán.</translation>
     </message>
     <message>
-        <source>Everything here comes from third parties. V Cleb does not host, own or vet it — you are responsible for making sure you have the right to use whatever you download.</source>
+        <source>Everything here comes from third parties. Drift does not host, own or vet it — you are responsible for making sure you have the right to use whatever you download.</source>
         <translation>Todo lo que hay aquí procede de terceros. V Cleb no lo aloja, no es su propietario ni lo revisa — eres responsable de asegurarte de que tienes derecho a usar lo que descargues.</translation>
     </message>
     <message>
@@ -9546,11 +9546,11 @@
 <context>
     <name>PlaybackEngine</name>
     <message>
-        <source>%1 decodes on %2, but V Cleb draws on %3. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
+        <source>%1 decodes on %2, but Drift draws on %3. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
         <translation>%1 se descodifica en %2, pero V Cleb dibuja en %3. Cada fotograma se copia a través de la memoria del sistema, lo que es más lento que descodificar en la tarjeta gráfica que dibuja.</translation>
     </message>
     <message>
-        <source>%1 decodes on a different graphics card than the one V Cleb draws on. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
+        <source>%1 decodes on a different graphics card than the one Drift draws on. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
         <translation>%1 se descodifica en una tarjeta gráfica diferente de aquella en la que dibuja V Cleb. Cada fotograma se copia a través de la memoria del sistema, lo que es más lento que descodificar en la tarjeta gráfica que dibuja.</translation>
     </message>
     <message>
@@ -9656,11 +9656,11 @@
         <translation>Vista previa por GPU no disponible</translation>
     </message>
     <message>
-        <source>Your graphics driver only provides %1. V Cleb&apos;s preview needs OpenGL 3.3.</source>
+        <source>Your graphics driver only provides %1. Drift&apos;s preview needs OpenGL 3.3.</source>
         <translation>Tu controlador de gráficos solo proporciona %1. La vista previa de V Cleb necesita OpenGL 3.3.</translation>
     </message>
     <message>
-        <source>V Cleb could not start its GPU renderer, so the preview cannot draw.</source>
+        <source>Drift could not start its GPU renderer, so the preview cannot draw.</source>
         <translation>V Cleb no pudo iniciar su renderizador por GPU, por lo que la vista previa no puede dibujarse.</translation>
     </message>
     <message>
@@ -9799,15 +9799,15 @@ Si la reproducción se corta, prueba con otra opción.</translation>
         <translation>Cancelar</translation>
     </message>
     <message>
-        <source>Launching V Cleb with prime-run (or DRI_PRIME=1) puts OpenGL on the same card as the decoder.</source>
+        <source>Launching Drift with prime-run (or DRI_PRIME=1) puts OpenGL on the same card as the decoder.</source>
         <translation>Iniciar V Cleb con prime-run (o DRI_PRIME=1) sitúa OpenGL en la misma tarjeta que el descodificador.</translation>
     </message>
     <message>
-        <source>Run V Cleb on the high-performance graphics card</source>
+        <source>Run Drift on the high-performance graphics card</source>
         <translation>Ejecutar V Cleb en la tarjeta gráfica de alto rendimiento</translation>
     </message>
     <message>
-        <source>Set V Cleb to High performance in Windows Settings &gt; Display &gt; Graphics, then restart V Cleb.</source>
+        <source>Set Drift to High performance in Windows Settings &gt; Display &gt; Graphics, then restart Drift.</source>
         <translation>Configura V Cleb en «Alto rendimiento» en Configuración de Windows &gt; Pantalla &gt; Gráficos y reinicia V Cleb.</translation>
     </message>
     <message>
@@ -9818,11 +9818,11 @@ Si la reproducción se corta, prueba con otra opción.</translation>
 <context>
     <name>Project</name>
     <message>
-        <source>This project was saved by a newer version of V Cleb (project format %1; this build reads up to %2).</source>
+        <source>This project was saved by a newer version of Drift (project format %1; this build reads up to %2).</source>
         <translation>Este proyecto se guardó con una versión más reciente de V Cleb (formato de proyecto %1; esta versión lee hasta %2).</translation>
     </message>
     <message>
-        <source>This file isn’t a V Cleb project.</source>
+        <source>This file isn’t a Drift project.</source>
         <translation>Este archivo no es un proyecto V Cleb.</translation>
     </message>
 </context>
@@ -9837,11 +9837,11 @@ Si la reproducción se corta, prueba con otra opción.</translation>
         <translation>no se puede abrir %1</translation>
     </message>
     <message>
-        <source>file is too short to be a V Cleb project</source>
+        <source>file is too short to be a Drift project</source>
         <translation>el archivo es demasiado corto para ser un proyecto V Cleb</translation>
     </message>
     <message>
-        <source>not a V Cleb project (bad magic)</source>
+        <source>not a Drift project (bad magic)</source>
         <translation>no es un proyecto V Cleb (número mágico incorrecto)</translation>
     </message>
     <message>
@@ -9869,7 +9869,7 @@ Si la reproducción se corta, prueba con otra opción.</translation>
         <translation>el manifiesto del proyecto no tiene versión de formato</translation>
     </message>
     <message>
-        <source>this project was saved by a newer version of V Cleb (format %1) — update to open it</source>
+        <source>this project was saved by a newer version of Drift (format %1) — update to open it</source>
         <translation>este proyecto fue guardado por una versión más reciente de V Cleb (formato %1) — actualiza para abrirlo</translation>
     </message>
     <message>
@@ -10765,7 +10765,7 @@ Si la reproducción se corta, prueba con otra opción.</translation>
         <translation>Trabajando…</translation>
     </message>
     <message>
-        <source>V Cleb will render a reversed copy of this clip so it plays back smoothly. You can keep editing while it runs.</source>
+        <source>Drift will render a reversed copy of this clip so it plays back smoothly. You can keep editing while it runs.</source>
         <translation>V Cleb renderizará una copia invertida de este clip para que se reproduzca con fluidez. Puedes seguir editando mientras se procesa.</translation>
     </message>
     <message>
@@ -11104,11 +11104,11 @@ Si la reproducción se corta, prueba con otra opción.</translation>
         <translation>Alto rendimiento (GPU dedicada)</translation>
     </message>
     <message>
-        <source>Which graphics card V Cleb runs on. High performance keeps video decoded on an NVIDIA card on that card; power saving uses less battery. Takes effect after restart.</source>
+        <source>Which graphics card Drift runs on. High performance keeps video decoded on an NVIDIA card on that card; power saving uses less battery. Takes effect after restart.</source>
         <translation>En qué tarjeta gráfica se ejecuta V Cleb. Alto rendimiento mantiene el vídeo descodificado en una tarjeta NVIDIA en esa misma tarjeta; ahorro de energía usa menos batería. Surte efecto tras reiniciar.</translation>
     </message>
     <message>
-        <source>Choose which graphics card V Cleb runs on in Windows Settings, under Display &gt; Graphics. Takes effect after restart.</source>
+        <source>Choose which graphics card Drift runs on in Windows Settings, under Display &gt; Graphics. Takes effect after restart.</source>
         <translation>Elige la tarjeta gráfica que usa V Cleb en Configuración de Windows, en Pantalla &gt; Gráficos. El cambio se aplica al reiniciar.</translation>
     </message>
     <message>
@@ -11152,7 +11152,7 @@ Si la reproducción se corta, prueba con otra opción.</translation>
         <translation>Hace que los botones, el texto y los iconos sean más grandes. Es una escala adicional sobre el tamaño ya configurado en la pantalla. Surte efecto tras reiniciar.</translation>
     </message>
     <message>
-        <source>Restart V Cleb to apply this size.</source>
+        <source>Restart Drift to apply this size.</source>
         <translation>Reinicia V Cleb para aplicar este tamaño.</translation>
     </message>
     <message>
@@ -11200,7 +11200,7 @@ Si la reproducción se corta, prueba con otra opción.</translation>
         <translation>Comprobar al iniciar</translation>
     </message>
     <message>
-        <source>Ask GitHub once a day whether a newer V Cleb has been released</source>
+        <source>Ask GitHub once a day whether a newer Drift has been released</source>
         <translation>Consultar en GitHub una vez al día si se ha publicado un V Cleb más reciente</translation>
     </message>
     <message>
@@ -11212,7 +11212,7 @@ Si la reproducción se corta, prueba con otra opción.</translation>
         <translation>Comprobar ahora</translation>
     </message>
     <message>
-        <source>V Cleb %1</source>
+        <source>Drift %1</source>
         <translation>V Cleb %1</translation>
     </message>
     <message>
@@ -11244,7 +11244,7 @@ Si la reproducción se corta, prueba con otra opción.</translation>
         <translation>Proveedores en la nube</translation>
     </message>
     <message>
-        <source>Keys are stored unencrypted in V Cleb&apos;s settings. ELEVENLABS_API_KEY and FISH_API_KEY in the environment take precedence. Use is billed to your own account.</source>
+        <source>Keys are stored unencrypted in Drift&apos;s settings. ELEVENLABS_API_KEY and FISH_API_KEY in the environment take precedence. Use is billed to your own account.</source>
         <translation>Las claves se guardan sin cifrar en la configuración de V Cleb. ELEVENLABS_API_KEY y FISH_API_KEY en el entorno tienen prioridad. El uso se factura a tu propia cuenta.</translation>
     </message>
     <message>
@@ -11288,7 +11288,7 @@ Si la reproducción se corta, prueba con otra opción.</translation>
         <translation>Permitir enviar audio y texto a %1</translation>
     </message>
     <message>
-        <source>Needed before V Cleb or a connected agent can transcribe or generate audio with this service</source>
+        <source>Needed before Drift or a connected agent can transcribe or generate audio with this service</source>
         <translation>Necesario antes de que V Cleb o un agente conectado puedan transcribir o generar audio con este servicio</translation>
     </message>
     <message>
@@ -12046,7 +12046,7 @@ Si la reproducción se corta, prueba con otra opción.</translation>
         <translation>Suaviza el temblor de la cámara escribiendo fotogramas clave de posición. Los desplazamientos panorámicos lineales quedan como dos fotogramas separados; solo los cambios de dirección reciben fotogramas adicionales. Cambiar la suavidad o el trípode no actualiza la vista previa hasta que apliques.</translation>
     </message>
     <message>
-        <source>Smooths camera shake. V Cleb scans the clip once, then renders a new video. Changing smoothness or tripod does not update the preview until you apply.</source>
+        <source>Smooths camera shake. Drift scans the clip once, then renders a new video. Changing smoothness or tripod does not update the preview until you apply.</source>
         <translation>Suaviza el temblor de la cámara. V Cleb analiza el clip una vez y luego renderiza un nuevo vídeo. Cambiar la suavidad o el trípode no actualiza la vista previa hasta que apliques.</translation>
     </message>
     <message>
@@ -12577,7 +12577,7 @@ Si la reproducción se corta, prueba con otra opción.</translation>
 <context>
     <name>TextAssetsTab</name>
     <message>
-        <source>V Cleb text style (*.drifttextstyle)</source>
+        <source>Drift text style (*.drifttextstyle)</source>
         <translation>Estilo de texto V Cleb (*.drifttextstyle)</translation>
     </message>
     <message>
@@ -14694,11 +14694,11 @@ Si la reproducción se corta, prueba con otra opción.</translation>
         <translation>No se pudieron buscar actualizaciones: respuesta inesperada.</translation>
     </message>
     <message>
-        <source>V Cleb %1 is the latest version.</source>
+        <source>Drift %1 is the latest version.</source>
         <translation>V Cleb %1 es la versión más reciente.</translation>
     </message>
     <message>
-        <source>V Cleb %1 is available.</source>
+        <source>Drift %1 is available.</source>
         <translation>V Cleb %1 está disponible.</translation>
     </message>
 </context>
@@ -14709,7 +14709,7 @@ Si la reproducción se corta, prueba con otra opción.</translation>
         <translation>Actualización disponible</translation>
     </message>
     <message>
-        <source>V Cleb %1 is available</source>
+        <source>Drift %1 is available</source>
         <translation>V Cleb %1 está disponible</translation>
     </message>
     <message>
@@ -15172,7 +15172,7 @@ Si la reproducción se corta, prueba con otra opción.</translation>
         <translation>Sin controlador OpenGL</translation>
     </message>
     <message>
-        <source>V Cleb could not create an OpenGL context, so it cannot draw its interface or render the preview.
+        <source>Drift could not create an OpenGL context, so it cannot draw its interface or render the preview.
 
 Install or update your graphics driver.</source>
         <translation>V Cleb no pudo crear un contexto OpenGL, por lo que no puede dibujar su interfaz ni renderizar la vista previa.
@@ -15184,7 +15184,7 @@ Instala o actualiza el controlador gráfico.</translation>
         <translation>Contexto OpenGL no disponible</translation>
     </message>
     <message>
-        <source>V Cleb could not create an OpenGL 3.3 core profile context, though this driver reports OpenGL %1.%2 (%3).
+        <source>Drift could not create an OpenGL 3.3 core profile context, though this driver reports OpenGL %1.%2 (%3).
 
 The video preview cannot render. Updating your graphics driver may help.</source>
         <translation>V Cleb no pudo crear un contexto de perfil principal de OpenGL 3.3, aunque este controlador indica OpenGL %1.%2 (%3).
@@ -15196,21 +15196,21 @@ La vista previa de vídeo no se puede renderizar. Actualizar el controlador grá
         <translation>El controlador gráfico es demasiado antiguo</translation>
     </message>
     <message>
-        <source>V Cleb needs OpenGL 3.3, but this graphics driver only provides OpenGL %1.%2 (%3).
+        <source>Drift needs OpenGL 3.3, but this graphics driver only provides OpenGL %1.%2 (%3).
 
-The video preview cannot render, and V Cleb may not start at all. Update your graphics driver, or run V Cleb on a machine with a newer GPU.</source>
+The video preview cannot render, and Drift may not start at all. Update your graphics driver, or run Drift on a machine with a newer GPU.</source>
         <translation>V Cleb necesita OpenGL 3.3, pero este controlador gráfico solo proporciona OpenGL %1.%2 (%3).
 
 La vista previa de vídeo no se puede renderizar y es posible que V Cleb no se inicie en absoluto. Actualiza el controlador gráfico o ejecuta V Cleb en un equipo con una GPU más reciente.</translation>
     </message>
     <message>
-        <source>V Cleb is not drawing its window</source>
+        <source>Drift is not drawing its window</source>
         <translation>V Cleb no está dibujando su ventana</translation>
     </message>
     <message>
-        <source>V Cleb has been running for %1 seconds but its window has not drawn anything yet.
+        <source>Drift has been running for %1 seconds but its window has not drawn anything yet.
 
-If the window is blank or black, your graphics driver is most likely outdated or faulty. Update it from your GPU vendor&apos;s website (AMD, NVIDIA or Intel) and start V Cleb again.</source>
+If the window is blank or black, your graphics driver is most likely outdated or faulty. Update it from your GPU vendor&apos;s website (AMD, NVIDIA or Intel) and start Drift again.</source>
         <translation>V Cleb lleva ejecutándose %1 segundos, pero su ventana aún no ha dibujado nada.
 
 Si la ventana está en blanco o en negro, lo más probable es que tu controlador gráfico esté desactualizado o sea defectuoso. Actualízalo desde el sitio web del fabricante de tu GPU (AMD, NVIDIA o Intel) e inicia V Cleb de nuevo.</translation>
