@@ -217,7 +217,7 @@ Item {
                         { id: "integrated", label: qsTr("Power saving (integrated GPU)") },
                         { id: "discrete", label: qsTr("High performance (discrete GPU)") }
                     ]
-                    tooltip: qsTr("Which graphics card Drift runs on. High performance keeps video decoded on an NVIDIA card on that card; power saving uses less battery. Takes effect after restart.")
+                    tooltip: qsTr("Which graphics card V Cleb runs on. High performance keeps video decoded on an NVIDIA card on that card; power saving uses less battery. Takes effect after restart.")
                     currentIndex: {
                         for (var i = 0; i < model.length; ++i) {
                             if (model[i].id === EditorState.preferredGpu)
@@ -236,7 +236,7 @@ Item {
                 ThemedLabel {
                     visible: EditorState.gpuPreferenceInSystemSettings
                     width: parent.width
-                    text: qsTr("Choose which graphics card Drift runs on in Windows Settings, under "
+                    text: qsTr("Choose which graphics card V Cleb runs on in Windows Settings, under "
                                + "Display > Graphics. Takes effect after restart.")
                 }
 
@@ -330,7 +330,7 @@ Item {
                 ThemedLabel {
                     width: parent.width
                     visible: EditorState.uiScaleNeedsRestart
-                    text: qsTr("Restart Drift to apply this size.")
+                    text: qsTr("Restart V Cleb to apply this size.")
                     color: Theme.panelSecondaryForeground
                 }
 
@@ -406,7 +406,7 @@ Item {
                     ThemedSwitch {
                         checked: Updates.enabled
                         text: qsTr("Check on startup")
-                        tooltip: qsTr("Ask GitHub once a day whether a newer Drift has been released")
+                        tooltip: qsTr("Ask GitHub once a day whether a newer V Cleb has been released")
                         onToggled: Updates.enabled = checked
                     }
 
@@ -428,7 +428,7 @@ Item {
                             anchors.verticalCenter: parent.verticalCenter
                             text: Updates.status.length > 0
                                   ? Updates.status
-                                  : qsTr("Drift %1").arg(Updates.currentVersion)
+                                  : qsTr("V Cleb %1").arg(Updates.currentVersion)
                         }
                     }
                 }
@@ -485,7 +485,7 @@ Item {
                     width: parent.width
                     wrapMode: Text.Wrap
                     color: Theme.mutedForeground
-                    text: qsTr("Keys are stored unencrypted in Drift's settings. ELEVENLABS_API_KEY and FISH_API_KEY in the environment take precedence. Use is billed to your own account.")
+                    text: qsTr("Keys are stored unencrypted in V Cleb's settings. ELEVENLABS_API_KEY and FISH_API_KEY in the environment take precedence. Use is billed to your own account.")
                 }
 
                 Repeater {
@@ -591,7 +591,7 @@ Item {
                         ThemedSwitch {
                             checked: { void provider.rev; return provider.cloud.consent(provider.modelData.id) }
                             text: qsTr("Allow sending audio and text to %1").arg(provider.modelData.name)
-                            tooltip: qsTr("Needed before Drift or a connected agent can transcribe or generate audio with this service")
+                            tooltip: qsTr("Needed before V Cleb or a connected agent can transcribe or generate audio with this service")
                             onToggled: provider.cloud.setConsent(provider.modelData.id, checked)
                         }
 
