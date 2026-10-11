@@ -214,7 +214,7 @@ void UpdateChecker::applyRelease(const QByteArray &json, bool manual)
         m_releaseUrl.clear();
         emit resultChanged();
         if (manual)
-            setStatus(tr("Drift %1 is the latest version.").arg(kCurrentVersion));
+            setStatus(tr("V Cleb %1 is the latest version.").arg(kCurrentVersion));
         return;
     }
 
@@ -223,5 +223,5 @@ void UpdateChecker::applyRelease(const QByteArray &json, bool manual)
     m_releaseUrl = release.value(QStringLiteral("html_url")).toString();
     emit resultChanged();
     if (manual)
-        setStatus(tr("Drift %1 is available.").arg(version));
+        setStatus(tr("V Cleb %1 is available.").arg(version));
 }
