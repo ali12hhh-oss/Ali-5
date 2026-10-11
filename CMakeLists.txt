@@ -130,7 +130,7 @@ set_property(CACHE DRIFT_DISTRIBUTION PROPERTY STRINGS ${DRIFT_DISTRIBUTIONS})
 if(NOT DRIFT_DISTRIBUTION IN_LIST DRIFT_DISTRIBUTIONS)
     message(FATAL_ERROR "DRIFT_DISTRIBUTION must be one of ${DRIFT_DISTRIBUTIONS}, not '${DRIFT_DISTRIBUTION}'")
 endif()
-message(STATUS "Drift distribution: ${DRIFT_DISTRIBUTION}")
+message(STATUS "V Cleb distribution: ${DRIFT_DISTRIBUTION}")
 
 find_package(Qt6 6.10 REQUIRED COMPONENTS Quick QuickControls2 Multimedia Test Concurrent Widgets OpenGL Network QuickEffects Svg Xml)
 find_package(Qt6 COMPONENTS LinguistTools QUIET)
