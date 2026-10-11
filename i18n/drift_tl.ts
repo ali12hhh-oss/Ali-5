@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>This is not a Drift effect file (%1).</source>
-        <translation>Hindi ito Drift effect file (%1).</translation>
+        <translation>Hindi ito V Cleb effect file (%1).</translation>
     </message>
 </context>
 <context>
@@ -60,7 +60,7 @@
     </message>
     <message>
         <source>Drift effect (*.driftfx)</source>
-        <translation>Drift effect (*.driftfx)</translation>
+        <translation>V Cleb effect (*.driftfx)</translation>
     </message>
     <message>
         <source>Install this transition?</source>
@@ -80,7 +80,7 @@
     </message>
     <message>
         <source>%1 was made by a user, not the Drift team, and nothing has checked it. Only install files you trust.</source>
-        <translation>Ang %1 ay ginawa ng isang user, hindi ng Drift team, at hindi ito nasuri. Mag-install lamang ng mga file na pinagkakatiwalaan mo.</translation>
+        <translation>Ang %1 ay ginawa ng isang user, hindi ng V Cleb team, at hindi ito nasuri. Mag-install lamang ng mga file na pinagkakatiwalaan mo.</translation>
     </message>
     <message>
         <source>Could not install “%1”: %2</source>
@@ -144,7 +144,7 @@
     </message>
     <message>
         <source>Restart Drift for this to take effect.</source>
-        <translation>I-restart ang Drift para magkabisa ito.</translation>
+        <translation>I-restart ang V Cleb para magkabisa ito.</translation>
     </message>
     <message>
         <source>Can&apos;t reach the download store</source>
@@ -180,7 +180,7 @@
     </message>
     <message>
         <source>Requires Drift %1 or newer</source>
-        <translation>Kailangan ang Drift %1 o mas bago</translation>
+        <translation>Kailangan ang V Cleb %1 o mas bago</translation>
     </message>
     <message>
         <source>%1 download</source>
@@ -223,7 +223,7 @@
     </message>
     <message>
         <source>Install the essential packs for effects, transitions, and audio. You can keep using Drift without them — installing unlocks updates when they improve.</source>
-        <translation>I-install ang mga mahahalagang pakete para sa mga epekto, pagbabagong-kalagayan, at audyo. Maaari mo pa ring gamitin ang Drift nang wala ang mga ito — nagbibigay-daan ang pag-i-install sa mga update kapag gumanda ang mga ito.</translation>
+        <translation>I-install ang mga mahahalagang pakete para sa mga epekto, pagbabagong-kalagayan, at audyo. Maaari mo pa ring gamitin ang V Cleb nang wala ang mga ito — nagbibigay-daan ang pag-i-install sa mga update kapag gumanda ang mga ito.</translation>
     </message>
     <message>
         <source>%1… %2%</source>
@@ -382,11 +382,11 @@
     </message>
     <message>
         <source>Skip the manual toggle next time you open Drift. Turning access off resets this.</source>
-        <translation>Laktawan ang manu-manong pag-toggle sa susunod na buksan mo ang Drift. Nare-reset ito kapag ini-off ang access.</translation>
+        <translation>Laktawan ang manu-manong pag-toggle sa susunod na buksan mo ang V Cleb. Nare-reset ito kapag ini-off ang access.</translation>
     </message>
     <message>
         <source>Let Cursor or Claude edit this project for you — add clips, change the timeline, and check how it looks. Only programs on this device. Off by default each time you open Drift, unless you turn on “Start agent on startup” below; turn it off here when you finish. The key stays the same between sessions, so a setup you pasted once keeps working.</source>
-        <translation>Hayaang baguhin ng Cursor o Claude ang proyektong ito para sa iyo — magdagdag ng mga clip, baguhin ang timeline, at tingnan kung ano ang itsura nito. Mga programa lang sa device na ito. Naka-off bilang default sa bawat oras na buksan mo ang Drift, maliban kung i-on mo ang “Simulan ang agent sa pag-startup” sa ibaba; i-off ito rito kapag natapos ka na. Nananatiling pareho ang key sa bawat sesyon, kaya patuloy na gagana ang setup na minsan mong na-paste.</translation>
+        <translation>Hayaang baguhin ng Cursor o Claude ang proyektong ito para sa iyo — magdagdag ng mga clip, baguhin ang timeline, at tingnan kung ano ang itsura nito. Mga programa lang sa device na ito. Naka-off bilang default sa bawat oras na buksan mo ang V Cleb, maliban kung i-on mo ang “Simulan ang agent sa pag-startup” sa ibaba; i-off ito rito kapag natapos ka na. Nananatiling pareho ang key sa bawat sesyon, kaya patuloy na gagana ang setup na minsan mong na-paste.</translation>
     </message>
 </context>
 <context>
@@ -630,7 +630,7 @@
     <name>AndroidEditor</name>
     <message>
         <source>Drift project (*.drift)</source>
-        <translation>Proyekto ng Drift (*.drift)</translation>
+        <translation>Proyekto ng V Cleb (*.drift)</translation>
     </message>
     <message>
         <source>Save Project</source>
@@ -833,7 +833,7 @@
     <name>AndroidMain</name>
     <message>
         <source>Drift project (*.drift)</source>
-        <translation>Proyektong Drift (*.drift)</translation>
+        <translation>Proyektong V Cleb (*.drift)</translation>
     </message>
     <message>
         <source>Save Project</source>
@@ -2109,7 +2109,7 @@
     </message>
     <message>
         <source>Faster preview takes effect after you restart Drift.</source>
-        <translation>Magkakabisa ang mas mabilis na preview pagkatapos i-restart ang Drift.</translation>
+        <translation>Magkakabisa ang mas mabilis na preview pagkatapos i-restart ang V Cleb.</translation>
     </message>
     <message>
         <source>System default</source>
@@ -2749,7 +2749,7 @@
     </message>
     <message>
         <source>The graphics card choice takes effect after you restart Drift.</source>
-        <translation>Magkakabisa ang pagpili ng graphics card pagkatapos i-restart ang Drift.</translation>
+        <translation>Magkakabisa ang pagpili ng graphics card pagkatapos i-restart ang V Cleb.</translation>
     </message>
     <message>
         <source>No audio track available for recording</source>
@@ -3601,7 +3601,7 @@
     </message>
     <message>
         <source>This build of Drift has no video stabilization support</source>
-        <translation>Walang suporta sa video stabilization ang build na ito ng Drift</translation>
+        <translation>Walang suporta sa video stabilization ang build na ito ng V Cleb</translation>
     </message>
     <message>
         <source>Stabilization rendering failed.</source>
@@ -4726,8 +4726,8 @@
     <message numerus="yes">
         <source>Imported %n files into %1 folders. %2 files were skipped — Drift does not recognize their format. Drag them onto the bin to try anyway.</source>
         <translation>
-            <numerusform>Na-import ang %n file sa %1 folder. Nilaktawan ang %2 file dahil hindi kinikilala ng Drift ang format. I-drag ang mga ito sa media bin para subukan pa rin.</numerusform>
-            <numerusform>Na-import ang %n file sa %1 folder. Nilaktawan ang %2 file dahil hindi kinikilala ng Drift ang format. I-drag ang mga ito sa media bin para subukan pa rin.</numerusform>
+            <numerusform>Na-import ang %n file sa %1 folder. Nilaktawan ang %2 file dahil hindi kinikilala ng V Cleb ang format. I-drag ang mga ito sa media bin para subukan pa rin.</numerusform>
+            <numerusform>Na-import ang %n file sa %1 folder. Nilaktawan ang %2 file dahil hindi kinikilala ng V Cleb ang format. I-drag ang mga ito sa media bin para subukan pa rin.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -5935,7 +5935,7 @@
     </message>
     <message>
         <source>Could not load Drift Assets. Check your connection and try again.</source>
-        <translation>Hindi ma-load ang Drift Assets. Suriin ang koneksyon at subukan muli.</translation>
+        <translation>Hindi ma-load ang V Cleb Assets. Suriin ang koneksyon at subukan muli.</translation>
     </message>
     <message>
         <source>That asset could not be installed.</source>
@@ -5986,7 +5986,7 @@
     </message>
     <message>
         <source>Couldn’t load Drift Assets</source>
-        <translation>Hindi ma-load ang Drift Assets</translation>
+        <translation>Hindi ma-load ang V Cleb Assets</translation>
     </message>
     <message>
         <source>Try again</source>
@@ -5998,7 +5998,7 @@
     </message>
     <message>
         <source>Drift Assets are still being published. Check back soon.</source>
-        <translation>Patuloy pang inilalabas ang Drift Assets. Bumalik muli sa ibang pagkakataon.</translation>
+        <translation>Patuloy pang inilalabas ang V Cleb Assets. Bumalik muli sa ibang pagkakataon.</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -6014,7 +6014,7 @@
     </message>
     <message>
         <source>No Drift Assets match “%1”.</source>
-        <translation>Walang Drift Assets na tumutugma sa “%1”.</translation>
+        <translation>Walang V Cleb Assets na tumutugma sa “%1”.</translation>
     </message>
     <message>
         <source>Search %1 for “%2”</source>
@@ -6025,7 +6025,7 @@
     <name>EditorHeader</name>
     <message>
         <source>Drift project (*.drift)</source>
-        <translation>Proyekto ng Drift (*.drift)</translation>
+        <translation>Proyekto ng V Cleb (*.drift)</translation>
     </message>
     <message>
         <source>Save Project</source>
@@ -6160,7 +6160,7 @@
     </message>
     <message>
         <source>Drift %1 is available</source>
-        <translation>Available na ang Drift %1</translation>
+        <translation>Available na ang V Cleb %1</translation>
     </message>
     <message>
         <source>Agent access</source>
@@ -6321,7 +6321,7 @@
     <name>EffectStacksSection</name>
     <message>
         <source>Drift effect stack (*.drifteffects)</source>
-        <translation>Drift effect stack (*.drifteffects)</translation>
+        <translation>V Cleb effect stack (*.drifteffects)</translation>
     </message>
     <message>
         <source>Import effect stack</source>
@@ -6930,7 +6930,7 @@
     </message>
     <message>
         <source>prop.json needs a newer version of Drift</source>
-        <translation>Kailangan ng mas bagong bersyon ng Drift ang prop.json</translation>
+        <translation>Kailangan ng mas bagong bersyon ng V Cleb ang prop.json</translation>
     </message>
     <message>
         <source>invalid prop id “%1”</source>
@@ -7053,7 +7053,7 @@
     </message>
     <message>
         <source>No face props installed. Import a .zip from Drift-Assets, or any folder of props that carry a prop.json.</source>
-        <translation>Walang naka-install na face prop. Mag-import ng .zip mula sa Drift-Assets o folder ng prop na may prop.json.</translation>
+        <translation>Walang naka-install na face prop. Mag-import ng .zip mula sa V Cleb-Assets o folder ng prop na may prop.json.</translation>
     </message>
     <message>
         <source>Custom model: %1 (missing)</source>
@@ -8299,7 +8299,7 @@
     </message>
     <message>
         <source>Everything here comes from third parties. Drift does not host, own or vet it — you are responsible for making sure you have the right to use whatever you download.</source>
-        <translation>Lahat ng narito ay mula sa third party. Hindi ito hina-host, pag-aari, o sinusuri ng Drift—responsibilidad mong tiyaking may karapatan kang gamitin ang anumang ida-download.</translation>
+        <translation>Lahat ng narito ay mula sa third party. Hindi ito hina-host, pag-aari, o sinusuri ng V Cleb—responsibilidad mong tiyaking may karapatan kang gamitin ang anumang ida-download.</translation>
     </message>
     <message>
         <source>I understand</source>
@@ -9547,11 +9547,11 @@
     <name>PlaybackEngine</name>
     <message>
         <source>%1 decodes on %2, but Drift draws on %3. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
-        <translation>Nagde-decode ang %1 sa %2, pero nagre-render ang Drift sa %3. Kinokopya ang bawat frame sa system memory kaya mas mabagal ito kaysa mag-decode sa graphics card na nagre-render.</translation>
+        <translation>Nagde-decode ang %1 sa %2, pero nagre-render ang V Cleb sa %3. Kinokopya ang bawat frame sa system memory kaya mas mabagal ito kaysa mag-decode sa graphics card na nagre-render.</translation>
     </message>
     <message>
         <source>%1 decodes on a different graphics card than the one Drift draws on. Every frame is copied through system memory, which is slower than decoding on the graphics card that draws.</source>
-        <translation>Ibang graphics card ang ginagamit ng %1 sa pag-decode kaysa sa ginagamit ng Drift sa pag-render. Kinokopya ang bawat frame sa system memory kaya mas mabagal ito.</translation>
+        <translation>Ibang graphics card ang ginagamit ng %1 sa pag-decode kaysa sa ginagamit ng V Cleb sa pag-render. Kinokopya ang bawat frame sa system memory kaya mas mabagal ito.</translation>
     </message>
     <message>
         <source>Auto</source>
@@ -9657,11 +9657,11 @@
     </message>
     <message>
         <source>Your graphics driver only provides %1. Drift&apos;s preview needs OpenGL 3.3.</source>
-        <translation>%1 lang ang sinusuportahan ng graphics driver mo. Kailangan ng preview ng Drift ang OpenGL 3.3.</translation>
+        <translation>%1 lang ang sinusuportahan ng graphics driver mo. Kailangan ng preview ng V Cleb ang OpenGL 3.3.</translation>
     </message>
     <message>
         <source>Drift could not start its GPU renderer, so the preview cannot draw.</source>
-        <translation>Hindi masimulan ng Drift ang GPU renderer kaya hindi maipakita ang preview.</translation>
+        <translation>Hindi masimulan ng V Cleb ang GPU renderer kaya hindi maipakita ang preview.</translation>
     </message>
     <message>
         <source>Debug info</source>
@@ -9800,15 +9800,15 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Launching Drift with prime-run (or DRI_PRIME=1) puts OpenGL on the same card as the decoder.</source>
-        <translation>Ang paglunsad sa Drift gamit ang prime-run (o DRI_PRIME=1) ay maglalagay sa OpenGL sa parehong card ng decoder.</translation>
+        <translation>Ang paglunsad sa V Cleb gamit ang prime-run (o DRI_PRIME=1) ay maglalagay sa OpenGL sa parehong card ng decoder.</translation>
     </message>
     <message>
         <source>Run Drift on the high-performance graphics card</source>
-        <translation>Patakbuhin ang Drift sa high-performance graphics card</translation>
+        <translation>Patakbuhin ang V Cleb sa high-performance graphics card</translation>
     </message>
     <message>
         <source>Set Drift to High performance in Windows Settings &gt; Display &gt; Graphics, then restart Drift.</source>
-        <translation>Itakda ang Drift sa High performance sa Windows Settings &gt; Display &gt; Graphics, pagkatapos ay i-restart ang Drift.</translation>
+        <translation>Itakda ang V Cleb sa High performance sa Windows Settings &gt; Display &gt; Graphics, pagkatapos ay i-restart ang V Cleb.</translation>
     </message>
     <message>
         <source>Open graphics settings</source>
@@ -9819,11 +9819,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>Project</name>
     <message>
         <source>This project was saved by a newer version of Drift (project format %1; this build reads up to %2).</source>
-        <translation>Na-save ang project na ito gamit ang mas bagong Drift (format ng project %1; nababasa ng build na ito hanggang %2).</translation>
+        <translation>Na-save ang project na ito gamit ang mas bagong V Cleb (format ng project %1; nababasa ng build na ito hanggang %2).</translation>
     </message>
     <message>
         <source>This file isn’t a Drift project.</source>
-        <translation>Hindi Drift project ang file na ito.</translation>
+        <translation>Hindi V Cleb project ang file na ito.</translation>
     </message>
 </context>
 <context>
@@ -9838,11 +9838,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>file is too short to be a Drift project</source>
-        <translation>Masyadong maikli ang file para maging Drift project</translation>
+        <translation>Masyadong maikli ang file para maging V Cleb project</translation>
     </message>
     <message>
         <source>not a Drift project (bad magic)</source>
-        <translation>Hindi Drift project (mali ang magic signature)</translation>
+        <translation>Hindi V Cleb project (mali ang magic signature)</translation>
     </message>
     <message>
         <source>unsupported container revision</source>
@@ -9870,7 +9870,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>this project was saved by a newer version of Drift (format %1) — update to open it</source>
-        <translation>Na-save ang project gamit ang mas bagong Drift (format %1)—mag-update para mabuksan ito</translation>
+        <translation>Na-save ang project gamit ang mas bagong V Cleb (format %1)—mag-update para mabuksan ito</translation>
     </message>
     <message>
         <source>project blob table is not contiguous</source>
@@ -10766,7 +10766,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Drift will render a reversed copy of this clip so it plays back smoothly. You can keep editing while it runs.</source>
-        <translation>Gagawa ang Drift ng baligtad na kopya ng clip upang maayos itong ma-play. Maaari ka pa ring mag-edit habang tumatakbo ito.</translation>
+        <translation>Gagawa ang V Cleb ng baligtad na kopya ng clip upang maayos itong ma-play. Maaari ka pa ring mag-edit habang tumatakbo ito.</translation>
     </message>
     <message>
         <source>This can take a few minutes on longer clips.</source>
@@ -11105,11 +11105,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Which graphics card Drift runs on. High performance keeps video decoded on an NVIDIA card on that card; power saving uses less battery. Takes effect after restart.</source>
-        <translation>Pinipili kung aling graphics card ang gagamitin ng Drift. Sa high performance, sa NVIDIA card na iyon dine-decode ang video; mas kaunting baterya ang ginagamit ng power saving. Magkakabisa pagkatapos mag-restart.</translation>
+        <translation>Pinipili kung aling graphics card ang gagamitin ng V Cleb. Sa high performance, sa NVIDIA card na iyon dine-decode ang video; mas kaunting baterya ang ginagamit ng power saving. Magkakabisa pagkatapos mag-restart.</translation>
     </message>
     <message>
         <source>Choose which graphics card Drift runs on in Windows Settings, under Display &gt; Graphics. Takes effect after restart.</source>
-        <translation>Piliin ang graphics card ng Drift sa Windows Settings, sa ilalim ng Display &gt; Graphics. Magkakabisa pagkatapos mag-restart.</translation>
+        <translation>Piliin ang graphics card ng V Cleb sa Windows Settings, sa ilalim ng Display &gt; Graphics. Magkakabisa pagkatapos mag-restart.</translation>
     </message>
     <message>
         <source>Open graphics settings</source>
@@ -11153,7 +11153,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Restart Drift to apply this size.</source>
-        <translation>I-restart ang Drift upang mailapat ang laki na ito.</translation>
+        <translation>I-restart ang V Cleb upang mailapat ang laki na ito.</translation>
     </message>
     <message>
         <source>Horizontal mouse-wheel pan</source>
@@ -11201,7 +11201,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Ask GitHub once a day whether a newer Drift has been released</source>
-        <translation>Magtanong sa GitHub isang beses bawat araw kung may bagong bersyon ng Drift</translation>
+        <translation>Magtanong sa GitHub isang beses bawat araw kung may bagong bersyon ng V Cleb</translation>
     </message>
     <message>
         <source>Checking…</source>
@@ -11213,7 +11213,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Drift %1</source>
-        <translation>Drift %1</translation>
+        <translation>V Cleb %1</translation>
     </message>
     <message>
         <source>Extra packs</source>
@@ -11245,7 +11245,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Keys are stored unencrypted in Drift&apos;s settings. ELEVENLABS_API_KEY and FISH_API_KEY in the environment take precedence. Use is billed to your own account.</source>
-        <translation>Nakaimbak nang hindi naka-encrypt ang mga key sa settings ng Drift. Mas inuuna ang ELEVENLABS_API_KEY at FISH_API_KEY sa environment. Sisingilin sa sarili mong account ang paggamit.</translation>
+        <translation>Nakaimbak nang hindi naka-encrypt ang mga key sa settings ng V Cleb. Mas inuuna ang ELEVENLABS_API_KEY at FISH_API_KEY sa environment. Sisingilin sa sarili mong account ang paggamit.</translation>
     </message>
     <message>
         <source>Transcription (Scribe), voiceover, sound effects</source>
@@ -11289,7 +11289,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Needed before Drift or a connected agent can transcribe or generate audio with this service</source>
-        <translation>Kailangan ito bago makapag-transcribe o makagawa ng audio ang Drift o nakakonektang agent gamit ang serbisyong ito</translation>
+        <translation>Kailangan ito bago makapag-transcribe o makagawa ng audio ang V Cleb o nakakonektang agent gamit ang serbisyong ito</translation>
     </message>
     <message>
         <source>Default voice id</source>
@@ -12047,7 +12047,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Smooths camera shake. Drift scans the clip once, then renders a new video. Changing smoothness or tripod does not update the preview until you apply.</source>
-        <translation>Pinapakinis ang pagyanig ng camera. Minsan lang i-scan ng Drift ang clip at magre-render ng bagong video. Hindi maa-update ang preview kapag binago ang smoothing o tripod hangga't hindi inilalapat.</translation>
+        <translation>Pinapakinis ang pagyanig ng camera. Minsan lang i-scan ng V Cleb ang clip at magre-render ng bagong video. Hindi maa-update ang preview kapag binago ang smoothing o tripod hangga't hindi inilalapat.</translation>
     </message>
     <message>
         <source>Mode</source>
@@ -12578,7 +12578,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     <name>TextAssetsTab</name>
     <message>
         <source>Drift text style (*.drifttextstyle)</source>
-        <translation>Estilo ng text ng Drift (*.drifttextstyle)</translation>
+        <translation>Estilo ng text ng V Cleb (*.drifttextstyle)</translation>
     </message>
     <message>
         <source>Import text style</source>
@@ -14695,11 +14695,11 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Drift %1 is the latest version.</source>
-        <translation>Pinakabagong bersyon na ang Drift %1.</translation>
+        <translation>Pinakabagong bersyon na ang V Cleb %1.</translation>
     </message>
     <message>
         <source>Drift %1 is available.</source>
-        <translation>Available na ang Drift %1.</translation>
+        <translation>Available na ang V Cleb %1.</translation>
     </message>
 </context>
 <context>
@@ -14710,7 +14710,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
     </message>
     <message>
         <source>Drift %1 is available</source>
-        <translation>Available na ang Drift %1</translation>
+        <translation>Available na ang V Cleb %1</translation>
     </message>
     <message>
         <source>You have %1.</source>
@@ -15175,7 +15175,7 @@ Kung nauutal ang playback, subukan ang ibang paraan.</translation>
         <source>Drift could not create an OpenGL context, so it cannot draw its interface or render the preview.
 
 Install or update your graphics driver.</source>
-        <translation>Hindi makagawa ang Drift ng OpenGL context kaya hindi nito maipakita ang interface o i-render ang preview.
+        <translation>Hindi makagawa ang V Cleb ng OpenGL context kaya hindi nito maipakita ang interface o i-render ang preview.
 
 I-install o i-update ang graphics driver.</translation>
     </message>
@@ -15187,7 +15187,7 @@ I-install o i-update ang graphics driver.</translation>
         <source>Drift could not create an OpenGL 3.3 core profile context, though this driver reports OpenGL %1.%2 (%3).
 
 The video preview cannot render. Updating your graphics driver may help.</source>
-        <translation>Hindi makagawa ang Drift ng OpenGL 3.3 core profile context kahit iniulat ng driver ang OpenGL %1.%2 (%3).
+        <translation>Hindi makagawa ang V Cleb ng OpenGL 3.3 core profile context kahit iniulat ng driver ang OpenGL %1.%2 (%3).
 
 Hindi ma-render ang video preview. Maaaring makatulong ang pag-update ng graphics driver.</translation>
     </message>
@@ -15199,21 +15199,21 @@ Hindi ma-render ang video preview. Maaaring makatulong ang pag-update ng graphic
         <source>Drift needs OpenGL 3.3, but this graphics driver only provides OpenGL %1.%2 (%3).
 
 The video preview cannot render, and Drift may not start at all. Update your graphics driver, or run Drift on a machine with a newer GPU.</source>
-        <translation>Kailangan ng Drift ang OpenGL 3.3, ngunit OpenGL %1.%2 (%3) lamang ang ibinibigay ng driver na ito.
+        <translation>Kailangan ng V Cleb ang OpenGL 3.3, ngunit OpenGL %1.%2 (%3) lamang ang ibinibigay ng driver na ito.
 
-Hindi ma-render ang video preview at maaaring hindi magsimula ang Drift. I-update ang graphics driver o gumamit ng makinang may mas bagong GPU.</translation>
+Hindi ma-render ang video preview at maaaring hindi magsimula ang V Cleb. I-update ang graphics driver o gumamit ng makinang may mas bagong GPU.</translation>
     </message>
     <message>
         <source>Drift is not drawing its window</source>
-        <translation>Hindi naiguguhit ng Drift ang window</translation>
+        <translation>Hindi naiguguhit ng V Cleb ang window</translation>
     </message>
     <message>
         <source>Drift has been running for %1 seconds but its window has not drawn anything yet.
 
 If the window is blank or black, your graphics driver is most likely outdated or faulty. Update it from your GPU vendor&apos;s website (AMD, NVIDIA or Intel) and start Drift again.</source>
-        <translation>Tumatakbo na ang Drift nang %1 segundo ngunit wala pang ipinapakita ang window.
+        <translation>Tumatakbo na ang V Cleb nang %1 segundo ngunit wala pang ipinapakita ang window.
 
-Kung blangko o itim ang window, malamang luma o may sira ang graphics driver. I-update ito mula sa website ng gumawa ng GPU (AMD, NVIDIA o Intel) at buksan muli ang Drift.</translation>
+Kung blangko o itim ang window, malamang luma o may sira ang graphics driver. I-update ito mula sa website ng gumawa ng GPU (AMD, NVIDIA o Intel) at buksan muli ang V Cleb.</translation>
     </message>
 </context>
 </TS>
