@@ -43,7 +43,7 @@ ApplicationWindow {
     palette.toolTipBase: Theme.panelBackground
     palette.toolTipText: Theme.panelForeground
 
-    readonly property var projectFilter: [qsTr("Drift project (*.drift)")]
+    readonly property var projectFilter: [qsTr("V Cleb project (*.drift)")]
     property bool inEditor: false
     property bool forceClose: false
     property var _pendingAfterUnsaved: null
