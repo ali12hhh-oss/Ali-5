@@ -12,10 +12,11 @@ on:
       platforms:
         description: "Which platform(s) to build (pick one to test a single side first)"
         required: true
-        default: all
+        default: android-windows
         type: choice
         options:
           - all
+          - android-windows
           - flatpak
           - linux
           - windows
@@ -48,6 +49,6 @@ jobs:
     uses: ./.github/workflows/package.yml
     with:
       version: ${{ needs.meta.outputs.version }}
-      platforms: ${{ inputs.platforms || 'android' }}
+      platforms: ${{ inputs.platforms || 'android-windows' }}
       android_identity: ci
     secrets: inherit
