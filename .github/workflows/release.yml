@@ -79,8 +79,8 @@ jobs:
           ## Installing
 
           - **AppImage** (Linux, any distro): `chmod +x Drift-*.AppImage && ./Drift-*.AppImage`
-          - **Windows installer**: run `Drift-Setup-*.exe`
-          - **Windows portable**: extract `Drift-Portable-*.zip` anywhere and run `drift.exe` from
+          - **Windows installer**: run `V-Cleb-Setup-*.exe`
+          - **Windows portable**: extract `V-Cleb-Portable-*.zip` anywhere and run `drift.exe` from
             the `Drift` folder inside it. Nothing is installed, but settings and addons are still
             stored per-user under `%APPDATA%\Drift`.
           - **macOS** (Apple Silicon): open `Drift-*-arm64.dmg` and drag Drift to Applications. The
@@ -221,7 +221,7 @@ jobs:
               return name
 
           tag = release.get("tag_name") or ""
-          title = release.get("name") or f"Drift {tag}"
+          title = release.get("name") or f"V Cleb {tag}"
           url = release["html_url"]
           notes = github_md_to_discord(release.get("body") or "")
           description = clamp(notes or "New Drift release.", EMBED_DESC_LIMIT)
