@@ -2,7 +2,7 @@
 
 **V Cleb** is a video editor for Android and desktop, built around a multi-track timeline, video and audio tools, effects, transitions, titles, captions, and export.
 
-The official user-facing app name is **V Cleb**. Android package identity and launcher labels, the Windows installer and shortcuts, the Windows portable package name, and the desktop window title use this branding. Internal build targets and executable names such as `drift.exe` are retained where build and packaging scripts depend on them; this does not change the app's features or installed addons.
+The official user-facing app name is **V Cleb**. Android package identity and launcher labels, the Windows installer and shortcuts, the Windows portable package name, and the desktop window title use this branding. The internal CMake target remains `drift` to avoid a risky source-wide rename; the packaged Windows application is named `v-cleb.exe`. This is a branding-only packaging change and does not remove or disable app features or addons.
 
 The current V Cleb launcher artwork is used for the app icon. Icon artwork changes are separate from the application-name configuration.
 
