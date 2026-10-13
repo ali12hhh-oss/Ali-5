@@ -11,7 +11,7 @@ on:
         required: true
         type: string
       platforms:
-        description: "all, flatpak, linux, windows, macos, arch or android"
+        description: "all, android-windows, flatpak, linux, windows, macos, arch or android"
         required: false
         default: all
         type: string
@@ -405,7 +405,7 @@ jobs:
   windows:
     name: Windows installer
     runs-on: windows-2022
-    if: inputs.platforms == 'all' || inputs.platforms == 'windows'
+    if: inputs.platforms == 'all' || inputs.platforms == 'windows' || inputs.platforms == 'android-windows'
     # 180, not 120: a cold vcpkg binary cache now also compiles Skia and a static ICU.
     timeout-minutes: 180
     steps:
@@ -899,7 +899,7 @@ jobs:
   android:
     name: Android APK (${{ matrix.abi }})
     runs-on: ubuntu-24.04
-    if: inputs.platforms == 'all' || inputs.platforms == 'android'
+    if: inputs.platforms == 'all' || inputs.platforms == 'android' || inputs.platforms == 'android-windows'
     timeout-minutes: 240
     strategy:
       # Every ABI reports its own result: one failing arch should not hide whether the
