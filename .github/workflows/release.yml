@@ -80,7 +80,7 @@ jobs:
 
           - **AppImage** (Linux, any distro): `chmod +x Drift-*.AppImage && ./Drift-*.AppImage`
           - **Windows installer**: run `V-Cleb-Setup-*.exe`
-          - **Windows portable**: extract `V-Cleb-Portable-*.zip` anywhere and run `drift.exe` from
+          - **Windows portable**: extract `V-Cleb-Portable-*.zip` anywhere and run `v-cleb.exe` from
             the `Drift` folder inside it. Nothing is installed, but settings and addons are still
             stored per-user under `%APPDATA%\Drift`.
           - **macOS** (Apple Silicon): open `Drift-*-arm64.dmg` and drag Drift to Applications. The
