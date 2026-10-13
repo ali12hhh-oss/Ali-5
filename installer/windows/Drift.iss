@@ -21,7 +21,7 @@
   #define MyOutputBase "V-Cleb-Setup-x64"
 #endif
 #define MyAppPublisher "V Cleb"
-#define MyAppExeName "drift.exe"
+#define MyAppExeName "v-cleb.exe"
 
 [Setup]
 AppId={{{#MyAppId}}
