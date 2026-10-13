@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
-# Regenerate Android launcher mipmaps + splash logo from resources/Drift_icon.png.
+# Regenerate Android launcher mipmaps + splash logo from the root Drift_icon.png.
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
-SRC="$ROOT/resources/Drift_icon.png"
+SRC="$ROOT/Drift_icon.png"
 RES="$ROOT/android/res"
 
 if [[ ! -f "$SRC" ]]; then
