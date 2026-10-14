@@ -5,8 +5,8 @@ import Drift
 import ".."
 
 // Touch transform overlay: move/scale/rotate the clips visible at the playhead.
-// (The in-place text editor is still wired up but no longer reachable: the
-// properties panel owns text editing until the editor matches the render.) Same maths as the desktop TransformOverlay, but
+// Text is rendered in the preview and can be edited in place by double-tapping it.
+// The same transform math as the desktop TransformOverlay, but
 // the grips carry a fingertip-sized hit area instead of a mouse-sized one, and
 // the mouse-only affordances (hover, wheel pass-through, arrow-key nudging,
 // Shift/Ctrl modifiers) are gone — a phone has none of them. Corner grips
@@ -497,8 +497,9 @@ Item {
 
             TapHandler {
                 enabled: !handle.editing
-                onTapped: (eventPoint) => {
-                    // A tap inside a selected layer's frame picks the clip under the finger.
+                onTapped: (eventPoint, button) => {
+                    // A tap selects the rendered text; double-tap enters direct in-canvas
+                    // editing so the user can type without leaving the preview.
                     if (handle.isTransform) {
                         const p = root.mapFromItem(null, eventPoint.scenePosition.x,
                                                    eventPoint.scenePosition.y)
@@ -512,6 +513,12 @@ Item {
                     EditorState.selectClip(handle.box.track, handle.box.clip)
                     handle.forceActiveFocus()
                     Haptics.select()
+                }
+                onDoubleTapped: {
+                    if (handle.isText) {
+                        EditorState.selectClip(handle.box.track, handle.box.clip)
+                        handle.enterEdit()
+                    }
                 }
             }
 
