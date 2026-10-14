@@ -587,7 +587,12 @@ Item {
         // A text clip added with no text is edited in the properties sheet, which the assets
         // sheet it was added from is covering.
         function onInlineTextEditRequested() {
-            root.openPropertiesSheet()
+            // Prefer typing directly on the rendered canvas. The inspector remains a
+            // fallback for clips that are not currently represented by a preview box.
+            Qt.callLater(() => {
+                if (!preview.editSelectedText())
+                    root.openPropertiesSheet()
+            })
         }
         function onExportInProgressChanged() {
             if (EditorState.exportInProgress) {
