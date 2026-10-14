@@ -29,6 +29,10 @@ Item {
                && !!data && (data.kind === "text" || data.kind === "subtitle")
     }
 
+    function editSelectedText() {
+        return transformOverlay.editSelectedText()
+    }
+
     // PointerHandlers (clip DragHandler, view pinch) hit-test their parent's
     // bounds, not z-order. A sheet in Overlay is visually on top of this preview
     // but is not an ancestor of those handlers, so a press on a sheet button that
