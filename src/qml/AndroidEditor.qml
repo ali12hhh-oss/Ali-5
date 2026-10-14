@@ -55,6 +55,32 @@ Item {
             addMenu.open()
     }
 
+    // A dedicated local-audio entry avoids making music import look like an audio-effect
+    // browser. Imported assets are added to the bin first; only after probing settles do we
+    // create timeline clips, so duration and audio metadata are available to the editor.
+    function importLocalAudio() {
+        const urls = FileDialogs.openFiles(qsTr("Import Media"), [
+            "Audio files (*.mp3 *.wav *.m4a *.aac *.ogg *.flac *.opus *.aiff *.wma)"
+        ])
+        if (!urls || urls.length === 0)
+            return
+
+        MediaImport.importUrls(urls, false, function(added) {
+            if (added <= 0)
+                return
+            const first = Math.max(0, AssetLibrary.count - added)
+            const ids = []
+            for (let i = 0; i < added; ++i) {
+                const id = AssetLibrary.assetIdAt(first + i)
+                if (id && id.length > 0)
+                    ids.push(id)
+            }
+            if (ids.length > 0)
+                EditorState.addClipsFromAssets(ids)
+            root.closeSheets()
+        })
+    }
+
     function openPropertiesSheet() {
         sheetKind = "properties"
         rail.activeId = "edit"
@@ -466,10 +492,13 @@ Item {
         id: addMenu
         // A transform layer is added straight away; everything else opens its assets tab.
         onPicked: (tabId) => {
-            if (tabId === "transformLayer")
+            if (tabId === "transformLayer") {
                 EditorState.addTransformLayerForSelection()
-            else
+            } else if (tabId === "audio") {
+                root.importLocalAudio()
+            } else {
                 root.openAssetsTab(tabId)
+            }
         }
     }
 
