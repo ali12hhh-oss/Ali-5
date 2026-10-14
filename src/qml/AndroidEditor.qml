@@ -372,6 +372,7 @@ Item {
                 id: preview
                 fullscreen: root.previewFullscreen
                 onFullscreenToggleRequested: root.previewFullscreen = !root.previewFullscreen
+                onTextToolsRequested: root.openPropertiesSheet()
 
                 // With the timeline pane hidden the preview is the only item left, and
                 // its ceiling would otherwise still hold it to 72% of the split.
