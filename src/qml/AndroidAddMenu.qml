@@ -56,9 +56,15 @@ AndroidBottomSheet {
             icon: Theme.icons.store
         },
         {
-            id: "text",
+            id: "newText",
             label: qsTr("Text"),
             detail: qsTr("A title or caption you type"),
+            icon: Theme.icons.type
+        },
+        {
+            id: "text",
+            label: qsTr("Text styles"),
+            detail: qsTr("Click a style to add text at the playhead. Double-click it on the preview to edit."),
             icon: Theme.icons.type
         },
         {
