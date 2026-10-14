@@ -496,6 +496,10 @@ Item {
                 EditorState.addTransformLayerForSelection()
             } else if (tabId === "audio") {
                 root.importLocalAudio()
+            } else if (tabId === "newText") {
+                // Add a real editable text clip immediately; EditorState's inline-text
+                // request opens the Text inspector for entering the actual wording.
+                EditorState.addTextClip("", -1, "")
             } else {
                 root.openAssetsTab(tabId)
             }
