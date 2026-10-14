@@ -44,6 +44,12 @@ AndroidBottomSheet {
             icon: Theme.icons.film
         },
         {
+            id: "audio",
+            label: qsTr("Audio"),
+            detail: qsTr("Video, photos and audio from this device"),
+            icon: Theme.icons.audioLines
+        },
+        {
             id: "market",
             label: qsTr("Market"),
             detail: qsTr("Stock photos, video and audio"),
