@@ -132,6 +132,23 @@ Item {
         Qt.callLater(refreshOverlay)
     }
 
+    // Start the actual canvas editor for the selected text clip. Repeater delegates
+    // own the edit lifecycle because they also hide the compositor's baked text.
+    function editSelectedText() {
+        for (let i = 0; i < overlayClips.length; ++i) {
+            const box = overlayClips[i]
+            if (box.track === EditorState.selectedTrack
+                    && box.clip === EditorState.selectedClip && box.kind === "text") {
+                const delegate = clipRepeater.itemAt(i)
+                if (delegate) {
+                    delegate.enterEdit()
+                    return true
+                }
+            }
+        }
+        return false
+    }
+
     // Stickiness: while a clip is moved or resized its edges and centre pull to
     // the canvas edges, centre lines and visible guides. The tolerance is a screen distance, so
     // the pull feels the same whatever the project resolution or preview zoom.
