@@ -18,6 +18,17 @@ Item {
 
     property bool optionsOpen: false
 
+    // Raised by the in-preview text toolbar; AndroidEditor routes it to the
+    // existing text inspector so edits keep using the renderer-backed properties.
+    signal textToolsRequested()
+
+    readonly property bool selectedTextClip: {
+        void EditorState.selectionRevision
+        const data = EditorState.selectedClipData
+        return EditorState.selectedTrack >= 0 && EditorState.selectedClip >= 0
+               && !!data && (data.kind === "text" || data.kind === "subtitle")
+    }
+
     // PointerHandlers (clip DragHandler, view pinch) hit-test their parent's
     // bounds, not z-order. A sheet in Overlay is visually on top of this preview
     // but is not an ancestor of those handlers, so a press on a sheet button that
@@ -329,6 +340,77 @@ Item {
                     z: 200
                     previewViewport: viewport
                     previewCanvas: canvasRect
+                }
+
+                // Contextual text controls stay inside the viewer. The text itself is
+                // rendered by PreviewItem underneath, while transform grips remain usable.
+                Rectangle {
+                    id: textToolsStrip
+                    anchors.left: parent.left
+                    anchors.right: parent.right
+                    anchors.bottom: parent.bottom
+                    anchors.margins: Theme.spacingSm
+                    height: 46
+                    radius: Theme.radiusMd
+                    color: Theme.scrimStrong
+                    border.width: Theme.borderWidth
+                    border.color: Theme.panelBorder
+                    z: 260
+                    visible: root.selectedTextClip && !EditorState.canvasCropMode
+                    clip: true
+
+                    Flickable {
+                        anchors.fill: parent
+                        anchors.leftMargin: Theme.spacingSm
+                        anchors.rightMargin: Theme.spacingSm
+                        contentWidth: textToolsRow.implicitWidth
+                        contentHeight: height
+                        flickableDirection: Flickable.HorizontalFlick
+                        boundsBehavior: Flickable.StopAtBounds
+                        clip: true
+
+                        Row {
+                            id: textToolsRow
+                            height: parent.height
+                            spacing: Theme.spacingSm
+
+                            ThemedChip {
+                                text: qsTr("Edit text")
+                                onClicked: {
+                                    Haptics.select()
+                                    root.textToolsRequested()
+                                }
+                            }
+                            ThemedChip {
+                                text: qsTr("Color")
+                                onClicked: root.textToolsRequested()
+                            }
+                            ThemedChip {
+                                text: qsTr("Font")
+                                onClicked: root.textToolsRequested()
+                            }
+                            ThemedChip {
+                                text: qsTr("Style")
+                                onClicked: root.textToolsRequested()
+                            }
+                            ThemedChip {
+                                text: qsTr("Effects")
+                                onClicked: root.textToolsRequested()
+                            }
+                            ThemedChip {
+                                text: qsTr("Transform")
+                                onClicked: root.textToolsRequested()
+                            }
+                            ThemedChip {
+                                text: qsTr("Delete")
+                                selected: false
+                                onClicked: {
+                                    Haptics.confirm()
+                                    EditorState.deleteSelectedClip()
+                                }
+                            }
+                        }
+                    }
                 }
             }
 
