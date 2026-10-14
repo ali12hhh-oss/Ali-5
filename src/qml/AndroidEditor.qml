@@ -60,7 +60,7 @@ Item {
     // create timeline clips, so duration and audio metadata are available to the editor.
     function importLocalAudio() {
         const urls = FileDialogs.openFiles(qsTr("Import Media"), [
-            "Audio files (*.mp3 *.wav *.m4a *.aac *.ogg *.flac *.opus *.aiff *.wma)"
+            "Audio files (*.mp3 *.wav *.aac *.flac *.ogg *.m4a *.wma *.aiff *.aif)"
         ])
         if (!urls || urls.length === 0)
             return
