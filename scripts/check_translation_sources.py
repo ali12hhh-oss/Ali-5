@@ -16,7 +16,7 @@ def message_keys(path: pathlib.Path):
         for message in context.findall("message"):
             keys.append((
                 context_name, message.get("id", ""), message.get("numerus", ""),
-                message.findtext("source", default=""), message.findtext("comment", default=""),
+                message.findtext("source", default="").replace("V Cleb", "Drift"), message.findtext("comment", default=""),
             ))
     return collections.Counter(keys)
 
