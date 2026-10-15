@@ -1493,6 +1493,34 @@
         <source>Fullscreen preview</source>
         <translation>معاينة ملء الشاشة</translation>
     </message>
+    <message>
+        <source>Edit text</source>
+        <translation>تحرير النص</translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation>اللون</translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation>الخط</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation>النمط</translation>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation>التأثيرات</translation>
+    </message>
+    <message>
+        <source>Transform</source>
+        <translation>التحويل</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>حذف</translation>
+    </message>
 </context>
 <context>
     <name>AndroidProjectSheet</name>
